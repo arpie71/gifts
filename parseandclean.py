@@ -13,7 +13,10 @@ def extract_and_clean(df, column_name, regex_pattern, replace_pattern):
 
 wiki = pd.read_csv('files/masterwiki.csv')
 
-files = os.listdir('raw2')
+if not os.path.isdir('cleaned'):
+    os.mkdir('cleaned')
+
+files = os.listdir('raw')
 ranklist = ['General','Admiral','Captain','Ambassador','Colonel','Commander','Major','Sergeant','Special Agent']
 rank_pattern = r'((.+)?\s*(' + '|'.join(ranklist) + '))'
 poslist = ['Vice President','White House Staff Member','Senator','Former President','President']
@@ -21,10 +24,10 @@ pos_pattern = r'((.+)?\s*(' + '|'.join(poslist)+'))'
 #giverranklist = ['General','Admiral','Captain','Ambassador','Colonel','Commander','Major','Sergeant','Marshal','Marshall']
 giverranklist = ['General','Admiral','Captain','Ambassador','Colonel','Commander','Major','Sergeant','Marshal(l | )']
 giverrank_pattern = r'((.+)?\s*(' + '|'.join(giverranklist)+'))'
-excllist = ['5 U.S.C. 7342(f)(4)', 'Foreign Government Official', 'Unknown','An Agency Employee', 'Unknown', '5 U.S.C. 7342 (f)(4)',  '5 U.S.C. § 7342(f)(4)','5USC 7342 (f)(4)','5 U.S.C.  7342(f)(4)','50 U.S.C. 403-(1)(i)','Government Official','U.S. Air Force Employee','Employee of the Department of State','Department of State employee','USAID Employee','Unknown Foreign Government Official Donor','Unknown Qatar Government Official']
+excllist = ['5 U.S.C. 7342(f)(4)', 'Foreign Government Official', 'Unknown','An Agency Employee', 'Unknown', '5 U.S.C. 7342 (f)(4)',  '5 U.S.C. § 7342(f)(4)','5USC 7342 (f)(4)','5 U.S.C.  7342(f)(4)','50 U.S.C. 403-(1)(i)','Government Official','U.S. Air Force Employee','Employee of the Department of State','Department of State employee','USAID Employee','Unknown Foreign Government Official Donor','Unknown Qatar Government Official','5 U.S.C. 7342(F)(4)','5 U.S.C. 7342(f)4)','5USC 7342 (f)(4).','5USC 7342(f)(4)']
 
 for filename in files:
-    df = pd.read_csv('raw2/' + filename)
+    df = pd.read_csv('raw/' + filename)
     df['item'] = df.item.str.strip()
     # Save the original item
     df['item_orig'] = df['item']
@@ -83,4 +86,4 @@ for filename in files:
     # stripping spaces for all string variables
     df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
     # saving cleaned data
-    df.to_csv('cleaned2/'+filename, index=False)
+    df.to_csv('cleaned/'+filename, index=False)

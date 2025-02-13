@@ -1,9 +1,7 @@
 from collections import Counter, defaultdict
 import numpy as np
 from tqdm import tqdm
-import wikipedia
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
-from googlesearch import search
 import pandas as pd
 import os
 
@@ -72,7 +70,7 @@ def search_pers(pl):
 	df=pd.DataFrame(newpers, columns=['entity','wiki','wikiname','descr','search','id'])
 	return df
 
-files = os.listdir('cleaned2')
+files = os.listdir('cleaned')
 recipdb = []
 giverdb = []
 
@@ -82,8 +80,11 @@ giverdb = []
 # But we should keep these values in the data
 # creating recip_name_clean and giver_name_clean columns
 
+if not os.path.isdir('scratch'):
+    os.mkdir('scratch')
+
 for newfile in files:
-	df = pd.read_csv('cleaned2/'+newfile)
+	df = pd.read_csv('cleaned/'+newfile)
 	df_recip = df[(df['recip_wiki'].isna())&(df.recip_name!='An Agency Employee')&(df.recip_name!='Unknown')]
 	dbpers = df_recip['recip_name'].values.tolist()
 	recipdb.extend(dbpers)
