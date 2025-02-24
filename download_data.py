@@ -21,7 +21,7 @@ def cli():
     year = args.year
     return (url, year)
 
-def get_year(url):
+def get_year(url, year):
     from bs4 import BeautifulSoup
     import pandas as pd
     import requests
@@ -29,6 +29,8 @@ def get_year(url):
     import re
     t =  requests.get(url)
     t.encoding = t.apparent_encoding
+    with open('xml/gifts'+year+'.xml','wb') as outfile:
+        outfile.write(t.content)
     soup = BeautifulSoup(t.text, features="html.parser")
     g= soup.findAll('row')
     title = soup.find('subject').text
@@ -58,7 +60,7 @@ def main(url, year):
 
     if not os.path.isdir('raw'):
         os.mkdir('raw')
-    gift = get_year(url)
+    gift = get_year(url, year)
     print("Done scraping xml data")
     df = pd.DataFrame(gift, columns=['year','recip','item','giver','reason'])
     df.to_csv('raw/gifts'+str(year)+'.csv')
