@@ -143,7 +143,7 @@ for filename in files:
     # Location extraction
     extract_and_clean(df, 'location', r'(.+)(Location.+$)', r'Location—')
     # Estval extraction
-    extract_and_clean(df, 'estval', r'(.+)(Est.+$)', r'Est. Value—')
+    extract_and_clean(df, 'estval', r'(.+)(Est.+$|[Aa]ppraised+$)', r'Est. Value—')
     # Recd extraction
     extract_and_clean(df, 'recd', r'(.+)(Rec\'d.+$)', r'Rec\'d—')
     # Replace 'item' with 'item_orig' where 'item' is missing, then clean the 'item'

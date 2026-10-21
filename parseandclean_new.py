@@ -12,6 +12,8 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+from datetime import datetime
+
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -44,19 +46,19 @@ ROLES = {
     },
     "Vice President": {
         "Gore":    {"startyear": 1993, "endyear": 2000, "WikidataID": "Q19673"},
-        "Cheney":  {"startyear": 2001, "endyear": 2008, "WikidataID": "Q48589"},
+        "Cheney":  {"startyear": 2001, "endyear": 2008, "WikidataID": "Q48259"},
         "Biden":   {"startyear": 2009, "endyear": 2016, "WikidataID": "Q6279"},
         "Pence":   {"startyear": 2017, "endyear": 2020, "WikidataID": "Q24313"},
         "Harris":  {"startyear": 2021, "endyear": 2024, "WikidataID": "Q10853588"},
-        "Vance":   {"startyear": 2025, "endyear": 2028, "WikidataID": "Q31791"},
+        "Vance":   {"startyear": 2025, "endyear": 2028, "WikidataID": "Q28935729"},
     },
     "First Lady": {
         "Clinton": {"startyear": 1993, "endyear": 2000, "WikidataID": "Q6294"},
-        "Bush":    {"startyear": 2001, "endyear": 2008, "WikidataID": "Q233942"},   # Laura Bush
+        "Bush":    {"startyear": 2001, "endyear": 2008, "WikidataID": "Q152019"},   # Laura Bush
         "Obama":   {"startyear": 2009, "endyear": 2016, "WikidataID": "Q13133"},    # Michelle Obama
-        "Trump1":  {"startyear": 2017, "endyear": 2020, "WikidataID": "Q191807"},   # Melania Trump
-        "Biden":   {"startyear": 2021, "endyear": 2024, "WikidataID": "Q4726723"},  # Jill Biden
-        "Trump2":  {"startyear": 2025, "endyear": 2028, "WikidataID": "Q191807"},   # Melania Trump
+        "Trump1":  {"startyear": 2017, "endyear": 2020, "WikidataID": "Q432473"},   # Melania Trump
+        "Biden":   {"startyear": 2021, "endyear": 2024, "WikidataID": "Q235349"},   # Jill Biden
+        "Trump2":  {"startyear": 2025, "endyear": 2028, "WikidataID": "Q432473"},   # Melania Trump
     },
 }
 
@@ -116,12 +118,63 @@ GIVER_PREFIX_FIXES = {
 
 # Trailing fields packed into the `item` blob, peeled off in this order:
 # (new column, pattern capturing (remainder, field), label to strip).
+#
+# The label strip is case-insensitive and accepts any of the separators the
+# source uses (em dash, colon, hyphen), because all three appear -- "Location—",
+# "Location:", "Est. value—", "Estimated Value:".
 ITEM_FIELDS = [
-    ("disposition", r"(.+)(Disposition.+$)", r"Disposition—"),
-    ("location",    r"(.+)(Location.+$)",    r"Location—"),
-    ("estval",      r"(.+)(Est.+$)",         r"Est. Value—"),
-    ("recd",        r"(.+)(Rec'd.+$)",       r"Rec'd—"),
+    ("disposition", r"(.+)(Disposition.+$)", r"(?i)Disposition\s*[—:-—]\s*"),
+    ("location",    r"(.+)(Location.+$)",    r"(?i)Location\s*[—:-]\s*"),
+    ("estval",      r"(.+)((?:Est|[Aa]ppraised).+$)",   r"(?i)(?:Est(?:imated)?|Appraised)\.?\s*Value\s*[—:-]*\s*"),
+    ("recd",        r"(.+)((Rec'?d|Rec'd|Received).+$)",       r"(?i)(Rec'?d|Rec'd|Received)\s*[—:-]*\s*"),
 ]
+
+
+DATE_FORMATS = ['%B %d, %Y', '%m/%d/%Y', '%m/%d/%y']
+
+
+# One token of an estimated-value expression, used to find where the value ends
+# and free text begins (see split_value_expression).
+#
+# Connector words only count when a number follows, so a disposition opening
+# with one of them -- "To be retained for official display" -- is not mistaken
+# for a continuation of the value.
+MONEY = r"\$?\s?\d[\d,]*(?:\.\d+)?"
+VALUE_TOKEN = re.compile(
+    rf"""
+      \s+
+    | {MONEY}
+    | \$
+    | not\s+submitted
+    | awaiting\s+appraisal
+    | more\s+than\s+minimal\s+value
+    | minimal\s+value
+    | (?:unknown|undetermined|unspecified|n/a|none)\b
+    | (?:each|ea\.?|apiece|respectively|aggregately|aggragately|combined
+        |total\s+value|total)\b
+    | (?:over|above|about|approximately|approx\.?|exceeds|more\s+than
+        |less\s+than|up\s+to|to|and|&|or|plus)
+        \s*(?=\$|\d)
+    | [-–—,.;:()\[\]/+*=]
+    """,
+    re.I | re.X,
+)
+
+# Punctuation left dangling at the head of the recovered text once the value
+# has been taken off the front.
+LEADING_SEPARATOR = re.compile(r"^[-–—,.;:/)\s]+")
+
+
+# Absolute dollar cutoffs, NOT per-file quantiles -- the pipeline runs one file
+# per year, so quantiles would mean something different in every file and the
+# tiers would not be comparable across time. These are round numbers near the
+# pooled quartiles (median $605, p75 $1,400, p90 $3,146); they are not
+# inflation-adjusted.
+VALUE_TIERS = [(500, "Minimal"), (1500, "Moderate"), (5000, "High")]
+VALUE_TIER_TOP = "Exceptional"
+
+# First money amount in an estval string, for the numeric column and the tiers.
+AMOUNT = re.compile(r"\$?\s?(\d[\d,]*(?:\.\d+)?)")
 
 # Names that stand in for "no identifiable person"; these get a NIL Wikidata ID
 # rather than being left blank, so they are not re-searched later.
@@ -179,10 +232,68 @@ def split_item_field(df, column_name, regex_pattern, label_pattern):
         extracted[1]
         .str.replace(label_pattern, "", regex=True)
         .str.strip()
-        # NOTE: unescaped '.' — this drops the final character of every value,
-        # not just a trailing period. Kept as-is from parseandclean.py.
-        .str.replace(r"\.$", "", regex=True)
+        .str.replace(r"[.;,]$", "", regex=True)
     )
+
+
+def split_value_expression(text):
+    """Split an estval string into ``(value_expression, trailing_text)``.
+
+    Many records carry no "Disposition—" label, so the disposition is left
+    glued to the end of the value: ``"$280. Government Property"``. Rather than
+    listing the disposition phrases -- an open set, 260+ variants and counting
+    -- this walks the *value* off the front. The value vocabulary is closed
+    (money, a few quantity words, punctuation), so whatever the walk stops on
+    is where the value ends and the free text begins.
+
+    Returns ``(None, None)`` for missing input, and leaves the text untouched
+    in the value slot if no value could be read at all.
+    """
+    if not isinstance(text, str):
+        return None, None
+    pos = 0
+    while pos < len(text):
+        match = VALUE_TOKEN.match(text, pos)
+        if not match or match.end() == pos:
+            break
+        pos = match.end()
+    value, tail = text[:pos].strip(), LEADING_SEPARATOR.sub("", text[pos:]).strip()
+    if not value:
+        return text.strip(), None
+    return value, (tail or None)
+
+
+def split_estval(df):
+    """Move any disposition text trailing the estimated value into `disposition`.
+
+    Only fills `disposition` where the labelled extraction found nothing, so a
+    real "Disposition—..." always wins over text recovered from the value.
+    """
+    split = df["estval"].map(split_value_expression)
+    df["estval"] = [value for value, _ in split]
+    recovered = pd.Series([tail for _, tail in split], index=df.index)
+    df["disposition"] = df["disposition"].fillna(recovered)
+    return df
+
+
+
+def estval_amount(estval):
+    """First dollar figure in an estval string, as a float."""
+    if not isinstance(estval, str):
+        return np.nan
+    match = AMOUNT.search(estval)
+    return float(match.group(1).replace(",", "")) if match else np.nan
+
+
+def value_tier(amount):
+    """Band a dollar amount into a comparable tier."""
+    if pd.isna(amount):
+        return None
+    for cutoff, label in VALUE_TIERS:
+        if amount <= cutoff:
+            return label
+    return VALUE_TIER_TOP
+
 
 
 def officeholder(year, role):
@@ -227,9 +338,9 @@ def split_item_fields(df):
         df["item"]
         .fillna(df["item_orig"])
         .str.strip()
-        .str.replace(r"\.$", "", regex=True)
+        .str.replace(r"[.;]$", "", regex=True)
     )
-    return df
+    return split_estval(df)
 
 
 def parse_recipient(df):
@@ -294,11 +405,31 @@ def fill_role_wikidata(df):
         df.loc[mask, "recip_wiki"] = holder[mask].map(lambda name: holders[name]["WikidataID"])
     return df
 
+def standardize_date(s):
+    """
+    Parse a date string into an ISO date (YYYY-MM-DD).
+    Returns pd.NaT if missing, unparseable, or if it looks like a range
+    (e.g. 'November 7-9, 2005', 'October 22 to 24, 2005').
+    """
+    if pd.isna(s):
+        return pd.NaT
+    s = str(s).strip()
+    if not s:
+        return pd.NaT
+    for fmt in DATE_FORMATS:
+        try:
+            return datetime.strptime(s, fmt).date()
+        except ValueError:
+            continue
+    return pd.NaT  # unrecognized format - worth reviewing manually
+
+
 
 def clean(df, wiki, groups, excluded):
     """Run one year's raw records through the whole pipeline."""
     df = normalise_source_columns(df)
     df = split_item_fields(df)
+    #df = classify_items(df)
     df = parse_recipient(df)
     df = parse_giver(df)
     df = df.map(strip_strings)
@@ -323,8 +454,15 @@ def clean(df, wiki, groups, excluded):
 def load_lookups():
     wiki = pd.read_csv(WIKI_CSV, encoding="utf-8-sig")
     wiki["entity"] = wiki["entity"].apply(fix_mojibake)
+    # A repeated key fans out the left merge and duplicates gift rows, so keep
+    # one row per entity. Keys mapped to two different IDs need a manual look.
+    conflicts = wiki.drop_duplicates(["entity", "wiki"])
+    conflicts = conflicts.loc[conflicts["entity"].duplicated(keep=False), "entity"].unique()
+    if len(conflicts):
+        print(f"masterwiki: entities with conflicting IDs (kept first): {list(conflicts)}")
+    wiki = wiki.drop_duplicates("entity", keep="first")
 
-    groups = pd.read_csv(GROUPS_CSV)
+    groups = pd.read_csv(GROUPS_CSV).drop_duplicates("giver_orig", keep="first")
 
     with open(NOWIKI_TXT, "r") as f:
         nowikilist = f.read().splitlines()
@@ -340,6 +478,8 @@ def main():
     for path in sorted(RAW_DIR.glob("*.csv")):
         df = pd.read_csv(path, encoding="utf-8-sig")
         df = clean(df, wiki, groups, excluded)
+        df["estval"] = df["estval"].str.strip().str.replace(r"[;.]$", "", regex=True)
+        df['recd_std'] = df['recd'].apply(standardize_date)
         df.to_csv(CLEANED_DIR / path.name, index=False)
         print(f"{path.name}: {len(df)} rows")
 

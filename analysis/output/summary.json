@@ -1,0 +1,28 @@
+{
+  "n_gifts": 10428,
+  "years": [
+    1999,
+    2023
+  ],
+  "n_agencies": 107,
+  "agency_missing": 0,
+  "n_agencies_std": 58,
+  "recip_qid_share": 0.7101074031453778,
+  "giver_qid_share": 0.7627541235136172,
+  "recip_unique_qids": 1026,
+  "giver_unique_qids": 2361,
+  "giver_country_share": 0.8433064825469889,
+  "giver_country_by_source": {
+    "text": 8474,
+    "": 1634,
+    "wikidata_p27": 320
+  },
+  "text_p27_agreement": 0.9920649233543734,
+  "n_countries": 169,
+  "intl_org_gifts": 245,
+  "estval_share": 0.9391062523973916,
+  "travel_share": 0.1098005370157269,
+  "recd_year_from_date_share": 0.9184886843114691,
+  "recd_lag_gt1_share": 0.05005753739930955,
+  "n_edges": 4195
+}
