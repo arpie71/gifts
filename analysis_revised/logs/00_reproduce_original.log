@@ -1,0 +1,40 @@
+Reproduction of the original analysis, 2026-11-05T11:53:14-05:00
+scratch: /tmp/gifts_repro_check   python: Python 3.12.3
+build_analysis_data.py: ok
+descriptives.py: ok
+--- comparison with committed outputs (SAME = byte-identical)
+SAME analysis/output/country_year_panel.csv
+SAME analysis/output/edges_person.csv
+SAME analysis/output/gifts_analysis.csv
+DIFF analysis/output/map_gifts_by_country.html
+SAME analysis/output/paper_numbers.json
+SAME analysis/output/summary.json
+SAME paper/tables/tab_bg_gifts.tex
+SAME paper/tables/tab_bg_matrix.tex
+SAME paper/tables/tab_bg_profile.tex
+SAME paper/tables/tab_bg_value.tex
+SAME paper/tables/tab_branch.tex
+SAME paper/tables/tab_careers.tex
+SAME paper/tables/tab_cld_link.tex
+SAME paper/tables/tab_office_matrix.tex
+SAME paper/tables/tab_overview.tex
+SAME paper/tables/tab_recip_profile.tex
+SAME paper/tables/tab_shared.tex
+SAME paper/tables/tab_top_countries.tex
+SAME paper/tables/tab_top_givers.tex
+SAME paper/tables/tab_top_recips.tex
+SAME paper/tables/tab_wikidata_coverage.tex
+DIFF paper/figures/fig_branch_multiples.pdf
+SAME paper/figures/fig_branch_multiples.png
+DIFF paper/figures/fig_careers.pdf
+SAME paper/figures/fig_careers.png
+DIFF paper/figures/fig_country_heatmap.pdf
+SAME paper/figures/fig_country_heatmap.png
+DIFF paper/figures/fig_gifts_by_year.pdf
+SAME paper/figures/fig_gifts_by_year.png
+DIFF paper/figures/fig_role_branch.pdf
+SAME paper/figures/fig_role_branch.png
+DIFF paper/figures/fig_shared.pdf
+SAME paper/figures/fig_shared.png
+Note: PDF figures and the plotly HTML embed creation dates / random ids, so DIFF is expected for
+*.pdf and map_gifts_by_country.html; the PNG renderings of the same figures are compared byte-for-byte.

@@ -1,0 +1,19 @@
+% Do agencies keep a foreign tie when the people who carried it leave? (agency x country x year)
+\begin{tabular}{lrrr}
+\toprule
+ & Tie kept (anyone) & Tie kept by others & Tie kept by others \\
+\midrule
+All carriers left the agency & -0.112*** & 0.019 &  \\
+ & (0.022) & (0.029) &  \\
+Share of carriers who left &  &  & 0.045 \\
+ &  &  & (0.026) \\
+log carriers & 0.040 & 0.005 & -0.002 \\
+ & (0.023) & (0.035) & (0.036) \\
+Observations & 2,166 & 2,166 & 2,166 \\
+Clusters & 21 & 21 & 21 \\
+Mean of outcome & 0.65 & 0.53 & 0.53 \\
+Estimator & OLS & OLS & OLS \\
+Fixed effects & ay, cy & ay, cy & ay, cy \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize Linear probability models with agency x year and country x year FE; SEs clustered by agency. Unit: an agency-country tie observed at t-1 through linked recipients (carriers). Kept: the country gives to the agency again in t..t+2. 'By others': through someone other than the t-1 carriers. A carrier has left if never observed under that agency after t-1. Evidence type: change within an organization after personnel turnover (institutional memory).}

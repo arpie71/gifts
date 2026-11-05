@@ -1,0 +1,48 @@
+term,coef,se,k,outcome,event,n_events,n
+ev_-3,0.1537941581400451,0.2843200205973847,-3,n_gifts,Any change of organization,104,10877
+ev_-2,0.2486819272982128,0.1812645893450548,-2,n_gifts,Any change of organization,104,10877
+ev_-1,0.0,0.0,-1,n_gifts,Any change of organization,104,10877
+ev_0,1.640150026025387,0.2344290206942859,0,n_gifts,Any change of organization,104,10877
+ev_1,1.2925699407834257,0.2512986149275997,1,n_gifts,Any change of organization,104,10877
+ev_2,1.204111025755483,0.3014562479658003,2,n_gifts,Any change of organization,104,10877
+ev_3,1.25346232270749,0.1985240178023374,3,n_gifts,Any change of organization,104,10877
+ev_-3,0.2127923354811095,0.250036494265713,-3,n_gifts,Lateral/non-cabinet move,78,10737
+ev_-2,0.3230677375144143,0.2472206311700726,-2,n_gifts,Lateral/non-cabinet move,78,10737
+ev_-1,0.0,0.0,-1,n_gifts,Lateral/non-cabinet move,78,10737
+ev_0,0.5642435359159226,0.5102979989828262,0,n_gifts,Lateral/non-cabinet move,78,10737
+ev_1,-0.2005116289631807,0.6187882455828563,1,n_gifts,Lateral/non-cabinet move,78,10737
+ev_2,0.4970806611168016,0.4622890856494359,2,n_gifts,Lateral/non-cabinet move,78,10737
+ev_3,0.4540195191926932,0.6252915449244753,3,n_gifts,Lateral/non-cabinet move,78,10737
+ev_-3,0.3321733863722308,0.2857047284596031,-3,n_gifts,Move into cabinet-level office,26,4546
+ev_-2,0.2134529570482182,0.2776833928304215,-2,n_gifts,Move into cabinet-level office,26,4546
+ev_-1,0.0,0.0,-1,n_gifts,Move into cabinet-level office,26,4546
+ev_0,2.0817699879560743,0.5273993875362498,0,n_gifts,Move into cabinet-level office,26,4546
+ev_1,1.7686856372884354,0.5127082449131964,1,n_gifts,Move into cabinet-level office,26,4546
+ev_2,1.558680234887969,0.5422229062979256,2,n_gifts,Move into cabinet-level office,26,4546
+ev_3,1.6388436720907316,0.3991999858311442,3,n_gifts,Move into cabinet-level office,26,4546
+ev_-3,-0.2469046290377299,0.2931943182520932,-3,n_gifts,Cross-sector move,37,8704
+ev_-2,0.143970283445594,0.2266133143665472,-2,n_gifts,Cross-sector move,37,8704
+ev_-1,0.0,0.0,-1,n_gifts,Cross-sector move,37,8704
+ev_0,1.7563158046377874,0.3578941413182642,0,n_gifts,Cross-sector move,37,8704
+ev_1,1.3878531385489763,0.2315989045131224,1,n_gifts,Cross-sector move,37,8704
+ev_2,1.418947656070303,0.2052639382752786,2,n_gifts,Cross-sector move,37,8704
+ev_3,1.0162689448642177,0.2350826754244923,3,n_gifts,Cross-sector move,37,8704
+ev_-3,0.5874574411017035,0.3024114632264039,-3,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_-2,0.5535147107960123,0.3145040565375993,-2,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_-1,0.0,0.0,-1,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_0,-30.18536206977936,0.3753739230536727,0,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_1,-2.274643398779962,0.2557445597751405,1,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_2,-1.007819195459993,0.3867843190476643,2,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_3,-1.418087840684718,0.5473861995948213,3,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_-3,1.6489097810710562,0.6904932542393922,-3,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_-2,0.4860043237365872,0.6012079435574809,-2,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_-1,0.0,0.0,-1,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_0,1.6682747311871189,0.9047950500894164,0,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_1,0.8236889343446762,0.7155194661973796,1,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_2,0.7407164842296184,0.7421477005293768,2,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_3,2.058594035718721,0.7158764513597575,3,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_-3,0.3737365660839646,0.2886358469966048,-3,n_gifts,Public / non-public move,12,5366
+ev_-2,-0.0126214249628724,0.2392987751344957,-2,n_gifts,Public / non-public move,12,5366
+ev_-1,0.0,0.0,-1,n_gifts,Public / non-public move,12,5366
+ev_0,-27.492832341440494,0.6403048630531792,0,n_gifts,Public / non-public move,12,5366
+ev_3,28.210234105463467,0.7616379736927804,3,n_gifts,Public / non-public move,12,5366

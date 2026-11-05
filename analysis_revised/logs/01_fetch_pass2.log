@@ -1,0 +1,5 @@
+4025 position/employer items; 300 not cached
+repaired 1185 labels
+retry 0 HTTPError batch 2 wait 37s
+retry 0 HTTPError batch 6 wait 41s
+wrote /home/arpie/gifts/analysis_revised/cache/position_meta.csv (1352 new rows)

@@ -1,0 +1,3092 @@
+agency,country,t,n_carriers,all_departed,share_departed,retained_any,retained_by_others,retained_by_carrier
+Administrative Office of the U.S. Courts,Brazil,2014,1,0,0.0,1,0,1
+Administrative Office of the U.S. Courts,Brazil,2017,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Canada,2010,1,0,0.0,0,0,0
+Administrative Office of the U.S. Courts,Canada,2019,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,China,2013,1,1,1.0,1,1,0
+Administrative Office of the U.S. Courts,China,2016,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Colombia,2019,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Italy,2010,1,0,0.0,0,0,0
+Administrative Office of the U.S. Courts,Japan,2012,1,0,0.0,1,1,1
+Administrative Office of the U.S. Courts,Japan,2015,2,0,0.5,1,1,0
+Administrative Office of the U.S. Courts,Japan,2016,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Mexico,2015,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Namibia,2017,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Russia,2014,1,1,1.0,1,1,0
+Administrative Office of the U.S. Courts,Russia,2016,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,South Africa,2015,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,South Korea,2009,1,0,0.0,0,0,0
+Administrative Office of the U.S. Courts,South Korea,2015,1,1,1.0,1,1,0
+Administrative Office of the U.S. Courts,South Korea,2018,1,0,0.0,1,1,0
+Administrative Office of the U.S. Courts,South Korea,2019,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Taiwan,2010,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Taiwan,2014,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Thailand,2015,1,1,1.0,0,0,0
+Administrative Office of the U.S. Courts,Uganda,2015,1,1,1.0,0,0,0
+Defense Intelligence Agency,Bangladesh,2012,1,1,1.0,0,0,0
+Defense Intelligence Agency,Malaysia,2013,1,1,1.0,0,0,0
+Defense Intelligence Agency,Qatar,2009,1,1,1.0,0,0,0
+Department of Agriculture,Afghanistan,2010,1,0,0.0,0,0,0
+Department of Agriculture,Angola,2003,1,0,0.0,0,0,0
+Department of Agriculture,Austria,2009,1,1,1.0,0,0,0
+Department of Agriculture,Canada,2004,1,1,1.0,0,0,0
+Department of Agriculture,Chile,2010,1,0,0.0,0,0,0
+Department of Agriculture,China,2009,1,0,0.0,0,0,0
+Department of Agriculture,Czech Republic,2001,1,0,0.0,0,0,0
+Department of Agriculture,Dominican Republic,2003,1,0,0.0,0,0,0
+Department of Agriculture,Japan,2010,1,0,0.0,0,0,0
+Department of Agriculture,Kazakhstan,2007,1,1,1.0,0,0,0
+Department of Agriculture,Kazakhstan,2018,1,1,1.0,0,0,0
+Department of Agriculture,Mexico,2001,1,0,0.0,0,0,0
+Department of Agriculture,Mexico,2014,1,0,0.0,0,0,0
+Department of Agriculture,Russia,2009,1,0,0.0,0,0,0
+Department of Agriculture,Ukraine,2003,1,0,0.0,0,0,0
+Department of Agriculture,Uzbekistan,2002,1,0,0.0,0,0,0
+Department of Commerce,Afghanistan,2002,1,0,0.0,1,0,1
+Department of Commerce,Afghanistan,2003,1,0,0.0,0,0,0
+Department of Commerce,Afghanistan,2007,1,1,1.0,1,1,0
+Department of Commerce,Afghanistan,2010,1,0,0.0,0,0,0
+Department of Commerce,Algeria,2001,1,0,0.0,1,1,0
+Department of Commerce,Algeria,2002,1,0,0.0,0,0,0
+Department of Commerce,Australia,2000,1,1,1.0,0,0,0
+Department of Commerce,Australia,2011,1,1,1.0,0,0,0
+Department of Commerce,Austria,2011,1,1,1.0,0,0,0
+Department of Commerce,Azerbaijan,2003,1,0,0.0,1,1,0
+Department of Commerce,Azerbaijan,2006,1,0,0.0,0,0,0
+Department of Commerce,Bahrain,2002,1,0,0.0,1,0,1
+Department of Commerce,Bahrain,2003,1,0,0.0,0,0,0
+Department of Commerce,Bangladesh,2000,1,1,1.0,0,0,0
+Department of Commerce,Belgium,2011,1,1,1.0,0,0,0
+Department of Commerce,Brazil,2011,3,1,1.0,1,1,0
+Department of Commerce,Brazil,2013,1,1,1.0,0,0,0
+Department of Commerce,Bulgaria,2003,2,0,0.0,0,0,0
+Department of Commerce,Canada,2011,4,1,1.0,0,0,0
+Department of Commerce,China,2000,1,0,0.0,1,0,1
+Department of Commerce,China,2002,1,0,0.0,0,0,0
+Department of Commerce,China,2009,1,0,0.0,1,1,1
+Department of Commerce,China,2011,6,0,0.8333333333333334,1,0,1
+Department of Commerce,China,2012,1,1,1.0,0,0,0
+Department of Commerce,Denmark,2011,1,1,1.0,0,0,0
+Department of Commerce,Egypt,2002,1,0,0.0,0,0,0
+Department of Commerce,France,2011,4,1,1.0,1,1,0
+Department of Commerce,France,2014,1,1,1.0,0,0,0
+Department of Commerce,Germany,2001,1,0,0.0,1,0,1
+Department of Commerce,Germany,2002,1,0,0.0,1,1,1
+Department of Commerce,Germany,2003,1,0,0.0,1,1,0
+Department of Commerce,Germany,2005,1,0,0.0,0,0,0
+Department of Commerce,Germany,2011,3,1,1.0,0,0,0
+Department of Commerce,India,2011,1,1,1.0,0,0,0
+Department of Commerce,Kazakhstan,2004,1,1,1.0,0,0,0
+Department of Commerce,Kuwait,2003,1,0,0.0,0,0,0
+Department of Commerce,Mauritius,2003,1,0,0.0,0,0,0
+Department of Commerce,Mexico,2000,1,0,0.0,1,1,0
+Department of Commerce,Mexico,2001,1,0,0.0,0,0,0
+Department of Commerce,Mongolia,2011,1,1,1.0,0,0,0
+Department of Commerce,Netherlands,2011,1,1,1.0,0,0,0
+Department of Commerce,New Zealand,2011,1,1,1.0,0,0,0
+Department of Commerce,Oman,2001,1,0,0.0,0,0,0
+Department of Commerce,Pakistan,2003,1,0,0.0,0,0,0
+Department of Commerce,Poland,2002,1,0,0.0,0,0,0
+Department of Commerce,Romania,2003,1,0,0.0,0,0,0
+Department of Commerce,Russia,2002,1,0,0.0,1,0,1
+Department of Commerce,Russia,2003,1,0,0.0,1,0,1
+Department of Commerce,Russia,2004,1,1,1.0,0,0,0
+Department of Commerce,Russia,2014,1,1,1.0,0,0,0
+Department of Commerce,Saudi Arabia,1999,1,0,0.0,0,0,0
+Department of Commerce,Saudi Arabia,2009,1,0,0.0,0,0,0
+Department of Commerce,Singapore,2011,2,1,1.0,0,0,0
+Department of Commerce,South Korea,2011,1,1,1.0,0,0,0
+Department of Commerce,State of Palestine,1999,1,0,0.0,0,0,0
+Department of Commerce,Switzerland,2011,2,1,1.0,0,0,0
+Department of Commerce,Taiwan,2000,1,1,1.0,0,0,0
+Department of Commerce,Taiwan,2011,1,1,1.0,0,0,0
+Department of Commerce,Thailand,2017,1,0,0.0,0,0,0
+Department of Commerce,United Arab Emirates,1999,1,0,0.0,0,0,0
+Department of Commerce,United Kingdom,2011,5,1,1.0,0,0,0
+Department of Commerce,Uruguay,2002,1,0,0.0,0,0,0
+Department of Commerce,Uzbekistan,2003,1,0,0.0,0,0,0
+Department of Commerce,Uzbekistan,2018,1,0,0.0,1,0,1
+Department of Commerce,Vietnam,2005,1,0,0.0,0,0,0
+Department of Commerce,Yemen,2003,1,0,0.0,0,0,0
+Department of Defense,Afghanistan,2001,1,0,0.0,1,1,1
+Department of Defense,Afghanistan,2002,3,0,0.3333333333333333,1,1,1
+Department of Defense,Afghanistan,2003,3,0,0.0,1,1,1
+Department of Defense,Afghanistan,2004,1,0,0.0,1,1,1
+Department of Defense,Afghanistan,2005,2,0,0.5,1,1,1
+Department of Defense,Afghanistan,2006,2,0,0.5,1,1,1
+Department of Defense,Afghanistan,2007,2,0,0.5,1,1,1
+Department of Defense,Afghanistan,2009,4,0,0.0,1,1,1
+Department of Defense,Afghanistan,2010,2,0,0.0,1,1,1
+Department of Defense,Afghanistan,2011,4,0,0.0,1,1,1
+Department of Defense,Afghanistan,2012,5,0,0.4,1,1,1
+Department of Defense,Afghanistan,2013,4,0,0.25,1,1,1
+Department of Defense,Afghanistan,2014,1,0,0.0,1,1,0
+Department of Defense,Afghanistan,2015,4,0,0.75,1,1,1
+Department of Defense,Afghanistan,2016,3,0,0.6666666666666666,1,1,0
+Department of Defense,Afghanistan,2017,1,0,0.0,1,1,1
+Department of Defense,Afghanistan,2018,1,1,1.0,1,1,0
+Department of Defense,Afghanistan,2019,1,0,0.0,1,1,0
+Department of Defense,Afghanistan,2021,1,0,0.0,0,0,0
+Department of Defense,Albania,2012,1,0,0.0,0,0,0
+Department of Defense,Algeria,2006,2,1,1.0,0,0,0
+Department of Defense,Algeria,2020,1,1,1.0,0,0,0
+Department of Defense,Angola,2017,1,0,0.0,0,0,0
+Department of Defense,Argentina,2005,1,0,0.0,0,0,0
+Department of Defense,Armenia,2002,1,0,0.0,0,0,0
+Department of Defense,Armenia,2012,1,1,1.0,0,0,0
+Department of Defense,Australia,2015,1,1,1.0,0,0,0
+Department of Defense,Azerbaijan,1999,1,0,0.0,1,1,1
+Department of Defense,Azerbaijan,2000,2,0,0.5,1,1,0
+Department of Defense,Azerbaijan,2001,1,0,0.0,1,0,1
+Department of Defense,Azerbaijan,2003,1,0,0.0,1,0,1
+Department of Defense,Azerbaijan,2004,1,0,0.0,0,0,0
+Department of Defense,Azerbaijan,2010,1,0,0.0,1,1,0
+Department of Defense,Azerbaijan,2013,1,0,0.0,0,0,0
+Department of Defense,Azerbaijan,2017,3,0,0.6666666666666666,0,0,0
+Department of Defense,Bahrain,2000,1,1,1.0,0,0,0
+Department of Defense,Bahrain,2004,1,0,0.0,1,1,0
+Department of Defense,Bahrain,2007,1,0,0.0,1,1,1
+Department of Defense,Bahrain,2009,2,0,0.5,1,1,1
+Department of Defense,Bahrain,2010,1,0,0.0,1,1,0
+Department of Defense,Bahrain,2011,1,0,0.0,1,1,0
+Department of Defense,Bahrain,2013,2,0,0.0,1,1,1
+Department of Defense,Bahrain,2015,2,0,0.5,1,1,0
+Department of Defense,Bahrain,2016,1,0,0.0,1,1,0
+Department of Defense,Bahrain,2018,1,1,1.0,1,1,0
+Department of Defense,Bahrain,2020,2,0,0.5,1,1,0
+Department of Defense,Bahrain,2021,1,0,0.0,1,0,1
+Department of Defense,Belgium,2003,1,0,0.0,0,0,0
+Department of Defense,Belgium,2009,1,1,1.0,1,1,0
+Department of Defense,Belgium,2011,1,1,1.0,0,0,0
+Department of Defense,Brazil,2009,1,0,0.0,1,1,0
+Department of Defense,Brazil,2011,1,1,1.0,0,0,0
+Department of Defense,Brazil,2015,1,1,1.0,0,0,0
+Department of Defense,Brunei,2011,1,0,0.0,1,1,0
+Department of Defense,Brunei,2013,1,0,0.0,0,0,0
+Department of Defense,Bulgaria,2007,1,1,1.0,0,0,0
+Department of Defense,Burkina Faso,2021,1,1,1.0,0,0,0
+Department of Defense,Canada,2012,3,0,0.3333333333333333,0,0,0
+Department of Defense,Chile,2007,1,0,0.0,0,0,0
+Department of Defense,Chile,2013,1,0,0.0,0,0,0
+Department of Defense,China,2000,1,1,1.0,0,0,0
+Department of Defense,China,2005,1,0,0.0,1,1,0
+Department of Defense,China,2007,1,0,0.0,1,1,1
+Department of Defense,China,2009,4,0,0.0,1,1,1
+Department of Defense,China,2011,2,0,0.5,1,1,0
+Department of Defense,China,2012,1,1,1.0,1,1,0
+Department of Defense,China,2013,4,0,0.25,1,1,1
+Department of Defense,China,2014,3,0,0.0,1,1,0
+Department of Defense,China,2017,2,1,1.0,1,1,0
+Department of Defense,China,2018,1,1,1.0,0,0,0
+Department of Defense,Colombia,2005,1,1,1.0,1,1,0
+Department of Defense,Colombia,2007,1,1,1.0,1,1,0
+Department of Defense,Colombia,2008,1,0,0.0,1,1,0
+Department of Defense,Colombia,2009,1,0,0.0,1,0,1
+Department of Defense,Colombia,2010,1,0,0.0,0,0,0
+Department of Defense,Colombia,2016,1,0,0.0,0,0,0
+Department of Defense,Czech Republic,2007,1,0,0.0,1,1,0
+Department of Defense,Czech Republic,2010,1,0,0.0,0,0,0
+Department of Defense,Denmark,2004,1,0,0.0,0,0,0
+Department of Defense,Egypt,2000,6,0,0.8333333333333334,1,1,1
+Department of Defense,Egypt,2001,3,0,0.6666666666666666,1,1,1
+Department of Defense,Egypt,2002,4,0,0.0,1,1,1
+Department of Defense,Egypt,2003,1,0,0.0,1,1,1
+Department of Defense,Egypt,2004,4,0,0.5,1,1,1
+Department of Defense,Egypt,2005,1,1,1.0,1,1,0
+Department of Defense,Egypt,2006,2,0,0.5,1,1,0
+Department of Defense,Egypt,2007,1,0,0.0,1,1,1
+Department of Defense,Egypt,2009,3,0,0.3333333333333333,1,1,1
+Department of Defense,Egypt,2010,1,0,0.0,1,1,1
+Department of Defense,Egypt,2011,3,0,0.3333333333333333,1,1,0
+Department of Defense,Egypt,2012,1,0,0.0,0,0,0
+Department of Defense,Egypt,2016,2,0,0.5,1,1,0
+Department of Defense,Egypt,2017,3,0,0.6666666666666666,1,1,0
+Department of Defense,Egypt,2019,1,1,1.0,0,0,0
+Department of Defense,Estonia,2002,1,0,0.0,0,0,0
+Department of Defense,Estonia,2015,1,1,1.0,0,0,0
+Department of Defense,Finland,2009,1,0,0.0,0,0,0
+Department of Defense,France,2005,1,0,0.0,0,0,0
+Department of Defense,France,2011,1,1,1.0,0,0,0
+Department of Defense,France,2016,2,0,0.5,1,1,0
+Department of Defense,France,2017,1,0,0.0,0,0,0
+Department of Defense,Georgia,1998,1,1,1.0,1,1,0
+Department of Defense,Georgia,2000,1,1,1.0,1,1,0
+Department of Defense,Georgia,2001,1,0,0.0,1,0,1
+Department of Defense,Georgia,2003,1,0,0.0,0,0,0
+Department of Defense,Georgia,2012,1,1,1.0,1,1,0
+Department of Defense,Georgia,2014,1,1,1.0,1,1,0
+Department of Defense,Georgia,2017,1,0,0.0,0,0,0
+Department of Defense,Germany,2009,1,0,0.0,0,0,0
+Department of Defense,Germany,2016,1,1,1.0,1,1,0
+Department of Defense,Germany,2018,1,1,1.0,0,0,0
+Department of Defense,Greece,2013,1,0,0.0,0,0,0
+Department of Defense,Greece,2017,1,0,0.0,0,0,0
+Department of Defense,Greece,2021,1,0,0.0,0,0,0
+Department of Defense,India,2003,1,0,0.0,1,1,0
+Department of Defense,India,2006,1,0,0.0,1,1,0
+Department of Defense,India,2009,1,0,0.0,1,1,1
+Department of Defense,India,2010,1,0,0.0,1,1,0
+Department of Defense,India,2011,1,0,0.0,0,0,0
+Department of Defense,India,2016,1,1,1.0,1,1,0
+Department of Defense,India,2017,1,0,0.0,1,1,0
+Department of Defense,India,2019,1,1,1.0,1,1,0
+Department of Defense,India,2021,2,0,0.0,0,0,0
+Department of Defense,Indonesia,2011,1,0,0.0,1,1,0
+Department of Defense,Indonesia,2014,2,0,0.5,1,1,0
+Department of Defense,Indonesia,2016,1,0,0.0,1,1,0
+Department of Defense,Indonesia,2018,1,1,1.0,1,1,0
+Department of Defense,Indonesia,2020,2,1,1.0,1,1,0
+Department of Defense,Iraq,2004,2,0,0.5,1,1,1
+Department of Defense,Iraq,2005,2,0,0.5,1,1,1
+Department of Defense,Iraq,2006,1,1,1.0,1,1,0
+Department of Defense,Iraq,2007,2,0,0.0,1,1,1
+Department of Defense,Iraq,2009,2,0,0.0,1,1,1
+Department of Defense,Iraq,2011,2,0,0.5,1,1,0
+Department of Defense,Iraq,2012,2,0,0.0,1,1,0
+Department of Defense,Iraq,2015,1,0,0.0,0,0,0
+Department of Defense,Iraq,2019,1,1,1.0,0,0,0
+Department of Defense,Israel,2009,1,0,0.0,1,1,1
+Department of Defense,Israel,2010,1,0,0.0,1,1,0
+Department of Defense,Israel,2012,2,0,0.5,0,0,0
+Department of Defense,Israel,2020,1,0,0.0,1,1,0
+Department of Defense,Israel,2021,1,1,1.0,1,1,0
+Department of Defense,Italy,2000,1,0,0.0,1,1,0
+Department of Defense,Italy,2003,1,0,0.0,0,0,0
+Department of Defense,Italy,2010,2,0,0.5,0,0,0
+Department of Defense,Italy,2014,1,0,0.0,1,0,1
+Department of Defense,Italy,2015,1,1,1.0,0,0,0
+Department of Defense,Italy,2020,2,0,0.5,1,1,0
+Department of Defense,Japan,2000,1,1,1.0,0,0,0
+Department of Defense,Japan,2007,1,0,0.0,1,1,0
+Department of Defense,Japan,2009,1,0,0.0,1,1,0
+Department of Defense,Japan,2011,1,1,1.0,1,1,0
+Department of Defense,Japan,2013,1,1,1.0,1,1,0
+Department of Defense,Japan,2015,1,1,1.0,0,0,0
+Department of Defense,Jordan,2002,1,0,0.0,1,1,1
+Department of Defense,Jordan,2003,1,0,0.0,1,1,1
+Department of Defense,Jordan,2004,2,0,0.0,1,1,1
+Department of Defense,Jordan,2005,2,0,0.5,1,1,1
+Department of Defense,Jordan,2006,2,1,1.0,1,1,0
+Department of Defense,Jordan,2007,1,0,0.0,1,1,1
+Department of Defense,Jordan,2009,1,0,0.0,1,1,1
+Department of Defense,Jordan,2010,3,0,0.0,1,1,1
+Department of Defense,Jordan,2011,2,1,1.0,1,1,0
+Department of Defense,Jordan,2012,2,0,0.5,1,1,1
+Department of Defense,Jordan,2013,1,0,0.0,1,1,0
+Department of Defense,Jordan,2015,2,0,0.0,1,1,0
+Department of Defense,Jordan,2016,1,0,0.0,1,1,0
+Department of Defense,Jordan,2017,1,1,1.0,0,0,0
+Department of Defense,Jordan,2021,1,0,0.0,1,1,0
+Department of Defense,Kazakhstan,1999,1,0,0.0,1,1,0
+Department of Defense,Kazakhstan,2002,1,0,0.0,0,0,0
+Department of Defense,Kazakhstan,2013,1,0,0.0,0,0,0
+Department of Defense,Kuwait,1998,1,0,0.0,1,1,0
+Department of Defense,Kuwait,1999,1,1,1.0,1,1,0
+Department of Defense,Kuwait,2000,2,1,1.0,1,1,0
+Department of Defense,Kuwait,2001,1,0,0.0,1,1,1
+Department of Defense,Kuwait,2003,3,0,0.3333333333333333,1,1,1
+Department of Defense,Kuwait,2004,2,0,0.0,1,0,1
+Department of Defense,Kuwait,2005,1,1,1.0,0,0,0
+Department of Defense,Kuwait,2010,1,0,0.0,1,1,1
+Department of Defense,Kuwait,2011,4,1,1.0,0,0,0
+Department of Defense,Kuwait,2015,1,0,0.0,0,0,0
+Department of Defense,Kuwait,2021,1,0,0.0,0,0,0
+Department of Defense,Kyrgyzstan,2002,1,0,0.0,0,0,0
+Department of Defense,Kyrgyzstan,2007,1,0,0.0,0,0,0
+Department of Defense,Lebanon,2009,2,0,0.0,1,1,1
+Department of Defense,Lebanon,2010,1,0,0.0,1,1,0
+Department of Defense,Lebanon,2011,1,0,0.0,0,0,0
+Department of Defense,Lebanon,2015,1,1,1.0,1,1,0
+Department of Defense,Lebanon,2016,1,0,0.0,0,0,0
+Department of Defense,Malaysia,2013,1,0,0.0,1,1,0
+Department of Defense,Malaysia,2014,1,0,0.0,0,0,0
+Department of Defense,Mexico,2000,1,0,0.0,0,0,0
+Department of Defense,Mexico,2005,2,0,0.5,1,1,1
+Department of Defense,Mexico,2006,3,0,0.6666666666666666,1,1,0
+Department of Defense,Mexico,2009,4,0,0.0,1,1,1
+Department of Defense,Mexico,2011,2,0,0.0,1,1,1
+Department of Defense,Mexico,2012,2,1,1.0,1,1,0
+Department of Defense,Mexico,2013,2,0,0.5,1,1,0
+Department of Defense,Mexico,2014,1,0,0.0,1,1,0
+Department of Defense,Mexico,2017,2,0,0.5,0,0,0
+Department of Defense,Moldova,2004,1,0,0.0,0,0,0
+Department of Defense,Mongolia,2011,1,1,1.0,1,1,0
+Department of Defense,Mongolia,2012,1,0,0.0,0,0,0
+Department of Defense,Morocco,2000,1,1,1.0,0,0,0
+Department of Defense,Morocco,2006,2,1,1.0,0,0,0
+Department of Defense,Morocco,2013,1,0,0.0,1,1,0
+Department of Defense,Morocco,2014,1,0,0.0,0,0,0
+Department of Defense,Morocco,2020,1,1,1.0,1,1,0
+Department of Defense,Myanmar,2014,1,0,0.0,0,0,0
+Department of Defense,Netherlands,2005,2,0,0.5,0,0,0
+Department of Defense,New Zealand,2009,1,0,0.0,1,1,0
+Department of Defense,New Zealand,2010,1,0,0.0,1,1,0
+Department of Defense,New Zealand,2012,1,0,0.0,0,0,0
+Department of Defense,New Zealand,2016,1,0,0.0,0,0,0
+Department of Defense,New Zealand,2021,1,0,0.0,1,1,0
+Department of Defense,Niger,2005,1,0,0.0,0,0,0
+Department of Defense,Niger,2013,1,0,0.0,0,0,0
+Department of Defense,Nigeria,2000,1,1,1.0,0,0,0
+Department of Defense,North Macedonia,2003,1,0,0.0,1,1,0
+Department of Defense,North Macedonia,2004,1,0,0.0,0,0,0
+Department of Defense,Norway,2011,1,1,1.0,1,1,0
+Department of Defense,Norway,2012,1,0,0.0,0,0,0
+Department of Defense,Oman,2000,1,1,1.0,0,0,0
+Department of Defense,Oman,2006,1,0,0.0,0,0,0
+Department of Defense,Oman,2014,1,0,0.0,0,0,0
+Department of Defense,Pakistan,2000,1,1,1.0,1,1,0
+Department of Defense,Pakistan,2001,1,0,0.0,0,0,0
+Department of Defense,Pakistan,2005,1,0,0.0,0,0,0
+Department of Defense,Pakistan,2009,1,0,0.0,1,1,1
+Department of Defense,Pakistan,2010,1,0,0.0,1,1,0
+Department of Defense,Pakistan,2011,1,0,0.0,1,1,0
+Department of Defense,Pakistan,2013,3,0,0.6666666666666666,1,1,0
+Department of Defense,Pakistan,2014,1,0,0.0,1,1,0
+Department of Defense,Pakistan,2015,1,0,0.0,0,0,0
+Department of Defense,Pakistan,2021,2,0,0.0,1,0,1
+Department of Defense,Peru,2009,1,0,0.0,1,1,0
+Department of Defense,Peru,2012,1,1,1.0,1,1,0
+Department of Defense,Peru,2013,1,0,0.0,0,0,0
+Department of Defense,Philippines,2000,1,1,1.0,0,0,0
+Department of Defense,Philippines,2009,1,0,0.0,1,1,0
+Department of Defense,Philippines,2012,1,1,1.0,1,1,0
+Department of Defense,Philippines,2013,1,0,0.0,1,1,0
+Department of Defense,Philippines,2015,1,0,0.0,0,0,0
+Department of Defense,Philippines,2021,1,0,0.0,1,0,1
+Department of Defense,Poland,2004,2,0,0.5,1,1,0
+Department of Defense,Poland,2006,1,0,0.0,1,1,0
+Department of Defense,Poland,2009,1,0,0.0,0,0,0
+Department of Defense,Poland,2014,1,0,0.0,1,1,1
+Department of Defense,Poland,2015,2,0,0.5,1,1,0
+Department of Defense,Poland,2016,1,1,1.0,0,0,0
+Department of Defense,Portugal,2005,1,0,0.0,0,0,0
+Department of Defense,Qatar,2000,1,1,1.0,1,1,0
+Department of Defense,Qatar,2001,1,1,1.0,0,0,0
+Department of Defense,Qatar,2005,2,0,0.0,0,0,0
+Department of Defense,Qatar,2009,2,0,0.0,1,1,0
+Department of Defense,Qatar,2010,1,0,0.0,1,1,1
+Department of Defense,Qatar,2011,3,0,0.6666666666666666,1,1,0
+Department of Defense,Qatar,2012,1,0,0.0,1,1,1
+Department of Defense,Qatar,2013,3,0,0.3333333333333333,1,1,1
+Department of Defense,Qatar,2014,2,0,0.0,1,1,1
+Department of Defense,Qatar,2015,3,1,1.0,1,1,0
+Department of Defense,Qatar,2016,1,1,1.0,1,1,0
+Department of Defense,Qatar,2017,1,0,0.0,0,0,0
+Department of Defense,Qatar,2021,1,0,0.0,0,0,0
+Department of Defense,Romania,2002,1,0,0.0,0,0,0
+Department of Defense,Romania,2009,1,0,0.0,1,1,1
+Department of Defense,Romania,2011,2,0,0.5,1,1,0
+Department of Defense,Romania,2014,1,0,0.0,1,1,0
+Department of Defense,Romania,2016,1,0,0.0,0,0,0
+Department of Defense,Romania,2021,1,1,1.0,0,0,0
+Department of Defense,Russia,2000,1,1,1.0,0,0,0
+Department of Defense,Russia,2004,1,1,1.0,1,1,0
+Department of Defense,Russia,2005,2,0,0.5,1,1,0
+Department of Defense,Russia,2006,1,0,0.0,1,1,0
+Department of Defense,Russia,2009,1,0,0.0,1,1,1
+Department of Defense,Russia,2010,1,0,0.0,1,1,1
+Department of Defense,Russia,2011,2,0,0.5,1,1,0
+Department of Defense,Russia,2013,1,1,1.0,1,1,0
+Department of Defense,Russia,2014,1,0,0.0,1,1,0
+Department of Defense,Russia,2017,1,1,1.0,0,0,0
+Department of Defense,Saudi Arabia,2000,2,1,1.0,1,1,0
+Department of Defense,Saudi Arabia,2002,1,0,0.0,1,1,0
+Department of Defense,Saudi Arabia,2003,1,0,0.0,1,1,1
+Department of Defense,Saudi Arabia,2005,1,0,0.0,1,1,0
+Department of Defense,Saudi Arabia,2006,1,0,0.0,1,1,0
+Department of Defense,Saudi Arabia,2007,1,0,0.0,1,1,1
+Department of Defense,Saudi Arabia,2008,1,1,1.0,1,1,0
+Department of Defense,Saudi Arabia,2009,2,0,0.0,1,1,1
+Department of Defense,Saudi Arabia,2010,1,0,0.0,1,1,0
+Department of Defense,Saudi Arabia,2012,3,0,0.3333333333333333,1,1,1
+Department of Defense,Saudi Arabia,2014,3,0,0.0,1,1,1
+Department of Defense,Saudi Arabia,2015,3,0,0.6666666666666666,1,1,1
+Department of Defense,Saudi Arabia,2016,2,0,0.5,1,1,0
+Department of Defense,Saudi Arabia,2017,3,0,0.6666666666666666,0,0,0
+Department of Defense,Slovakia,2002,1,0,0.0,0,0,0
+Department of Defense,Slovenia,2011,1,1,1.0,0,0,0
+Department of Defense,South Africa,1999,1,0,0.0,0,0,0
+Department of Defense,South Korea,2000,1,1,1.0,1,1,0
+Department of Defense,South Korea,2001,1,0,0.0,1,1,1
+Department of Defense,South Korea,2004,2,0,0.0,1,1,1
+Department of Defense,South Korea,2005,1,0,0.0,1,1,0
+Department of Defense,South Korea,2007,1,0,0.0,1,1,1
+Department of Defense,South Korea,2009,2,0,0.0,1,1,1
+Department of Defense,South Korea,2010,2,0,0.5,1,1,1
+Department of Defense,South Korea,2011,1,1,1.0,1,1,0
+Department of Defense,South Korea,2012,7,0,0.5714285714285714,1,1,0
+Department of Defense,South Korea,2013,2,0,0.5,1,1,0
+Department of Defense,South Korea,2014,1,0,0.0,1,1,0
+Department of Defense,South Korea,2015,1,0,0.0,1,1,0
+Department of Defense,South Korea,2016,1,0,0.0,1,1,0
+Department of Defense,South Korea,2017,2,0,0.5,1,1,0
+Department of Defense,South Korea,2020,1,1,1.0,1,1,0
+Department of Defense,South Korea,2021,1,0,0.0,1,0,1
+Department of Defense,Spain,2004,1,0,0.0,1,0,1
+Department of Defense,Spain,2006,1,1,1.0,0,0,0
+Department of Defense,State of Palestine,2010,1,0,0.0,0,0,0
+Department of Defense,Suriname,2007,1,0,0.0,0,0,0
+Department of Defense,Taiwan,2005,1,1,1.0,1,1,0
+Department of Defense,Taiwan,2006,1,1,1.0,1,1,0
+Department of Defense,Taiwan,2009,3,0,0.0,0,0,0
+Department of Defense,Taiwan,2014,2,0,0.5,1,1,0
+Department of Defense,Taiwan,2015,1,1,1.0,1,1,0
+Department of Defense,Taiwan,2016,3,0,0.6666666666666666,1,1,0
+Department of Defense,Taiwan,2017,1,1,1.0,1,1,0
+Department of Defense,Taiwan,2019,1,1,1.0,1,1,0
+Department of Defense,Taiwan,2021,1,1,1.0,0,0,0
+Department of Defense,Tajikistan,2005,1,0,0.0,1,0,1
+Department of Defense,Tajikistan,2006,1,1,1.0,0,0,0
+Department of Defense,Thailand,2009,1,0,0.0,1,1,0
+Department of Defense,Thailand,2012,1,0,0.0,1,1,0
+Department of Defense,Thailand,2013,1,0,0.0,0,0,0
+Department of Defense,Thailand,2021,1,0,0.0,0,0,0
+Department of Defense,Tunisia,2000,1,1,1.0,0,0,0
+Department of Defense,Tunisia,2004,1,0,0.0,1,0,1
+Department of Defense,Tunisia,2006,1,1,1.0,0,0,0
+Department of Defense,Tunisia,2010,1,0,0.0,1,1,0
+Department of Defense,Tunisia,2011,1,1,1.0,0,0,0
+Department of Defense,Tunisia,2020,1,1,1.0,0,0,0
+Department of Defense,Turkey,2006,2,0,0.5,1,1,1
+Department of Defense,Turkey,2007,3,0,0.6666666666666666,1,1,1
+Department of Defense,Turkey,2009,3,0,0.0,1,1,1
+Department of Defense,Turkey,2010,1,0,0.0,1,1,0
+Department of Defense,Turkey,2011,2,1,1.0,1,1,0
+Department of Defense,Turkey,2012,1,0,0.0,1,1,0
+Department of Defense,Turkey,2013,1,0,0.0,0,0,0
+Department of Defense,Turkey,2017,2,0,0.5,0,0,0
+Department of Defense,Turkmenistan,2000,1,1,1.0,0,0,0
+Department of Defense,Ukraine,2004,1,0,0.0,0,0,0
+Department of Defense,Ukraine,2016,1,0,0.0,1,1,0
+Department of Defense,Ukraine,2017,1,0,0.0,0,0,0
+Department of Defense,United Arab Emirates,2000,1,1,1.0,0,0,0
+Department of Defense,United Arab Emirates,2009,3,0,0.3333333333333333,1,1,1
+Department of Defense,United Arab Emirates,2010,2,0,0.0,1,1,1
+Department of Defense,United Arab Emirates,2011,2,0,0.5,1,1,0
+Department of Defense,United Arab Emirates,2012,1,0,0.0,1,1,1
+Department of Defense,United Arab Emirates,2014,1,0,0.0,1,1,0
+Department of Defense,United Arab Emirates,2015,1,0,0.0,1,1,0
+Department of Defense,United Arab Emirates,2017,3,0,0.3333333333333333,0,0,0
+Department of Defense,United Kingdom,2011,1,0,0.0,0,0,0
+Department of Defense,Uzbekistan,2000,1,1,1.0,1,1,0
+Department of Defense,Uzbekistan,2001,1,0,0.0,1,0,1
+Department of Defense,Uzbekistan,2002,1,0,0.0,1,1,1
+Department of Defense,Uzbekistan,2004,1,0,0.0,1,1,0
+Department of Defense,Uzbekistan,2005,1,1,1.0,0,0,0
+Department of Defense,Uzbekistan,2013,1,1,1.0,1,1,0
+Department of Defense,Uzbekistan,2014,1,0,0.0,0,0,0
+Department of Defense,Uzbekistan,2018,1,1,1.0,1,1,0
+Department of Defense,Uzbekistan,2020,1,1,1.0,1,1,0
+Department of Defense,Uzbekistan,2021,1,0,0.0,0,0,0
+Department of Defense,Vietnam,2006,1,1,1.0,1,1,0
+Department of Defense,Vietnam,2009,1,0,0.0,1,1,0
+Department of Defense,Vietnam,2012,1,1,1.0,1,1,0
+Department of Defense,Vietnam,2014,2,0,0.0,1,1,0
+Department of Defense,Vietnam,2015,2,1,1.0,1,1,0
+Department of Defense,Vietnam,2018,1,1,1.0,1,1,0
+Department of Defense,Vietnam,2021,1,0,0.0,0,0,0
+Department of Defense,Yemen,2000,1,0,0.0,0,0,0
+Department of Defense,Yemen,2005,1,0,0.0,1,1,0
+Department of Defense,Yemen,2007,1,0,0.0,0,0,0
+Department of Defense,Yemen,2012,1,0,0.0,1,1,1
+Department of Defense,Yemen,2013,1,0,0.0,1,1,1
+Department of Defense,Yemen,2014,2,0,0.5,1,1,0
+Department of Defense,Yemen,2015,1,1,1.0,0,0,0
+Department of Education,United Arab Emirates,2007,1,0,0.0,1,0,1
+Department of Education,United Arab Emirates,2008,1,1,1.0,0,0,0
+Department of Energy,Algeria,2002,1,0,0.0,0,0,0
+Department of Energy,Qatar,2002,1,0,0.0,1,0,1
+Department of Energy,Qatar,2003,1,1,1.0,0,0,0
+Department of Energy,Russia,2002,1,0,0.0,1,1,1
+Department of Energy,Russia,2003,1,1,1.0,1,1,0
+Department of Energy,Russia,2004,1,1,1.0,1,1,0
+Department of Energy,Saudi Arabia,2001,1,0,0.0,1,0,1
+Department of Energy,Saudi Arabia,2003,1,1,1.0,1,1,0
+Department of Homeland Security,Austria,2004,1,1,1.0,0,0,0
+Department of Homeland Security,Austria,2011,1,0,0.0,0,0,0
+Department of Homeland Security,Azerbaijan,2014,1,1,1.0,0,0,0
+Department of Homeland Security,Czech Republic,2008,1,1,1.0,0,0,0
+Department of Homeland Security,France,2011,2,0,0.5,1,0,1
+Department of Homeland Security,France,2012,1,0,0.0,0,0,0
+Department of Homeland Security,Germany,2004,1,1,1.0,0,0,0
+Department of Homeland Security,Italy,2009,1,1,1.0,0,0,0
+Department of Homeland Security,Italy,2013,1,1,1.0,0,0,0
+Department of Homeland Security,Japan,2012,1,0,0.0,0,0,0
+Department of Homeland Security,Jordan,2012,1,0,0.0,0,0,0
+Department of Homeland Security,Malaysia,2013,1,1,1.0,0,0,0
+Department of Homeland Security,Mexico,2009,1,0,0.0,0,0,0
+Department of Homeland Security,Mexico,2013,1,1,1.0,0,0,0
+Department of Homeland Security,Qatar,2010,1,0,0.0,1,0,1
+Department of Homeland Security,Qatar,2011,1,0,0.0,1,1,0
+Department of Homeland Security,Qatar,2014,2,0,0.5,1,1,1
+Department of Homeland Security,Qatar,2015,1,1,1.0,1,1,0
+Department of Homeland Security,Russia,2013,1,1,1.0,0,0,0
+Department of Homeland Security,Saudi Arabia,2010,1,0,0.0,0,0,0
+Department of Homeland Security,Saudi Arabia,2014,1,0,0.0,0,0,0
+Department of Homeland Security,Singapore,2013,1,1,1.0,0,0,0
+Department of Homeland Security,Slovakia,2008,1,1,1.0,1,1,0
+Department of Homeland Security,Slovakia,2009,1,0,0.0,0,0,0
+Department of Homeland Security,Slovakia,2014,1,0,0.0,0,0,0
+Department of Homeland Security,Spain,2010,1,0,0.0,0,0,0
+Department of Homeland Security,Turkey,2012,1,0,0.0,0,0,0
+Department of Justice,Austria,2011,1,0,0.0,0,0,0
+Department of Justice,Bangladesh,2019,1,0,0.0,0,0,0
+Department of Justice,China,2019,1,0,0.0,0,0,0
+Department of Justice,France,2015,1,1,1.0,0,0,0
+Department of Justice,Italy,2010,1,0,0.0,0,0,0
+Department of Justice,Liechtenstein,2018,1,1,1.0,0,0,0
+Department of Justice,New Zealand,2013,1,0,0.0,0,0,0
+Department of Justice,Qatar,2006,2,0,0.5,1,1,0
+Department of Justice,Qatar,2009,1,0,0.0,1,0,1
+Department of Justice,Qatar,2010,1,0,0.0,1,0,1
+Department of Justice,Qatar,2012,1,0,0.0,1,0,1
+Department of Justice,Qatar,2013,1,0,0.0,1,0,1
+Department of Justice,Qatar,2014,1,0,0.0,1,1,1
+Department of Justice,Qatar,2015,1,1,1.0,1,1,0
+Department of Justice,Qatar,2017,1,0,0.0,1,1,1
+Department of Justice,Qatar,2018,1,1,1.0,1,1,0
+Department of Justice,Qatar,2019,1,1,1.0,1,1,0
+Department of Justice,Russia,2009,1,0,0.0,0,0,0
+Department of Justice,Russia,2013,1,0,0.0,0,0,0
+Department of Justice,Saudi Arabia,2013,1,0,0.0,0,0,0
+Department of Justice,United Arab Emirates,2019,1,0,0.0,0,0,0
+Department of Justice,Yemen,2013,1,0,0.0,0,0,0
+Department of State,Afghanistan,2002,1,0,0.0,1,1,1
+Department of State,Afghanistan,2003,1,0,0.0,1,1,1
+Department of State,Afghanistan,2004,1,1,1.0,1,1,0
+Department of State,Afghanistan,2005,2,0,0.5,1,1,1
+Department of State,Afghanistan,2006,1,0,0.0,1,1,0
+Department of State,Afghanistan,2007,2,0,0.5,1,1,0
+Department of State,Afghanistan,2008,1,0,0.0,1,1,0
+Department of State,Afghanistan,2009,1,0,0.0,1,1,1
+Department of State,Afghanistan,2010,1,0,0.0,1,1,1
+Department of State,Afghanistan,2011,2,0,0.5,1,1,1
+Department of State,Afghanistan,2012,1,0,0.0,1,1,1
+Department of State,Afghanistan,2013,5,0,0.6,1,1,1
+Department of State,Afghanistan,2014,1,0,0.0,1,1,1
+Department of State,Afghanistan,2015,4,0,0.25,1,1,1
+Department of State,Afghanistan,2016,2,0,0.5,1,1,0
+Department of State,Afghanistan,2017,1,0,0.0,1,1,0
+Department of State,Afghanistan,2018,1,0,0.0,1,0,1
+Department of State,Afghanistan,2019,1,0,0.0,1,0,1
+Department of State,Afghanistan,2020,1,1,1.0,0,0,0
+Department of State,Albania,2010,1,0,0.0,1,1,1
+Department of State,Albania,2012,2,0,0.0,0,0,0
+Department of State,Algeria,2000,1,1,1.0,1,1,0
+Department of State,Algeria,2001,2,0,0.0,1,0,1
+Department of State,Algeria,2003,1,0,0.0,0,0,0
+Department of State,Algeria,2008,1,1,1.0,1,1,0
+Department of State,Algeria,2010,1,0,0.0,1,1,1
+Department of State,Algeria,2011,1,0,0.0,1,1,0
+Department of State,Algeria,2012,1,0,0.0,1,1,0
+Department of State,Algeria,2013,1,0,0.0,1,1,1
+Department of State,Algeria,2014,1,0,0.0,1,1,1
+Department of State,Algeria,2016,2,0,0.5,0,0,0
+Department of State,Angola,2002,1,0,0.0,0,0,0
+Department of State,Angola,2010,1,0,0.0,1,1,0
+Department of State,Angola,2013,1,1,1.0,1,1,0
+Department of State,Angola,2014,1,0,0.0,0,0,0
+Department of State,Argentina,2010,1,0,0.0,0,0,0
+Department of State,Argentina,2016,1,0,0.0,0,0,0
+Department of State,Armenia,2008,1,1,1.0,1,1,0
+Department of State,Armenia,2010,1,0,0.0,1,1,1
+Department of State,Armenia,2011,1,0,0.0,1,1,1
+Department of State,Armenia,2012,1,0,0.0,1,1,0
+Department of State,Armenia,2013,1,1,1.0,0,0,0
+Department of State,Armenia,2021,1,0,0.0,0,0,0
+Department of State,Azerbaijan,1999,1,0,0.0,1,1,0
+Department of State,Azerbaijan,2000,1,1,1.0,1,1,0
+Department of State,Azerbaijan,2003,1,0,0.0,0,0,0
+Department of State,Azerbaijan,2010,1,0,0.0,1,1,1
+Department of State,Azerbaijan,2012,3,0,0.3333333333333333,1,1,0
+Department of State,Azerbaijan,2013,2,0,0.5,1,1,0
+Department of State,Azerbaijan,2015,1,0,0.0,1,1,0
+Department of State,Azerbaijan,2017,1,1,1.0,1,1,0
+Department of State,Azerbaijan,2019,2,1,1.0,0,0,0
+Department of State,Bahrain,1998,1,1,1.0,1,1,0
+Department of State,Bahrain,2001,3,0,0.0,1,1,1
+Department of State,Bahrain,2002,1,1,1.0,1,1,0
+Department of State,Bahrain,2003,1,0,0.0,1,1,1
+Department of State,Bahrain,2004,2,0,0.5,1,1,0
+Department of State,Bahrain,2005,1,0,0.0,1,0,1
+Department of State,Bahrain,2008,1,1,1.0,1,1,0
+Department of State,Bahrain,2009,1,0,0.0,1,1,1
+Department of State,Bahrain,2010,2,0,0.5,1,1,1
+Department of State,Bahrain,2012,1,0,0.0,1,1,0
+Department of State,Bahrain,2013,4,0,0.0,1,1,1
+Department of State,Bahrain,2015,1,0,0.0,1,1,1
+Department of State,Bahrain,2016,2,0,0.5,1,1,0
+Department of State,Bahrain,2019,1,0,0.0,1,1,0
+Department of State,Bangladesh,1999,1,0,0.0,0,0,0
+Department of State,Bangladesh,2003,1,0,0.0,1,1,0
+Department of State,Bangladesh,2005,1,0,0.0,1,1,0
+Department of State,Bangladesh,2007,2,1,1.0,1,1,0
+Department of State,Bangladesh,2009,1,0,0.0,1,1,1
+Department of State,Bangladesh,2011,1,0,0.0,1,1,0
+Department of State,Bangladesh,2012,1,0,0.0,1,1,0
+Department of State,Bangladesh,2013,1,1,1.0,1,1,0
+Department of State,Bangladesh,2015,3,0,0.6666666666666666,1,1,0
+Department of State,Bangladesh,2018,1,1,1.0,0,0,0
+Department of State,Belgium,2004,1,1,1.0,0,0,0
+Department of State,Belgium,2021,1,0,0.0,0,0,0
+Department of State,Benin,2011,1,0,0.0,1,0,1
+Department of State,Benin,2012,1,0,0.0,1,1,0
+Department of State,Benin,2015,2,0,0.0,0,0,0
+Department of State,Bosnia and Herzegovina,2010,1,1,1.0,1,1,0
+Department of State,Bosnia and Herzegovina,2012,2,0,0.0,0,0,0
+Department of State,Brazil,2007,1,0,0.0,1,1,0
+Department of State,Brazil,2010,1,0,0.0,0,0,0
+Department of State,Brazil,2016,1,0,0.0,0,0,0
+Department of State,Brunei,2000,1,1,1.0,1,1,0
+Department of State,Brunei,2002,2,0,0.5,0,0,0
+Department of State,Brunei,2008,1,1,1.0,1,1,0
+Department of State,Brunei,2010,1,1,1.0,1,1,0
+Department of State,Brunei,2011,2,0,0.0,1,1,1
+Department of State,Brunei,2012,8,0,0.75,1,1,0
+Department of State,Brunei,2013,1,0,0.0,1,1,1
+Department of State,Brunei,2014,2,0,0.5,1,0,1
+Department of State,Brunei,2015,1,0,0.0,1,1,0
+Department of State,Brunei,2018,1,1,1.0,0,0,0
+Department of State,Bulgaria,2001,1,0,0.0,1,1,0
+Department of State,Bulgaria,2004,1,1,1.0,0,0,0
+Department of State,Bulgaria,2008,1,1,1.0,0,0,0
+Department of State,Burkina Faso,2008,1,1,1.0,0,0,0
+Department of State,Cambodia,2003,1,0,0.0,1,1,0
+Department of State,Cambodia,2006,1,0,0.0,0,0,0
+Department of State,Cambodia,2010,1,0,0.0,1,1,1
+Department of State,Cambodia,2012,2,0,0.5,0,0,0
+Department of State,Cambodia,2017,1,1,1.0,0,0,0
+Department of State,Cameroon,2001,1,0,0.0,0,0,0
+Department of State,Cameroon,2010,1,1,1.0,0,0,0
+Department of State,Cameroon,2014,2,0,0.5,0,0,0
+Department of State,Canada,2002,1,0,0.0,1,1,0
+Department of State,Canada,2005,1,0,0.0,1,0,1
+Department of State,Canada,2006,1,0,0.0,0,0,0
+Department of State,Canada,2010,1,0,0.0,0,0,0
+Department of State,Chile,2002,1,0,0.0,1,1,1
+Department of State,Chile,2003,1,0,0.0,1,1,0
+Department of State,Chile,2005,1,0,0.0,0,0,0
+Department of State,Chile,2013,1,1,1.0,1,1,0
+Department of State,Chile,2015,1,0,0.0,0,0,0
+Department of State,China,2001,1,0,0.0,1,1,0
+Department of State,China,2002,1,1,1.0,1,1,0
+Department of State,China,2004,1,1,1.0,1,1,0
+Department of State,China,2005,2,0,0.5,1,1,1
+Department of State,China,2006,3,0,0.0,1,1,1
+Department of State,China,2007,1,0,0.0,1,1,1
+Department of State,China,2008,2,0,0.5,1,1,1
+Department of State,China,2009,4,0,0.25,1,1,1
+Department of State,China,2010,6,0,0.3333333333333333,1,1,1
+Department of State,China,2011,2,0,0.5,1,1,1
+Department of State,China,2012,1,0,0.0,1,1,0
+Department of State,China,2013,3,0,0.0,1,0,1
+Department of State,China,2014,1,0,0.0,1,1,1
+Department of State,China,2015,1,0,0.0,1,1,1
+Department of State,China,2016,1,0,0.0,1,1,0
+Department of State,China,2017,2,1,1.0,1,1,0
+Department of State,China,2018,1,1,1.0,1,1,0
+Department of State,China,2021,1,0,0.0,0,0,0
+Department of State,Colombia,2002,1,0,0.0,1,1,0
+Department of State,Colombia,2005,2,0,0.5,0,0,0
+Department of State,Colombia,2013,1,0,0.0,1,0,1
+Department of State,Colombia,2014,1,0,0.0,0,0,0
+Department of State,Colombia,2021,1,0,0.0,0,0,0
+Department of State,Cook Islands,2012,1,0,0.0,0,0,0
+Department of State,Costa Rica,2010,1,0,0.0,0,0,0
+Department of State,Croatia,2005,1,1,1.0,1,1,0
+Department of State,Croatia,2007,1,0,0.0,0,0,0
+Department of State,Croatia,2014,1,0,0.0,0,0,0
+Department of State,Cuba,2015,1,0,0.0,0,0,0
+Department of State,Czech Republic,2002,1,0,0.0,0,0,0
+Department of State,Czech Republic,2007,1,0,0.0,1,0,1
+Department of State,Czech Republic,2008,1,1,1.0,0,0,0
+Department of State,Czech Republic,2019,1,0,0.0,1,1,0
+Department of State,Czech Republic,2020,1,1,1.0,0,0,0
+Department of State,Democratic Republic of the Congo,2001,1,0,0.0,0,0,0
+Department of State,Democratic Republic of the Congo,2009,1,0,0.0,0,0,0
+Department of State,Democratic Republic of the Congo,2013,1,0,0.0,1,1,0
+Department of State,Democratic Republic of the Congo,2014,1,1,1.0,0,0,0
+Department of State,Denmark,2014,1,1,1.0,0,0,0
+Department of State,Djibouti,2016,1,1,1.0,0,0,0
+Department of State,Ecuador,2004,1,1,1.0,0,0,0
+Department of State,Ecuador,2021,1,0,0.0,0,0,0
+Department of State,Egypt,2004,1,1,1.0,1,1,0
+Department of State,Egypt,2005,1,0,0.0,1,1,0
+Department of State,Egypt,2006,1,0,0.0,1,0,1
+Department of State,Egypt,2008,1,1,1.0,1,1,0
+Department of State,Egypt,2010,1,0,0.0,0,0,0
+Department of State,Egypt,2014,1,0,0.0,0,0,0
+Department of State,Egypt,2018,1,0,0.0,1,1,1
+Department of State,Egypt,2019,2,0,0.5,1,1,0
+Department of State,Egypt,2021,1,1,1.0,1,1,0
+Department of State,El Salvador,2009,1,0,0.0,0,0,0
+Department of State,Ethiopia,2013,1,0,0.0,0,0,0
+Department of State,France,1998,1,0,0.0,1,0,1
+Department of State,France,2000,1,1,1.0,1,1,0
+Department of State,France,2003,1,1,1.0,1,1,0
+Department of State,France,2004,1,1,1.0,1,1,0
+Department of State,France,2005,1,0,0.0,1,0,1
+Department of State,France,2006,1,0,0.0,1,1,1
+Department of State,France,2007,1,0,0.0,1,1,1
+Department of State,France,2008,1,1,1.0,1,1,0
+Department of State,France,2009,1,0,0.0,1,0,1
+Department of State,France,2010,1,0,0.0,1,1,1
+Department of State,France,2011,1,0,0.0,1,1,1
+Department of State,France,2012,1,0,0.0,1,1,0
+Department of State,France,2013,1,0,0.0,1,1,1
+Department of State,France,2014,2,0,0.0,0,0,0
+Department of State,Gabon,2002,1,0,0.0,0,0,0
+Department of State,Georgia,2001,1,0,0.0,1,0,1
+Department of State,Georgia,2004,1,1,1.0,0,0,0
+Department of State,Georgia,2008,1,1,1.0,0,0,0
+Department of State,Georgia,2014,2,0,0.5,0,0,0
+Department of State,Germany,2005,1,0,0.0,1,1,1
+Department of State,Germany,2006,2,0,0.5,0,0,0
+Department of State,Germany,2010,1,0,0.0,1,0,1
+Department of State,Germany,2011,1,0,0.0,1,1,0
+Department of State,Germany,2014,1,0,0.0,1,1,0
+Department of State,Germany,2015,1,0,0.0,1,1,0
+Department of State,Germany,2017,1,1,1.0,0,0,0
+Department of State,Ghana,2008,1,1,1.0,0,0,0
+Department of State,Greece,2000,1,1,1.0,1,1,0
+Department of State,Greece,2001,1,0,0.0,1,0,1
+Department of State,Greece,2002,1,0,0.0,0,0,0
+Department of State,Greece,2006,1,0,0.0,0,0,0
+Department of State,Greece,2010,1,1,1.0,1,1,0
+Department of State,Greece,2012,1,0,0.0,1,1,0
+Department of State,Greece,2015,1,0,0.0,0,0,0
+Department of State,Greece,2021,1,0,0.0,0,0,0
+Department of State,Grenada,2004,1,1,1.0,0,0,0
+Department of State,Guatemala,2010,1,0,0.0,0,0,0
+Department of State,Guinea,2014,1,0,0.0,0,0,0
+Department of State,Guyana,2020,1,1,1.0,0,0,0
+Department of State,Haiti,2007,1,0,0.0,1,1,0
+Department of State,Haiti,2009,1,0,0.0,0,0,0
+Department of State,Honduras,2011,1,0,0.0,0,0,0
+Department of State,Honduras,2017,1,1,1.0,0,0,0
+Department of State,Hungary,2005,1,0,0.0,0,0,0
+Department of State,Hungary,2011,1,0,0.0,1,0,1
+Department of State,Hungary,2013,1,1,1.0,0,0,0
+Department of State,Hungary,2021,1,0,0.0,0,0,0
+Department of State,Iceland,2001,1,0,0.0,0,0,0
+Department of State,India,2000,1,1,1.0,1,1,0
+Department of State,India,2001,1,0,0.0,1,0,1
+Department of State,India,2002,1,0,0.0,1,1,1
+Department of State,India,2003,1,0,0.0,1,1,0
+Department of State,India,2005,1,0,0.0,1,0,1
+Department of State,India,2007,1,0,0.0,1,1,1
+Department of State,India,2008,1,1,1.0,1,1,0
+Department of State,India,2010,1,0,0.0,1,0,1
+Department of State,India,2011,1,0,0.0,1,0,1
+Department of State,India,2012,1,0,0.0,0,0,0
+Department of State,India,2016,1,1,1.0,1,1,0
+Department of State,India,2017,1,1,1.0,1,1,0
+Department of State,India,2019,1,1,1.0,0,0,0
+Department of State,Indonesia,1999,1,1,1.0,1,1,0
+Department of State,Indonesia,2000,1,1,1.0,1,1,0
+Department of State,Indonesia,2001,1,0,0.0,0,0,0
+Department of State,Indonesia,2006,1,0,0.0,0,0,0
+Department of State,Indonesia,2011,1,0,0.0,0,0,0
+Department of State,Indonesia,2018,1,0,0.0,0,0,0
+Department of State,Iran,2008,1,1,1.0,0,0,0
+Department of State,Iran,2015,2,0,0.0,0,0,0
+Department of State,Iraq,2003,1,0,0.0,1,1,1
+Department of State,Iraq,2004,1,0,0.0,1,1,1
+Department of State,Iraq,2005,3,0,0.6666666666666666,1,1,0
+Department of State,Iraq,2006,1,1,1.0,1,1,0
+Department of State,Iraq,2007,1,0,0.0,1,1,1
+Department of State,Iraq,2008,2,1,1.0,1,1,0
+Department of State,Iraq,2009,2,0,0.0,1,1,1
+Department of State,Iraq,2010,1,1,1.0,1,1,0
+Department of State,Iraq,2011,3,0,0.3333333333333333,1,1,0
+Department of State,Iraq,2012,1,1,1.0,1,1,0
+Department of State,Iraq,2013,1,0,0.0,1,1,0
+Department of State,Iraq,2015,2,0,0.0,1,1,1
+Department of State,Iraq,2016,2,1,1.0,1,1,0
+Department of State,Iraq,2018,1,1,1.0,1,1,0
+Department of State,Iraq,2021,1,1,1.0,0,0,0
+Department of State,Ireland,2010,1,0,0.0,0,0,0
+Department of State,Israel,2001,1,0,0.0,1,0,1
+Department of State,Israel,2002,1,0,0.0,1,0,1
+Department of State,Israel,2004,1,1,1.0,0,0,0
+Department of State,Israel,2019,1,1,1.0,0,0,0
+Department of State,Italy,1999,1,0,0.0,1,1,0
+Department of State,Italy,2001,1,1,1.0,1,1,0
+Department of State,Italy,2002,2,0,0.5,1,1,1
+Department of State,Italy,2003,2,0,0.5,1,1,1
+Department of State,Italy,2004,1,1,1.0,1,1,0
+Department of State,Italy,2005,1,0,0.0,1,1,1
+Department of State,Italy,2006,1,0,0.0,1,1,0
+Department of State,Italy,2008,1,1,1.0,1,1,0
+Department of State,Italy,2009,1,1,1.0,1,1,0
+Department of State,Italy,2010,1,0,0.0,1,1,0
+Department of State,Italy,2013,1,0,0.0,0,0,0
+Department of State,Italy,2019,1,0,0.0,1,1,0
+Department of State,Italy,2021,1,0,0.0,0,0,0
+Department of State,Ivory Coast,2012,1,0,0.0,1,1,0
+Department of State,Ivory Coast,2014,1,0,0.0,0,0,0
+Department of State,Japan,2000,1,1,1.0,1,1,0
+Department of State,Japan,2001,1,0,0.0,1,1,0
+Department of State,Japan,2002,1,1,1.0,0,0,0
+Department of State,Japan,2008,1,1,1.0,1,1,0
+Department of State,Japan,2010,1,0,0.0,1,1,1
+Department of State,Japan,2011,1,0,0.0,1,1,0
+Department of State,Japan,2013,2,0,0.0,1,0,1
+Department of State,Japan,2014,1,0,0.0,1,0,1
+Department of State,Japan,2016,1,0,0.0,1,1,0
+Department of State,Japan,2018,2,0,0.5,1,1,1
+Department of State,Japan,2019,1,0,0.0,1,1,1
+Department of State,Japan,2020,1,1,1.0,1,1,0
+Department of State,Japan,2021,1,1,1.0,0,0,0
+Department of State,Jordan,2000,1,1,1.0,1,1,0
+Department of State,Jordan,2001,1,0,0.0,1,1,1
+Department of State,Jordan,2003,2,0,0.0,1,1,1
+Department of State,Jordan,2004,1,1,1.0,1,1,0
+Department of State,Jordan,2005,1,0,0.0,1,1,1
+Department of State,Jordan,2006,1,0,0.0,1,1,1
+Department of State,Jordan,2007,1,0,0.0,1,1,1
+Department of State,Jordan,2008,2,0,0.5,1,1,0
+Department of State,Jordan,2009,3,0,0.0,1,1,1
+Department of State,Jordan,2010,4,0,0.25,1,1,1
+Department of State,Jordan,2011,2,1,1.0,1,1,0
+Department of State,Jordan,2012,1,0,0.0,1,1,0
+Department of State,Jordan,2013,1,1,1.0,1,1,0
+Department of State,Jordan,2015,1,0,0.0,1,1,1
+Department of State,Jordan,2016,4,0,0.5,1,1,0
+Department of State,Jordan,2018,3,0,0.3333333333333333,1,1,1
+Department of State,Jordan,2019,1,1,1.0,1,1,0
+Department of State,Jordan,2020,1,1,1.0,0,0,0
+Department of State,Kazakhstan,2001,1,0,0.0,0,0,0
+Department of State,Kazakhstan,2005,2,0,0.0,1,0,1
+Department of State,Kazakhstan,2006,1,0,0.0,1,1,0
+Department of State,Kazakhstan,2009,1,0,0.0,1,1,1
+Department of State,Kazakhstan,2010,2,0,0.5,1,1,1
+Department of State,Kazakhstan,2011,1,1,1.0,1,1,0
+Department of State,Kazakhstan,2012,1,0,0.0,1,1,0
+Department of State,Kazakhstan,2013,2,0,0.5,1,1,0
+Department of State,Kazakhstan,2014,1,0,0.0,1,0,1
+Department of State,Kazakhstan,2015,1,0,0.0,1,1,0
+Department of State,Kazakhstan,2018,1,0,0.0,1,1,0
+Department of State,Kazakhstan,2019,1,1,1.0,1,1,0
+Department of State,Kazakhstan,2020,1,1,1.0,0,0,0
+Department of State,Kenya,2009,1,0,0.0,0,0,0
+Department of State,Kenya,2014,1,1,1.0,1,1,0
+Department of State,Kenya,2015,1,0,0.0,0,0,0
+Department of State,Kosovo,2009,1,0,0.0,1,0,1
+Department of State,Kosovo,2010,1,0,0.0,1,0,1
+Department of State,Kosovo,2011,1,0,0.0,1,0,1
+Department of State,Kosovo,2012,1,0,0.0,0,0,0
+Department of State,Kuwait,2001,1,0,0.0,1,1,1
+Department of State,Kuwait,2003,1,0,0.0,1,1,1
+Department of State,Kuwait,2004,1,1,1.0,1,1,0
+Department of State,Kuwait,2005,3,0,0.3333333333333333,0,0,0
+Department of State,Kuwait,2009,1,0,0.0,1,1,0
+Department of State,Kuwait,2011,1,0,0.0,1,1,0
+Department of State,Kuwait,2013,1,0,0.0,1,0,1
+Department of State,Kuwait,2016,1,0,0.0,1,1,0
+Department of State,Kuwait,2017,1,1,1.0,1,1,0
+Department of State,Kuwait,2019,1,0,0.0,1,1,0
+Department of State,Kuwait,2021,1,0,0.0,0,0,0
+Department of State,Kyrgyzstan,2000,1,1,1.0,1,1,0
+Department of State,Kyrgyzstan,2002,1,0,0.0,0,0,0
+Department of State,Kyrgyzstan,2010,1,0,0.0,1,0,1
+Department of State,Kyrgyzstan,2011,1,0,0.0,0,0,0
+Department of State,Laos,2012,1,0,0.0,0,0,0
+Department of State,Laos,2016,1,0,0.0,0,0,0
+Department of State,Lebanon,2001,1,0,0.0,1,0,1
+Department of State,Lebanon,2002,1,0,0.0,1,1,1
+Department of State,Lebanon,2003,1,0,0.0,1,1,0
+Department of State,Lebanon,2005,1,0,0.0,1,1,1
+Department of State,Lebanon,2006,2,0,0.5,1,1,0
+Department of State,Lebanon,2007,1,0,0.0,1,1,0
+Department of State,Lebanon,2009,3,0,0.3333333333333333,1,0,1
+Department of State,Lebanon,2010,1,0,0.0,1,1,1
+Department of State,Lebanon,2011,1,0,0.0,1,1,0
+Department of State,Lebanon,2013,2,0,0.5,1,1,0
+Department of State,Lebanon,2014,2,0,0.0,0,0,0
+Department of State,Liberia,2004,1,1,1.0,1,1,0
+Department of State,Liberia,2005,1,1,1.0,1,1,0
+Department of State,Liberia,2006,1,0,0.0,1,1,1
+Department of State,Liberia,2008,1,1,1.0,1,1,0
+Department of State,Liberia,2009,1,0,0.0,1,1,0
+Department of State,Liberia,2012,1,0,0.0,1,1,0
+Department of State,Liberia,2015,1,1,1.0,0,0,0
+Department of State,Libya,2004,1,1,1.0,0,0,0
+Department of State,Libya,2008,2,1,1.0,1,1,0
+Department of State,Libya,2009,1,1,1.0,1,1,0
+Department of State,Libya,2011,1,0,0.0,1,1,0
+Department of State,Libya,2013,1,0,0.0,1,1,0
+Department of State,Libya,2015,1,1,1.0,0,0,0
+Department of State,Libya,2019,1,1,1.0,1,1,0
+Department of State,Libya,2021,1,1,1.0,0,0,0
+Department of State,Lithuania,2007,1,1,1.0,0,0,0
+Department of State,Luxembourg,2016,1,0,0.0,0,0,0
+Department of State,Malaysia,2010,1,0,0.0,1,1,0
+Department of State,Malaysia,2013,2,0,0.5,0,0,0
+Department of State,Malaysia,2017,1,1,1.0,0,0,0
+Department of State,Maldives,2020,1,1,1.0,0,0,0
+Department of State,Mali,2001,1,0,0.0,0,0,0
+Department of State,Malta,2004,1,1,1.0,0,0,0
+Department of State,Mauritius,2009,1,0,0.0,1,1,1
+Department of State,Mauritius,2011,2,0,0.0,0,0,0
+Department of State,Mexico,2001,1,0,0.0,1,0,1
+Department of State,Mexico,2002,1,0,0.0,0,0,0
+Department of State,Mexico,2013,1,1,1.0,1,1,0
+Department of State,Mexico,2014,1,0,0.0,0,0,0
+Department of State,Moldova,2013,1,0,0.0,1,0,1
+Department of State,Moldova,2014,1,0,0.0,1,0,1
+Department of State,Moldova,2015,1,0,0.0,1,1,0
+Department of State,Moldova,2018,1,0,0.0,0,0,0
+Department of State,Monaco,2009,1,0,0.0,0,0,0
+Department of State,Mongolia,2004,1,1,1.0,0,0,0
+Department of State,Mongolia,2011,1,0,0.0,1,0,1
+Department of State,Mongolia,2012,1,0,0.0,0,0,0
+Department of State,Mongolia,2016,1,0,0.0,0,0,0
+Department of State,Montenegro,2002,1,0,0.0,0,0,0
+Department of State,Montenegro,2010,1,0,0.0,0,0,0
+Department of State,Morocco,2000,1,1,1.0,1,1,0
+Department of State,Morocco,2002,1,0,0.0,0,0,0
+Department of State,Morocco,2007,1,0,0.0,1,1,0
+Department of State,Morocco,2008,1,1,1.0,0,0,0
+Department of State,Morocco,2013,2,0,0.0,1,1,1
+Department of State,Morocco,2014,2,0,0.0,1,0,1
+Department of State,Morocco,2015,1,0,0.0,1,1,0
+Department of State,Morocco,2018,1,0,0.0,0,0,0
+Department of State,Myanmar,2011,1,0,0.0,1,1,1
+Department of State,Myanmar,2012,1,0,0.0,1,1,0
+Department of State,Myanmar,2013,1,0,0.0,1,0,1
+Department of State,Myanmar,2014,1,0,0.0,0,0,0
+Department of State,Nepal,2002,2,0,0.0,0,0,0
+Department of State,Nepal,2009,1,0,0.0,0,0,0
+Department of State,Netherlands,2009,1,0,0.0,0,0,0
+Department of State,Netherlands,2015,1,0,0.0,0,0,0
+Department of State,New Zealand,2009,1,0,0.0,1,0,1
+Department of State,New Zealand,2010,1,0,0.0,0,0,0
+Department of State,New Zealand,2021,1,0,0.0,0,0,0
+Department of State,Nicaragua,1999,1,1,1.0,0,0,0
+Department of State,Niger,2021,1,0,0.0,0,0,0
+Department of State,Nigeria,2009,3,0,0.3333333333333333,1,0,1
+Department of State,Nigeria,2010,1,1,1.0,0,0,0
+Department of State,Nigeria,2015,1,0,0.0,1,1,1
+Department of State,Nigeria,2016,2,0,0.5,0,0,0
+Department of State,Oman,2000,1,0,0.0,1,0,1
+Department of State,Oman,2001,1,1,1.0,0,0,0
+Department of State,Oman,2006,2,0,0.0,1,0,1
+Department of State,Oman,2007,1,0,0.0,1,1,1
+Department of State,Oman,2008,1,1,1.0,1,1,0
+Department of State,Oman,2009,1,1,1.0,1,1,0
+Department of State,Oman,2010,1,1,1.0,1,1,0
+Department of State,Oman,2011,3,0,0.0,1,1,1
+Department of State,Oman,2012,1,1,1.0,1,1,0
+Department of State,Oman,2014,4,0,0.5,1,1,1
+Department of State,Oman,2015,3,0,0.3333333333333333,1,0,1
+Department of State,Oman,2016,1,0,0.0,0,0,0
+Department of State,Oman,2021,1,0,0.0,1,0,1
+Department of State,Pakistan,2000,1,1,1.0,1,1,0
+Department of State,Pakistan,2001,1,0,0.0,1,0,1
+Department of State,Pakistan,2002,1,0,0.0,1,1,1
+Department of State,Pakistan,2004,1,1,1.0,1,1,0
+Department of State,Pakistan,2005,2,0,0.5,1,1,1
+Department of State,Pakistan,2006,2,0,0.5,1,1,1
+Department of State,Pakistan,2007,2,1,1.0,1,1,0
+Department of State,Pakistan,2008,1,1,1.0,1,1,0
+Department of State,Pakistan,2009,3,0,0.3333333333333333,1,1,1
+Department of State,Pakistan,2010,2,0,0.5,1,1,0
+Department of State,Pakistan,2011,2,0,0.5,1,1,0
+Department of State,Pakistan,2013,2,0,0.0,1,1,1
+Department of State,Pakistan,2014,1,1,1.0,1,1,0
+Department of State,Pakistan,2015,3,0,0.6666666666666666,1,1,0
+Department of State,Pakistan,2016,1,1,1.0,0,0,0
+Department of State,Panama,2008,1,1,1.0,1,1,0
+Department of State,Panama,2009,1,0,0.0,0,0,0
+Department of State,Papua New Guinea,2010,1,0,0.0,0,0,0
+Department of State,Paraguay,2011,1,1,1.0,1,1,0
+Department of State,Paraguay,2014,1,1,1.0,0,0,0
+Department of State,Peru,2002,1,0,0.0,1,1,0
+Department of State,Peru,2005,1,0,0.0,0,0,0
+Department of State,Peru,2014,1,0,0.0,0,0,0
+Department of State,Philippines,2003,1,0,0.0,0,0,0
+Department of State,Philippines,2009,1,0,0.0,1,0,1
+Department of State,Philippines,2012,1,0,0.0,1,1,0
+Department of State,Philippines,2015,1,0,0.0,0,0,0
+Department of State,Poland,2008,1,1,1.0,0,0,0
+Department of State,Poland,2018,1,0,0.0,0,0,0
+Department of State,Qatar,2001,1,0,0.0,1,1,1
+Department of State,Qatar,2002,2,0,0.5,1,1,0
+Department of State,Qatar,2003,1,0,0.0,1,1,1
+Department of State,Qatar,2004,2,1,1.0,1,1,0
+Department of State,Qatar,2005,2,0,0.0,1,0,1
+Department of State,Qatar,2006,1,0,0.0,1,1,0
+Department of State,Qatar,2007,1,1,1.0,1,1,0
+Department of State,Qatar,2009,4,0,0.25,1,1,1
+Department of State,Qatar,2010,5,0,0.2,1,1,1
+Department of State,Qatar,2011,5,0,0.4,1,1,0
+Department of State,Qatar,2014,5,0,0.4,1,1,1
+Department of State,Qatar,2016,2,0,0.5,1,1,0
+Department of State,Qatar,2017,2,1,1.0,1,1,0
+Department of State,Qatar,2018,1,0,0.0,1,1,0
+Department of State,Qatar,2021,1,0,0.0,1,1,1
+Department of State,Republic of the Congo,2013,1,1,1.0,0,0,0
+Department of State,Romania,2002,1,0,0.0,1,0,1
+Department of State,Romania,2003,1,0,0.0,1,0,1
+Department of State,Romania,2004,1,1,1.0,0,0,0
+Department of State,Romania,2011,1,0,0.0,1,1,0
+Department of State,Romania,2014,1,1,1.0,0,0,0
+Department of State,Russia,2001,1,0,0.0,1,0,1
+Department of State,Russia,2002,1,0,0.0,1,1,1
+Department of State,Russia,2003,1,0,0.0,1,1,0
+Department of State,Russia,2005,1,0,0.0,1,0,1
+Department of State,Russia,2006,1,0,0.0,1,1,1
+Department of State,Russia,2007,1,0,0.0,1,1,0
+Department of State,Russia,2009,1,0,0.0,1,1,1
+Department of State,Russia,2010,2,0,0.5,1,1,1
+Department of State,Russia,2011,1,0,0.0,1,1,1
+Department of State,Russia,2012,1,0,0.0,1,1,0
+Department of State,Russia,2013,1,0,0.0,1,1,0
+Department of State,Russia,2014,1,0,0.0,0,0,0
+Department of State,Saudi Arabia,1998,1,1,1.0,1,1,0
+Department of State,Saudi Arabia,2000,1,1,1.0,1,1,0
+Department of State,Saudi Arabia,2001,1,0,0.0,1,1,1
+Department of State,Saudi Arabia,2002,4,0,0.25,1,1,1
+Department of State,Saudi Arabia,2003,2,0,0.0,1,1,1
+Department of State,Saudi Arabia,2004,3,0,0.6666666666666666,1,1,1
+Department of State,Saudi Arabia,2005,3,0,0.0,1,1,1
+Department of State,Saudi Arabia,2006,4,0,0.25,1,1,1
+Department of State,Saudi Arabia,2007,4,0,0.0,1,1,1
+Department of State,Saudi Arabia,2008,4,1,1.0,1,1,0
+Department of State,Saudi Arabia,2009,2,1,1.0,1,1,0
+Department of State,Saudi Arabia,2010,2,0,0.0,1,1,1
+Department of State,Saudi Arabia,2012,6,0,0.6666666666666666,1,1,0
+Department of State,Saudi Arabia,2013,1,0,0.0,1,1,1
+Department of State,Saudi Arabia,2014,6,0,0.5,1,1,1
+Department of State,Saudi Arabia,2015,2,0,0.0,1,1,1
+Department of State,Saudi Arabia,2016,1,0,0.0,1,1,0
+Department of State,Saudi Arabia,2017,1,1,1.0,1,1,0
+Department of State,Saudi Arabia,2018,1,0,0.0,1,1,1
+Department of State,Saudi Arabia,2019,1,0,0.0,1,1,0
+Department of State,Saudi Arabia,2021,1,0,0.0,0,0,0
+Department of State,Senegal,2021,1,0,0.0,0,0,0
+Department of State,Serbia,2001,1,0,0.0,0,0,0
+Department of State,Serbia,2011,1,1,1.0,0,0,0
+Department of State,Singapore,2009,1,0,0.0,1,0,1
+Department of State,Singapore,2012,1,0,0.0,0,0,0
+Department of State,Slovenia,2006,1,0,0.0,0,0,0
+Department of State,South Africa,2003,1,0,0.0,0,0,0
+Department of State,South Africa,2009,1,0,0.0,1,0,1
+Department of State,South Africa,2010,1,0,0.0,1,0,1
+Department of State,South Africa,2012,1,0,0.0,0,0,0
+Department of State,South Korea,2001,1,0,0.0,1,0,1
+Department of State,South Korea,2003,1,0,0.0,1,1,1
+Department of State,South Korea,2004,1,1,1.0,1,1,0
+Department of State,South Korea,2005,2,0,0.5,1,0,1
+Department of State,South Korea,2007,1,0,0.0,1,1,0
+Department of State,South Korea,2009,1,0,0.0,1,0,1
+Department of State,South Korea,2011,1,0,0.0,1,1,0
+Department of State,South Korea,2013,1,0,0.0,0,0,0
+Department of State,South Sudan,2011,1,1,1.0,0,0,0
+Department of State,Spain,2011,1,0,0.0,0,0,0
+Department of State,Spain,2015,1,0,0.0,0,0,0
+Department of State,Sri Lanka,2004,1,1,1.0,1,1,0
+Department of State,Sri Lanka,2006,1,0,0.0,1,0,1
+Department of State,Sri Lanka,2007,1,0,0.0,1,1,0
+Department of State,Sri Lanka,2010,1,0,0.0,0,0,0
+Department of State,Sri Lanka,2014,1,0,0.0,0,0,0
+Department of State,Sri Lanka,2020,1,1,1.0,0,0,0
+Department of State,State of Palestine,1999,1,0,0.0,1,1,1
+Department of State,State of Palestine,2000,1,1,1.0,1,1,0
+Department of State,State of Palestine,2001,1,0,0.0,0,0,0
+Department of State,State of Palestine,2005,2,0,0.0,1,0,1
+Department of State,State of Palestine,2007,1,0,0.0,0,0,0
+Department of State,Suriname,2020,1,1,1.0,0,0,0
+Department of State,Sweden,2004,1,1,1.0,0,0,0
+Department of State,Switzerland,2009,1,0,0.0,0,0,0
+Department of State,Taiwan,2003,1,0,0.0,0,0,0
+Department of State,Taiwan,2016,1,1,1.0,0,0,0
+Department of State,Tajikistan,2005,1,0,0.0,0,0,0
+Department of State,Tajikistan,2011,1,0,0.0,0,0,0
+Department of State,Tajikistan,2016,2,0,0.0,0,0,0
+Department of State,Tanzania,2009,1,0,0.0,1,1,0
+Department of State,Tanzania,2012,1,0,0.0,1,1,0
+Department of State,Tanzania,2013,1,1,1.0,0,0,0
+Department of State,Thailand,2002,2,0,0.5,1,1,1
+Department of State,Thailand,2003,2,0,0.5,1,1,0
+Department of State,Thailand,2005,1,0,0.0,0,0,0
+Department of State,Thailand,2010,1,0,0.0,1,1,0
+Department of State,Thailand,2012,2,0,0.0,1,1,0
+Department of State,Thailand,2013,1,0,0.0,0,0,0
+Department of State,The Bahamas,2002,1,0,0.0,0,0,0
+Department of State,The Bahamas,2006,1,0,0.0,0,0,0
+Department of State,The Gambia,2005,1,1,1.0,0,0,0
+Department of State,Timor-Leste,2012,1,0,0.0,0,0,0
+Department of State,Timor-Leste,2017,1,1,1.0,0,0,0
+Department of State,Togo,2014,1,0,0.0,0,0,0
+Department of State,Trinidad and Tobago,2011,1,1,1.0,0,0,0
+Department of State,Tunisia,2003,1,0,0.0,1,1,1
+Department of State,Tunisia,2004,1,1,1.0,1,1,0
+Department of State,Tunisia,2006,1,0,0.0,1,0,1
+Department of State,Tunisia,2007,1,0,0.0,1,1,1
+Department of State,Tunisia,2008,1,1,1.0,1,1,0
+Department of State,Tunisia,2010,1,0,0.0,1,0,1
+Department of State,Tunisia,2011,1,0,0.0,1,0,1
+Department of State,Tunisia,2012,1,0,0.0,0,0,0
+Department of State,Tunisia,2017,1,1,1.0,0,0,0
+Department of State,Turkey,2001,1,0,0.0,0,0,0
+Department of State,Turkey,2009,1,0,0.0,1,1,0
+Department of State,Turkey,2010,1,0,0.0,1,1,1
+Department of State,Turkey,2011,2,0,0.5,1,1,1
+Department of State,Turkey,2012,1,0,0.0,1,1,0
+Department of State,Turkey,2013,1,0,0.0,1,1,0
+Department of State,Turkey,2015,1,0,0.0,1,1,1
+Department of State,Turkey,2016,1,0,0.0,1,1,0
+Department of State,Turkey,2017,1,1,1.0,0,0,0
+Department of State,Turkmenistan,1999,1,0,0.0,0,0,0
+Department of State,Turkmenistan,2004,1,0,0.0,1,1,0
+Department of State,Turkmenistan,2005,1,1,1.0,1,1,0
+Department of State,Turkmenistan,2007,1,0,0.0,1,1,0
+Department of State,Turkmenistan,2009,3,0,0.3333333333333333,0,0,0
+Department of State,Turkmenistan,2015,2,0,0.5,0,0,0
+Department of State,Uganda,2001,1,0,0.0,0,0,0
+Department of State,Ukraine,2004,1,1,1.0,0,0,0
+Department of State,Ukraine,2008,2,1,1.0,1,1,0
+Department of State,Ukraine,2009,1,0,0.0,0,0,0
+Department of State,Ukraine,2013,2,0,0.5,0,0,0
+Department of State,United Arab Emirates,1999,2,1,1.0,1,1,0
+Department of State,United Arab Emirates,2002,1,0,0.0,1,1,1
+Department of State,United Arab Emirates,2004,2,0,0.5,1,1,0
+Department of State,United Arab Emirates,2006,1,0,0.0,1,1,1
+Department of State,United Arab Emirates,2007,1,0,0.0,1,1,1
+Department of State,United Arab Emirates,2008,3,1,1.0,1,1,0
+Department of State,United Arab Emirates,2010,1,0,0.0,1,1,1
+Department of State,United Arab Emirates,2011,3,0,0.3333333333333333,1,1,0
+Department of State,United Arab Emirates,2012,2,1,1.0,1,1,0
+Department of State,United Arab Emirates,2013,2,0,0.5,1,1,1
+Department of State,United Arab Emirates,2014,2,0,0.5,1,1,0
+Department of State,United Arab Emirates,2016,3,0,0.3333333333333333,1,1,1
+Department of State,United Arab Emirates,2017,1,1,1.0,1,1,0
+Department of State,United Arab Emirates,2018,2,0,0.5,1,0,1
+Department of State,United Arab Emirates,2019,1,0,0.0,0,0,0
+Department of State,United Kingdom,2004,1,0,0.0,1,1,0
+Department of State,United Kingdom,2006,1,0,0.0,1,1,0
+Department of State,United Kingdom,2008,1,1,1.0,1,1,0
+Department of State,United Kingdom,2011,1,0,0.0,1,1,0
+Department of State,United Kingdom,2013,1,0,0.0,1,1,0
+Department of State,United Kingdom,2015,1,0,0.0,0,0,0
+Department of State,Uruguay,2014,2,0,0.5,0,0,0
+Department of State,Uzbekistan,2000,1,1,1.0,1,1,0
+Department of State,Uzbekistan,2001,1,0,0.0,1,1,1
+Department of State,Uzbekistan,2002,1,0,0.0,1,1,1
+Department of State,Uzbekistan,2003,2,0,0.5,0,0,0
+Department of State,Uzbekistan,2010,1,0,0.0,1,0,1
+Department of State,Uzbekistan,2011,1,0,0.0,1,1,0
+Department of State,Uzbekistan,2014,1,1,1.0,1,1,0
+Department of State,Uzbekistan,2015,2,0,0.0,1,1,1
+Department of State,Uzbekistan,2016,1,0,0.0,1,1,0
+Department of State,Uzbekistan,2017,1,1,1.0,1,1,0
+Department of State,Uzbekistan,2018,3,0,0.3333333333333333,1,1,1
+Department of State,Uzbekistan,2019,2,0,0.5,1,1,0
+Department of State,Uzbekistan,2021,2,0,0.0,1,1,1
+Department of State,Vatican City,2003,1,0,0.0,0,0,0
+Department of State,Vatican City,2008,1,1,1.0,0,0,0
+Department of State,Vietnam,2006,1,0,0.0,1,0,1
+Department of State,Vietnam,2007,1,0,0.0,1,1,0
+Department of State,Vietnam,2010,1,0,0.0,1,1,1
+Department of State,Vietnam,2011,2,0,0.5,1,1,0
+Department of State,Vietnam,2013,1,0,0.0,1,1,1
+Department of State,Vietnam,2015,2,0,0.0,1,1,0
+Department of State,Vietnam,2017,1,1,1.0,1,1,0
+Department of State,Vietnam,2020,1,1,1.0,0,0,0
+Department of State,Yemen,2001,2,0,0.0,1,1,0
+Department of State,Yemen,2003,1,1,1.0,1,1,0
+Department of State,Yemen,2005,2,0,0.0,1,0,1
+Department of State,Yemen,2007,1,0,0.0,0,0,0
+Department of State,Yemen,2011,1,0,0.0,1,1,1
+Department of State,Yemen,2012,2,0,0.5,1,1,0
+Department of State,Yemen,2013,2,0,0.0,1,1,0
+Department of State,Yemen,2014,1,1,1.0,0,0,0
+Department of State,Zambia,2011,1,0,0.0,0,0,0
+Department of the Air Force,Afghanistan,2008,1,0,0.0,1,0,1
+Department of the Air Force,Afghanistan,2009,1,0,0.0,1,0,1
+Department of the Air Force,Afghanistan,2011,1,0,0.0,1,1,1
+Department of the Air Force,Afghanistan,2012,1,1,1.0,1,1,0
+Department of the Air Force,Afghanistan,2014,1,0,0.0,0,0,0
+Department of the Air Force,Bangladesh,2000,1,0,0.0,0,0,0
+Department of the Air Force,Egypt,1999,1,0,0.0,1,0,1
+Department of the Air Force,Egypt,2000,1,0,0.0,0,0,0
+Department of the Air Force,Egypt,2015,1,1,1.0,0,0,0
+Department of the Air Force,France,2008,1,1,1.0,0,0,0
+Department of the Air Force,Greece,2000,1,0,0.0,0,0,0
+Department of the Air Force,India,2011,1,1,1.0,0,0,0
+Department of the Air Force,Italy,1999,1,0,0.0,0,0,0
+Department of the Air Force,Italy,2014,1,0,0.0,0,0,0
+Department of the Air Force,Japan,2000,1,0,0.0,0,0,0
+Department of the Air Force,Jordan,2006,1,0,0.0,1,0,1
+Department of the Air Force,Jordan,2008,1,0,0.0,0,0,0
+Department of the Air Force,Jordan,2015,1,1,1.0,0,0,0
+Department of the Air Force,Kuwait,1999,1,0,0.0,1,0,1
+Department of the Air Force,Kuwait,2000,1,0,0.0,0,0,0
+Department of the Air Force,Kuwait,2004,1,1,1.0,1,1,0
+Department of the Air Force,Kuwait,2005,1,1,1.0,1,1,0
+Department of the Air Force,Kuwait,2007,1,1,1.0,0,0,0
+Department of the Air Force,Kuwait,2013,1,0,0.0,0,0,0
+Department of the Air Force,Latvia,1999,1,0,0.0,0,0,0
+Department of the Air Force,Morocco,2009,1,0,0.0,1,0,1
+Department of the Air Force,Morocco,2010,1,0,0.0,0,0,0
+Department of the Air Force,Oman,2001,1,0,0.0,0,0,0
+Department of the Air Force,Pakistan,2009,1,0,0.0,0,0,0
+Department of the Air Force,Qatar,2008,1,0,0.0,1,1,0
+Department of the Air Force,Qatar,2009,1,1,1.0,1,1,0
+Department of the Air Force,Qatar,2011,3,0,0.0,1,1,1
+Department of the Air Force,Qatar,2012,3,0,0.0,1,1,1
+Department of the Air Force,Qatar,2013,4,0,0.75,1,1,0
+Department of the Air Force,Qatar,2014,1,0,0.0,1,1,0
+Department of the Air Force,Qatar,2015,3,1,1.0,1,1,0
+Department of the Air Force,Qatar,2017,1,1,1.0,0,0,0
+Department of the Air Force,Saudi Arabia,2001,2,1,1.0,0,0,0
+Department of the Air Force,Saudi Arabia,2005,2,1,1.0,1,1,0
+Department of the Air Force,Saudi Arabia,2007,1,1,1.0,0,0,0
+Department of the Air Force,Spain,2000,1,0,0.0,0,0,0
+Department of the Air Force,Taiwan,1999,1,1,1.0,0,0,0
+Department of the Air Force,Taiwan,2011,1,1,1.0,0,0,0
+Department of the Air Force,Turkey,2002,1,1,1.0,0,0,0
+Department of the Air Force,United Arab Emirates,2000,2,0,0.5,0,0,0
+Department of the Air Force,United Arab Emirates,2005,1,1,1.0,0,0,0
+Department of the Air Force,United Arab Emirates,2013,3,0,0.6666666666666666,0,0,0
+Department of the Air Force,United Kingdom,2001,1,1,1.0,0,0,0
+Department of the Air Force,Uruguay,2001,1,1,1.0,0,0,0
+Department of the Army,Afghanistan,2006,1,1,1.0,1,1,0
+Department of the Army,Afghanistan,2009,1,1,1.0,1,1,0
+Department of the Army,Afghanistan,2011,1,0,0.0,1,1,1
+Department of the Army,Afghanistan,2012,6,0,0.6666666666666666,1,1,1
+Department of the Army,Afghanistan,2013,3,1,1.0,1,1,0
+Department of the Army,Afghanistan,2014,2,1,1.0,1,1,0
+Department of the Army,Afghanistan,2015,1,0,0.0,1,1,1
+Department of the Army,Afghanistan,2016,2,1,1.0,1,1,0
+Department of the Army,Afghanistan,2019,1,1,1.0,0,0,0
+Department of the Army,Bahrain,2007,1,0,0.0,0,0,0
+Department of the Army,China,2012,1,1,1.0,0,0,0
+Department of the Army,Egypt,2009,1,0,0.0,0,0,0
+Department of the Army,Egypt,2017,1,0,0.0,0,0,0
+Department of the Army,Germany,2006,1,1,1.0,0,0,0
+Department of the Army,India,2013,1,0,0.0,0,0,0
+Department of the Army,India,2018,1,1,1.0,0,0,0
+Department of the Army,Indonesia,2008,2,1,1.0,0,0,0
+Department of the Army,Indonesia,2012,1,0,0.0,0,0,0
+Department of the Army,Indonesia,2019,1,1,1.0,0,0,0
+Department of the Army,Iraq,2006,2,1,1.0,1,1,0
+Department of the Army,Iraq,2007,4,0,0.0,1,1,1
+Department of the Army,Iraq,2008,3,0,0.3333333333333333,1,1,1
+Department of the Army,Iraq,2009,7,0,0.5714285714285714,1,1,1
+Department of the Army,Iraq,2010,2,0,0.5,1,1,0
+Department of the Army,Iraq,2011,4,0,0.75,0,0,0
+Department of the Army,Iraq,2016,1,1,1.0,1,1,0
+Department of the Army,Iraq,2017,2,1,1.0,1,1,0
+Department of the Army,Iraq,2018,2,1,1.0,1,1,0
+Department of the Army,Italy,2014,1,1,1.0,1,1,0
+Department of the Army,Italy,2016,1,1,1.0,1,1,0
+Department of the Army,Italy,2018,1,1,1.0,0,0,0
+Department of the Army,Japan,2006,1,1,1.0,0,0,0
+Department of the Army,Jordan,2016,1,1,1.0,0,0,0
+Department of the Army,Kuwait,2007,2,0,0.5,0,0,0
+Department of the Army,Kuwait,2011,1,0,0.0,0,0,0
+Department of the Army,Lebanon,2019,1,1,1.0,0,0,0
+Department of the Army,Liberia,2018,1,0,0.0,0,0,0
+Department of the Army,Nigeria,2012,1,0,0.0,1,0,1
+Department of the Army,Nigeria,2013,1,1,1.0,0,0,0
+Department of the Army,Pakistan,2016,1,1,1.0,0,0,0
+Department of the Army,Poland,2011,1,1,1.0,0,0,0
+Department of the Army,Qatar,2006,1,0,0.0,1,1,1
+Department of the Army,Qatar,2007,1,0,0.0,1,1,1
+Department of the Army,Qatar,2009,1,0,0.0,1,1,1
+Department of the Army,Qatar,2010,2,1,1.0,1,1,0
+Department of the Army,Qatar,2012,1,1,1.0,1,1,0
+Department of the Army,Qatar,2013,1,1,1.0,1,1,0
+Department of the Army,Qatar,2014,1,1,1.0,1,1,0
+Department of the Army,Qatar,2016,1,1,1.0,1,1,0
+Department of the Army,Qatar,2017,1,0,0.0,1,0,1
+Department of the Army,Qatar,2018,1,0,0.0,1,0,1
+Department of the Army,Qatar,2019,1,1,1.0,0,0,0
+Department of the Army,Saudi Arabia,2017,1,1,1.0,0,0,0
+Department of the Army,South Africa,2012,1,1,1.0,0,0,0
+Department of the Army,South Korea,2013,1,1,1.0,0,0,0
+Department of the Army,South Korea,2019,1,0,0.0,0,0,0
+Department of the Army,Thailand,2013,1,1,1.0,0,0,0
+Department of the Army,United Arab Emirates,2007,1,0,0.0,0,0,0
+Department of the Army,United Arab Emirates,2012,1,1,1.0,1,1,0
+Department of the Army,United Arab Emirates,2013,2,1,1.0,1,1,0
+Department of the Army,United Arab Emirates,2016,1,1,1.0,1,1,0
+Department of the Army,United Arab Emirates,2017,3,0,0.3333333333333333,1,0,1
+Department of the Army,United Arab Emirates,2018,1,0,0.0,0,0,0
+Department of the Army,Uzbekistan,2018,1,0,0.0,0,0,0
+Department of the Navy,Afghanistan,2011,1,1,1.0,0,0,0
+Department of the Navy,Australia,2003,1,0,0.0,1,0,1
+Department of the Navy,Australia,2004,1,1,1.0,0,0,0
+Department of the Navy,Bahrain,1998,1,0,0.0,1,1,1
+Department of the Navy,Bahrain,1999,4,0,0.5,1,0,1
+Department of the Navy,Bahrain,2002,1,1,1.0,0,0,0
+Department of the Navy,Bahrain,2006,1,0,0.0,1,1,1
+Department of the Navy,Bahrain,2008,3,0,0.6666666666666666,1,1,1
+Department of the Navy,Bahrain,2009,1,0,0.0,1,1,1
+Department of the Navy,Bahrain,2010,1,0,0.0,1,1,0
+Department of the Navy,Bahrain,2011,2,0,0.5,1,1,1
+Department of the Navy,Bahrain,2012,2,0,0.5,1,0,1
+Department of the Navy,Bahrain,2015,1,1,1.0,1,1,0
+Department of the Navy,Bahrain,2017,1,1,1.0,1,1,0
+Department of the Navy,Bahrain,2020,1,1,1.0,0,0,0
+Department of the Navy,Bangladesh,2012,1,0,0.0,0,0,0
+Department of the Navy,Brazil,2011,1,0,0.0,0,0,0
+Department of the Navy,Brazil,2015,1,1,1.0,0,0,0
+Department of the Navy,Brunei,2012,1,1,1.0,0,0,0
+Department of the Navy,Brunei,2016,1,1,1.0,0,0,0
+Department of the Navy,Bulgaria,2012,1,0,0.0,0,0,0
+Department of the Navy,Cameroon,2012,1,0,0.0,0,0,0
+Department of the Navy,Chile,2010,1,0,0.0,1,0,1
+Department of the Navy,Chile,2012,1,0,0.0,1,1,0
+Department of the Navy,Chile,2015,1,1,1.0,0,0,0
+Department of the Navy,China,2001,1,1,1.0,0,0,0
+Department of the Navy,China,2007,1,1,1.0,0,0,0
+Department of the Navy,China,2012,1,0,0.0,1,1,0
+Department of the Navy,China,2013,2,1,1.0,0,0,0
+Department of the Navy,Colombia,2009,1,0,0.0,1,1,0
+Department of the Navy,Colombia,2011,1,0,0.0,0,0,0
+Department of the Navy,Croatia,2008,1,1,1.0,0,0,0
+Department of the Navy,Dominican Republic,2007,1,0,0.0,0,0,0
+Department of the Navy,Egypt,2003,1,1,1.0,0,0,0
+Department of the Navy,Egypt,2009,1,0,0.0,1,0,1
+Department of the Navy,Egypt,2010,1,0,0.0,0,0,0
+Department of the Navy,France,2008,1,1,1.0,0,0,0
+Department of the Navy,France,2012,1,0,0.0,1,1,0
+Department of the Navy,France,2013,1,1,1.0,0,0,0
+Department of the Navy,Greece,2007,1,1,1.0,1,1,0
+Department of the Navy,Greece,2008,1,1,1.0,0,0,0
+Department of the Navy,India,2003,1,1,1.0,0,0,0
+Department of the Navy,India,2010,1,0,0.0,0,0,0
+Department of the Navy,Iraq,2007,1,0,0.0,1,1,0
+Department of the Navy,Iraq,2008,1,0,0.0,0,0,0
+Department of the Navy,Iraq,2013,1,1,1.0,0,0,0
+Department of the Navy,Israel,2010,1,0,0.0,1,1,0
+Department of the Navy,Israel,2013,1,0,0.0,0,0,0
+Department of the Navy,Italy,2002,1,0,0.0,0,0,0
+Department of the Navy,Italy,2006,1,1,1.0,1,1,0
+Department of the Navy,Italy,2008,1,1,1.0,1,1,0
+Department of the Navy,Italy,2009,1,0,0.0,1,1,0
+Department of the Navy,Italy,2010,1,0,0.0,1,1,0
+Department of the Navy,Italy,2011,1,0,0.0,1,1,1
+Department of the Navy,Italy,2012,3,0,0.6666666666666666,1,1,0
+Department of the Navy,Italy,2014,1,0,0.0,0,0,0
+Department of the Navy,Japan,2001,1,1,1.0,1,1,0
+Department of the Navy,Japan,2003,2,0,0.5,0,0,0
+Department of the Navy,Japan,2007,1,1,1.0,0,0,0
+Department of the Navy,Japan,2011,2,0,0.5,1,1,1
+Department of the Navy,Japan,2013,1,1,1.0,1,1,0
+Department of the Navy,Japan,2014,1,0,0.0,1,1,0
+Department of the Navy,Japan,2015,1,0,0.0,1,1,0
+Department of the Navy,Japan,2016,1,1,1.0,0,0,0
+Department of the Navy,Jordan,2013,1,0,0.0,0,0,0
+Department of the Navy,Kuwait,1999,1,1,1.0,1,1,0
+Department of the Navy,Kuwait,2001,1,0,0.0,1,0,1
+Department of the Navy,Kuwait,2002,1,1,1.0,0,0,0
+Department of the Navy,Kuwait,2011,1,0,0.0,1,1,0
+Department of the Navy,Kuwait,2013,1,1,1.0,1,1,0
+Department of the Navy,Kuwait,2015,1,1,1.0,1,1,0
+Department of the Navy,Kuwait,2016,1,1,1.0,0,0,0
+Department of the Navy,Lebanon,2012,3,0,0.3333333333333333,1,0,1
+Department of the Navy,Lebanon,2013,1,0,0.0,0,0,0
+Department of the Navy,Malaysia,2010,1,0,0.0,0,0,0
+Department of the Navy,Mexico,2014,1,0,0.0,1,1,0
+Department of the Navy,Mexico,2015,1,1,1.0,0,0,0
+Department of the Navy,Netherlands,2013,1,1,1.0,0,0,0
+Department of the Navy,New Zealand,2008,1,1,1.0,0,0,0
+Department of the Navy,Nigeria,2009,1,0,0.0,0,0,0
+Department of the Navy,Nigeria,2014,1,0,0.0,0,0,0
+Department of the Navy,North Macedonia,2008,1,1,1.0,1,1,0
+Department of the Navy,North Macedonia,2010,1,0,0.0,1,0,1
+Department of the Navy,North Macedonia,2011,1,1,1.0,0,0,0
+Department of the Navy,Norway,2009,1,0,0.0,1,1,0
+Department of the Navy,Norway,2012,1,1,1.0,0,0,0
+Department of the Navy,Oman,2011,1,0,0.0,1,1,0
+Department of the Navy,Oman,2012,2,0,0.0,1,1,1
+Department of the Navy,Oman,2013,1,0,0.0,1,1,0
+Department of the Navy,Oman,2014,1,0,0.0,0,0,0
+Department of the Navy,Pakistan,2006,1,0,0.0,1,1,0
+Department of the Navy,Pakistan,2009,1,0,0.0,0,0,0
+Department of the Navy,Pakistan,2014,1,0,0.0,0,0,0
+Department of the Navy,Peru,2015,1,1,1.0,0,0,0
+Department of the Navy,Philippines,2013,1,0,0.0,1,1,0
+Department of the Navy,Philippines,2014,1,0,0.0,0,0,0
+Department of the Navy,Qatar,2008,2,0,0.5,1,1,1
+Department of the Navy,Qatar,2009,1,0,0.0,1,1,1
+Department of the Navy,Qatar,2010,2,0,0.5,1,1,0
+Department of the Navy,Qatar,2011,6,0,0.6666666666666666,1,1,1
+Department of the Navy,Qatar,2012,2,0,0.0,1,1,0
+Department of the Navy,Qatar,2013,1,1,1.0,1,1,0
+Department of the Navy,Qatar,2014,1,0,0.0,1,0,1
+Department of the Navy,Qatar,2015,1,1,1.0,0,0,0
+Department of the Navy,Romania,2014,1,0,0.0,0,0,0
+Department of the Navy,Russia,2009,1,0,0.0,1,1,0
+Department of the Navy,Russia,2011,1,0,0.0,0,0,0
+Department of the Navy,Saudi Arabia,2002,1,1,1.0,0,0,0
+Department of the Navy,Saudi Arabia,2007,1,0,0.0,1,1,0
+Department of the Navy,Saudi Arabia,2008,1,0,0.0,1,1,1
+Department of the Navy,Saudi Arabia,2009,1,0,0.0,1,1,0
+Department of the Navy,Saudi Arabia,2010,1,0,0.0,0,0,0
+Department of the Navy,Saudi Arabia,2014,1,0,0.0,0,0,0
+Department of the Navy,Saudi Arabia,2019,1,0,0.0,0,0,0
+Department of the Navy,Singapore,2001,1,0,0.0,1,1,0
+Department of the Navy,Singapore,2003,2,0,0.5,0,0,0
+Department of the Navy,Singapore,2007,1,1,1.0,0,0,0
+Department of the Navy,Singapore,2011,1,1,1.0,0,0,0
+Department of the Navy,Slovenia,2008,1,1,1.0,0,0,0
+Department of the Navy,South Africa,2012,1,1,1.0,1,1,0
+Department of the Navy,South Africa,2013,1,1,1.0,0,0,0
+Department of the Navy,South Korea,2001,1,1,1.0,0,0,0
+Department of the Navy,South Korea,2010,1,0,0.0,1,1,0
+Department of the Navy,South Korea,2011,1,0,0.0,1,1,0
+Department of the Navy,South Korea,2012,1,0,0.0,1,1,0
+Department of the Navy,South Korea,2013,1,1,1.0,0,0,0
+Department of the Navy,South Korea,2017,1,1,1.0,0,0,0
+Department of the Navy,Taiwan,2011,1,0,0.0,0,0,0
+Department of the Navy,Tajikistan,2010,1,0,0.0,1,0,1
+Department of the Navy,Tajikistan,2012,1,0,0.0,0,0,0
+Department of the Navy,Thailand,2009,1,1,1.0,0,0,0
+Department of the Navy,Trinidad and Tobago,2014,1,1,1.0,0,0,0
+Department of the Navy,United Arab Emirates,1998,1,0,0.0,1,0,1
+Department of the Navy,United Arab Emirates,1999,1,0,0.0,1,0,1
+Department of the Navy,United Arab Emirates,2000,1,0,0.0,1,0,1
+Department of the Navy,United Arab Emirates,2001,1,0,0.0,0,0,0
+Department of the Navy,United Arab Emirates,2008,2,1,1.0,1,1,0
+Department of the Navy,United Arab Emirates,2011,4,0,0.75,1,1,0
+Department of the Navy,United Arab Emirates,2012,1,0,0.0,1,0,1
+Department of the Navy,United Arab Emirates,2013,1,0,0.0,0,0,0
+Department of the Navy,United Arab Emirates,2017,2,1,1.0,0,0,0
+Department of the Treasury,Afghanistan,2003,1,0,0.0,0,0,0
+Department of the Treasury,Australia,2006,1,0,0.0,0,0,0
+Department of the Treasury,Bahrain,2002,3,1,1.0,1,1,0
+Department of the Treasury,Bahrain,2003,1,0,0.0,0,0,0
+Department of the Treasury,Bahrain,2019,4,0,0.75,0,0,0
+Department of the Treasury,Cameroon,2000,1,1,1.0,0,0,0
+Department of the Treasury,Canada,2010,1,0,0.0,1,0,1
+Department of the Treasury,Canada,2011,1,0,0.0,0,0,0
+Department of the Treasury,China,2006,1,0,0.0,1,0,1
+Department of the Treasury,China,2008,1,1,1.0,1,1,0
+Department of the Treasury,China,2010,1,0,0.0,1,1,1
+Department of the Treasury,China,2011,1,1,1.0,1,1,0
+Department of the Treasury,China,2013,2,0,0.5,0,0,0
+Department of the Treasury,Colombia,2001,1,0,0.0,0,0,0
+Department of the Treasury,Democratic Republic of the Congo,2012,1,1,1.0,0,0,0
+Department of the Treasury,Egypt,2019,1,0,0.0,1,0,1
+Department of the Treasury,Egypt,2021,1,1,1.0,0,0,0
+Department of the Treasury,France,2007,1,0,0.0,0,0,0
+Department of the Treasury,Georgia,2002,1,1,1.0,0,0,0
+Department of the Treasury,Ghana,2001,1,0,0.0,1,0,1
+Department of the Treasury,Ghana,2002,1,1,1.0,0,0,0
+Department of the Treasury,India,2000,1,1,1.0,0,0,0
+Department of the Treasury,Italy,2009,1,0,0.0,0,0,0
+Department of the Treasury,Japan,2000,1,1,1.0,0,0,0
+Department of the Treasury,Kuwait,2002,1,1,1.0,0,0,0
+Department of the Treasury,Kuwait,2015,1,0,0.0,0,0,0
+Department of the Treasury,Lebanon,2007,1,0,0.0,0,0,0
+Department of the Treasury,Lebanon,2012,1,1,1.0,0,0,0
+Department of the Treasury,Mexico,2012,1,1,1.0,0,0,0
+Department of the Treasury,Monaco,2009,1,0,0.0,0,0,0
+Department of the Treasury,Nigeria,2000,1,1,1.0,0,0,0
+Department of the Treasury,Oman,2014,1,1,1.0,0,0,0
+Department of the Treasury,Pakistan,2009,1,1,1.0,0,0,0
+Department of the Treasury,Philippines,2012,2,0,0.5,1,0,1
+Department of the Treasury,Philippines,2013,1,1,1.0,0,0,0
+Department of the Treasury,Poland,2005,1,1,1.0,0,0,0
+Department of the Treasury,Qatar,2009,1,0,0.0,1,1,0
+Department of the Treasury,Qatar,2010,1,0,0.0,1,0,1
+Department of the Treasury,Qatar,2011,1,0,0.0,0,0,0
+Department of the Treasury,Qatar,2017,1,1,1.0,1,1,0
+Department of the Treasury,Qatar,2018,1,0,0.0,1,1,1
+Department of the Treasury,Qatar,2019,2,0,0.5,1,1,0
+Department of the Treasury,Qatar,2021,1,1,1.0,1,1,0
+Department of the Treasury,Russia,2001,1,0,0.0,0,0,0
+Department of the Treasury,Saudi Arabia,2002,1,1,1.0,0,0,0
+Department of the Treasury,Saudi Arabia,2008,1,1,1.0,0,0,0
+Department of the Treasury,Saudi Arabia,2014,1,1,1.0,0,0,0
+Department of the Treasury,Saudi Arabia,2021,1,1,1.0,0,0,0
+Department of the Treasury,South Africa,2014,1,1,1.0,0,0,0
+Department of the Treasury,Switzerland,2003,1,1,1.0,0,0,0
+Department of the Treasury,Ukraine,2012,1,1,1.0,0,0,0
+Department of the Treasury,United Arab Emirates,2008,1,0,0.0,0,0,0
+Department of the Treasury,United Kingdom,2013,1,0,0.0,0,0,0
+Department of the Treasury,Uzbekistan,2002,1,1,1.0,0,0,0
+Department of the Treasury,Uzbekistan,2009,1,1,1.0,0,0,0
+Department of the Treasury,Zambia,2016,1,1,1.0,0,0,0
+Environmental Protection Agency,China,2013,1,1,1.0,0,0,0
+Environmental Protection Agency,France,2013,1,1,1.0,0,0,0
+Environmental Protection Agency,Honduras,2013,1,1,1.0,0,0,0
+Environmental Protection Agency,Singapore,2013,1,1,1.0,0,0,0
+Federal Communications Commission,Colombia,2014,1,1,1.0,0,0,0
+Federal Reserve Board,Canada,2005,1,1,1.0,0,0,0
+Federal Reserve Board,Canada,2010,1,1,1.0,0,0,0
+Federal Reserve Board,China,2004,1,0,0.0,0,0,0
+Federal Reserve Board,China,2008,1,0,0.0,0,0,0
+Federal Reserve Board,France,2005,1,1,1.0,0,0,0
+Federal Reserve Board,Italy,2009,1,0,0.0,0,0,0
+Federal Reserve Board,Japan,1999,1,0,0.0,0,0,0
+Federal Reserve Board,Luxembourg,2014,1,0,0.0,0,0,0
+Federal Reserve Board,Netherlands,2005,1,1,1.0,0,0,0
+Federal Reserve Board,Poland,2009,1,0,0.0,0,0,0
+Federal Reserve Board,Poland,2017,1,1,1.0,0,0,0
+Federal Reserve Board,Romania,2004,1,0,0.0,0,0,0
+Federal Reserve Board,Saint Lucia,2008,1,1,1.0,0,0,0
+Federal Reserve Board,Saudi Arabia,2020,1,1,1.0,0,0,0
+Government of the District of Columbia,Afghanistan,2012,1,1,1.0,0,0,0
+Government of the District of Columbia,China,2012,1,1,1.0,0,0,0
+Government of the District of Columbia,France,2006,1,1,1.0,0,0,0
+Government of the District of Columbia,South Korea,2006,1,1,1.0,0,0,0
+Government of the District of Columbia,Thailand,2012,1,1,1.0,0,0,0
+Government of the District of Columbia,Turkey,2011,1,0,0.0,1,0,1
+Government of the District of Columbia,Turkey,2012,1,1,1.0,0,0,0
+Government of the District of Columbia,United Kingdom,2006,1,1,1.0,0,0,0
+NASA,France,2003,1,1,1.0,0,0,0
+NASA,Russia,2000,1,1,1.0,0,0,0
+Office of Science and Technology Policy,Norway,2003,1,1,1.0,0,0,0
+Office of the U.S. Trade Representative,Pakistan,2003,1,1,1.0,0,0,0
+Office of the U.S. Trade Representative,Vietnam,2003,1,1,1.0,0,0,0
+Office of the Vice President,Afghanistan,2005,2,0,0.0,1,1,1
+Office of the Vice President,Afghanistan,2006,1,0,0.0,1,1,1
+Office of the Vice President,Afghanistan,2007,1,0,0.0,1,1,1
+Office of the Vice President,Afghanistan,2008,3,1,1.0,1,1,0
+Office of the Vice President,Afghanistan,2009,1,0,0.0,1,0,1
+Office of the Vice President,Afghanistan,2010,1,0,0.0,0,0,0
+Office of the Vice President,Afghanistan,2015,1,1,1.0,1,1,0
+Office of the Vice President,Afghanistan,2017,1,0,0.0,1,1,0
+Office of the Vice President,Afghanistan,2019,1,1,1.0,0,0,0
+Office of the Vice President,Albania,2006,1,0,0.0,0,0,0
+Office of the Vice President,Algeria,2014,1,0,0.0,0,0,0
+Office of the Vice President,Argentina,2005,1,0,0.0,0,0,0
+Office of the Vice President,Australia,2019,1,1,1.0,0,0,0
+Office of the Vice President,Azerbaijan,2006,1,0,0.0,1,1,1
+Office of the Vice President,Azerbaijan,2008,2,1,1.0,0,0,0
+Office of the Vice President,Azerbaijan,2014,1,0,0.0,0,0,0
+Office of the Vice President,Azerbaijan,2021,1,0,0.0,0,0,0
+Office of the Vice President,Bahrain,2004,1,0,0.0,0,0,0
+Office of the Vice President,Bahrain,2009,1,0,0.0,1,1,1
+Office of the Vice President,Bahrain,2010,1,1,1.0,1,1,0
+Office of the Vice President,Bahrain,2012,1,0,0.0,0,0,0
+Office of the Vice President,Bahrain,2017,1,0,0.0,0,0,0
+Office of the Vice President,Belgium,2011,1,1,1.0,0,0,0
+Office of the Vice President,Belgium,2017,1,0,0.0,0,0,0
+Office of the Vice President,Benin,2015,1,1,1.0,0,0,0
+Office of the Vice President,Bosnia and Herzegovina,2007,1,0,0.0,1,1,1
+Office of the Vice President,Bosnia and Herzegovina,2008,2,1,1.0,1,1,0
+Office of the Vice President,Bosnia and Herzegovina,2009,1,0,0.0,0,0,0
+Office of the Vice President,Brazil,2013,1,0,0.0,1,0,1
+Office of the Vice President,Brazil,2014,1,0,0.0,0,0,0
+Office of the Vice President,Bulgaria,2004,1,0,0.0,0,0,0
+Office of the Vice President,Canada,1999,1,1,1.0,0,0,0
+Office of the Vice President,Canada,2006,1,0,0.0,0,0,0
+Office of the Vice President,Canada,2019,1,1,1.0,0,0,0
+Office of the Vice President,Chile,2009,1,0,0.0,1,1,0
+Office of the Vice President,Chile,2010,1,0,0.0,0,0,0
+Office of the Vice President,Chile,2014,1,0,0.0,0,0,0
+Office of the Vice President,China,2004,2,0,0.0,1,0,1
+Office of the Vice President,China,2007,1,0,0.0,0,0,0
+Office of the Vice President,China,2011,2,0,0.5,1,0,1
+Office of the Vice President,China,2013,1,0,0.0,1,0,1
+Office of the Vice President,China,2015,1,1,1.0,0,0,0
+Office of the Vice President,Colombia,2013,1,0,0.0,1,0,1
+Office of the Vice President,Colombia,2014,1,0,0.0,0,0,0
+Office of the Vice President,Cyprus,2015,1,1,1.0,0,0,0
+Office of the Vice President,Czech Republic,2009,2,0,0.0,0,0,0
+Office of the Vice President,Democratic Republic of the Congo,2014,1,0,0.0,0,0,0
+Office of the Vice President,Dominican Republic,1999,1,1,1.0,0,0,0
+Office of the Vice President,Ecuador,2018,2,0,0.0,0,0,0
+Office of the Vice President,Egypt,2006,2,0,0.0,1,1,1
+Office of the Vice President,Egypt,2007,1,0,0.0,1,1,1
+Office of the Vice President,Egypt,2008,2,1,1.0,1,1,0
+Office of the Vice President,Egypt,2009,1,0,0.0,0,0,0
+Office of the Vice President,Egypt,2018,1,0,0.0,0,0,0
+Office of the Vice President,Estonia,2008,1,1,1.0,0,0,0
+Office of the Vice President,Estonia,2013,1,0,0.0,0,0,0
+Office of the Vice President,France,2013,1,0,0.0,1,1,0
+Office of the Vice President,France,2014,1,0,0.0,0,0,0
+Office of the Vice President,France,2018,1,0,0.0,1,1,0
+Office of the Vice President,France,2021,1,0,0.0,1,1,1
+Office of the Vice President,Georgia,2006,1,0,0.0,0,0,0
+Office of the Vice President,Georgia,2014,1,0,0.0,1,1,0
+Office of the Vice President,Georgia,2017,1,0,0.0,0,0,0
+Office of the Vice President,Ghana,2021,1,0,0.0,1,0,1
+Office of the Vice President,Guatemala,2014,1,0,0.0,1,0,1
+Office of the Vice President,Guatemala,2015,1,1,1.0,0,0,0
+Office of the Vice President,Guatemala,2021,1,0,0.0,0,0,0
+Office of the Vice President,Honduras,2015,1,1,1.0,1,1,0
+Office of the Vice President,Honduras,2017,1,0,0.0,0,0,0
+Office of the Vice President,India,2001,1,0,0.0,0,0,0
+Office of the Vice President,India,2005,2,0,0.0,0,0,0
+Office of the Vice President,India,2009,1,0,0.0,1,0,1
+Office of the Vice President,India,2010,1,0,0.0,1,0,1
+Office of the Vice President,India,2013,1,0,0.0,1,0,1
+Office of the Vice President,India,2014,1,0,0.0,1,1,0
+Office of the Vice President,India,2017,1,0,0.0,0,0,0
+Office of the Vice President,India,2021,2,0,0.0,0,0,0
+Office of the Vice President,Indonesia,2006,1,0,0.0,0,0,0
+Office of the Vice President,Indonesia,2017,1,0,0.0,1,0,1
+Office of the Vice President,Indonesia,2018,1,0,0.0,0,0,0
+Office of the Vice President,Iraq,2005,1,0,0.0,1,1,1
+Office of the Vice President,Iraq,2006,1,0,0.0,1,1,1
+Office of the Vice President,Iraq,2008,4,1,1.0,1,1,0
+Office of the Vice President,Iraq,2009,1,0,0.0,1,0,1
+Office of the Vice President,Iraq,2010,1,0,0.0,1,0,1
+Office of the Vice President,Iraq,2011,1,0,0.0,0,0,0
+Office of the Vice President,Israel,2008,1,1,1.0,0,0,0
+Office of the Vice President,Israel,2018,1,0,0.0,0,0,0
+Office of the Vice President,Italy,2004,2,0,0.0,1,0,1
+Office of the Vice President,Italy,2005,1,0,0.0,1,1,1
+Office of the Vice President,Italy,2006,1,0,0.0,1,1,1
+Office of the Vice President,Italy,2008,2,1,1.0,1,1,0
+Office of the Vice President,Italy,2011,1,0,0.0,0,0,0
+Office of the Vice President,Japan,2007,1,0,0.0,0,0,0
+Office of the Vice President,Japan,2021,1,0,0.0,0,0,0
+Office of the Vice President,Jordan,2004,1,0,0.0,1,0,1
+Office of the Vice President,Jordan,2005,1,0,0.0,1,0,1
+Office of the Vice President,Jordan,2006,1,0,0.0,1,1,1
+Office of the Vice President,Jordan,2007,1,0,0.0,1,1,0
+Office of the Vice President,Jordan,2009,1,0,0.0,1,0,1
+Office of the Vice President,Jordan,2010,1,0,0.0,1,1,1
+Office of the Vice President,Jordan,2013,2,0,0.5,1,0,1
+Office of the Vice President,Jordan,2014,1,0,0.0,1,1,0
+Office of the Vice President,Jordan,2017,1,0,0.0,1,1,1
+Office of the Vice President,Jordan,2018,2,0,0.0,0,0,0
+Office of the Vice President,Kazakhstan,2006,2,0,0.0,0,0,0
+Office of the Vice President,Kazakhstan,2018,1,0,0.0,0,0,0
+Office of the Vice President,Kenya,2010,1,0,0.0,0,0,0
+Office of the Vice President,Kosovo,2009,1,0,0.0,0,0,0
+Office of the Vice President,Kuwait,2005,1,0,0.0,0,0,0
+Office of the Vice President,Kuwait,2009,1,0,0.0,1,0,1
+Office of the Vice President,Kuwait,2011,1,0,0.0,1,0,1
+Office of the Vice President,Kuwait,2013,1,0,0.0,1,1,0
+Office of the Vice President,Kuwait,2015,1,1,1.0,1,1,0
+Office of the Vice President,Kuwait,2018,2,0,0.0,0,0,0
+Office of the Vice President,Latvia,2011,1,0,0.0,0,0,0
+Office of the Vice President,Lebanon,2007,1,0,0.0,1,1,0
+Office of the Vice President,Lebanon,2009,1,0,0.0,0,0,0
+Office of the Vice President,Liberia,2012,1,0,0.0,0,0,0
+Office of the Vice President,Lithuania,2006,2,0,0.0,0,0,0
+Office of the Vice President,Lithuania,2013,1,0,0.0,0,0,0
+Office of the Vice President,Mexico,2012,1,0,0.0,1,0,1
+Office of the Vice President,Mexico,2013,1,0,0.0,1,0,1
+Office of the Vice President,Mexico,2014,1,0,0.0,0,0,0
+Office of the Vice President,Moldova,2011,1,0,0.0,0,0,0
+Office of the Vice President,Mongolia,2004,1,0,0.0,1,0,1
+Office of the Vice President,Mongolia,2007,1,0,0.0,0,0,0
+Office of the Vice President,Mongolia,2012,1,0,0.0,1,0,1
+Office of the Vice President,Mongolia,2015,1,1,1.0,1,1,0
+Office of the Vice President,Mongolia,2018,1,0,0.0,0,0,0
+Office of the Vice President,Montenegro,2017,1,0,0.0,0,0,0
+Office of the Vice President,Morocco,2014,1,0,0.0,0,0,0
+Office of the Vice President,Nigeria,2015,1,1,1.0,0,0,0
+Office of the Vice President,Oman,2004,1,0,0.0,1,0,1
+Office of the Vice President,Oman,2007,1,0,0.0,1,0,1
+Office of the Vice President,Oman,2008,1,1,1.0,0,0,0
+Office of the Vice President,Oman,2013,1,1,1.0,0,0,0
+Office of the Vice President,Pakistan,2005,2,0,0.0,1,0,1
+Office of the Vice President,Pakistan,2006,1,0,0.0,1,1,1
+Office of the Vice President,Pakistan,2007,1,0,0.0,1,1,0
+Office of the Vice President,Pakistan,2009,1,0,0.0,1,0,1
+Office of the Vice President,Pakistan,2011,1,0,0.0,1,0,1
+Office of the Vice President,Pakistan,2013,1,0,0.0,1,0,1
+Office of the Vice President,Pakistan,2015,1,1,1.0,0,0,0
+Office of the Vice President,Peru,2014,1,0,0.0,0,0,0
+Office of the Vice President,Philippines,2003,1,0,0.0,0,0,0
+Office of the Vice President,Poland,2005,1,0,0.0,1,0,1
+Office of the Vice President,Poland,2006,1,0,0.0,1,1,0
+Office of the Vice President,Poland,2009,1,0,0.0,0,0,0
+Office of the Vice President,Poland,2014,1,0,0.0,0,0,0
+Office of the Vice President,Qatar,2011,1,0,0.0,1,0,1
+Office of the Vice President,Qatar,2013,1,0,0.0,1,0,1
+Office of the Vice President,Qatar,2015,1,1,1.0,0,0,0
+Office of the Vice President,Romania,2009,1,0,0.0,0,0,0
+Office of the Vice President,Romania,2014,1,0,0.0,0,0,0
+Office of the Vice President,Russia,2011,2,0,0.0,0,0,0
+Office of the Vice President,Saudi Arabia,2006,3,0,0.0,1,1,1
+Office of the Vice President,Saudi Arabia,2007,1,0,0.0,1,1,1
+Office of the Vice President,Saudi Arabia,2008,6,1,1.0,0,0,0
+Office of the Vice President,Saudi Arabia,2015,2,1,1.0,0,0,0
+Office of the Vice President,Singapore,2007,1,0,0.0,0,0,0
+Office of the Vice President,Singapore,2013,2,0,0.0,0,0,0
+Office of the Vice President,Singapore,2018,1,0,0.0,0,0,0
+Office of the Vice President,South Africa,2011,2,0,0.0,0,0,0
+Office of the Vice President,South Korea,2004,1,0,0.0,1,0,1
+Office of the Vice President,South Korea,2005,1,0,0.0,0,0,0
+Office of the Vice President,South Korea,2017,1,0,0.0,1,0,1
+Office of the Vice President,South Korea,2018,1,0,0.0,1,1,0
+Office of the Vice President,South Korea,2021,1,0,0.0,0,0,0
+Office of the Vice President,State of Palestine,2005,1,0,0.0,0,0,0
+Office of the Vice President,Switzerland,2004,1,0,0.0,0,0,0
+Office of the Vice President,Taiwan,2003,1,0,0.0,0,0,0
+Office of the Vice President,Trinidad and Tobago,2013,1,0,0.0,0,0,0
+Office of the Vice President,Tunisia,2004,1,0,0.0,0,0,0
+Office of the Vice President,Tunisia,2015,1,1,1.0,0,0,0
+Office of the Vice President,Turkey,2004,1,0,0.0,1,0,1
+Office of the Vice President,Turkey,2007,1,0,0.0,1,0,1
+Office of the Vice President,Turkey,2008,1,1,1.0,1,1,0
+Office of the Vice President,Turkey,2011,1,0,0.0,1,1,1
+Office of the Vice President,Turkey,2013,1,0,0.0,1,1,1
+Office of the Vice President,Turkey,2014,2,0,0.0,1,1,0
+Office of the Vice President,Turkey,2017,1,0,0.0,1,1,0
+Office of the Vice President,Turkey,2019,1,1,1.0,0,0,0
+Office of the Vice President,Ukraine,1999,1,1,1.0,0,0,0
+Office of the Vice President,Ukraine,2005,2,0,0.0,1,0,1
+Office of the Vice President,Ukraine,2008,2,1,1.0,1,1,0
+Office of the Vice President,Ukraine,2009,1,0,0.0,0,0,0
+Office of the Vice President,Ukraine,2014,1,0,0.0,1,1,0
+Office of the Vice President,Ukraine,2017,1,0,0.0,0,0,0
+Office of the Vice President,United Arab Emirates,2002,1,0,0.0,1,1,0
+Office of the Vice President,United Arab Emirates,2005,1,0,0.0,1,0,1
+Office of the Vice President,United Arab Emirates,2007,1,0,0.0,1,0,1
+Office of the Vice President,United Arab Emirates,2008,1,1,1.0,0,0,0
+Office of the Vice President,United Kingdom,2011,1,1,1.0,1,1,0
+Office of the Vice President,United Kingdom,2014,1,0,0.0,0,0,0
+Office of the Vice President,Uzbekistan,2018,2,0,0.0,0,0,0
+Office of the Vice President,Vatican City,2004,1,0,0.0,0,0,0
+Office of the Vice President,Vietnam,2010,1,0,0.0,0,0,0
+Office of the Vice President,Vietnam,2021,1,0,0.0,0,0,0
+Office of the Vice President,Yemen,2004,1,0,0.0,1,1,1
+Office of the Vice President,Yemen,2005,2,0,0.0,1,0,1
+Office of the Vice President,Yemen,2007,1,0,0.0,0,0,0
+Office of the Vice President,Yemen,2012,1,0,0.0,0,0,0
+Office of the Vice President,Zambia,2014,1,0,0.0,0,0,0
+U.S. Central Command,Bahrain,2012,1,1,1.0,0,0,0
+U.S. Central Command,Iraq,2013,1,1,1.0,0,0,0
+U.S. Central Command,Jordan,2013,1,0,0.0,1,1,0
+U.S. Central Command,Kuwait,2011,1,1,1.0,1,1,0
+U.S. Central Command,Kuwait,2013,1,0,0.0,1,1,0
+U.S. Central Command,Oman,2014,1,0,0.0,0,0,0
+U.S. Central Command,Qatar,2013,1,0,0.0,1,1,1
+U.S. Central Command,Qatar,2014,2,0,0.0,1,0,1
+U.S. House of Representatives,Afghanistan,2002,2,0,0.5,0,0,0
+U.S. House of Representatives,Afghanistan,2006,1,1,1.0,0,0,0
+U.S. House of Representatives,Afghanistan,2010,1,0,0.0,0,0,0
+U.S. House of Representatives,Afghanistan,2015,1,1,1.0,0,0,0
+U.S. House of Representatives,Armenia,2001,1,1,1.0,0,0,0
+U.S. House of Representatives,Armenia,2016,1,1,1.0,0,0,0
+U.S. House of Representatives,Australia,2004,1,1,1.0,1,1,0
+U.S. House of Representatives,Australia,2005,2,0,0.5,1,1,0
+U.S. House of Representatives,Australia,2006,1,1,1.0,0,0,0
+U.S. House of Representatives,Australia,2012,1,1,1.0,1,1,0
+U.S. House of Representatives,Australia,2015,1,1,1.0,0,0,0
+U.S. House of Representatives,Azerbaijan,2014,1,1,1.0,0,0,0
+U.S. House of Representatives,Bhutan,2010,2,1,1.0,0,0,0
+U.S. House of Representatives,Brazil,2008,1,1,1.0,0,0,0
+U.S. House of Representatives,China,2006,3,1,1.0,1,1,0
+U.S. House of Representatives,China,2009,1,0,0.0,0,0,0
+U.S. House of Representatives,Colombia,2021,1,1,1.0,0,0,0
+U.S. House of Representatives,Costa Rica,2001,1,1,1.0,0,0,0
+U.S. House of Representatives,Ecuador,2002,5,1,1.0,0,0,0
+U.S. House of Representatives,Egypt,2000,1,0,0.0,1,0,1
+U.S. House of Representatives,Egypt,2002,1,0,0.0,0,0,0
+U.S. House of Representatives,Ethiopia,2005,1,1,1.0,0,0,0
+U.S. House of Representatives,France,2018,1,1,1.0,0,0,0
+U.S. House of Representatives,Georgia,2013,1,0,0.0,0,0,0
+U.S. House of Representatives,Germany,2013,9,0,0.8888888888888888,0,0,0
+U.S. House of Representatives,Germany,2017,2,1,1.0,0,0,0
+U.S. House of Representatives,Ireland,1999,1,0,0.0,0,0,0
+U.S. House of Representatives,Ireland,2017,1,0,0.0,1,1,0
+U.S. House of Representatives,Ireland,2019,11,1,1.0,0,0,0
+U.S. House of Representatives,Israel,2000,1,1,1.0,1,1,0
+U.S. House of Representatives,Israel,2001,1,1,1.0,1,1,0
+U.S. House of Representatives,Israel,2003,1,1,1.0,0,0,0
+U.S. House of Representatives,Israel,2017,1,0,0.0,0,0,0
+U.S. House of Representatives,Italy,2009,6,0,0.5,0,0,0
+U.S. House of Representatives,Japan,2015,1,1,1.0,0,0,0
+U.S. House of Representatives,Jordan,1999,6,0,0.8333333333333334,0,0,0
+U.S. House of Representatives,Jordan,2015,1,1,1.0,0,0,0
+U.S. House of Representatives,Kyrgyzstan,2002,1,0,0.0,0,0,0
+U.S. House of Representatives,Lebanon,2001,1,1,1.0,0,0,0
+U.S. House of Representatives,Libya,2004,6,1,1.0,1,1,0
+U.S. House of Representatives,Libya,2005,1,1,1.0,0,0,0
+U.S. House of Representatives,Luxembourg,2004,1,0,0.0,1,0,1
+U.S. House of Representatives,Luxembourg,2005,1,0,0.0,0,0,0
+U.S. House of Representatives,Marshall Islands,2019,1,0,0.0,0,0,0
+U.S. House of Representatives,Mexico,2001,2,1,1.0,0,0,0
+U.S. House of Representatives,Mexico,2005,1,0,0.0,0,0,0
+U.S. House of Representatives,Mongolia,2013,1,0,0.0,0,0,0
+U.S. House of Representatives,Morocco,2000,1,0,0.0,0,0,0
+U.S. House of Representatives,Myanmar,1999,1,1,1.0,0,0,0
+U.S. House of Representatives,Nigeria,1999,1,0,0.0,0,0,0
+U.S. House of Representatives,Norway,1999,2,1,1.0,0,0,0
+U.S. House of Representatives,Pakistan,2001,1,1,1.0,0,0,0
+U.S. House of Representatives,Pakistan,2008,1,0,0.0,1,1,0
+U.S. House of Representatives,Pakistan,2011,5,0,0.8,0,0,0
+U.S. House of Representatives,Panama,2005,1,1,1.0,0,0,0
+U.S. House of Representatives,Philippines,2010,1,0,0.0,0,0,0
+U.S. House of Representatives,Portugal,2001,1,1,1.0,0,0,0
+U.S. House of Representatives,Portugal,2018,1,1,1.0,0,0,0
+U.S. House of Representatives,Qatar,2001,3,1,1.0,1,1,0
+U.S. House of Representatives,Qatar,2002,1,1,1.0,1,1,0
+U.S. House of Representatives,Qatar,2005,1,1,1.0,0,0,0
+U.S. House of Representatives,Qatar,2010,2,0,0.5,0,0,0
+U.S. House of Representatives,Russia,2002,1,0,0.0,0,0,0
+U.S. House of Representatives,Russia,2006,1,1,1.0,0,0,0
+U.S. House of Representatives,Rwanda,2014,3,1,1.0,0,0,0
+U.S. House of Representatives,South Korea,2006,1,1,1.0,0,0,0
+U.S. House of Representatives,Spain,2004,1,1,1.0,0,0,0
+U.S. House of Representatives,Sweden,2016,1,1,1.0,0,0,0
+U.S. House of Representatives,Taiwan,2001,2,0,0.0,0,0,0
+U.S. House of Representatives,Turkey,1999,1,0,0.0,0,0,0
+U.S. House of Representatives,United Arab Emirates,2001,1,1,1.0,0,0,0
+U.S. House of Representatives,United Arab Emirates,2021,2,1,1.0,0,0,0
+U.S. House of Representatives,United Kingdom,1999,5,1,1.0,0,0,0
+U.S. House of Representatives,United Kingdom,2014,1,1,1.0,0,0,0
+U.S. House of Representatives,Uzbekistan,2002,1,0,0.0,0,0,0
+U.S. House of Representatives,Vietnam,2007,1,0,0.0,0,0,0
+U.S. Marine Corps,Afghanistan,2010,1,1,1.0,0,0,0
+U.S. Marine Corps,Australia,2011,1,1,1.0,0,0,0
+U.S. Marine Corps,Bahrain,1998,1,0,0.0,0,0,0
+U.S. Marine Corps,Brazil,2011,1,1,1.0,0,0,0
+U.S. Marine Corps,Dominican Republic,2013,1,1,1.0,0,0,0
+U.S. Marine Corps,Egypt,1999,1,1,1.0,0,0,0
+U.S. Marine Corps,Iraq,2008,1,0,0.0,0,0,0
+U.S. Senate,Afghanistan,2003,1,0,0.0,1,1,1
+U.S. Senate,Afghanistan,2004,2,0,0.0,1,1,1
+U.S. Senate,Afghanistan,2005,9,0,0.2222222222222222,1,1,1
+U.S. Senate,Afghanistan,2006,8,0,0.125,1,1,1
+U.S. Senate,Afghanistan,2007,1,0,0.0,1,1,0
+U.S. Senate,Afghanistan,2008,6,0,0.3333333333333333,1,1,1
+U.S. Senate,Afghanistan,2009,6,0,0.16666666666666666,1,1,1
+U.S. Senate,Afghanistan,2010,10,0,0.1,1,1,1
+U.S. Senate,Afghanistan,2011,4,0,0.25,1,1,1
+U.S. Senate,Afghanistan,2012,6,0,0.6666666666666666,1,1,1
+U.S. Senate,Afghanistan,2013,4,0,0.25,1,1,1
+U.S. Senate,Afghanistan,2014,2,0,0.5,1,1,0
+U.S. Senate,Afghanistan,2015,1,0,0.0,0,0,0
+U.S. Senate,Afghanistan,2021,2,0,0.0,0,0,0
+U.S. Senate,Algeria,2001,2,0,0.0,1,1,1
+U.S. Senate,Algeria,2002,2,0,0.0,1,1,1
+U.S. Senate,Algeria,2004,1,0,0.0,1,1,0
+U.S. Senate,Algeria,2005,1,0,0.0,0,0,0
+U.S. Senate,Armenia,2007,1,0,0.0,0,0,0
+U.S. Senate,Australia,2000,1,1,1.0,0,0,0
+U.S. Senate,Australia,2014,1,0,0.0,0,0,0
+U.S. Senate,Azerbaijan,2001,1,0,0.0,1,1,1
+U.S. Senate,Azerbaijan,2002,1,0,0.0,1,1,0
+U.S. Senate,Azerbaijan,2004,2,0,0.0,1,1,0
+U.S. Senate,Azerbaijan,2005,2,0,0.0,1,0,1
+U.S. Senate,Azerbaijan,2006,1,0,0.0,0,0,0
+U.S. Senate,Azerbaijan,2014,1,1,1.0,0,0,0
+U.S. Senate,Azerbaijan,2018,1,1,1.0,0,0,0
+U.S. Senate,Bahrain,2003,1,0,0.0,1,1,0
+U.S. Senate,Bahrain,2004,2,0,0.5,1,1,0
+U.S. Senate,Bahrain,2007,1,1,1.0,0,0,0
+U.S. Senate,Bahrain,2014,1,0,0.0,1,1,0
+U.S. Senate,Bahrain,2017,1,0,0.0,0,0,0
+U.S. Senate,Bangladesh,2006,1,0,0.0,0,0,0
+U.S. Senate,Belgium,1999,1,1,1.0,0,0,0
+U.S. Senate,Belgium,2011,1,0,0.0,0,0,0
+U.S. Senate,Bhutan,2008,3,0,0.0,0,0,0
+U.S. Senate,Bolivia,2008,1,0,0.0,0,0,0
+U.S. Senate,Botswana,2003,4,0,0.75,0,0,0
+U.S. Senate,Canada,2004,1,0,0.0,1,1,0
+U.S. Senate,Canada,2007,1,1,1.0,1,1,0
+U.S. Senate,Canada,2009,2,0,0.5,1,0,1
+U.S. Senate,Canada,2011,1,0,0.0,0,0,0
+U.S. Senate,Chile,2003,1,1,1.0,1,1,0
+U.S. Senate,Chile,2004,1,1,1.0,0,0,0
+U.S. Senate,China,2002,1,1,1.0,1,1,0
+U.S. Senate,China,2004,2,0,0.0,1,1,1
+U.S. Senate,China,2005,2,1,1.0,1,1,0
+U.S. Senate,China,2006,1,0,0.0,1,1,0
+U.S. Senate,China,2007,2,0,0.5,1,1,0
+U.S. Senate,China,2008,1,0,0.0,1,1,0
+U.S. Senate,China,2009,1,0,0.0,1,1,0
+U.S. Senate,China,2011,4,0,0.5,1,1,0
+U.S. Senate,China,2012,1,1,1.0,1,1,0
+U.S. Senate,China,2014,1,1,1.0,1,1,0
+U.S. Senate,China,2015,1,1,1.0,0,0,0
+U.S. Senate,Colombia,2000,2,0,0.5,0,0,0
+U.S. Senate,Colombia,2012,1,0,0.0,1,1,0
+U.S. Senate,Colombia,2014,2,0,0.0,1,1,0
+U.S. Senate,Colombia,2015,1,1,1.0,0,0,0
+U.S. Senate,Colombia,2019,1,0,0.0,0,0,0
+U.S. Senate,Croatia,2009,1,1,1.0,0,0,0
+U.S. Senate,Cuba,1999,2,0,0.0,1,1,0
+U.S. Senate,Cuba,2000,1,1,1.0,0,0,0
+U.S. Senate,Czech Republic,2016,1,1,1.0,0,0,0
+U.S. Senate,Democratic Republic of the Congo,2013,1,0,0.0,0,0,0
+U.S. Senate,Egypt,2000,5,0,0.2,0,0,0
+U.S. Senate,Egypt,2004,2,0,0.5,1,1,0
+U.S. Senate,Egypt,2005,1,0,0.0,1,1,0
+U.S. Senate,Egypt,2006,1,0,0.0,0,0,0
+U.S. Senate,Equatorial Guinea,2008,1,0,0.0,0,0,0
+U.S. Senate,Ethiopia,2002,2,0,0.0,0,0,0
+U.S. Senate,France,2004,1,0,0.0,1,1,0
+U.S. Senate,France,2005,1,0,0.0,0,0,0
+U.S. Senate,France,2009,1,1,1.0,0,0,0
+U.S. Senate,Gabon,2004,1,0,0.0,0,0,0
+U.S. Senate,Georgia,2006,3,0,0.3333333333333333,0,0,0
+U.S. Senate,Georgia,2011,1,0,0.0,1,1,0
+U.S. Senate,Georgia,2012,1,1,1.0,0,0,0
+U.S. Senate,Germany,2006,1,1,1.0,0,0,0
+U.S. Senate,Germany,2019,1,1,1.0,0,0,0
+U.S. Senate,Greece,2021,1,0,0.0,0,0,0
+U.S. Senate,Guatemala,2014,3,1,1.0,0,0,0
+U.S. Senate,Guinea,2006,1,0,0.0,0,0,0
+U.S. Senate,Guinea,2015,1,0,0.0,0,0,0
+U.S. Senate,Haiti,2013,1,0,0.0,0,0,0
+U.S. Senate,Honduras,2000,1,0,0.0,0,0,0
+U.S. Senate,Hungary,2005,1,0,0.0,0,0,0
+U.S. Senate,Iceland,2000,1,0,0.0,0,0,0
+U.S. Senate,Iceland,2012,2,1,1.0,1,1,0
+U.S. Senate,Iceland,2015,1,1,1.0,0,0,0
+U.S. Senate,India,2004,2,0,0.0,1,1,1
+U.S. Senate,India,2005,3,0,0.0,0,0,0
+U.S. Senate,India,2010,1,1,1.0,1,1,0
+U.S. Senate,India,2011,1,0,0.0,0,0,0
+U.S. Senate,India,2016,1,0,0.0,0,0,0
+U.S. Senate,India,2021,1,1,1.0,1,1,0
+U.S. Senate,Indonesia,2015,1,0,0.0,0,0,0
+U.S. Senate,Indonesia,2019,1,1,1.0,0,0,0
+U.S. Senate,Iraq,2005,1,0,0.0,1,1,0
+U.S. Senate,Iraq,2006,8,0,0.125,1,1,1
+U.S. Senate,Iraq,2007,3,0,0.3333333333333333,1,1,0
+U.S. Senate,Iraq,2008,3,0,0.0,1,1,0
+U.S. Senate,Iraq,2009,4,0,0.75,0,0,0
+U.S. Senate,Iraq,2015,1,0,0.0,0,0,0
+U.S. Senate,Iraq,2021,2,0,0.0,0,0,0
+U.S. Senate,Ireland,2000,1,1,1.0,1,1,0
+U.S. Senate,Ireland,2001,1,0,0.0,1,1,0
+U.S. Senate,Ireland,2004,1,0,0.0,1,1,1
+U.S. Senate,Ireland,2005,1,0,0.0,1,1,1
+U.S. Senate,Ireland,2006,1,0,0.0,1,1,0
+U.S. Senate,Ireland,2007,1,0,0.0,0,0,0
+U.S. Senate,Ireland,2014,1,1,1.0,0,0,0
+U.S. Senate,Israel,2002,1,0,0.0,1,1,0
+U.S. Senate,Israel,2004,2,0,0.5,1,1,0
+U.S. Senate,Israel,2005,9,0,0.4444444444444444,0,0,0
+U.S. Senate,Israel,2010,2,0,0.5,1,1,0
+U.S. Senate,Israel,2012,1,1,1.0,1,1,0
+U.S. Senate,Israel,2013,5,0,0.4,1,1,0
+U.S. Senate,Israel,2014,2,1,1.0,0,0,0
+U.S. Senate,Italy,2007,1,1,1.0,1,1,0
+U.S. Senate,Italy,2010,1,0,0.0,1,0,1
+U.S. Senate,Italy,2011,1,0,0.0,0,0,0
+U.S. Senate,Ivory Coast,2012,3,0,0.6666666666666666,0,0,0
+U.S. Senate,Japan,2007,2,0,0.5,0,0,0
+U.S. Senate,Japan,2012,1,1,1.0,1,1,0
+U.S. Senate,Japan,2013,3,0,0.3333333333333333,1,1,1
+U.S. Senate,Japan,2014,1,1,1.0,1,1,0
+U.S. Senate,Japan,2015,1,0,0.0,0,0,0
+U.S. Senate,Jordan,2000,1,0,0.0,1,1,1
+U.S. Senate,Jordan,2001,2,0,0.0,1,1,0
+U.S. Senate,Jordan,2003,1,0,0.0,1,1,0
+U.S. Senate,Jordan,2004,1,0,0.0,1,1,1
+U.S. Senate,Jordan,2005,3,0,0.3333333333333333,1,1,1
+U.S. Senate,Jordan,2007,2,1,1.0,1,1,0
+U.S. Senate,Jordan,2008,3,0,0.3333333333333333,1,1,1
+U.S. Senate,Jordan,2009,4,0,0.0,1,1,1
+U.S. Senate,Jordan,2010,2,0,0.0,1,1,0
+U.S. Senate,Jordan,2011,4,0,0.25,1,1,1
+U.S. Senate,Jordan,2012,3,1,1.0,1,1,0
+U.S. Senate,Jordan,2013,2,0,0.5,1,1,1
+U.S. Senate,Jordan,2014,2,0,0.0,1,1,1
+U.S. Senate,Jordan,2016,2,0,0.5,1,1,1
+U.S. Senate,Jordan,2017,1,1,1.0,1,1,0
+U.S. Senate,Jordan,2018,1,0,0.0,1,1,0
+U.S. Senate,Jordan,2019,1,1,1.0,0,0,0
+U.S. Senate,Kenya,2011,1,0,0.0,0,0,0
+U.S. Senate,Kuwait,2003,1,0,0.0,1,0,1
+U.S. Senate,Kuwait,2005,1,0,0.0,1,1,0
+U.S. Senate,Kuwait,2008,2,0,0.0,0,0,0
+U.S. Senate,Latvia,2016,1,1,1.0,0,0,0
+U.S. Senate,Lebanon,2010,1,0,0.0,1,1,0
+U.S. Senate,Lebanon,2012,1,0,0.0,1,1,0
+U.S. Senate,Lebanon,2014,2,0,0.0,0,0,0
+U.S. Senate,Liberia,2003,1,0,0.0,0,0,0
+U.S. Senate,Liberia,2014,1,0,0.0,0,0,0
+U.S. Senate,Libya,2013,1,1,1.0,0,0,0
+U.S. Senate,Luxembourg,2002,1,0,0.0,0,0,0
+U.S. Senate,Malaysia,2007,1,0,0.0,0,0,0
+U.S. Senate,Malta,2009,2,0,0.0,0,0,0
+U.S. Senate,Mexico,2001,4,0,0.5,0,0,0
+U.S. Senate,Mexico,2013,2,0,0.5,0,0,0
+U.S. Senate,Moldova,2014,4,0,0.75,1,1,0
+U.S. Senate,Moldova,2017,2,0,0.5,0,0,0
+U.S. Senate,Mongolia,2015,1,0,0.0,0,0,0
+U.S. Senate,Montenegro,2006,1,0,0.0,1,1,0
+U.S. Senate,Montenegro,2009,3,0,0.3333333333333333,0,0,0
+U.S. Senate,Morocco,2005,1,1,1.0,0,0,0
+U.S. Senate,Morocco,2016,2,0,0.5,1,1,0
+U.S. Senate,Morocco,2019,1,1,1.0,0,0,0
+U.S. Senate,Myanmar,2009,2,1,1.0,1,1,0
+U.S. Senate,Myanmar,2012,1,0,0.0,1,0,1
+U.S. Senate,Myanmar,2015,1,0,0.0,0,0,0
+U.S. Senate,Namibia,2005,2,0,0.0,0,0,0
+U.S. Senate,Netherlands,2015,1,0,0.0,0,0,0
+U.S. Senate,Nigeria,2007,1,0,0.0,0,0,0
+U.S. Senate,Norway,2002,1,1,1.0,0,0,0
+U.S. Senate,Norway,2014,1,0,0.0,0,0,0
+U.S. Senate,Oman,2007,1,1,1.0,0,0,0
+U.S. Senate,Oman,2012,2,1,1.0,0,0,0
+U.S. Senate,Oman,2018,1,1,1.0,0,0,0
+U.S. Senate,Pakistan,2002,10,0,0.2,1,1,0
+U.S. Senate,Pakistan,2003,1,0,0.0,1,1,0
+U.S. Senate,Pakistan,2004,1,0,0.0,1,1,0
+U.S. Senate,Pakistan,2005,3,0,0.3333333333333333,1,1,1
+U.S. Senate,Pakistan,2006,1,0,0.0,1,1,1
+U.S. Senate,Pakistan,2007,2,0,0.0,1,1,1
+U.S. Senate,Pakistan,2008,5,0,0.4,1,1,1
+U.S. Senate,Pakistan,2009,6,0,0.3333333333333333,1,1,1
+U.S. Senate,Pakistan,2010,4,0,0.5,1,1,1
+U.S. Senate,Pakistan,2011,1,0,0.0,1,1,0
+U.S. Senate,Pakistan,2012,14,0,0.5,1,1,0
+U.S. Senate,Pakistan,2013,1,1,1.0,1,1,0
+U.S. Senate,Pakistan,2016,3,0,0.3333333333333333,1,1,1
+U.S. Senate,Pakistan,2017,2,0,0.5,1,1,1
+U.S. Senate,Pakistan,2019,2,0,0.5,1,1,0
+U.S. Senate,Palau,2009,1,0,0.0,0,0,0
+U.S. Senate,Panama,2000,1,1,1.0,0,0,0
+U.S. Senate,Panama,2007,1,1,1.0,0,0,0
+U.S. Senate,Poland,1999,1,0,0.0,1,1,0
+U.S. Senate,Poland,2001,3,0,0.6666666666666666,0,0,0
+U.S. Senate,Poland,2018,1,1,1.0,0,0,0
+U.S. Senate,Qatar,2002,2,0,0.5,1,1,0
+U.S. Senate,Qatar,2004,1,0,0.0,1,1,0
+U.S. Senate,Qatar,2006,1,0,0.0,1,1,0
+U.S. Senate,Qatar,2008,1,0,0.0,1,1,0
+U.S. Senate,Qatar,2009,1,0,0.0,1,1,0
+U.S. Senate,Qatar,2010,2,0,0.0,1,1,1
+U.S. Senate,Qatar,2011,1,0,0.0,1,1,0
+U.S. Senate,Qatar,2012,1,0,0.0,1,1,1
+U.S. Senate,Qatar,2014,2,0,0.0,1,1,1
+U.S. Senate,Qatar,2015,1,0,0.0,1,1,0
+U.S. Senate,Qatar,2016,5,0,0.6,1,1,0
+U.S. Senate,Qatar,2018,1,0,0.0,0,0,0
+U.S. Senate,Russia,2003,1,0,0.0,1,1,0
+U.S. Senate,Russia,2005,1,0,0.0,1,1,0
+U.S. Senate,Russia,2006,1,0,0.0,1,1,0
+U.S. Senate,Russia,2007,2,0,0.5,1,1,1
+U.S. Senate,Russia,2008,2,0,0.5,0,0,0
+U.S. Senate,Rwanda,2013,7,0,0.5714285714285714,1,1,0
+U.S. Senate,Rwanda,2014,2,1,1.0,0,0,0
+U.S. Senate,Saudi Arabia,2000,1,0,0.0,1,1,0
+U.S. Senate,Saudi Arabia,2002,5,0,0.0,0,0,0
+U.S. Senate,Saudi Arabia,2006,1,0,0.0,1,1,0
+U.S. Senate,Saudi Arabia,2008,2,0,0.0,0,0,0
+U.S. Senate,Saudi Arabia,2012,2,0,0.5,0,0,0
+U.S. Senate,Saudi Arabia,2016,2,0,0.0,0,0,0
+U.S. Senate,Serbia,2011,1,1,1.0,0,0,0
+U.S. Senate,Slovakia,2003,1,0,0.0,0,0,0
+U.S. Senate,Slovenia,2000,4,0,0.25,1,1,0
+U.S. Senate,Slovenia,2003,1,0,0.0,0,0,0
+U.S. Senate,South Korea,2003,2,0,0.0,0,0,0
+U.S. Senate,South Korea,2007,1,1,1.0,1,1,0
+U.S. Senate,South Korea,2010,2,0,0.5,1,1,0
+U.S. Senate,South Korea,2011,1,0,0.0,1,1,0
+U.S. Senate,South Korea,2013,1,1,1.0,0,0,0
+U.S. Senate,South Korea,2018,2,0,0.5,1,1,1
+U.S. Senate,South Korea,2020,2,0,0.5,1,1,0
+U.S. Senate,Spain,2014,1,0,0.0,0,0,0
+U.S. Senate,Spain,2018,1,0,0.0,0,0,0
+U.S. Senate,Sri Lanka,2013,2,0,0.0,0,0,0
+U.S. Senate,Sweden,2016,1,1,1.0,0,0,0
+U.S. Senate,Syria,2009,1,0,0.0,0,0,0
+U.S. Senate,Taiwan,2000,1,0,0.0,1,1,0
+U.S. Senate,Taiwan,2001,1,0,0.0,0,0,0
+U.S. Senate,Taiwan,2006,2,0,0.0,1,1,0
+U.S. Senate,Taiwan,2009,1,0,0.0,1,1,0
+U.S. Senate,Taiwan,2010,2,1,1.0,1,1,0
+U.S. Senate,Taiwan,2011,1,1,1.0,1,1,0
+U.S. Senate,Taiwan,2012,2,0,0.0,1,1,0
+U.S. Senate,Taiwan,2013,2,1,1.0,1,1,0
+U.S. Senate,Taiwan,2014,1,0,0.0,1,1,0
+U.S. Senate,Taiwan,2016,1,0,0.0,1,1,0
+U.S. Senate,Taiwan,2018,1,0,0.0,0,0,0
+U.S. Senate,Tanzania,2012,1,0,0.0,1,1,0
+U.S. Senate,Tanzania,2014,1,1,1.0,1,1,0
+U.S. Senate,Tanzania,2015,2,1,1.0,0,0,0
+U.S. Senate,Thailand,2005,1,0,0.0,1,1,0
+U.S. Senate,Thailand,2006,2,0,0.5,0,0,0
+U.S. Senate,Thailand,2018,1,0,0.0,1,1,0
+U.S. Senate,Thailand,2019,1,1,1.0,0,0,0
+U.S. Senate,Tunisia,2005,1,0,0.0,0,0,0
+U.S. Senate,Turkey,2002,1,0,0.0,0,0,0
+U.S. Senate,Turkey,2006,1,0,0.0,0,0,0
+U.S. Senate,Turkey,2013,1,0,0.0,0,0,0
+U.S. Senate,Ukraine,2003,1,0,0.0,0,0,0
+U.S. Senate,Ukraine,2018,1,1,1.0,0,0,0
+U.S. Senate,United Arab Emirates,2008,2,0,0.0,1,1,0
+U.S. Senate,United Arab Emirates,2009,1,1,1.0,1,1,0
+U.S. Senate,United Arab Emirates,2012,2,0,0.0,1,0,1
+U.S. Senate,United Arab Emirates,2015,1,0,0.0,0,0,0
+U.S. Senate,United Kingdom,2006,1,0,0.0,0,0,0
+U.S. Senate,United Kingdom,2011,1,1,1.0,0,0,0
+U.S. Senate,Uruguay,2006,1,0,0.0,0,0,0
+U.S. Senate,Uzbekistan,2002,12,0,0.3333333333333333,0,0,0
+U.S. Senate,Vietnam,2002,1,0,0.0,0,0,0
+U.S. Senate,Vietnam,2006,1,1,1.0,1,1,0
+U.S. Senate,Vietnam,2007,1,0,0.0,0,0,0
+U.S. Senate,Vietnam,2014,2,0,0.5,1,1,0
+U.S. Senate,Vietnam,2015,2,0,0.0,0,0,0
+U.S. Senate,Yemen,2000,1,0,0.0,0,0,0
+U.S. Senate,Yemen,2004,1,1,1.0,0,0,0
+U.S. Senate,Yemen,2011,3,0,0.3333333333333333,0,0,0
+White House / Executive Office of the President,Afghanistan,2002,3,0,0.0,1,1,1
+White House / Executive Office of the President,Afghanistan,2003,2,0,0.0,1,1,1
+White House / Executive Office of the President,Afghanistan,2005,3,0,0.0,1,1,1
+White House / Executive Office of the President,Afghanistan,2006,3,0,0.0,1,1,1
+White House / Executive Office of the President,Afghanistan,2007,6,0,0.3333333333333333,1,1,1
+White House / Executive Office of the President,Afghanistan,2008,5,1,1.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Afghanistan,2010,2,0,0.5,1,1,1
+White House / Executive Office of the President,Afghanistan,2011,2,0,0.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2012,1,0,0.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2013,1,1,1.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2017,1,0,0.0,1,1,1
+White House / Executive Office of the President,Afghanistan,2018,1,0,0.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2020,1,1,1.0,1,1,0
+White House / Executive Office of the President,Afghanistan,2021,2,0,0.0,0,0,0
+White House / Executive Office of the President,Albania,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Albania,2007,2,0,0.0,1,0,1
+White House / Executive Office of the President,Albania,2008,1,1,1.0,0,0,0
+White House / Executive Office of the President,Algeria,2001,3,0,0.0,1,0,1
+White House / Executive Office of the President,Algeria,2004,1,0,0.0,1,1,0
+White House / Executive Office of the President,Algeria,2007,1,1,1.0,1,1,0
+White House / Executive Office of the President,Algeria,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Algeria,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,Algeria,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Algeria,2014,1,0,0.0,1,0,1
+White House / Executive Office of the President,Algeria,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Angola,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Angola,2004,1,0,0.0,0,0,0
+White House / Executive Office of the President,Argentina,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Argentina,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Argentina,2005,2,0,0.0,0,0,0
+White House / Executive Office of the President,Argentina,2009,1,0,0.0,1,1,0
+White House / Executive Office of the President,Argentina,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Argentina,2016,2,1,1.0,0,0,0
+White House / Executive Office of the President,Armenia,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Armenia,2001,1,0,0.0,1,1,0
+White House / Executive Office of the President,Armenia,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Armenia,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Armenia,2010,1,0,0.0,1,1,0
+White House / Executive Office of the President,Armenia,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Australia,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Australia,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2003,2,0,0.0,1,0,1
+White House / Executive Office of the President,Australia,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2007,2,0,0.0,1,0,1
+White House / Executive Office of the President,Australia,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Australia,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2013,1,1,1.0,1,1,0
+White House / Executive Office of the President,Australia,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Australia,2017,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2018,1,0,0.0,1,1,1
+White House / Executive Office of the President,Australia,2019,2,1,1.0,1,1,0
+White House / Executive Office of the President,Australia,2021,2,0,0.0,1,0,1
+White House / Executive Office of the President,Austria,2002,1,1,1.0,1,1,0
+White House / Executive Office of the President,Austria,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Austria,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Austria,2006,2,0,0.0,0,0,0
+White House / Executive Office of the President,Austria,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Austria,2019,1,1,1.0,0,0,0
+White House / Executive Office of the President,Azerbaijan,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Azerbaijan,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Azerbaijan,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Azerbaijan,2006,2,0,0.0,0,0,0
+White House / Executive Office of the President,Azerbaijan,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Azerbaijan,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Azerbaijan,2013,2,0,0.0,1,0,1
+White House / Executive Office of the President,Azerbaijan,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Bahrain,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Bahrain,2001,1,0,0.0,1,0,1
+White House / Executive Office of the President,Bahrain,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Bahrain,2004,1,0,0.0,1,1,0
+White House / Executive Office of the President,Bahrain,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Bahrain,2007,1,1,1.0,1,1,0
+White House / Executive Office of the President,Bahrain,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Bahrain,2010,1,0,0.0,1,1,0
+White House / Executive Office of the President,Bahrain,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Bahrain,2013,2,0,0.5,1,1,0
+White House / Executive Office of the President,Bahrain,2015,2,0,0.5,1,1,0
+White House / Executive Office of the President,Bahrain,2017,1,0,0.0,1,1,1
+White House / Executive Office of the President,Bahrain,2019,2,0,0.5,0,0,0
+White House / Executive Office of the President,Bangladesh,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Bangladesh,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Bangladesh,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Barbados,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,Belgium,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Belgium,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Belgium,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Belgium,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Belgium,2017,3,0,0.0,1,0,1
+White House / Executive Office of the President,Belgium,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,Benin,1999,1,0,0.0,0,0,0
+White House / Executive Office of the President,Benin,2006,2,0,0.0,1,0,1
+White House / Executive Office of the President,Benin,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Benin,2011,1,0,0.0,1,1,0
+White House / Executive Office of the President,Benin,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Benin,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Bhutan,2000,1,1,1.0,0,0,0
+White House / Executive Office of the President,Bolivia,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Bolivia,2001,2,0,0.0,0,0,0
+White House / Executive Office of the President,Botswana,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,Botswana,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Botswana,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Brazil,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brazil,2005,2,0,0.0,1,0,1
+White House / Executive Office of the President,Brazil,2007,2,0,0.0,1,1,0
+White House / Executive Office of the President,Brazil,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brazil,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,Brazil,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Brazil,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Brazil,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,Brunei,1999,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brunei,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Brunei,2002,1,0,0.0,1,0,1
+White House / Executive Office of the President,Brunei,2003,1,0,0.0,1,0,1
+White House / Executive Office of the President,Brunei,2004,1,0,0.0,1,0,1
+White House / Executive Office of the President,Brunei,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Brunei,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brunei,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Brunei,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brunei,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brunei,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Brunei,2012,2,0,0.5,1,1,1
+White House / Executive Office of the President,Brunei,2013,3,0,0.3333333333333333,1,0,1
+White House / Executive Office of the President,Brunei,2014,2,0,0.0,1,0,1
+White House / Executive Office of the President,Brunei,2015,2,0,0.0,1,0,1
+White House / Executive Office of the President,Brunei,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Bulgaria,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Bulgaria,2002,1,0,0.0,1,0,1
+White House / Executive Office of the President,Bulgaria,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Bulgaria,2007,2,0,0.0,0,0,0
+White House / Executive Office of the President,Bulgaria,2012,2,0,0.5,0,0,0
+White House / Executive Office of the President,Bulgaria,2019,1,1,1.0,0,0,0
+White House / Executive Office of the President,Burkina Faso,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Burkina Faso,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Burkina Faso,2014,2,0,0.0,0,0,0
+White House / Executive Office of the President,Cambodia,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Cambodia,2015,2,0,0.0,0,0,0
+White House / Executive Office of the President,Cameroon,2003,2,0,0.0,1,1,0
+White House / Executive Office of the President,Cameroon,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Canada,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Canada,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Canada,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Canada,2004,2,0,0.0,1,0,1
+White House / Executive Office of the President,Canada,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Canada,2006,1,0,0.0,1,0,1
+White House / Executive Office of the President,Canada,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Canada,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Canada,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Canada,2012,2,0,0.0,0,0,0
+White House / Executive Office of the President,Canada,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Canada,2017,1,0,0.0,1,0,1
+White House / Executive Office of the President,Canada,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,Cape Verde,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Chile,2004,2,0,0.0,1,0,1
+White House / Executive Office of the President,Chile,2006,2,0,0.0,1,1,0
+White House / Executive Office of the President,Chile,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Chile,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,Chile,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,China,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,China,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,China,2002,4,0,0.5,1,1,1
+White House / Executive Office of the President,China,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,China,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,China,2005,2,0,0.0,1,1,1
+White House / Executive Office of the President,China,2006,3,0,0.0,1,1,1
+White House / Executive Office of the President,China,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,China,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,China,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,China,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,China,2011,2,0,0.0,1,1,1
+White House / Executive Office of the President,China,2012,2,0,0.0,1,1,1
+White House / Executive Office of the President,China,2013,3,0,0.3333333333333333,1,1,1
+White House / Executive Office of the President,China,2014,3,0,0.0,1,1,1
+White House / Executive Office of the President,China,2015,3,0,0.3333333333333333,1,1,1
+White House / Executive Office of the President,China,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,China,2017,3,0,0.0,1,0,1
+White House / Executive Office of the President,China,2018,1,0,0.0,1,0,1
+White House / Executive Office of the President,China,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,Colombia,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Colombia,2001,1,0,0.0,1,0,1
+White House / Executive Office of the President,Colombia,2004,1,0,0.0,1,0,1
+White House / Executive Office of the President,Colombia,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Colombia,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Colombia,2010,1,0,0.0,1,1,0
+White House / Executive Office of the President,Colombia,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Colombia,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Colombia,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Colombia,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Colombia,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Comoros,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Costa Rica,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Costa Rica,2002,1,0,0.0,1,1,0
+White House / Executive Office of the President,Costa Rica,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Costa Rica,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,Croatia,2001,1,0,0.0,1,1,0
+White House / Executive Office of the President,Croatia,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Croatia,2006,1,0,0.0,1,0,1
+White House / Executive Office of the President,Croatia,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Croatia,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Cuba,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,Cuba,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Czech Republic,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Czech Republic,2003,2,0,0.0,0,0,0
+White House / Executive Office of the President,Czech Republic,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Czech Republic,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Czech Republic,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Czech Republic,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Czech Republic,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,Czech Republic,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Czech Republic,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Czech Republic,2019,2,1,1.0,0,0,0
+White House / Executive Office of the President,Democratic Republic of the Congo,2002,1,0,0.0,1,1,0
+White House / Executive Office of the President,Democratic Republic of the Congo,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,Democratic Republic of the Congo,2005,1,1,1.0,1,1,0
+White House / Executive Office of the President,Democratic Republic of the Congo,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,Democratic Republic of the Congo,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Denmark,2004,1,0,0.0,1,1,0
+White House / Executive Office of the President,Denmark,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Denmark,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Denmark,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Denmark,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Denmark,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Djibouti,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Dominican Republic,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Dominican Republic,2002,3,0,0.0,1,0,1
+White House / Executive Office of the President,Dominican Republic,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,Dominican Republic,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ecuador,1999,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ecuador,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Ecuador,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Egypt,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Egypt,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Egypt,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,Egypt,2002,3,0,0.0,1,0,1
+White House / Executive Office of the President,Egypt,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Egypt,2005,1,0,0.0,1,1,0
+White House / Executive Office of the President,Egypt,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Egypt,2010,2,0,0.0,0,0,0
+White House / Executive Office of the President,Egypt,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Egypt,2017,2,0,0.0,1,1,0
+White House / Executive Office of the President,Egypt,2018,2,0,0.0,1,1,0
+White House / Executive Office of the President,Egypt,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,El Salvador,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,El Salvador,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,El Salvador,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,El Salvador,2006,1,0,0.0,1,0,1
+White House / Executive Office of the President,El Salvador,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,El Salvador,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,El Salvador,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,El Salvador,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,Equatorial Guinea,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Estonia,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Estonia,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Eswatini,2014,2,0,0.0,0,0,0
+White House / Executive Office of the President,Ethiopia,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ethiopia,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Finland,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Finland,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Finland,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Finland,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,France,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,France,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,France,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,France,2002,3,0,0.0,1,0,1
+White House / Executive Office of the President,France,2003,2,0,0.0,1,1,1
+White House / Executive Office of the President,France,2004,3,0,0.3333333333333333,1,0,1
+White House / Executive Office of the President,France,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,France,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,France,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,France,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,France,2009,2,0,0.0,1,0,1
+White House / Executive Office of the President,France,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,France,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,France,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,France,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,France,2014,2,0,0.0,1,1,1
+White House / Executive Office of the President,France,2015,1,1,1.0,1,1,0
+White House / Executive Office of the President,France,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,France,2017,1,0,0.0,1,1,1
+White House / Executive Office of the President,France,2018,2,0,0.0,1,1,0
+White House / Executive Office of the President,France,2021,1,0,0.0,1,1,1
+White House / Executive Office of the President,Gabon,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Georgia,1999,2,0,0.0,1,1,0
+White House / Executive Office of the President,Georgia,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Georgia,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Georgia,2005,2,0,0.0,1,0,1
+White House / Executive Office of the President,Georgia,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Georgia,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Germany,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Germany,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Germany,2002,3,0,0.3333333333333333,1,0,1
+White House / Executive Office of the President,Germany,2005,2,0,0.0,1,1,1
+White House / Executive Office of the President,Germany,2006,3,0,0.0,1,1,1
+White House / Executive Office of the President,Germany,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Germany,2009,2,0,0.0,1,0,1
+White House / Executive Office of the President,Germany,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,Germany,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Germany,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Germany,2015,2,0,0.0,1,1,1
+White House / Executive Office of the President,Germany,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Germany,2017,2,0,0.0,0,0,0
+White House / Executive Office of the President,Germany,2021,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ghana,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ghana,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Ghana,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Ghana,2009,2,0,0.0,0,0,0
+White House / Executive Office of the President,Ghana,2014,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ghana,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Ghana,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,Greece,1999,3,0,0.6666666666666666,1,1,0
+White House / Executive Office of the President,Greece,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Greece,2002,2,0,0.0,1,1,1
+White House / Executive Office of the President,Greece,2003,2,0,0.0,1,1,1
+White House / Executive Office of the President,Greece,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Greece,2005,1,0,0.0,1,1,0
+White House / Executive Office of the President,Greece,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Greece,2007,2,0,0.5,0,0,0
+White House / Executive Office of the President,Greece,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Greece,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Greece,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Guatemala,1999,1,0,0.0,0,0,0
+White House / Executive Office of the President,Guatemala,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,Guatemala,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Guatemala,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Guinea,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Haiti,2009,1,0,0.0,1,1,0
+White House / Executive Office of the President,Haiti,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Haiti,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Honduras,1999,1,0,0.0,0,0,0
+White House / Executive Office of the President,Honduras,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Honduras,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Hungary,1999,2,0,0.0,1,1,0
+White House / Executive Office of the President,Hungary,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Hungary,2004,2,0,0.0,1,0,1
+White House / Executive Office of the President,Hungary,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Hungary,2006,2,0,0.0,0,0,0
+White House / Executive Office of the President,Hungary,2021,1,0,0.0,1,0,1
+White House / Executive Office of the President,Iceland,1999,1,0,0.0,0,0,0
+White House / Executive Office of the President,Iceland,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,India,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,India,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,India,2003,2,0,0.0,1,1,1
+White House / Executive Office of the President,India,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,India,2005,3,0,0.0,1,1,1
+White House / Executive Office of the President,India,2006,3,0,0.3333333333333333,1,1,1
+White House / Executive Office of the President,India,2008,3,1,1.0,1,1,0
+White House / Executive Office of the President,India,2009,2,0,0.0,1,1,1
+White House / Executive Office of the President,India,2010,3,0,0.0,1,1,1
+White House / Executive Office of the President,India,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,India,2013,1,0,0.0,1,1,0
+White House / Executive Office of the President,India,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,India,2015,2,0,0.0,1,1,1
+White House / Executive Office of the President,India,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,India,2017,1,0,0.0,1,1,1
+White House / Executive Office of the President,India,2019,2,0,0.5,1,1,0
+White House / Executive Office of the President,India,2021,1,0,0.0,1,1,1
+White House / Executive Office of the President,Indonesia,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Indonesia,2003,2,0,0.0,1,1,1
+White House / Executive Office of the President,Indonesia,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Indonesia,2006,3,0,0.0,0,0,0
+White House / Executive Office of the President,Indonesia,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,Indonesia,2011,2,0,0.0,0,0,0
+White House / Executive Office of the President,Indonesia,2015,2,0,0.0,1,1,1
+White House / Executive Office of the President,Indonesia,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Indonesia,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Iraq,2005,2,0,0.0,1,1,1
+White House / Executive Office of the President,Iraq,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Iraq,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Iraq,2008,3,1,1.0,1,1,0
+White House / Executive Office of the President,Iraq,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Iraq,2011,2,0,0.5,1,0,1
+White House / Executive Office of the President,Iraq,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Iraq,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Iraq,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,Iraq,2017,1,0,0.0,1,1,0
+White House / Executive Office of the President,Iraq,2019,1,1,1.0,0,0,0
+White House / Executive Office of the President,Ireland,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Ireland,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2004,2,0,0.0,1,0,1
+White House / Executive Office of the President,Ireland,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Ireland,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,Ireland,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ireland,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ireland,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2015,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Ireland,2017,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ireland,2018,1,0,0.0,1,1,1
+White House / Executive Office of the President,Ireland,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,Ireland,2021,1,0,0.0,1,0,1
+White House / Executive Office of the President,Israel,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Israel,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Israel,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Israel,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Israel,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Israel,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Israel,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Israel,2013,2,0,0.0,1,0,1
+White House / Executive Office of the President,Israel,2014,2,0,0.0,1,1,0
+White House / Executive Office of the President,Israel,2017,2,0,0.0,1,0,1
+White House / Executive Office of the President,Israel,2018,1,0,0.0,1,0,1
+White House / Executive Office of the President,Israel,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,Italy,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Italy,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2002,4,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2003,3,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2004,8,0,0.5,1,1,1
+White House / Executive Office of the President,Italy,2005,5,0,0.2,1,1,1
+White House / Executive Office of the President,Italy,2006,4,0,0.25,1,1,1
+White House / Executive Office of the President,Italy,2007,4,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2008,5,1,1.0,1,1,0
+White House / Executive Office of the President,Italy,2009,2,0,0.0,1,0,1
+White House / Executive Office of the President,Italy,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2014,2,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2015,2,0,0.0,1,1,1
+White House / Executive Office of the President,Italy,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Italy,2017,2,0,0.0,1,0,1
+White House / Executive Office of the President,Italy,2018,1,0,0.0,1,1,0
+White House / Executive Office of the President,Italy,2021,2,0,0.0,0,0,0
+White House / Executive Office of the President,Ivory Coast,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ivory Coast,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ivory Coast,2019,1,1,1.0,0,0,0
+White House / Executive Office of the President,Jamaica,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Japan,1998,1,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,1999,1,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Japan,2001,9,0,0.5555555555555556,1,1,1
+White House / Executive Office of the President,Japan,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Japan,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Japan,2009,2,0,0.0,1,0,1
+White House / Executive Office of the President,Japan,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Japan,2012,1,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2014,2,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2015,2,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Japan,2017,2,0,0.0,1,1,1
+White House / Executive Office of the President,Japan,2019,2,1,1.0,1,1,0
+White House / Executive Office of the President,Japan,2021,1,0,0.0,1,1,1
+White House / Executive Office of the President,Jordan,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Jordan,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Jordan,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,Jordan,2003,4,0,0.25,1,1,1
+White House / Executive Office of the President,Jordan,2004,2,0,0.5,1,1,1
+White House / Executive Office of the President,Jordan,2005,2,0,0.0,1,0,1
+White House / Executive Office of the President,Jordan,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Jordan,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Jordan,2010,2,0,0.5,1,1,1
+White House / Executive Office of the President,Jordan,2011,2,0,0.5,1,0,1
+White House / Executive Office of the President,Jordan,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Jordan,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Jordan,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Jordan,2017,2,0,0.0,1,1,1
+White House / Executive Office of the President,Jordan,2018,3,0,0.3333333333333333,1,1,0
+White House / Executive Office of the President,Jordan,2021,2,0,0.0,1,0,1
+White House / Executive Office of the President,Kazakhstan,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Kazakhstan,2001,3,0,0.0,0,0,0
+White House / Executive Office of the President,Kazakhstan,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,Kazakhstan,2010,2,0,0.0,1,1,1
+White House / Executive Office of the President,Kazakhstan,2011,1,0,0.0,1,1,0
+White House / Executive Office of the President,Kazakhstan,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Kazakhstan,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Kazakhstan,2018,2,0,0.0,0,0,0
+White House / Executive Office of the President,Kenya,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Kenya,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Kenya,2014,1,0,0.0,1,1,0
+White House / Executive Office of the President,Kenya,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,Kenya,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,Kosovo,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Kosovo,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Kuwait,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Kuwait,2003,2,0,0.0,1,1,1
+White House / Executive Office of the President,Kuwait,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Kuwait,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Kuwait,2008,3,1,1.0,1,1,0
+White House / Executive Office of the President,Kuwait,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Kuwait,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Kuwait,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Kuwait,2015,2,0,0.0,1,1,0
+White House / Executive Office of the President,Kuwait,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Kyrgyzstan,2011,1,1,1.0,0,0,0
+White House / Executive Office of the President,Laos,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Latvia,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Latvia,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Latvia,2005,2,0,0.0,0,0,0
+White House / Executive Office of the President,Lebanon,2001,1,0,0.0,1,0,1
+White House / Executive Office of the President,Lebanon,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Lebanon,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Lebanon,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Lebanon,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Lebanon,2009,1,0,0.0,1,1,0
+White House / Executive Office of the President,Lebanon,2010,1,0,0.0,1,1,0
+White House / Executive Office of the President,Lebanon,2013,2,0,0.0,0,0,0
+White House / Executive Office of the President,Lebanon,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,Liberia,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Liberia,2006,2,0,0.0,1,0,1
+White House / Executive Office of the President,Liberia,2008,2,1,1.0,0,0,0
+White House / Executive Office of the President,Liberia,2015,1,0,0.0,1,0,1
+White House / Executive Office of the President,Liberia,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Libya,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Libya,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Lithuania,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Lithuania,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,Lithuania,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,Luxembourg,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Madagascar,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Madagascar,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,Madagascar,2002,2,0,0.0,0,0,0
+White House / Executive Office of the President,Madagascar,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Malawi,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,Malawi,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,Malaysia,2001,1,0,0.0,1,0,1
+White House / Executive Office of the President,Malaysia,2002,1,0,0.0,1,0,1
+White House / Executive Office of the President,Malaysia,2004,1,0,0.0,1,0,1
+White House / Executive Office of the President,Malaysia,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Malaysia,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Malaysia,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,Malaysia,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Malaysia,2014,2,0,0.0,1,1,1
+White House / Executive Office of the President,Malaysia,2015,2,0,0.0,1,1,0
+White House / Executive Office of the President,Malaysia,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mali,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mali,2007,2,0,0.0,1,0,1
+White House / Executive Office of the President,Mali,2008,2,1,1.0,0,0,0
+White House / Executive Office of the President,Mali,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mali,2014,2,0,0.0,0,0,0
+White House / Executive Office of the President,Malta,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mauritania,2021,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mauritius,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Mauritius,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mauritius,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mauritius,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,Mauritius,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mauritius,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mexico,1999,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Mexico,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Mexico,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Mexico,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mexico,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,Mexico,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mexico,2014,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mexico,2015,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mexico,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Moldova,1998,1,0,0.0,0,0,0
+White House / Executive Office of the President,Moldova,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mongolia,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Mongolia,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mongolia,2004,3,0,0.3333333333333333,1,0,1
+White House / Executive Office of the President,Mongolia,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Mongolia,2007,2,0,0.0,0,0,0
+White House / Executive Office of the President,Mongolia,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mongolia,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Mongolia,2019,2,1,1.0,1,1,0
+White House / Executive Office of the President,Mongolia,2021,1,0,0.0,1,1,0
+White House / Executive Office of the President,Montenegro,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,Montenegro,2013,1,1,1.0,0,0,0
+White House / Executive Office of the President,Morocco,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Morocco,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Morocco,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2004,2,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2005,2,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Morocco,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Morocco,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Morocco,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Morocco,2013,1,0,0.0,1,1,0
+White House / Executive Office of the President,Morocco,2015,1,0,0.0,1,0,1
+White House / Executive Office of the President,Morocco,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Mozambique,2002,1,0,0.0,1,0,1
+White House / Executive Office of the President,Mozambique,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Myanmar,2012,2,0,0.0,1,1,1
+White House / Executive Office of the President,Myanmar,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Myanmar,2014,2,0,0.0,1,1,1
+White House / Executive Office of the President,Myanmar,2016,2,1,1.0,0,0,0
+White House / Executive Office of the President,Namibia,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Nepal,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Netherlands,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Netherlands,2009,2,0,0.0,0,0,0
+White House / Executive Office of the President,Netherlands,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Netherlands,2015,2,0,0.0,0,0,0
+White House / Executive Office of the President,New Zealand,1999,1,0,0.0,0,0,0
+White House / Executive Office of the President,New Zealand,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,New Zealand,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,New Zealand,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Nicaragua,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Niger,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,Nigeria,1999,4,0,0.0,1,1,1
+White House / Executive Office of the President,Nigeria,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Nigeria,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Nigeria,2003,7,0,0.2857142857142857,1,1,1
+White House / Executive Office of the President,Nigeria,2004,3,0,0.6666666666666666,1,0,1
+White House / Executive Office of the President,Nigeria,2006,1,0,0.0,1,0,1
+White House / Executive Office of the President,Nigeria,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Nigeria,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Nigeria,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Nigeria,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Nigeria,2014,1,0,0.0,1,0,1
+White House / Executive Office of the President,Nigeria,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,Nigeria,2018,1,0,0.0,0,0,0
+White House / Executive Office of the President,North Macedonia,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,North Macedonia,2007,2,0,0.0,0,0,0
+White House / Executive Office of the President,Norway,1999,1,0,0.0,0,0,0
+White House / Executive Office of the President,Oman,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Oman,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Oman,2013,1,1,1.0,1,1,0
+White House / Executive Office of the President,Oman,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,Oman,2017,1,0,0.0,1,1,0
+White House / Executive Office of the President,Oman,2020,1,1,1.0,0,0,0
+White House / Executive Office of the President,Pakistan,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Pakistan,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2002,2,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2003,3,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2004,2,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2006,10,0,0.5,1,1,1
+White House / Executive Office of the President,Pakistan,2008,3,1,1.0,1,1,0
+White House / Executive Office of the President,Pakistan,2009,3,0,0.0,1,0,1
+White House / Executive Office of the President,Pakistan,2010,2,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2013,2,0,0.5,1,1,1
+White House / Executive Office of the President,Pakistan,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Pakistan,2015,3,0,0.3333333333333333,1,1,0
+White House / Executive Office of the President,Pakistan,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Panama,1999,2,0,0.0,0,0,0
+White House / Executive Office of the President,Panama,2003,2,0,0.0,1,0,1
+White House / Executive Office of the President,Panama,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Panama,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Panama,2010,1,0,0.0,1,1,0
+White House / Executive Office of the President,Panama,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Panama,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Papua New Guinea,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Paraguay,2008,1,1,1.0,0,0,0
+White House / Executive Office of the President,Paraguay,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,Paraguay,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Peru,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Peru,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Peru,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Peru,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Peru,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Peru,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Peru,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Peru,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Peru,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Peru,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,Peru,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Peru,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Philippines,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Philippines,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Philippines,2003,2,0,0.0,0,0,0
+White House / Executive Office of the President,Philippines,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Philippines,2009,2,0,0.0,1,0,1
+White House / Executive Office of the President,Philippines,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Philippines,2011,1,0,0.0,1,0,1
+White House / Executive Office of the President,Philippines,2012,1,0,0.0,1,0,1
+White House / Executive Office of the President,Philippines,2015,1,0,0.0,1,1,1
+White House / Executive Office of the President,Philippines,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Philippines,2017,2,0,0.0,0,0,0
+White House / Executive Office of the President,Poland,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Poland,2002,2,0,0.0,1,1,1
+White House / Executive Office of the President,Poland,2003,3,0,0.0,1,0,1
+White House / Executive Office of the President,Poland,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Poland,2006,1,0,0.0,1,0,1
+White House / Executive Office of the President,Poland,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Poland,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Poland,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Poland,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Poland,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Portugal,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Portugal,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Portugal,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Portugal,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Portugal,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Portugal,2018,2,0,0.0,0,0,0
+White House / Executive Office of the President,Qatar,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Qatar,2003,3,0,0.0,1,0,1
+White House / Executive Office of the President,Qatar,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Qatar,2007,2,0,0.0,1,1,0
+White House / Executive Office of the President,Qatar,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,Qatar,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Qatar,2013,2,0,0.0,1,1,1
+White House / Executive Office of the President,Qatar,2014,1,1,1.0,1,1,0
+White House / Executive Office of the President,Qatar,2015,2,0,0.0,1,1,0
+White House / Executive Office of the President,Qatar,2018,1,0,0.0,1,1,1
+White House / Executive Office of the President,Qatar,2019,2,1,1.0,1,1,0
+White House / Executive Office of the President,Republic of the Congo,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Romania,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Romania,2002,2,0,0.0,1,0,1
+White House / Executive Office of the President,Romania,2003,2,0,0.0,1,0,1
+White House / Executive Office of the President,Romania,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Romania,2008,3,1,1.0,0,0,0
+White House / Executive Office of the President,Romania,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Russia,1999,1,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Russia,2001,3,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2002,3,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2003,4,0,0.0,1,0,1
+White House / Executive Office of the President,Russia,2004,2,0,0.5,1,1,1
+White House / Executive Office of the President,Russia,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Russia,2009,2,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2010,3,0,0.6666666666666666,1,1,1
+White House / Executive Office of the President,Russia,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Russia,2012,2,0,0.0,1,0,1
+White House / Executive Office of the President,Russia,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,Russia,2018,1,0,0.0,1,1,0
+White House / Executive Office of the President,Russia,2021,1,0,0.0,0,0,0
+White House / Executive Office of the President,Rwanda,2005,1,0,0.0,1,0,1
+White House / Executive Office of the President,Rwanda,2008,1,1,1.0,0,0,0
+White House / Executive Office of the President,Saudi Arabia,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Saudi Arabia,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2002,3,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2003,5,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2007,5,0,0.4,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2008,8,1,1.0,1,1,0
+White House / Executive Office of the President,Saudi Arabia,2009,8,0,0.5,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2012,2,0,0.0,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2014,7,0,0.42857142857142855,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2015,3,0,0.6666666666666666,1,1,1
+White House / Executive Office of the President,Saudi Arabia,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Saudi Arabia,2017,5,0,0.2,1,0,1
+White House / Executive Office of the President,Saudi Arabia,2018,2,0,0.0,1,1,0
+White House / Executive Office of the President,Saudi Arabia,2020,1,1,1.0,1,1,0
+White House / Executive Office of the President,Senegal,2003,2,0,0.0,0,0,0
+White House / Executive Office of the President,Senegal,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,Senegal,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Senegal,2013,1,0,0.0,1,1,0
+White House / Executive Office of the President,Senegal,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Serbia,2001,1,0,0.0,0,0,0
+White House / Executive Office of the President,Serbia,2010,1,1,1.0,0,0,0
+White House / Executive Office of the President,Sierra Leone,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Singapore,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Singapore,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Singapore,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Singapore,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Singapore,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Singapore,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Singapore,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Singapore,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,Singapore,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,Singapore,2017,2,0,0.0,0,0,0
+White House / Executive Office of the President,Slovakia,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Slovakia,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Slovakia,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,Slovakia,2005,4,0,0.0,0,0,0
+White House / Executive Office of the President,Slovenia,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Slovenia,2001,1,0,0.0,1,0,1
+White House / Executive Office of the President,Slovenia,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Slovenia,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Slovenia,2008,2,1,1.0,0,0,0
+White House / Executive Office of the President,Slovenia,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,South Africa,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,South Africa,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,South Africa,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,South Africa,2005,1,0,0.0,0,0,0
+White House / Executive Office of the President,South Africa,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,South Africa,2013,2,0,0.0,0,0,0
+White House / Executive Office of the President,South Korea,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,South Korea,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,South Korea,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,South Korea,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,South Korea,2005,2,0,0.0,1,0,1
+White House / Executive Office of the President,South Korea,2006,2,0,0.0,1,0,1
+White House / Executive Office of the President,South Korea,2008,2,1,1.0,1,1,0
+White House / Executive Office of the President,South Korea,2010,3,0,0.0,1,0,1
+White House / Executive Office of the President,South Korea,2011,2,0,0.0,1,0,1
+White House / Executive Office of the President,South Korea,2013,1,0,0.0,1,1,0
+White House / Executive Office of the President,South Korea,2014,1,0,0.0,1,1,1
+White House / Executive Office of the President,South Korea,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,South Korea,2017,2,0,0.0,1,1,1
+White House / Executive Office of the President,South Korea,2018,1,0,0.0,1,1,1
+White House / Executive Office of the President,South Korea,2019,2,0,0.5,1,1,0
+White House / Executive Office of the President,South Korea,2021,2,0,0.0,1,1,1
+White House / Executive Office of the President,South Sudan,2006,1,0,0.0,0,0,0
+White House / Executive Office of the President,South Sudan,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Spain,1999,1,0,0.0,1,1,0
+White House / Executive Office of the President,Spain,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Spain,2001,2,0,0.0,1,0,1
+White House / Executive Office of the President,Spain,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,Spain,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Spain,2004,2,0,0.0,0,0,0
+White House / Executive Office of the President,Spain,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,Spain,2010,2,0,0.0,0,0,0
+White House / Executive Office of the President,Spain,2015,1,0,0.0,1,0,1
+White House / Executive Office of the President,Spain,2016,1,1,1.0,0,0,0
+White House / Executive Office of the President,Sri Lanka,2004,1,1,1.0,0,0,0
+White House / Executive Office of the President,Sri Lanka,2010,2,0,0.0,1,1,1
+White House / Executive Office of the President,Sri Lanka,2011,1,0,0.0,1,1,0
+White House / Executive Office of the President,Sri Lanka,2012,1,1,1.0,1,1,0
+White House / Executive Office of the President,Sri Lanka,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,State of Palestine,1999,1,0,0.0,1,1,1
+White House / Executive Office of the President,State of Palestine,2000,3,1,1.0,0,0,0
+White House / Executive Office of the President,State of Palestine,2005,2,0,0.0,1,0,1
+White House / Executive Office of the President,State of Palestine,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,State of Palestine,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,State of Palestine,2013,1,0,0.0,1,0,1
+White House / Executive Office of the President,State of Palestine,2014,1,0,0.0,1,1,0
+White House / Executive Office of the President,State of Palestine,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Suriname,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Sweden,2001,1,0,0.0,1,0,1
+White House / Executive Office of the President,Sweden,2002,1,0,0.0,0,0,0
+White House / Executive Office of the President,Sweden,2007,1,0,0.0,0,0,0
+White House / Executive Office of the President,Sweden,2013,2,0,0.0,0,0,0
+White House / Executive Office of the President,Switzerland,2000,1,1,1.0,0,0,0
+White House / Executive Office of the President,Switzerland,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Switzerland,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,Switzerland,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Switzerland,2018,1,0,0.0,1,1,0
+White House / Executive Office of the President,Switzerland,2021,1,0,0.0,0,0,0
+White House / Executive Office of the President,Syria,2003,1,0,0.0,1,1,0
+White House / Executive Office of the President,Syria,2004,1,0,0.0,0,0,0
+White House / Executive Office of the President,Taiwan,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Taiwan,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Tanzania,2005,1,0,0.0,1,1,0
+White House / Executive Office of the President,Tanzania,2007,1,0,0.0,1,1,1
+White House / Executive Office of the President,Tanzania,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Tanzania,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,Tanzania,2013,1,0,0.0,0,0,0
+White House / Executive Office of the President,Thailand,2001,2,0,0.0,1,1,1
+White House / Executive Office of the President,Thailand,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,Thailand,2003,3,0,0.0,1,0,1
+White House / Executive Office of the President,Thailand,2004,1,0,0.0,1,1,1
+White House / Executive Office of the President,Thailand,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,Thailand,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Thailand,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Thailand,2009,1,0,0.0,1,0,1
+White House / Executive Office of the President,Thailand,2010,1,0,0.0,1,0,1
+White House / Executive Office of the President,Thailand,2012,1,0,0.0,0,0,0
+White House / Executive Office of the President,Thailand,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Thailand,2017,1,0,0.0,1,1,0
+White House / Executive Office of the President,Thailand,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,Thailand,2021,1,0,0.0,0,0,0
+White House / Executive Office of the President,The Bahamas,2019,1,1,1.0,0,0,0
+White House / Executive Office of the President,The Gambia,2014,2,0,0.0,0,0,0
+White House / Executive Office of the President,Timor-Leste,2004,1,1,1.0,0,0,0
+White House / Executive Office of the President,Togo,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Trinidad and Tobago,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Trinidad and Tobago,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,Tunisia,1999,2,0,0.0,1,1,1
+White House / Executive Office of the President,Tunisia,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Tunisia,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,Tunisia,2003,1,0,0.0,1,1,1
+White House / Executive Office of the President,Tunisia,2004,3,0,0.3333333333333333,0,0,0
+White House / Executive Office of the President,Tunisia,2010,2,0,0.0,1,0,1
+White House / Executive Office of the President,Tunisia,2011,1,0,0.0,0,0,0
+White House / Executive Office of the President,Tunisia,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Turkey,1999,2,0,0.0,1,1,0
+White House / Executive Office of the President,Turkey,2002,4,0,0.5,1,0,1
+White House / Executive Office of the President,Turkey,2004,2,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2006,2,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2008,3,1,1.0,1,1,0
+White House / Executive Office of the President,Turkey,2009,2,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2010,3,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2011,1,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2012,2,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2013,2,0,0.0,1,1,1
+White House / Executive Office of the President,Turkey,2014,1,0,0.0,1,1,0
+White House / Executive Office of the President,Turkey,2015,1,0,0.0,0,0,0
+White House / Executive Office of the President,Turkey,2019,1,1,1.0,0,0,0
+White House / Executive Office of the President,Turkmenistan,2007,2,0,0.0,0,0,0
+White House / Executive Office of the President,Uganda,2002,1,0,0.0,1,1,0
+White House / Executive Office of the President,Uganda,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ukraine,1999,1,0,0.0,1,0,1
+White House / Executive Office of the President,Ukraine,2000,1,1,1.0,0,0,0
+White House / Executive Office of the President,Ukraine,2005,2,0,0.0,1,0,1
+White House / Executive Office of the President,Ukraine,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,Ukraine,2009,1,0,0.0,1,1,0
+White House / Executive Office of the President,Ukraine,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ukraine,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Ukraine,2021,1,0,0.0,1,1,1
+White House / Executive Office of the President,United Arab Emirates,2002,2,0,0.5,0,0,0
+White House / Executive Office of the President,United Arab Emirates,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,United Arab Emirates,2008,7,1,1.0,1,1,0
+White House / Executive Office of the President,United Arab Emirates,2010,1,0,0.0,0,0,0
+White House / Executive Office of the President,United Arab Emirates,2015,1,0,0.0,1,1,0
+White House / Executive Office of the President,United Arab Emirates,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,United Kingdom,2001,1,0,0.0,1,1,1
+White House / Executive Office of the President,United Kingdom,2002,1,0,0.0,1,1,1
+White House / Executive Office of the President,United Kingdom,2003,2,0,0.0,1,0,1
+White House / Executive Office of the President,United Kingdom,2005,1,0,0.0,1,1,1
+White House / Executive Office of the President,United Kingdom,2007,2,0,0.0,1,1,1
+White House / Executive Office of the President,United Kingdom,2008,1,1,1.0,1,1,0
+White House / Executive Office of the President,United Kingdom,2009,1,0,0.0,1,1,1
+White House / Executive Office of the President,United Kingdom,2010,1,0,0.0,1,1,1
+White House / Executive Office of the President,United Kingdom,2011,6,0,0.5,1,0,1
+White House / Executive Office of the President,United Kingdom,2012,2,0,0.0,1,0,1
+White House / Executive Office of the President,United Kingdom,2013,2,0,0.0,1,0,1
+White House / Executive Office of the President,United Kingdom,2014,1,0,0.0,1,0,1
+White House / Executive Office of the President,United Kingdom,2015,1,0,0.0,1,0,1
+White House / Executive Office of the President,United Kingdom,2016,1,1,1.0,1,1,0
+White House / Executive Office of the President,United Kingdom,2019,10,0,0.9,1,1,0
+White House / Executive Office of the President,United Kingdom,2021,1,0,0.0,1,0,1
+White House / Executive Office of the President,Uruguay,1998,1,0,0.0,0,0,0
+White House / Executive Office of the President,Uruguay,2006,1,0,0.0,1,1,1
+White House / Executive Office of the President,Uruguay,2007,2,0,0.0,1,1,0
+White House / Executive Office of the President,Uruguay,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,Uruguay,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Uzbekistan,1999,1,1,1.0,1,1,0
+White House / Executive Office of the President,Uzbekistan,2002,6,0,0.5,1,0,1
+White House / Executive Office of the President,Uzbekistan,2003,1,0,0.0,0,0,0
+White House / Executive Office of the President,Uzbekistan,2011,1,0,0.0,1,1,0
+White House / Executive Office of the President,Uzbekistan,2013,1,1,1.0,0,0,0
+White House / Executive Office of the President,Uzbekistan,2018,4,0,0.5,1,1,0
+White House / Executive Office of the President,Uzbekistan,2019,1,1,1.0,1,1,0
+White House / Executive Office of the President,Uzbekistan,2020,1,1,1.0,1,1,0
+White House / Executive Office of the President,Uzbekistan,2021,1,0,0.0,1,1,0
+White House / Executive Office of the President,Vatican City,2001,1,0,0.0,1,1,0
+White House / Executive Office of the President,Vatican City,2004,1,0,0.0,0,0,0
+White House / Executive Office of the President,Vatican City,2009,1,0,0.0,0,0,0
+White House / Executive Office of the President,Vatican City,2014,1,0,0.0,1,1,0
+White House / Executive Office of the President,Vatican City,2017,1,0,0.0,0,0,0
+White House / Executive Office of the President,Vatican City,2021,1,0,0.0,0,0,0
+White House / Executive Office of the President,Vietnam,1999,1,0,0.0,1,1,1
+White House / Executive Office of the President,Vietnam,2000,1,1,1.0,1,1,0
+White House / Executive Office of the President,Vietnam,2002,1,0,0.0,1,1,0
+White House / Executive Office of the President,Vietnam,2005,2,0,0.0,1,1,1
+White House / Executive Office of the President,Vietnam,2006,2,0,0.0,1,0,1
+White House / Executive Office of the President,Vietnam,2007,2,0,0.0,0,0,0
+White House / Executive Office of the President,Vietnam,2011,1,0,0.0,1,1,0
+White House / Executive Office of the President,Vietnam,2013,1,0,0.0,1,1,1
+White House / Executive Office of the President,Vietnam,2016,2,1,1.0,1,1,0
+White House / Executive Office of the President,Vietnam,2017,2,0,0.0,1,1,1
+White House / Executive Office of the President,Vietnam,2018,1,0,0.0,1,1,1
+White House / Executive Office of the President,Vietnam,2019,6,1,1.0,1,1,0
+White House / Executive Office of the President,Vietnam,2021,1,0,0.0,1,0,1
+White House / Executive Office of the President,Yemen,2000,2,1,1.0,1,1,0
+White House / Executive Office of the President,Yemen,2001,4,0,0.0,1,1,0
+White House / Executive Office of the President,Yemen,2002,1,0,0.0,1,1,0
+White House / Executive Office of the President,Yemen,2005,4,0,0.0,1,0,1
+White House / Executive Office of the President,Yemen,2007,2,0,0.0,0,0,0
+White House / Executive Office of the President,Yemen,2012,2,0,0.5,1,1,0
+White House / Executive Office of the President,Yemen,2013,2,0,0.0,1,0,1
+White House / Executive Office of the President,Yemen,2014,1,0,0.0,0,0,0
+White House / Executive Office of the President,Zambia,2007,1,0,0.0,1,1,0
+White House / Executive Office of the President,Zambia,2010,1,0,0.0,0,0,0

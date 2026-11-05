@@ -1,0 +1,264 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adolph(2013)]{adolph2013bankers}
+Christopher Adolph.
+\newblock \emph{Bankers, Bureaucrats, and Central Bank Politics: The Myth of
+  Neutrality}.
+\newblock Cambridge University Press, New York, 2013.
+
+\bibitem[Alexiadou(2016)]{alexiadou2016ideologues}
+Despina Alexiadou.
+\newblock \emph{Ideologues, Partisans, and Loyalists: Ministers and
+  Policymaking in Parliamentary Cabinets}.
+\newblock Oxford University Press, Oxford, 2016.
+
+\bibitem[Arel-Bundock et~al.(2018)Arel-Bundock, Enevoldsen, and
+  Yetman]{arelbundock2018countrycode}
+Vincent Arel-Bundock, Nils Enevoldsen, and CJ~Yetman.
+\newblock countrycode: An {R} package to convert country names and country
+  codes.
+\newblock \emph{Journal of Open Source Software}, 3\penalty0 (28):\penalty0
+  848, 2018.
+
+\bibitem[Atkinson(2010)]{atkinson2010soft}
+Carol Atkinson.
+\newblock Does soft power matter? {A} comparative analysis of student exchange
+  programs 1980--2006.
+\newblock \emph{Foreign Policy Analysis}, 6\penalty0 (1):\penalty0 1--22, 2010.
+
+\bibitem[Blanes~i Vidal et~al.(2012)Blanes~i Vidal, Draca, and
+  Fons-Rosen]{blanes2012revolving}
+Jordi Blanes~i Vidal, Mirko Draca, and Christian Fons-Rosen.
+\newblock Revolving door lobbyists.
+\newblock \emph{American Economic Review}, 102\penalty0 (7):\penalty0
+  3731--3748, 2012.
+
+\bibitem[Bonica(2014)]{bonica2014mapping}
+Adam Bonica.
+\newblock Mapping the ideological marketplace.
+\newblock \emph{American Journal of Political Science}, 58\penalty0
+  (2):\penalty0 367--386, 2014.
+
+\bibitem[Carnes and Lupu(2023)]{carnes2023economic}
+Nicholas Carnes and Noam Lupu.
+\newblock The economic backgrounds of politicians.
+\newblock \emph{Annual Review of Political Science}, 26:\penalty0 253--270,
+  2023.
+\newblock \doi{10.1146/annurev-polisci-051921-102946}.
+
+\bibitem[Dal~B{\'o}(2006)]{dalbo2006regulatory}
+Ernesto Dal~B{\'o}.
+\newblock Regulatory capture: A review.
+\newblock \emph{Oxford Review of Economic Policy}, 22\penalty0 (2):\penalty0
+  203--225, 2006.
+
+\bibitem[Ellis et~al.(2015)Ellis, Horowitz, and Stam]{ellis2015lead}
+Cali~Mortenson Ellis, Michael~C. Horowitz, and Allan~C. Stam.
+\newblock Introducing the {LEAD} data set.
+\newblock \emph{International Interactions}, 41\penalty0 (4):\penalty0
+  718--741, 2015.
+
+\bibitem[Enamorado et~al.(2019)Enamorado, Fifield, and
+  Imai]{enamorado2019using}
+Ted Enamorado, Benjamin Fifield, and Kosuke Imai.
+\newblock Using a probabilistic model to assist merging of large-scale
+  administrative records.
+\newblock \emph{American Political Science Review}, 113\penalty0 (2):\penalty0
+  353--371, 2019.
+
+\bibitem[Gailmard and Patty(2007)]{gailmard2007slackers}
+Sean Gailmard and John~W. Patty.
+\newblock Slackers and zealots: Civil service, policy discretion, and
+  bureaucratic expertise.
+\newblock \emph{American Journal of Political Science}, 51\penalty0
+  (4):\penalty0 873--889, 2007.
+
+\bibitem[{General Services Administration}(2023)]{gsa2023minimal}
+{General Services Administration}.
+\newblock {FMR} bulletin {B-54}: Foreign gifts and decorations minimal value.
+\newblock \url{https://www.gsa.gov}, 2023.
+\newblock Sets minimal value at \$480 for 2023--2025.
+
+\bibitem[Gift and Krcmaric(2017)]{gift2017who}
+Thomas Gift and Daniel Krcmaric.
+\newblock Who democratizes? {Western}-educated leaders and regime transitions.
+\newblock \emph{Journal of Conflict Resolution}, 61\penalty0 (3):\penalty0
+  671--701, 2017.
+
+\bibitem[G{\"o}bel and Munzert()]{legislatoR}
+Sascha G{\"o}bel and Simon Munzert.
+\newblock {legislatoR}: Interface to the comparative legislators database.
+\newblock R package, CRAN.
+\newblock \url{https://complegdatabase.com/}.
+
+\bibitem[G{\"o}bel and Munzert(2022)]{gobel2022cld}
+Sascha G{\"o}bel and Simon Munzert.
+\newblock The comparative legislators database.
+\newblock \emph{British Journal of Political Science}, 52\penalty0
+  (3):\penalty0 1398--1408, 2022.
+
+\bibitem[Goemans et~al.(2009)Goemans, Gleditsch, and
+  Chiozza]{goemans2009archigos}
+Henk~E. Goemans, Kristian~Skrede Gleditsch, and Giacomo Chiozza.
+\newblock Introducing {Archigos}: A dataset of political leaders.
+\newblock \emph{Journal of Peace Research}, 46\penalty0 (2):\penalty0 269--283,
+  2009.
+
+\bibitem[Goldsmith et~al.(2021)Goldsmith, Horiuchi, and
+  Matush]{goldsmith2021public}
+Benjamin~E. Goldsmith, Yusaku Horiuchi, and Kelly Matush.
+\newblock Does public diplomacy sway foreign public opinion? {Identifying} the
+  effect of high-level visits.
+\newblock \emph{American Political Science Review}, 115\penalty0 (4):\penalty0
+  1342--1357, 2021.
+
+\bibitem[{GSA Office of Inspector General}(2024)]{gsaoig2024}
+{GSA Office of Inspector General}.
+\newblock {GSA} lacks adequate controls over foreign gifts and decorations.
+\newblock Evaluation Report JE24-001, 2024.
+
+\bibitem[Hafner-Burton et~al.(2009)Hafner-Burton, Kahler, and
+  Montgomery]{hafner2009network}
+Emilie~M. Hafner-Burton, Miles Kahler, and Alexander~H. Montgomery.
+\newblock Network analysis for international relations.
+\newblock \emph{International Organization}, 63\penalty0 (3):\penalty0
+  559--592, 2009.
+
+\bibitem[Hall and Deardorff(2006)]{hall2006lobbying}
+Richard~L. Hall and Alan~V. Deardorff.
+\newblock Lobbying as legislative subsidy.
+\newblock \emph{American Political Science Review}, 100\penalty0 (1):\penalty0
+  69--84, 2006.
+
+\bibitem[Hallerberg and Wehner(2020)]{hallerberg2020economists}
+Mark Hallerberg and Joachim Wehner.
+\newblock When do you get economists as policy makers?
+\newblock \emph{British Journal of Political Science}, 50\penalty0
+  (3):\penalty0 1193--1205, 2020.
+
+\bibitem[Holmes(2013)]{holmes2013force}
+Marcus Holmes.
+\newblock The force of face-to-face diplomacy: Mirror neurons and the problem
+  of intentions.
+\newblock \emph{International Organization}, 67\penalty0 (4):\penalty0
+  829--861, 2013.
+
+\bibitem[King(1995)]{king1995replication}
+Gary King.
+\newblock Replication, replication.
+\newblock \emph{PS: Political Science \& Politics}, 28\penalty0 (3):\penalty0
+  444--452, 1995.
+
+\bibitem[Kinne(2014)]{kinne2014dependent}
+Brandon~J. Kinne.
+\newblock Dependent diplomacy: Signaling, strategy, and prestige in the
+  diplomatic network.
+\newblock \emph{International Studies Quarterly}, 58\penalty0 (2):\penalty0
+  247--259, 2014.
+
+\bibitem[Lebovic and Saunders(2016)]{lebovic2016diplomatic}
+James~H. Lebovic and Elizabeth~N. Saunders.
+\newblock The diplomatic core: The determinants of high-level {US} diplomatic
+  visits, 1946--2010.
+\newblock \emph{International Studies Quarterly}, 60\penalty0 (1):\penalty0
+  107--123, 2016.
+
+\bibitem[Leetaru and Schrodt(2013)]{leetaru2013gdelt}
+Kalev Leetaru and Philip~A. Schrodt.
+\newblock {GDELT}: Global data on events, location, and tone, 1979--2012.
+\newblock In \emph{Annual Convention of the International Studies Association},
+  San Francisco, 2013.
+
+\bibitem[Lewis(2008)]{lewis2008politics}
+David~E. Lewis.
+\newblock \emph{The Politics of Presidential Appointments: Political Control
+  and Bureaucratic Performance}.
+\newblock Princeton University Press, Princeton, NJ, 2008.
+
+\bibitem[Lupia and Elman(2014)]{lupia2014openness}
+Arthur Lupia and Colin Elman.
+\newblock Openness in political science: Data access and research transparency.
+\newblock \emph{PS: Political Science \& Politics}, 47\penalty0 (1):\penalty0
+  19--42, 2014.
+
+\bibitem[Malis and Smith(2021)]{malis2021state}
+Matt Malis and Alastair Smith.
+\newblock State visits and leader survival.
+\newblock \emph{American Journal of Political Science}, 65\penalty0
+  (1):\penalty0 241--256, 2021.
+
+\bibitem[Mauss(1990)]{mauss1990gift}
+Marcel Mauss.
+\newblock \emph{The Gift: The Form and Reason for Exchange in Archaic
+  Societies}.
+\newblock Routledge, London, 1990.
+\newblock Translated by W. D. Halls. Originally published 1925.
+
+\bibitem[McPherson et~al.(2001)McPherson, Smith-Lovin, and
+  Cook]{mcpherson2001birds}
+Miller McPherson, Lynn Smith-Lovin, and James~M. Cook.
+\newblock Birds of a feather: Homophily in social networks.
+\newblock \emph{Annual Review of Sociology}, 27:\penalty0 415--444, 2001.
+
+\bibitem[{Office of the Chief of Protocol}(2026)]{fr2026gifts}
+{Office of the Chief of Protocol}.
+\newblock Gifts to federal employees from foreign government sources reported
+  to employing agencies in calendar year 2024.
+\newblock Federal Register, Document 2026-01805, 2026.
+\newblock Published January 29, 2026.
+
+\bibitem[{Office of the Historian, U.S. Department of State}()]{historian}
+{Office of the Historian, U.S. Department of State}.
+\newblock Travels abroad of the president and secretary of state; visits by
+  foreign leaders.
+\newblock \url{https://history.state.gov/departmenthistory}.
+
+\bibitem[Ruby and Gibler(2010)]{ruby2010pme}
+Tomislav~Z. Ruby and Douglas Gibler.
+\newblock {US} professional military education and democratization abroad.
+\newblock \emph{European Journal of International Relations}, 16\penalty0
+  (3):\penalty0 339--364, 2010.
+
+\bibitem[Teele et~al.(2018)Teele, Kalla, and Rosenbluth]{teele2018ties}
+Dawn~Langan Teele, Joshua Kalla, and Frances Rosenbluth.
+\newblock The ties that double bind: Social roles and women's
+  underrepresentation in politics.
+\newblock \emph{American Political Science Review}, 112\penalty0 (3):\penalty0
+  525--541, 2018.
+
+\bibitem[Teodoro(2011)]{teodoro2011bureaucratic}
+Manuel~P. Teodoro.
+\newblock \emph{Bureaucratic Ambition: Careers, Motives, and the Innovative
+  Administrator}.
+\newblock Johns Hopkins University Press, Baltimore, 2011.
+
+\bibitem[{U.S. Code}()]{usc7342}
+{U.S. Code}.
+\newblock {5 U.S.C. \S\ 7342}. {Receipt and Disposition of Foreign Gifts and
+  Decorations}.
+\newblock Foreign Gifts and Decorations Act of 1966, as amended.
+
+\bibitem[Vrande{\v{c}}i{\'c} and Kr{\"o}tzsch(2014)]{vrandecic2014wikidata}
+Denny Vrande{\v{c}}i{\'c} and Markus Kr{\"o}tzsch.
+\newblock Wikidata: A free collaborative knowledgebase.
+\newblock \emph{Communications of the ACM}, 57\penalty0 (10):\penalty0 78--85,
+  2014.
+
+\bibitem[Ward et~al.(2011)Ward, Stovel, and Sacks]{ward2011network}
+Michael~D. Ward, Katherine Stovel, and Audrey Sacks.
+\newblock Network analysis and political science.
+\newblock \emph{Annual Review of Political Science}, 14:\penalty0 245--264,
+  2011.
+
+\bibitem[Wilkinson et~al.(2016)]{wilkinson2016fair}
+Mark~D. Wilkinson et~al.
+\newblock The {FAIR} guiding principles for scientific data management and
+  stewardship.
+\newblock \emph{Scientific Data}, 3:\penalty0 160018, 2016.
+
+\end{thebibliography}

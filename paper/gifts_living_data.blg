@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: gifts_living_data.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--empty year in legislatoR
+Warning--empty year in historian
+Warning--empty year in usc7342
+You've used 40 entries,
+            2773 wiz_defined-function locations,
+            830 strings with 10910 characters,
+and the built_in function-call counts, 16551 in all, are:
+= -- 1521
+> -- 753
+< -- 30
++ -- 262
+- -- 222
+* -- 1270
+:= -- 2534
+add.period$ -- 125
+call.type$ -- 40
+change.case$ -- 188
+chr.to.int$ -- 40
+cite$ -- 83
+duplicate$ -- 783
+empty$ -- 1511
+format.name$ -- 289
+if$ -- 3466
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 39
+newline$ -- 213
+num.names$ -- 160
+pop$ -- 385
+preamble$ -- 1
+purify$ -- 153
+quote$ -- 0
+skip$ -- 567
+stack$ -- 0
+substring$ -- 754
+swap$ -- 40
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 415
+warning$ -- 3
+while$ -- 174
+width$ -- 0
+write$ -- 528
+(There were 3 warnings)

@@ -1,0 +1,13 @@
+Measure,Clinton,Bush I,Bush II,Obama I,Obama II,Trump,Biden
+Years,1998-2000,2001-2004,2005-2008,2009-2012,2013-2016,2017-2020,2021-2023
+Gifts/yr,254,495,481,582,470,215,216
+Agencies,20.0,24.0,30.0,35.0,34.0,28.0,25.0
+Countries,92.0,125.0,130.0,131.0,128.0,88.0,91.0
+Linked recipients,88.0,178.0,214.0,341.0,296.0,150.0,97.0
+Agency-country ties,210.0,393.0,401.0,498.0,498.0,245.0,213.0
+Ties kept from prev. (%),,61.0,57.8,55.4,55.0,30.7,39.6
+Recipients seen in prev. (%),,10.7,26.2,17.0,32.4,18.7,16.5
+Modularity (agency-country),0.39,0.25,0.27,0.32,0.3,0.39,0.42
+Giant comp. share,0.92,0.96,0.96,0.98,0.96,0.95,0.93
+"Gini, gifts per recipient",0.75,0.81,0.78,0.71,0.7,0.65,0.68
+Top-10 recipients' share,76.8,74.2,66.8,54.2,53.4,55.8,68.5

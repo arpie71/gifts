@@ -1,0 +1,75 @@
+item,itemLabel,property,propertyLabel,value,valueLabel,value_precision,start,end,rank,retrieved
+Q136670725,Raymond Joseph,P27,country of citizenship,Q790,Haiti,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P108,employer,Q164746,The Wall Street Journal,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q1930187,journalist,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q193391,diplomat,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q15253558,activist,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q36180,writer,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q49757,poet,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q1650915,researcher,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P106,occupation,Q9379869,lecturer,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P569,date of birth,1931-08-31T00:00:00Z,1931-08-31T00:00:00Z,11.0,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P69,educated at,Q747179,Wheaton College,,,1960-00-00T00:00:00Z,normal,2026-11-05
+Q136670725,Raymond Joseph,P69,educated at,Q131252,University of Chicago,,,1964-00-00T00:00:00Z,normal,2026-11-05
+Q136670725,Raymond Joseph,P69,educated at,Q457281,University of Illinois Urbana-Champaign,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P69,educated at,Q2257594,Moody Bible Institute,,,1957-00-00T00:00:00Z,normal,2026-11-05
+Q136670725,Raymond Joseph,P31,instance of,Q5,human,,,,normal,2026-11-05
+Q136670725,Raymond Joseph,P21,sex or gender,Q6581097,male,,,,normal,2026-11-05
+Q152019,Laura Bush,P27,country of citizenship,Q30,United States,,,,normal,2026-11-05
+Q152019,Laura Bush,P39,position held,Q7166256,First Lady of the United States,,2001-01-20T00:00:00Z,2009-01-20T00:00:00Z,normal,2026-11-05
+Q152019,Laura Bush,P102,member of political party,Q29468,Republican Party,,,,normal,2026-11-05
+Q152019,Laura Bush,P22,father,Q18844162,Harold Welch,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q182436,librarian,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q37226,teacher,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q18814623,autobiographer,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q4853732,children's writer,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q36180,writer,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q82955,politician,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q96034777,HIV/AIDS activist,,,,normal,2026-11-05
+Q152019,Laura Bush,P106,occupation,Q30461,president,,,,normal,2026-11-05
+Q152019,Laura Bush,P569,date of birth,1946-11-04T00:00:00Z,1946-11-04T00:00:00Z,11.0,,,normal,2026-11-05
+Q152019,Laura Bush,P69,educated at,Q1536258,Southern Methodist University,,,,normal,2026-11-05
+Q152019,Laura Bush,P69,educated at,Q49213,University of Texas at Austin,,,,normal,2026-11-05
+Q152019,Laura Bush,P69,educated at,Q7343842,Robert E. Lee High School,,,,normal,2026-11-05
+Q152019,Laura Bush,P31,instance of,Q5,human,,,,normal,2026-11-05
+Q152019,Laura Bush,P25,mother,Q18844164,Jenna Welch,,,,normal,2026-11-05
+Q152019,Laura Bush,P26,spouse,Q207,George W. Bush,,1977-11-05T00:00:00Z,,normal,2026-11-05
+Q152019,Laura Bush,P40,child,Q153730,Barbara Bush,,,,normal,2026-11-05
+Q152019,Laura Bush,P40,child,Q153481,Jenna Bush Hager,,,,normal,2026-11-05
+Q152019,Laura Bush,P21,sex or gender,Q6581072,female,,,,normal,2026-11-05
+Q207,George W. Bush,P27,country of citizenship,Q30,United States,,,,normal,2026-11-05
+Q207,George W. Bush,P39,position held,Q5589725,Governor of Texas,,1995-01-17T00:00:00Z,2000-12-21T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P39,position held,Q11696,President of the United States,,2001-01-20T00:00:00Z,2009-01-20T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P39,position held,Q1467287,President-elect of the United States,,2000-12-12T00:00:00Z,2001-01-20T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P39,position held,Q1255921,president,,,,normal,2026-11-05
+Q207,George W. Bush,P102,member of political party,Q29468,Republican Party,,,,normal,2026-11-05
+Q207,George W. Bush,P22,father,Q23505,George H. W. Bush,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q82955,politician,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q15982858,motivational speaker,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q18814623,autobiographer,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q1028181,painter,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q14089670,rugby union player,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q189290,military officer,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q372436,statesperson,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q43845,businessperson,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q1979607,financier,,,,normal,2026-11-05
+Q207,George W. Bush,P106,occupation,Q132050,governor,,,,normal,2026-11-05
+Q207,George W. Bush,P569,date of birth,1946-07-06T00:00:00Z,1946-07-06T00:00:00Z,11.0,,,normal,2026-11-05
+Q207,George W. Bush,P410,"military, police or special rank",Q20715023,first lieutenant,,,,normal,2026-11-05
+Q207,George W. Bush,P69,educated at,Q2599077,Yale College,,1964-01-01T00:00:00Z,1968-01-01T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P69,educated at,Q7744702,The Kinkaid School,,1959-01-01T00:00:00Z,1961-01-01T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P69,educated at,Q1432645,Phillips Academy,,1961-01-01T00:00:00Z,1964-01-01T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P69,educated at,Q49126,Harvard Business School,,1973-01-01T00:00:00Z,1975-01-01T00:00:00Z,normal,2026-11-05
+Q207,George W. Bush,P69,educated at,Q5230230,Davenport College,,,,normal,2026-11-05
+Q207,George W. Bush,P69,educated at,Q23091432,St. Anthony Catholic School,,,,normal,2026-11-05
+Q207,George W. Bush,P31,instance of,Q5,human,,,,normal,2026-11-05
+Q207,George W. Bush,P25,mother,Q190628,Barbara Bush,,,,normal,2026-11-05
+Q207,George W. Bush,P26,spouse,Q152019,Laura Bush,,1977-11-05T00:00:00Z,,normal,2026-11-05
+Q207,George W. Bush,P40,child,Q153730,Barbara Bush,,,,normal,2026-11-05
+Q207,George W. Bush,P40,child,Q153481,Jenna Bush Hager,,,,normal,2026-11-05
+Q207,George W. Bush,P21,sex or gender,Q6581097,male,,,,normal,2026-11-05
+Q207,George W. Bush,P3373,sibling,Q3305438,Dorothy Bush Koch,,,,normal,2026-11-05
+Q207,George W. Bush,P3373,sibling,Q1375345,Marvin P. Bush,,,,normal,2026-11-05
+Q207,George W. Bush,P3373,sibling,Q221997,Jeb Bush,,,,normal,2026-11-05
+Q207,George W. Bush,P3373,sibling,Q320829,Neil Bush,,,,normal,2026-11-05
+Q207,George W. Bush,P3373,sibling,Q52159104,Robin Bush,,,,normal,2026-11-05

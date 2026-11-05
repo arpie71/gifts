@@ -1,0 +1,15 @@
+% Permutation test: career mobility and brokerage beyond degree
+\begin{tabular}{lrrrrrr}
+\toprule
+Administration & Recipients & Observed rho (betweenness, prior moves) & Null mean & Null 95\% range & Permutation p & Top-5\% share of betweenness \\
+\midrule
+Clinton & 82 & 0.11 & 0.12 & [0.102, 0.139] & 0.33 & 0.779 \\
+Bush I & 174 & 0.099 & 0.12 & [0.096, 0.143] & 0.09 & 0.931 \\
+Bush II & 198 & 0.111 & 0.093 & [0.068, 0.120] & 0.16 & 0.88 \\
+Obama I & 323 & 0.121 & 0.076 & [0.059, 0.096] & 0.0 & 0.902 \\
+Obama II & 278 & 0.139 & 0.127 & [0.111, 0.143] & 0.165 & 0.883 \\
+Trump & 139 & -0.138 & -0.16 & [-0.179, -0.132] & 0.075 & 0.82 \\
+Biden & 93 & 0.256 & 0.229 & [0.190, 0.261] & 0.15 & 0.791 \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize For each administration, 200 degree-preserving rewirings of the recipient-country graph (seed 20261105). rho: Spearman correlation between a recipient's betweenness and prior cross-sector moves (Wikidata, at the start of the administration), among recipients with a dated career. Two-sided p from the null distribution. Evidence type: cross-sectional association, tested against a structural null.}

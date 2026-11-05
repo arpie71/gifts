@@ -1,0 +1,1984 @@
+qid,degree,strength,betweenness,participation,n_communities,bridging,n_branches,period,name,role,country
+Q57464,11,210,0.0202859372334165,0.7805442176870748,7,1,5,All years,Abdullah II of Jordan,Royalty,Jordan
+Q43944,9,160,0.0151503010493486,0.770078125,8,1,5,All years,Hamid Karzai,Other/unknown,Afghanistan
+Q57360,8,40,0.0128888199563802,0.7675,6,1,4,All years,Hamad bin Khalifa Al Thani,Royalty,Qatar
+Q367825,7,31,0.0123516589438206,0.7304890738813736,7,1,5,All years,Salman bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q58140,8,63,0.01188178758916,0.7951625094482238,7,1,5,All years,"Salman bin Hamad, Crown Prince of Bahrain",Royalty,Bahrain
+Q434235,7,15,0.0108360524458589,0.7022222222222222,5,1,4,All years,Jean Kahwaji,Military,Lebanon
+Q57308,8,50,0.0104920741682144,0.7232000000000001,7,1,5,All years,Abd al-Aziz Boutafliqa,Head of state/govt,Algeria
+Q55081149,8,61,0.0104860322243398,0.5724267669981187,5,1,5,All years,Ali Bin Fetais Al-Marri,Military,Qatar
+Q11860,7,124,0.0104208782537901,0.4304110301768989,6,1,4,All years,Silvio Berlusconi,Head of state/govt,Italy
+Q57558,7,46,0.0098663823967437,0.7523629489603024,6,1,5,All years,Islam Karimov,Head of state/govt,Uzbekistan
+Q255022,2,2,0.0081028241706829,0.5,2,1,2,All years,Mugur IsÄƒrescu,Minister,Romania
+Q45917,7,64,0.0075758701359641,0.57958984375,6,1,4,All years,Mohamed Hussein Tantawi,Minister,Egypt
+Q57327,5,96,0.0074942191013366,0.4253472222222222,5,1,3,All years,Hassanal Bolkiah I of Brunei,Royalty,Brunei
+Q21004768,7,129,0.0073705395745953,0.4546601766720749,3,1,3,All years,Hamad bin Ali Al Attiyah,Military,Qatar
+Q1951896,6,21,0.0073250643972486,0.7936507936507937,6,1,4,All years,Mohammed Bin Zayed Al Nahyan,Royalty,United Arab Emirates
+Q57808,6,16,0.0073250643972486,0.734375,6,1,4,All years,Shavkat Mirziyoyev,Minister,Uzbekistan
+Q57298,6,188,0.0071654296905037,0.6528406518786781,6,1,5,All years,Abdullah of Saudi Arabia,Royalty,Saudi Arabia
+Q483672,6,41,0.0070334741151636,0.69244497323022,6,1,4,All years,Ali Abdullah Saleh,Military,Yemen
+Q317373,6,37,0.0065488263018122,0.7479912344777209,6,1,4,All years,Abdul Rahim Wardak,Minister,Afghanistan
+Q5361095,6,17,0.0065488263018122,0.7197231833910034,6,1,4,All years,Elin Suleymanov,Diplomat,Azerbaijan
+Q8059030,7,15,0.0065289183417245,0.7466666666666666,6,1,5,All years,Yousef Al Otaiba,Diplomat,United Arab Emirates
+Q15240778,6,15,0.0062438645357098,0.7733333333333333,5,1,4,All years,Raheel Sharif,Military,Pakistan
+Q58077,6,10,0.0061981160356798,0.76,6,1,5,All years,Petro Poroshenko,Other/unknown,Ukraine
+Q26036628,4,15,0.0061563227986756,0.5511111111111111,3,1,3,All years,Nasser Bourita,Minister,Morocco
+Q309650,4,16,0.0057895728919043,0.6484375,3,1,2,All years,Isa II of Bahrain,Royalty,Bahrain
+Q317484,4,10,0.0056327076973228,0.7,4,1,4,All years,Abdulaziz Komilov,Minister,Uzbekistan
+Q315927,5,19,0.0055309782548985,0.6980609418282548,5,1,3,All years,Masoud Barzani,Head of state/govt,Iraq
+Q157451,5,13,0.0054247375230543,0.7455621301775148,5,1,5,All years,Heydar Aliev,Head of state/govt,Azerbaijan
+Q16730784,4,6,0.0052211097478201,0.6666666666666667,4,1,4,All years,Rashid bin Abdullah Al Khalifa,Minister,Bahrain
+Q556137,5,14,0.0050735474790095,0.5510204081632653,5,1,3,All years,Bandar bin Sultan,Royalty,Saudi Arabia
+Q1220,3,8,0.005020410976834,0.40625,3,1,2,All years,Giorgio Napolitano,Head of state/govt,Italy
+Q334718,5,8,0.0050147025677226,0.75,5,1,5,All years,Nasser Mohammed Al-Ahmed Al-Sabah,Royalty,Saudi Arabia
+Q10806940,5,6,0.0048297856547543,0.7777777777777778,5,1,4,All years,Pháº¡m Minh ChÃ­nh,Minister,Vietnam
+Q58267,5,13,0.0047389413404287,0.7455621301775148,5,1,4,All years,Yusuf bin Alawi bin Abdullah,Minister,Oman
+Q296771,5,10,0.0047203712469747,0.72,5,1,4,All years,Saad HarirÃ¡Â»â€¹,Legislator,Lebanon
+Q57480,5,9,0.0045961730390689,0.7160493827160495,5,1,4,All years,Abdrabbuh Mansour Hadi,Head of state/govt,Yemen
+Q26702720,5,8,0.0043832257403942,0.75,5,1,4,All years,Salem Ben Nasser Al-Ismaily,Other/unknown,Oman
+Q172388,5,30,0.0043832257403942,0.7066666666666667,5,1,4,All years,Ashraf Ghani,Head of state/govt,Afghanistan
+Q57306,5,45,0.0043832257403942,0.7812345679012346,5,1,4,All years,Jalal Talabani,Military,Iraq
+Q57331,5,10,0.0043832257403942,0.6799999999999999,5,1,4,All years,Qaboos bin Said Al Said,Royalty,Oman
+Q40495,5,50,0.0043832257403942,0.6376,5,1,4,All years,Pervez Musharraf,Military,Pakistan
+Q1058,5,26,0.0043832257403942,0.6538461538461539,5,1,4,All years,Narendra Modi,Minister,India
+Q57371,6,33,0.00435783515833,0.7805325987144169,5,1,4,All years,Ilham Aliyev,Head of state/govt,Azerbaijan
+Q929373,3,4,0.0040447823671356,0.625,3,1,2,All years,Liang Guanglie,Minister,China
+Q57553,5,69,0.0040038057206827,0.4314219701743331,5,1,4,All years,Mohammed VI of Morocco,Royalty,Morocco
+Q57421,4,7,0.0039306777383223,0.6938775510204083,4,1,4,All years,Tsakhiagiin Elbegdorj,Head of state/govt,Mongolia
+Q57352,3,17,0.003921665311819,0.5259515570934256,3,1,3,All years,Hamad II of Bahrain,Royalty,Bahrain
+Q57373,6,29,0.0038913573166255,0.7324613555291319,5,1,4,All years,Asif Ali Zardari,Head of state/govt,Pakistan
+Q151929,4,9,0.0038787534760917,0.6172839506172839,4,1,4,All years,Eduard Shevardnadze,Head of state/govt,Georgia
+Q57734,4,27,0.0038787534760917,0.4142661179698218,4,1,4,All years,Hamad bin Jassim bin Jaber Al Thani,Minister,Qatar
+Q501649,2,2,0.0038724627260809,0.5,2,1,1,All years,Andrei Fursenko,Minister,Russia
+Q612803,4,6,0.0036026405854013,0.6666666666666667,4,1,4,All years,Serzh Sargsyan,Minister,Armenia
+Q6087480,4,9,0.0036026405854013,0.691358024691358,4,1,4,All years,Hakan Fidan,Intelligence/security,Turkey
+Q623802,4,21,0.0036026405854013,0.5941043083900227,4,1,4,All years,Adel al-Jubeir,Diplomat,Saudi Arabia
+Q16204351,4,6,0.0036026405854013,0.6666666666666667,4,1,4,All years,Eklil Ahmad Hakimi,Diplomat,Afghanistan
+Q15029,5,22,0.0033761558375292,0.5041322314049588,5,1,3,All years,Hu Jintao,Minister,
+Q489893,4,5,0.0032686379765207,0.72,4,1,4,All years,Askar Akayev,Head of state/govt,Kyrgyzstan
+Q1329138,4,6,0.0031576896606605,0.6666666666666667,4,1,3,All years,Elias Murr,Minister,Lebanon
+Q134068,4,11,0.0031576896606605,0.6942148760330579,4,1,3,All years,Nawaz Sharif,Minister,Pakistan
+Q57555,4,53,0.0031576896606605,0.6301174795300819,4,1,3,All years,Sabah Al-Ahmad Al-Jaber Al-Sabah,Minister,Kuwait
+Q317556,4,8,0.0031576896606605,0.65625,4,1,3,All years,Abdullah Abdullah,Minister,Afghanistan
+Q101693636,4,9,0.0031576896606605,0.6666666666666667,4,1,3,All years,Salem Abdullah Al-Jaber Al-Sabah,Diplomat,Kuwait
+Q1855372,4,13,0.0031576896606605,0.5562130177514792,4,1,3,All years,Tamim bin Hamad Al,Royalty,Qatar
+Q455341,4,5,0.0028505598564969,0.72,4,1,3,All years,Muhammad bin Nayef,Royalty,Saudi Arabia
+Q167846,4,22,0.0026913270842809,0.1694214876033059,3,1,3,All years,Zayed bin Sultan Al Nahyan,Royalty,United Arab Emirates
+Q6141727,4,5,0.0026001406288596,0.56,3,1,3,All years,Kenichiro Sasae,Diplomat,Japan
+Q152052,5,11,0.0025177983491757,0.6942148760330579,4,1,3,All years,Yusuf Raza Gilani,Minister,Pakistan
+Q187413,3,4,0.002511118828144,0.625,3,1,3,All years,Ãlvaro Uribe VÃ©lez,Head of state/govt,Colombia
+Q3918461,3,4,0.002511118828144,0.625,3,1,3,All years,Mohammad Hanif Atmar,Other/unknown,Afghanistan
+Q7833292,3,3,0.002511118828144,0.6666666666666667,3,1,3,All years,Tráº§n Äáº¡i Quang,Minister,Vietnam
+Q468324,3,4,0.002511118828144,0.625,3,1,3,All years,Lal Krishna Advani,Minister,India
+Q1335434,3,7,0.002511118828144,0.4489795918367346,3,1,3,All years,Xu Caihou,Military,China
+Q1469704,3,6,0.002511118828144,0.6111111111111112,3,1,3,All years,Mohammed Nasser Ahmed,Minister,Yemen
+Q468528,3,20,0.0022095814403953,0.395,3,1,3,All years,Queen Saleha of Brunei,Royalty,Brunei
+Q20402357,4,13,0.0021313578190305,0.6153846153846154,3,1,2,All years,Khalifa bin Ahmed Al Khalifa,Military,Bahrain
+Q163813,3,11,0.0020612545542431,0.3140495867768593,3,1,3,All years,Rudolf Schuster,Head of state/govt,Slovakia
+Q27916451,3,10,0.0020612545542431,0.58,3,1,3,All years,Qamar Javed Bajwa,Military,Pakistan
+Q14342,3,14,0.0020612545542431,0.520408163265306,3,1,3,All years,Lee Myung-bak,Head of state/govt,South Korea
+Q57366,3,4,0.002050716408168,0.625,3,1,2,All years,Emomali Rahmon,Head of state/govt,Tajikistan
+Q630905,3,4,0.002050716408168,0.625,3,1,2,All years,Albert del Rosario,Other/unknown,Philippines
+Q58292,4,5,0.0020054648115096,0.72,4,1,3,All years,S. M. Krishna,Minister,India
+Q42939,2,3,0.0019381851787448,0.4444444444444444,2,1,2,All years,BronisÅ‚aw Komorowski,Head of state/govt,Poland
+Q223555,4,7,0.0018193991260474,0.6938775510204083,4,1,3,All years,Shaukat Aziz,Minister,Pakistan
+Q43179,4,14,0.0018193991260474,0.5306122448979591,4,1,3,All years,Ellen Johnson Sirleaf,Head of state/govt,Liberia
+Q41914,4,23,0.0018193991260474,0.6086956521739131,4,1,3,All years,Manmohan Singh,Minister,India
+Q57311,4,12,0.0018193991260474,0.5972222222222221,4,1,3,All years,Juan Manuel Santos,Head of state/govt,Colombia
+Q43330,4,14,0.0018193991260474,0.5408163265306122,4,1,3,All years,Mikheil Saakashvili,Head of state/govt,Georgia
+Q629702,3,8,0.0017217460409824,0.40625,3,1,2,All years,Leonid Kuchma,Head of state/govt,Ukraine
+Q57434,3,10,0.0017217460409824,0.4600000000000001,3,1,2,All years,VÃƒÂ¡clav Klaus,Head of state/govt,Czech Republic
+Q167526,3,3,0.0017217460409824,0.6666666666666667,3,1,2,All years,Muhammad Fahim,Minister,Afghanistan
+Q57673,3,6,0.0017217460409824,0.5,3,1,2,All years,Nouri al-Maliki,Minister,Iraq
+Q57254,3,6,0.0017217460409824,0.6111111111111112,3,1,2,All years,Ollanta Humala,Head of state/govt,Peru
+Q2108126,3,5,0.0016247533789422,0.56,3,1,2,All years,Prayut Chan-o-cha,Military,Thailand
+Q34211,3,25,0.0014651113100943,0.5344,3,1,3,All years,Yasser Arafat,Other/unknown,State of Palestine
+Q190572,3,21,0.0014651113100943,0.253968253968254,3,1,3,All years,Vicente Fox,Head of state/govt,Mexico
+Q1856100,2,3,0.0014460480585121,0.4444444444444444,2,1,2,All years,Kanat Saudabayev,Diplomat,Kazakhstan
+Q329,3,21,0.0014397541972827,0.3219954648526077,3,1,3,All years,Nicolas Sarkozy,Minister,France
+Q57438,3,5,0.0014397541972827,0.56,3,1,3,All years,Macky Sall,Head of state/govt,Senegal
+Q57655,3,11,0.0014397541972827,0.5619834710743802,3,1,3,All years,Mohammed bin Rashid Al Maktoum,Royalty,United Arab Emirates
+Q51005,3,15,0.0014397541972827,0.3377777777777776,3,1,3,All years,John Kufuor,Head of state/govt,Ghana
+Q1059948,3,15,0.0013814349677883,0.48,3,1,3,All years,Khalifa bin Zayed Al Nahyan,Royalty,United Arab Emirates
+Q12238852,3,8,0.0013367151050846,0.375,2,1,1,All years,Magdy Hatata,Military,Egypt
+Q12243182,3,9,0.0013248524769214,0.3703703703703703,3,1,2,All years,Mashal Mohammed Zabin,Military,Jordan
+Q15973191,3,8,0.0013181866607049,0.53125,3,1,3,All years,Mohammed Jaham Al Kuwari,Diplomat,Qatar
+Q76658,3,5,0.0013147211277103,0.56,3,1,3,All years,Frank-Walter Steinmeier,Minister,Germany
+Q191337,3,5,0.0013147211277103,0.56,3,1,3,All years,Ferenc GyurcsÃ¡ny,Minister,Hungary
+Q314263,3,4,0.0013147211277103,0.625,3,1,3,All years,Fouad Siniora,Minister,Lebanon
+Q36740,3,6,0.0013147211277103,0.6111111111111112,3,1,3,All years,Aung San Suu Kyi,Legislator,Myanmar
+Q164373,3,26,0.0013147211277103,0.2100591715976332,3,1,3,All years,Thaksin Shinawatra,Minister,Thailand
+Q1134304,3,12,0.0013147211277103,0.4027777777777778,3,1,3,All years,Dai Bingguo,Minister,China
+Q2105,3,29,0.0013147211277103,0.1902497027348394,3,1,3,All years,Jacques Chirac,Head of state/govt,France
+Q4413,3,3,0.0013147211277103,0.6666666666666667,3,1,3,All years,Alpha CondÃ©,Head of state/govt,Guinea
+Q57416,3,7,0.0013147211277103,0.4489795918367346,3,1,3,All years,Kabila Kabange Joseph,Head of state/govt,Democratic Republic of the Congo
+Q708802,3,3,0.0013147211277103,0.6666666666666667,3,1,3,All years,Li Yuanchao,Other/unknown,China
+Q17388713,3,5,0.0013147211277103,0.56,3,1,3,All years,Salim al-Jabouri,Legislator,Iraq
+Q9096917,3,3,0.0013147211277103,0.6666666666666667,3,1,3,All years,Mohamed Yassine Mansouri,Military,Morocco
+Q57847,3,3,0.0013147211277103,0.6666666666666667,3,1,3,All years,Ali Zeidan,Minister,Libya
+Q27503,2,3,0.0012635640454632,0.4444444444444444,2,1,2,All years,Chang Wanquan,Minister,China
+Q6943650,2,7,0.0012635640454632,0.2448979591836735,2,1,2,All years,Mutaib bin Abdullah,Royalty,Saudi Arabia
+Q1376668,2,33,0.0012635640454632,0.4958677685950414,2,1,2,All years,Vladimir Rushailo,Minister,Russia
+Q212733,2,6,0.0012635640454632,0.4444444444444444,2,1,2,All years,Joseph Estrada,Head of state/govt,Philippines
+Q4251398,2,2,0.0012635640454632,0.5,2,1,2,All years,Purnomo Yusgiantoro,Minister,Indonesia
+Q220227,2,6,0.0012635640454632,0.2777777777777777,2,1,2,All years,Mamadou Tandja,Head of state/govt,Niger
+Q379946,2,3,0.0012635640454632,0.4444444444444444,2,1,2,All years,Sultan bin Salman Al Saud,Royalty,Saudi Arabia
+Q6163836,3,6,0.0012337558799624,0.5,3,1,3,All years,Jason Yuan,Other/unknown,Taiwan
+Q200305,3,4,0.0012183437689748,0.625,3,1,2,All years,Milo ÄukanoviÄ‡,Head of state/govt,Montenegro
+Q808173,2,2,0.0011891588917007,0.5,2,1,2,All years,Barham Salih,Minister,Iraq
+Q217194,3,8,0.0011345270358628,0.53125,3,1,3,All years,Jaber al-Ahmad al-Sabah,Royalty,Kuwait
+Q315587,3,5,0.0011345270358628,0.6399999999999999,3,1,3,All years,Sultan bin Abdulaziz,Other/unknown,Saudi Arabia
+Q757820,3,3,0.0011337730361002,0.6666666666666667,3,1,3,All years,Atta Muhammad Nur,Other/unknown,Afghanistan
+Q132345,3,6,0.0011029966282592,0.5,3,1,3,All years,ShinzÃ…Â Abe,Minister,Japan
+Q57400,3,6,0.0011029966282592,0.5,3,1,3,All years,NguyÃ¡Â»â€¦n Minh TriÃ¡ÂºÂ¿t,Head of state/govt,Vietnam
+Q903527,3,5,0.0009989121976168,0.6399999999999999,3,1,2,All years,Gul Agha Sherzai,Other/unknown,Afghanistan
+Q15871893,3,3,0.0009918796609529,0.6666666666666667,3,1,2,All years,Younes Hamed,Military,Egypt
+Q3737725,2,6,0.0009718043078169,0.4444444444444444,2,1,2,All years,Sabika bint Ibrahim Al Khalifa,Royalty,Bahrain
+Q125542223,2,4,0.0009695810432985,0.0,1,0,1,All years,Ahmed bin Mohamed Al Khalifa,Other/unknown,Bahrain
+Q7306919,2,3,0.0009518154311003,0.4444444444444444,2,1,2,All years,Reema Bint Bandar Al Saud,Royalty,Saudi Arabia
+Q29453077,2,2,0.0009518154311003,0.5,2,1,2,All years,Ahmed Al-Rumaihi,Diplomat,Qatar
+Q123665,3,22,0.0009479874163317,0.3760330578512397,3,1,2,All years,Gloria Macapagal Arroyo,Head of state/govt,Philippines
+Q76179,3,8,0.0009479874163317,0.53125,3,1,2,All years,Megawati Soekarnoputri,Head of state/govt,Indonesia
+Q157,3,7,0.0009479874163317,0.5714285714285714,3,1,2,All years,FranÃ§ois Hollande,Head of state/govt,France
+Q15031,3,23,0.0009479874163317,0.5444234404536862,3,1,2,All years,Xi Jinping,Other/unknown,China
+Q200678,3,8,0.0009479874163317,0.40625,3,1,2,All years,Queen Rania of Jordan,Royalty,Jordan
+Q7747,3,33,0.0009479874163317,0.2681359044995407,3,1,2,All years,Vladimir Putin,Head of state/govt,Russia
+Q29196,3,10,0.0009479874163317,0.58,3,1,2,All years,Thomas Boni Yayi,Head of state/govt,Benin
+Q3318231,3,9,0.0009479874163317,0.4938271604938271,3,1,2,All years,Joko Widodo,Head of state/govt,Indonesia
+Q57625,3,4,0.0009479874163317,0.625,3,1,2,All years,Sali Berisha,Minister,Albania
+Q204487,3,32,0.0009479874163317,0.388671875,3,1,2,All years,Zine El Abidine Ben Ali,Head of state/govt,Tunisia
+Q57394,3,30,0.0009479874163317,0.6244444444444445,3,1,2,All years,Nursultan Nazarbayev,Head of state/govt,Kazakhstan
+Q45785,3,6,0.0009479874163317,0.5,3,1,2,All years,Kim Dae-jung,Head of state/govt,South Korea
+Q39259,3,17,0.0009479874163317,0.3806228373702423,3,1,2,All years,Recep Tayyip ErdoÃ„Å¸an,Minister,Turkey
+Q2757,3,7,0.0009479874163317,0.4489795918367346,3,1,2,All years,Lech KaczyÅ„ski,Head of state/govt,Poland
+Q1595996,3,5,0.0009479874163317,0.6399999999999999,3,1,2,All years,Usama al-Nujayfi,Legislator,Iraq
+Q56220,3,3,0.0009479874163317,0.6666666666666667,3,1,2,All years,Ivo Sanader,Minister,Croatia
+Q58211,3,14,0.0009479874163317,0.5408163265306123,3,1,2,All years,Yang Jiechi,Minister,China
+Q57427,3,4,0.0009479874163317,0.625,3,1,2,All years,Michel Suleiman,Head of state/govt,Lebanon
+Q181832,3,4,0.0009479874163317,0.625,3,1,2,All years,Moshe Katsav,Head of state/govt,Israel
+Q56153213,3,10,0.0009479874163317,0.4600000000000001,3,1,2,All years,Sehba Musharraf,Other/unknown,Pakistan
+Q57600,3,3,0.0009479874163317,0.6666666666666667,3,1,2,All years,Nguyá»…n Táº¥n DÅ©ng,Minister,Vietnam
+Q989,3,8,0.0009479874163317,0.53125,3,1,2,All years,John Paul II,Other/unknown,
+Q153167,3,7,0.0009479874163317,0.5714285714285714,3,1,2,All years,Valdas Adamkus,Head of state/govt,Lithuania
+Q57901,3,5,0.0009479874163317,0.6399999999999999,3,1,2,All years,Abdelmalek Sellal,Minister,Algeria
+Q60206,3,12,0.0009479874163317,0.4027777777777778,3,1,2,All years,Ariel Sharon,Legislator,Israel
+Q306,3,3,0.0009479874163317,0.6666666666666667,3,1,2,All years,SebastiÃ¡n PiÃ±era,Head of state/govt,Chile
+Q193148,3,4,0.0009479874163317,0.625,3,1,2,All years,Fatmir Sejdiu,Head of state/govt,Kosovo
+Q192778,3,6,0.0009479874163317,0.5,3,1,2,All years,Rafic Hariri,Minister,Lebanon
+Q233289,3,13,0.0009479874163317,0.4733727810650888,3,1,2,All years,Atal Bihari Vajpayee,Minister,India
+Q233499,3,18,0.0009479874163317,0.2901234567901234,3,1,2,All years,YoshirÃ…Â Mori,Minister,Japan
+Q151917,3,11,0.0009479874163317,0.5619834710743802,3,1,2,All years,Giorgos Papandreou,Minister,Greece
+Q361567,3,4,0.0009479874163317,0.625,3,1,2,All years,Muhammadu Buhari,Head of state/govt,Nigeria
+Q127998,3,20,0.0009479874163317,0.405,3,1,2,All years,Mahmoud Abbas,Military,
+Q4165651,3,3,0.0009162627948001,0.6666666666666667,3,1,3,All years,Turki bin Faisal Al Saud,Royalty,Saudi Arabia
+Q4535427,3,5,0.0009024913552363,0.48,2,1,2,All years,Igor Yusufov,Minister,Russia
+Q40722,3,6,0.0009024913552363,0.4444444444444444,2,1,2,All years,Dilma Rousseff,Minister,Brazil
+Q4801796,2,5,0.0009005088259116,0.3199999999999998,2,1,2,All years,Arturo SarukhÃ¡n,Diplomat,Mexico
+Q79063,2,2,0.0009005088259116,0.5,2,1,2,All years,Ernst Strasser,Minister,Austria
+Q1396586,2,2,0.0009005088259116,0.5,2,1,2,All years,Marcelo Ebrard,Other/unknown,Mexico
+Q340561,2,3,0.0008823994205942,0.4444444444444444,2,1,2,All years,Akhmetzhan Yessimov,Minister,Kazakhstan
+Q202006,3,26,0.0008661717852803,0.1449704142011832,3,1,3,All years,Olusegun Obasanjo,Head of state/govt,Nigeria
+Q1231345,3,11,0.0008056438191818,0.2975206611570247,2,1,2,All years,Paul Kagame,Head of state/govt,Rwanda
+Q154550,3,24,0.0008056438191818,0.3298611111111111,2,1,2,All years,Bertie Ahern,Minister,Ireland
+Q192634,3,10,0.0008056438191818,0.3199999999999998,2,1,2,All years,BÃ¼lent Ecevit,Minister,Turkey
+Q360563,3,3,0.0008056438191818,0.4444444444444444,2,1,2,All years,Wu Bangguo,Legislator,China
+Q43803431,3,4,0.0007954346862442,0.625,3,1,2,All years,Ziroat Mirziyoyeva,Head of state/govt,Uzbekistan
+Q110183214,4,11,0.0007605176157322,0.1652892561983472,2,1,1,All years,Ghanem bin Shaheen bin Ghanem Al Ghanim,Military,Qatar
+Q183187,3,9,0.0007598553001015,0.3703703703703703,3,1,2,All years,Fahd bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q320,3,8,0.0007598553001015,0.53125,3,1,2,All years,Michelle Bachelet,Minister,Chile
+Q93181,3,5,0.0007598553001015,0.56,3,1,2,All years,Ehud Olmert,Minister,Iraq
+Q132596,3,4,0.0007598553001015,0.625,3,1,2,All years,TarÃ…Â AsÃ…Â,Other/unknown,Japan
+Q6932837,3,6,0.0007513160854092,0.5,3,1,3,All years,Muhammad al-Isa,Royalty,Saudi Arabia
+Q59660254,3,4,0.000741005662173,0.625,3,1,2,All years,Sultan bin Mohammed al Nu'amani,Royalty,Oman
+Q58195,2,3,0.0007317488740125,0.4444444444444444,2,1,2,All years,Karel Schwarzenberg,Minister,Czech Republic
+Q313816,2,2,0.0006702310422096,0.5,2,1,2,All years,Ayad Allawi,Minister,Iraq
+Q3125299,2,2,0.0006702310422096,0.5,2,1,2,All years,Habib Ben Yahia,Minister,Tunisia
+Q1543422,2,4,0.0006702310422096,0.375,2,1,2,All years,Makhdoom Shah Mahmood Hussain Qureshi,Minister,Pakistan
+Q716246,2,3,0.0006702310422096,0.4444444444444444,2,1,2,All years,Peter MacKay,Minister,Canada
+Q493385,2,3,0.0006702310422096,0.4444444444444444,2,1,2,All years,Yoon Kwang-ung,Minister,South Korea
+Q977641,2,2,0.0006702310422096,0.5,2,1,2,All years,Natsuo Yamaguchi,Other/unknown,Japan
+Q28716061,2,2,0.0006702310422096,0.5,2,1,2,All years,Talib Shaghati,Military,Iraq
+Q28474385,2,2,0.0006702310422096,0.5,2,1,2,All years,Abdullah Bin Mohammad Bin Rashed Al Khalifa,Diplomat,Bahrain
+Q14946900,2,2,0.0006702310422096,0.5,2,1,2,All years,Anwar Mohammed Gargash,Minister,United Arab Emirates
+Q16879979,2,3,0.0006702310422096,0.4444444444444444,2,1,2,All years,Mircea DuÈ™a,Minister,Romania
+Q2821166,2,2,0.0006702310422096,0.5,2,1,2,All years,Abdelmadjid Tebboune,Head of state/govt,Algeria
+Q13560046,2,2,0.0006702310422096,0.5,2,1,2,All years,Khalid bin Mohammad Al Attiyah,Minister,Qatar
+Q1538702,2,2,0.0006702310422096,0.5,2,1,2,All years,Gotabaya Rajapaksa,Other/unknown,Sri Lanka
+Q4724715,3,4,0.000625685303235,0.5,2,1,2,All years,Ali Bin Fahad Al-Hajri,Diplomat,Qatar
+Q732850,2,2,0.0006024262219522,0.0,1,0,1,All years,Giulio Tremonti,Minister,Italy
+Q17478000,2,2,0.0005773237404711,0.5,2,1,2,All years,IvÃ¡n Duque,Head of state/govt,Colombia
+Q57390,2,4,0.0005773237404711,0.375,2,1,2,All years,Ismail Omar Guelleh,Head of state/govt,Djibouti
+Q58323,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Thongloun Sisoulith,Minister,Laos
+Q40649,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Cristina FernÃƒÂ¡ndez de Kirchner,Other/unknown,Argentina
+Q57380,2,5,0.0005773237404711,0.3199999999999998,2,1,2,All years,Goodluck Jonathan,Minister,Nigeria
+Q57356,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Yahya Jammeh,Head of state/govt,The Gambia
+Q381071,2,2,0.0005773237404711,0.5,2,1,2,All years,Hailemariam Desalegn,Minister,Ethiopia
+Q58087,2,2,0.0005773237404711,0.5,2,1,2,All years,Iurie LeancÃ„Æ’,Minister,Moldova
+Q193492,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Daniel arap Moi,Head of state/govt,Kenya
+Q164518,2,6,0.0005773237404711,0.4444444444444444,2,1,2,All years,Queen Sirikit,Royalty,Thailand
+Q1528460,2,2,0.0005773237404711,0.5,2,1,2,All years,Maria Bashir,Other/unknown,Afghanistan
+Q57836,2,9,0.0005773237404711,0.345679012345679,2,1,2,All years,Navin Ramgoolam,Minister,Mauritius
+Q19665019,2,4,0.0005773237404711,0.375,2,1,2,All years,Abdullah bin Hamad bin Khalifa Al Thani,Royalty,Qatar
+Q6480368,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Lalit Mansingh,Diplomat,India
+Q64840184,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Irfaan Ali,Head of state/govt,Guyana
+Q650453,2,2,0.0005773237404711,0.5,2,1,2,All years,Giovanni Castellaneta,Minister,Italy
+Q57788,2,4,0.0005773237404711,0.375,2,1,2,All years,Hun Sen,Minister,Cambodia
+Q57342,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Mauricio Funes,Head of state/govt,El Salvador
+Q4120127,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Fatima bint Mubarak Al Ketbi,Other/unknown,United Arab Emirates
+Q57726,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Khalifa bin Salman Al Khalifa,Minister,Bahrain
+Q189575,2,19,0.0005773237404711,0.4653739612188365,2,1,2,All years,Ion Iliescu,Head of state/govt,Romania
+Q58154,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Daniel Kablan Duncan,Minister,Ivory Coast
+Q57627,2,6,0.0005773237404711,0.2777777777777777,2,1,2,All years,Janez JanÅ¡a,Minister,Slovenia
+Q188978,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Kostas Karamanlis,Minister,Greece
+Q15027,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Tung Chee Hwa,Other/unknown,China
+Q58197,2,4,0.0005773237404711,0.375,2,1,2,All years,Edward Nalbandyan,Minister,Armenia
+Q202117,2,2,0.0005773237404711,0.5,2,1,2,All years,Sergei Stanishev,Minister,Bulgaria
+Q674957,2,2,0.0005773237404711,0.5,2,1,2,All years,Enrico Letta,Head of state/govt,Italy
+Q58198,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Ahmet DavutoÄŸlu,Minister,Turkey
+Q145180,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Zalmai Rassoul,Other/unknown,Afghanistan
+Q58203,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Erlan Idrissov,Minister,Kazakhstan
+Q685293,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,PÃƒÂ©ter SzijjÃƒÂ¡rtÃƒÂ³,Minister,Hungary
+Q57530,2,8,0.0005773237404711,0.5,2,1,2,All years,Gurbanguly Berdimuhamedow,Head of state/govt,Turkmenistan
+Q206638,2,2,0.0005773237404711,0.5,2,1,2,All years,Lakshman Kadirgamar,Minister,Sri Lanka
+Q57488,2,6,0.0005773237404711,0.2777777777777777,2,1,2,All years,Jakaya Mrisho Kikwete,Head of state/govt,Tanzania
+Q57446,2,4,0.0005773237404711,0.375,2,1,2,All years,Pranab Mukherjee,Minister,India
+Q701801,2,4,0.0005773237404711,0.375,2,1,2,All years,Wang Yi,Minister,China
+Q138048,2,4,0.0005773237404711,0.375,2,1,2,All years,Park Geun-hye,Legislator,South Korea
+Q57675,2,9,0.0005773237404711,0.345679012345679,2,1,2,All years,Najib Razak,Minister,Malaysia
+Q470903,2,2,0.0005773237404711,0.5,2,1,2,All years,Sher Bahadur Deuba,Minister,Nepal
+Q1161024,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Taro Kono,Minister,Japan
+Q313661,2,11,0.0005773237404711,0.396694214876033,2,1,2,All years,Saad Al-Abdullah Al-Salim Al-Sabah,Royalty,Kuwait
+Q4746345,2,2,0.0005773237404711,0.5,2,1,2,All years,Amina Mohamed,Other/unknown,Kenya
+Q47580342,2,2,0.0005773237404711,0.5,2,1,2,All years,Takeo Akiba,Minister,Japan
+Q47583,2,2,0.0005773237404711,0.5,2,1,2,All years,Gianfranco Fini,Minister,Italy
+Q307168,2,2,0.0005773237404711,0.5,2,1,2,All years,Abdul Aziz al-Hakim,Other/unknown,Iraq
+Q485136,2,4,0.0005773237404711,0.375,2,1,2,All years,Roza Otunbayeva,Head of state/govt,Kyrgyzstan
+Q9682,2,15,0.0005773237404711,0.1244444444444443,2,1,2,All years,Elizabeth II,Royalty,United Kingdom
+Q29578497,2,2,0.0005773237404711,0.5,2,1,2,All years,Nguyá»…n Quá»‘c CÆ°á»ng,Diplomat,Vietnam
+Q10787642,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,LÃª HoÃ ng QuÃ¢n,Other/unknown,Vietnam
+Q5090990,2,2,0.0005773237404711,0.5,2,1,2,All years,Chen Yunlin,Other/unknown,Taiwan
+Q2820915,2,2,0.0005773237404711,0.5,2,1,2,All years,Abdallah Baali,Diplomat,Algeria
+Q518375,2,2,0.0005773237404711,0.5,2,1,2,All years,John Dalli,Minister,Malta
+Q279934,2,6,0.0005773237404711,0.2777777777777777,2,1,2,All years,Chantal Biya,Other/unknown,Cameroon
+Q52183,2,9,0.0005773237404711,0.4444444444444444,2,1,2,All years,Sheikh Hasina,Royalty,
+Q5429529,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Fahd bin Mahmoud Al Said,Royalty,Oman
+Q548733,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Vajiralongkorn,Royalty,Thailand
+Q12149,2,10,0.0005773237404711,0.42,2,1,2,All years,Thein Sein,Head of state/govt,Myanmar
+Q379563,2,2,0.0005773237404711,0.5,2,1,2,All years,JosÃƒÂ© Serra,Other/unknown,Brazil
+Q378027,2,10,0.0005773237404711,0.48,2,1,2,All years,Igor Ivanov,Minister,Russia
+Q374728,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Patriarch Theophilos III of Jerusalem,Other/unknown,State of Palestine
+Q42852,2,14,0.0005773237404711,0.1326530612244898,2,1,2,All years,Abdullah GÃ¼l,Minister,Turkey
+Q431442,2,2,0.0005773237404711,0.5,2,1,2,All years,"Al-Muhtadee Billah, Crown Prince of Brunei",Minister,Brunei
+Q359480,2,7,0.0005773237404711,0.489795918367347,2,1,2,All years,Fumio Kishida,Minister,Japan
+Q9094,2,2,0.0005773237404711,0.5,2,1,2,All years,JosÃ© Mujica,Head of state/govt,Uruguay
+Q110375702,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Mariam Abdul Aziz,Royalty,Brunei
+Q11509,2,2,0.0005773237404711,0.5,2,1,2,All years,Xanana GusmÃ£o,Head of state/govt,Timor-Leste
+Q4426215,2,4,0.0005773237404711,0.375,2,1,2,All years,Sara Netanyahu,Minister,Israel
+Q3471176,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Samuel Lewis Navarro,Minister,Panama
+Q44501,2,10,0.0005773237404711,0.48,2,1,2,All years,I. Bartholomeos,Other/unknown,
+Q4475322,2,2,0.0005773237404711,0.5,2,1,2,All years,Kairat Umarov,Diplomat,Kazakhstan
+Q450675,2,4,0.0005773237404711,0.5,2,1,2,All years,Pope Francis,Other/unknown,Vatican City
+Q455700,2,6,0.0005773237404711,0.2777777777777777,2,1,2,All years,Liu Yandong,Other/unknown,China
+Q460281,2,2,0.0005773237404711,0.5,2,1,2,All years,Sergey Kislyak,Diplomat,Russia
+Q464862,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Dora Bakoyannis,Minister,Greece
+Q4662124,2,2,0.0005773237404711,0.5,2,1,2,All years,Keiichi Inamine,Other/unknown,Japan
+Q356647,2,2,0.0005773237404711,0.5,2,1,2,All years,Arnoldo AlemÃƒÂ¡n,Head of state/govt,Nicaragua
+Q57324,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Blaise CompaorÃ©,Head of state/govt,Burkina Faso
+Q57313,2,10,0.0005773237404711,0.3199999999999998,2,1,2,All years,JosÃ© Eduardo dos Santos,Head of state/govt,Angola
+Q57282,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Jacob Zuma,Head of state/govt,South Africa
+Q238529,2,5,0.0005773237404711,0.3199999999999998,2,1,2,All years,Suzanne Mubarak,Other/unknown,Egypt
+Q57274,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Yoweri Museveni,Head of state/govt,Uganda
+Q567,2,22,0.0005773237404711,0.1652892561983472,2,1,2,All years,Angela Merkel,Head of state/govt,Germany
+Q57272,2,5,0.0005773237404711,0.48,2,1,2,All years,Paul Biya,Head of state/govt,Cameroon
+Q558718,2,3,0.0005773237404711,0.4444444444444444,2,1,2,All years,Lien Chan,Other/unknown,Taiwan
+Q57338,2,2,0.0005773237404711,0.5,2,1,2,All years,Mahinda Rajapaksa,Head of state/govt,Sri Lanka
+Q4200758,2,7,0.0005773237404711,0.2448979591836735,2,1,2,All years,Ani Yudhoyono,Head of state/govt,Indonesia
+Q560890,2,2,0.0005686639021874,0.5,2,1,2,All years,Bernard Cazeneuve,Minister,France
+Q13176827,2,7,0.0005629820070915,0.4081632653061224,2,1,2,All years,Jaafer Sheikh Mustafa,Royalty,Iraq
+Q5892168,2,6,0.0005629820070915,0.2777777777777777,2,1,2,All years,Masrour Barzani,Minister,Iraq
+Q557630,2,4,0.0005629820070915,0.375,2,1,2,All years,Nechervan Idris Barzani,Minister,Iraq
+Q3052772,3,10,0.0005488200072338,0.58,3,1,2,All years,Emmanuel Macron,Head of state/govt,France
+Q18113,2,2,0.0005243506652548,0.5,2,1,2,All years,Wang Qishan,Head of state/govt,China
+Q700659,2,3,0.0005243506652548,0.4444444444444444,2,1,2,All years,Vincent Siew,Other/unknown,China
+Q50952,2,2,0.0005243506652548,0.5,2,1,2,All years,Wu Yi,Head of state/govt,China
+Q315975,2,5,0.0005243506652548,0.3199999999999998,2,1,2,All years,AndrÃ©s Pastrana Arango,Head of state/govt,Colombia
+Q2227094,2,3,0.0004711760728738,0.4444444444444444,2,1,2,All years,Saud Nasser Al-Saud Al-Sabah,Royalty,Kuwait
+Q12220111,3,6,0.0004556169560012,0.5,2,1,2,All years,Saqr Ghobash,Diplomat,United Arab Emirates
+Q1860610,2,6,0.0004514670777911,0.2777777777777777,2,1,2,All years,SÃ©rgio Cabral Filho,Other/unknown,Brazil
+Q16597,2,11,0.0004514670777911,0.1652892561983472,2,1,2,All years,Jiang Zemin,Head of state/govt,China
+Q55758,2,11,0.0004514670777911,0.1652892561983472,2,1,2,All years,Aleksander KwaÅ›niewski,Head of state/govt,Poland
+Q57261,2,7,0.0004514670777911,0.2448979591836735,2,1,2,All years,Georgi Parvanov,Head of state/govt,Bulgaria
+Q217566,2,2,0.0004514670777911,0.5,2,1,2,All years,Anerood Jugnauth,Minister,Mauritius
+Q715087,2,2,0.0004514670777911,0.5,2,1,2,All years,Chen Liangyu,Other/unknown,China
+Q154952,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,William Alexander of the Netherlands,Royalty,Netherlands
+Q137101695,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Nguyá»…n TÃ¢m Chiáº¿n,Diplomat,Vietnam
+Q57661,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Jean-Claude Juncker,Minister,Luxembourg
+Q356666,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Han Duck-soo,Diplomat,South Korea
+Q4414537,2,4,0.0004435661387618,0.375,2,1,2,All years,Guillermo Lasso,Head of state/govt,Ecuador
+Q348577,2,2,0.0004435661387618,0.5,2,1,2,All years,Tony Abbott,Minister,Australia
+Q57284,2,2,0.0004435661387618,0.5,2,1,2,All years,Ãƒâ€œlafur Ragnar GrÃƒÂ­msson,Head of state/govt,Iceland
+Q57407,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,TrÃ†Â°Ã†Â¡ng TÃ¡ÂºÂ¥n Sang,Head of state/govt,Vietnam
+Q4840788,2,4,0.0004435661387618,0.375,2,1,2,All years,Bader Al-Dafa,Diplomat,Qatar
+Q191045,2,5,0.0004435661387618,0.3199999999999998,2,1,2,All years,Felipe VI of Spain,Royalty,Spain
+Q318458,2,5,0.0004435661387618,0.48,2,1,2,All years,Nguyá»…n PhÃº Trá»ng,Legislator,Vietnam
+Q172083,2,6,0.0004435661387618,0.4444444444444444,2,1,2,All years,Omar Bongo,Head of state/govt,
+Q6892571,2,8,0.0004435661387618,0.21875,2,1,2,All years,Mohammed bin Salman Al Saud,Royalty,Saudi Arabia
+Q743333,2,2,0.0004435661387618,0.5,2,1,2,All years,Ali Mohamed Shein,Head of state/govt,Tanzania
+Q125731,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Ehud Barak,Minister,Israel
+Q276283,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,MartÃ­n Torrijos,Head of state/govt,Panama
+Q1459658,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Viktor Yanukovych,Minister,Ukraine
+Q1253,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Ban Ki-moon,International org.,
+Q1285090,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,K. Natwar Singh,Minister,India
+Q9099,2,11,0.0004435661387618,0.1652892561983472,2,1,2,All years,TabarÃ© VÃ¡zquez,Head of state/govt,Uruguay
+Q161184,2,3,0.0004435661387618,0.4444444444444444,2,1,2,All years,Meles Zenawi,Minister,Ethiopia
+Q128529,2,6,0.0004435661387618,0.2777777777777777,2,1,2,All years,Paul Martin,Minister,Canada
+Q58320,2,2,0.000436320491832,0.5,2,1,2,All years,Elyor Ganiyev,Minister,Uzbekistan
+Q6066533,3,3,0.0004356057640218,0.6666666666666667,3,1,3,All years,Irakli Garibashvili,Minister,Georgia
+Q23761941,2,3,0.0004086810581415,0.4444444444444444,2,1,1,All years,Jack Steer,Military,New Zealand
+Q17058247,2,3,0.0004086810581415,0.4444444444444444,2,1,1,All years,Jan Eirik Finseth,Military,Norway
+Q926820,2,13,0.0004086810581415,0.2603550295857988,2,1,1,All years,Sami Hafez Anan,Military,Egypt
+Q7494657,2,2,0.0004086810581415,0.5,2,1,1,All years,Sherali Khayrulloyev,Minister,Tajikistan
+Q3064457,2,4,0.0004086810581415,0.5,2,1,1,All years,Fahd bin Abdullah bin Mohammed Al Saud,Royalty,Saudi Arabia
+Q3839340,2,4,0.0004086810581415,0.5,2,1,1,All years,Luigi Binelli Mantelli,Military,Italy
+Q6161700,2,5,0.0004086810581415,0.48,2,1,1,All years,Vidal Francisco SoberÃ³n Sanz,Military,Mexico
+Q5653985,2,2,0.0004086810581415,0.5,2,1,1,All years,Harald Sunde,Military,Norway
+Q2107268,2,4,0.0004086810581415,0.375,2,1,2,All years,Prabowo Subianto,Minister,Indonesia
+Q16852103,3,4,0.0003930594517654,0.5,2,1,1,All years,Khaled Al Jarrah Al Sabah,Military,Kuwait
+Q16159745,3,3,0.0003930594517654,0.4444444444444444,2,1,1,All years,Ahmad Al Khalid Al Sabah,Royalty,Kuwait
+Q930370,2,2,0.0003719694770619,0.5,2,1,2,All years,LÃ¼ Zushan,Other/unknown,China
+Q7494626,2,4,0.000354124370018,0.375,2,1,2,All years,Mohammad Azam Karimi,Military,Afghanistan
+Q2568687,2,2,0.000354124370018,0.5,2,1,2,All years,Dimitri Shashkini,Minister,Georgia
+Q2985594,2,17,0.000354124370018,0.1107266435986158,2,1,2,All years,Sherry Rehman,Diplomat,Pakistan
+Q15914789,2,2,0.000354124370018,0.5,2,1,2,All years,Yen Teh-fa,Military,Taiwan
+Q3196731,2,3,0.000354124370018,0.4444444444444444,2,1,2,All years,Kim Jang-soo,Minister,South Korea
+Q701017,2,2,0.000354124370018,0.5,2,1,2,All years,Chen Bingde,Military,China
+Q57883,2,2,0.0003380797915567,0.5,2,1,2,All years,Matata Ponyo Mapon Augustin,Minister,Democratic Republic of the Congo
+Q20533328,2,3,0.0003380797915567,0.4444444444444444,2,1,2,All years,Rustam Atsimov,Minister,Uzbekistan
+Q20410419,2,5,0.0003380797915567,0.3199999999999998,2,1,2,All years,Abbas Kamel,Intelligence/security,Egypt
+Q3186168,2,2,0.0003380797915567,0.5,2,1,2,All years,JosÃ© Antonio Meade KuribreÃ±a,Other/unknown,Mexico
+Q4666105,3,7,0.0003297050093936,0.2448979591836735,2,1,2,All years,Abdullah bin Nasser bin Khalifa Al Thani,Minister,Qatar
+Q209639,2,2,0.0003050862078497,0.5,2,1,2,All years,Karim Massimov,Minister,Kazakhstan
+Q16242594,2,2,0.0002938312484773,0.5,2,1,2,All years,Ahmad bin Abdullah Al Mahmoud,Minister,Qatar
+Q58171,2,3,0.0002938312484773,0.4444444444444444,2,1,2,All years,Khalid bin Ahmed Al Khalifa,Minister,Bahrain
+Q380437,2,3,0.0002938312484773,0.4444444444444444,2,1,2,All years,Walid Jumblatt,Other/unknown,Lebanon
+Q58301,2,10,0.0002938312484773,0.1799999999999999,2,1,2,All years,Abdullah bin Zayed Al Nahyan,Royalty,United Arab Emirates
+Q981846,2,2,0.0002938312484773,0.5,2,1,2,All years,Muqrin bin Abdul-Aziz Al Saud,Royalty,Saudi Arabia
+Q317624,2,4,0.0002938312484773,0.375,2,1,2,All years,Muhammad Mian Soomro,Other/unknown,Pakistan
+Q6705457,2,2,0.0002938312484773,0.5,2,1,2,All years,Lutfozzaman Babar,Minister,Bangladesh
+Q707900,2,2,0.0002938312484773,0.5,2,1,2,All years,Chen Zhili,Head of state/govt,China
+Q57413,2,4,0.0002938312484773,0.375,2,1,2,All years,Alassane Ouattara,Head of state/govt,Ivory Coast
+Q3066985,2,2,0.0002938312484773,0.5,2,1,2,All years,Farooq Hamid Naek,Other/unknown,Pakistan
+Q206327,2,5,0.0002938312484773,0.3199999999999998,2,1,2,All years,Bernard Kouchner,Minister,France
+Q10296812,2,3,0.0002938312484773,0.4444444444444444,2,1,2,All years,Mohammad Javad Zarif,International org.,
+Q76156,2,3,0.0002938312484773,0.4444444444444444,2,1,2,All years,B. J. Habibie,Head of state/govt,Indonesia
+Q247424,2,2,0.0002938312484773,0.5,2,1,2,All years,Nikos Dendias,Minister,Greece
+Q7403481,2,3,0.0002938312484773,0.4444444444444444,2,1,2,All years,Salahuddin Rabbani,Other/unknown,Afghanistan
+Q714212,2,3,0.0002938312484773,0.4444444444444444,2,1,2,All years,Kantathi Suphamongkhon,Minister,Thailand
+Q204027,2,2,0.0002938312484773,0.5,2,1,2,All years,Sergei Ivanov,Minister,Russia
+Q1728820,2,14,0.0002779482567251,0.336734693877551,2,1,2,All years,Leo Varadkar,Minister,Ireland
+Q51330,2,18,0.0002779482567251,0.1049382716049383,2,1,2,All years,John Howard,Minister,Australia
+Q57815,2,9,0.0002779482567251,0.1975308641975308,2,1,2,All years,Enda Kenny,Other/unknown,Ireland
+Q5446290,2,2,0.0002779482567251,0.5,2,1,2,All years,FiamÄ“ Naomi MataÊ»afa,Minister,Samoa
+Q85317569,2,3,0.0002769597805313,0.4444444444444444,2,1,2,All years,Mustafa Al-Kadhimi,Minister,Iraq
+Q961343,2,3,0.0002759071566558,0.4444444444444444,2,1,2,All years,YaÅŸar BÃ¼yÃ¼kanÄ±t,Military,Turkey
+Q55900,2,2,0.0002759071566558,0.5,2,1,2,All years,Marek Belka,Minister,Poland
+Q742051,2,3,0.0002759071566558,0.4444444444444444,2,1,2,All years,Khalid bin Sultan,Royalty,Saudi Arabia
+Q316495,2,2,0.0002759071566558,0.5,2,1,2,All years,Ibrahim al-Jaafari,Minister,Iraq
+Q3512013,2,2,0.0002672514409987,0.0,1,0,1,All years,Josip LuciÄ‡,Military,Croatia
+Q331702,3,4,0.000261797388135,0.625,3,1,2,All years,Abdul Rashid Dostum,Minister,Afghanistan
+Q198026,2,2,0.0002522087089715,0.5,2,1,2,All years,Zhou Xiaochuan,Other/unknown,China
+Q2208925,2,2,0.0002361684294459,0.5,2,1,1,All years,Saadoun al-Dulaimi,Minister,Iraq
+Q7293688,2,4,0.0002361684294459,0.375,2,1,1,All years,Rao Qamar Suleman,Military,Pakistan
+Q57894,2,6,0.0002361684294459,0.4444444444444444,2,1,1,All years,Jaber Al-Mubarak Al-Hamad Al-Sabah,Royalty,Kuwait
+Q12241226,2,2,0.0002361684294459,0.5,2,1,1,All years,Mahmoud Hegazy,Military,Egypt
+Q515403,2,6,0.0002055427907374,0.0,1,0,1,All years,Mohab Mamish,Military,Egypt
+Q357116,2,3,0.0001883888369973,0.4444444444444444,2,1,2,All years,Adil Abdul-Mahdi,Minister,Iraq
+Q5951723,2,2,0.0001883888369973,0.5,2,1,2,All years,Juan Orlando HernÃƒÂ¡ndez,Head of state/govt,Honduras
+Q105137623,2,2,0.0001883888369973,0.5,2,1,2,All years,Amal Mudallali,Other/unknown,Lebanon
+Q463697,2,3,0.0001883888369973,0.4444444444444444,2,1,2,All years,Li Zhaoxing,Minister,China
+Q334679,2,2,0.0001883888369973,0.5,2,1,2,All years,Natsagiin Bagabandi,Head of state/govt,Mongolia
+Q57712,2,2,0.0001883888369973,0.5,2,1,2,All years,Kamla Persad-Bissessar,Minister,Trinidad and Tobago
+Q16179284,2,2,0.0001883888369973,0.5,2,1,2,All years,Cho Yung-kil,Minister,South Korea
+Q36812,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,"William, Prince of Wales",Royalty,United Kingdom
+Q57542,2,2,0.0001822748388632,0.5,2,1,1,All years,Filip VujanoviÃ„â€¡,Head of state/govt,Montenegro
+Q983324,2,4,0.0001822748388632,0.5,2,1,1,All years,Bongbong Marcos,Head of state/govt,Philippines
+Q105319610,2,2,0.0001822748388632,0.5,2,1,1,All years,Mohamed al-Menfi,Head of state/govt,Libya
+Q983258,2,4,0.0001822748388632,0.375,2,1,1,All years,Isaac Herzog,Other/unknown,Israel
+Q57539,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,Otto PÃ©rez Molina,Head of state/govt,Guatemala
+Q21001,2,7,0.0001822748388632,0.4081632653061224,2,1,1,All years,Moon Jae-in,Head of state/govt,South Korea
+Q16628,2,2,0.0001822748388632,0.5,2,1,1,All years,Wen Jiabao,Head of state/govt,China
+Q54820,2,7,0.0001822748388632,0.4081632653061224,2,1,1,All years,Nambaryn Enkhbayar,Head of state/govt,Mongolia
+Q57269,2,8,0.0001822748388632,0.21875,2,1,1,All years,Q57269,Head of state/govt,Mexico
+Q313539,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,Beji Caid Essebsi,Minister,Tunisia
+Q313300,2,6,0.0001822748388632,0.2777777777777777,2,1,1,All years,Goh Chok Tong,Minister,Singapore
+Q3099714,2,8,0.0001822748388632,0.21875,2,1,1,All years,Justin Trudeau,Minister,Canada
+Q307871,2,10,0.0001822748388632,0.1799999999999999,2,1,1,All years,Abdel Fattah el-Sisi,Head of state/govt,Egypt
+Q57379,2,2,0.0001822748388632,0.5,2,1,1,All years,Dalia GrybauskaitÃ„â€”,Head of state/govt,Lithuania
+Q34105,2,14,0.0001822748388632,0.336734693877551,2,1,1,All years,Hosni Mubarak,Head of state/govt,Egypt
+Q2977143,2,13,0.0001822748388632,0.2603550295857988,2,1,1,All years,Emine ErdoÄŸan,Minister,Turkey
+Q55782,2,4,0.0001822748388632,0.375,2,1,1,All years,Leszek Miller,Minister,Poland
+Q231946,2,6,0.0001822748388632,0.2777777777777777,2,1,1,All years,Mireya Moscoso,Head of state/govt,Panama
+Q296741,2,5,0.0001822748388632,0.3199999999999998,2,1,1,All years,Enrique PeÃƒÂ±a Nieto,Head of state/govt,Mexico
+Q4917286,2,8,0.0001822748388632,0.5,2,1,1,All years,Bisera TurkoviÄ‡,Diplomat,Bosnia and Herzegovina
+Q2896703,2,2,0.0001822748388632,0.5,2,1,1,All years,Shmuel Rabinovitch,Other/unknown,Israel
+Q505200,2,2,0.0001822748388632,0.5,2,1,1,All years,Andrew Holness,Minister,Jamaica
+Q2297311,2,2,0.0001822748388632,0.5,2,1,1,All years,Sodiq Safoyev,Minister,Uzbekistan
+Q284589,2,2,0.0001822748388632,0.5,2,1,1,All years,Sylvia Bongo Ondimba,Other/unknown,France
+Q57643,2,16,0.0001822748388632,0.375,2,1,1,All years,Lee Hsien Loong,Minister,Singapore
+Q57289,2,4,0.0001822748388632,0.5,2,1,1,All years,Toomas Hendrik Ilves,Head of state/govt,Estonia
+Q96612848,2,2,0.0001822748388632,0.5,2,1,1,All years,Aymen Benabderrahmane,Minister,Algeria
+Q6401136,2,2,0.0001822748388632,0.5,2,1,1,All years,Khazar Ibrahim,Diplomat,Azerbaijan
+Q1148669,2,2,0.0001822748388632,0.5,2,1,1,All years,Cyril Ramaphosa,Head of state/govt,South Africa
+Q10800073,2,10,0.0001822748388632,0.1799999999999999,2,1,1,All years,NguyÃ¡Â»â€¦n XuÃƒÂ¢n PhÃƒÂºc,Minister,Vietnam
+Q714518,2,2,0.0001822748388632,0.5,2,1,1,All years,Ali Babacan,Minister,Turkey
+Q9319112,2,2,0.0001822748388632,0.5,2,1,1,All years,Sheng Huaren,Legislator,China
+Q946,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,Donald Tusk,Minister,Poland
+Q718601,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,Nana Akufo-Addo,Head of state/govt,Ghana
+Q950958,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,Charles Michel,Minister,Belgium
+Q727132,2,2,0.0001822748388632,0.5,2,1,1,All years,Ilir Meta,Minister,Albania
+Q128543,2,14,0.0001822748388632,0.1326530612244898,2,1,1,All years,Jean ChrÃƒÂ©tien,Minister,Canada
+Q76354,2,3,0.0001822748388632,0.4444444444444444,2,1,1,All years,Jusuf Kalla,Minister,Indonesia
+Q1459699,2,14,0.0001822748388632,0.4591836734693877,2,1,1,All years,Viktor JuÅ¡Äenko,Minister,Ukraine
+Q106764653,2,2,0.0001822748388632,0.5,2,1,1,All years,Marguerite KÃ©rÃ©kou,Other/unknown,Benin
+Q7436908,2,4,0.0001822748388632,0.375,2,1,1,All years,Scott Morrison,Minister,Australia
+Q2820939,2,3,0.0001376278575359,0.4444444444444444,2,1,2,All years,Abdullah bin Hamad Al Attiyah,Minister,Qatar
+Q57685,2,7,0.0001340143224764,0.4081632653061224,2,1,2,All years,Vlad Filat,Minister,Moldova
+Q535345,2,2,0.0001340143224764,0.5,2,1,2,All years,Francesco Rutelli,Minister,Italy
+Q155004,2,2,0.0001340143224764,0.5,2,1,2,All years,Philippe of Belgium,Royalty,Belgium
+Q3163304,2,2,0.0001340143224764,0.5,2,1,2,All years,Jaynet Kabila,Legislator,Democratic Republic of the Congo
+Q15934317,2,2,0.0001340143224764,0.5,2,1,2,All years,Chimediin Saikhanbileg,Minister,Mongolia
+Q1655453,2,2,0.0001340143224764,0.5,2,1,2,All years,Toshimitsu Motegi,Minister,Japan
+Q2067470,2,5,0.000125679565673,0.48,2,1,2,All years,Ali Al-Naimi,Minister,Saudi Arabia
+Q56250519,2,2,0.0001210877324494,0.0,1,0,1,All years,Fayyadh Ruwaili,Military,Saudi Arabia
+Q103821494,2,2,6.218398439279369e-05,0.0,1,0,1,All years,Ali bin Ahmed Al Kuwari,Military,Qatar
+Q7429162,2,2,2.7194589380288576e-05,0.0,1,0,2,All years,Sayed Hussein Anwari,Other/unknown,Afghanistan
+Q1344473,2,2,2.1293543531758648e-05,0.0,1,0,1,All years,Vladimir Kolokolcev,Minister,Russia
+Q85362,2,2,2.1293543531758648e-05,0.0,1,0,1,All years,Maria Fekter,Minister,Austria
+Q9067964,2,2,1.899901506851976e-05,0.0,1,0,1,All years,Xu Guanhua,Minister,China
+Q20684349,2,3,9.866790899037864e-06,0.0,1,0,1,All years,Mohammed Khaled Al-Khadher,Military,Kuwait
+Q47904,1,1,0.0,0.0,1,0,1,All years,Mario Monti,Minister,Italy
+Q7944140,1,1,0.0,0.0,1,0,1,All years,Henryk Szumski,Other/unknown,Poland
+Q7971336,1,1,0.0,0.0,1,0,1,All years,Wasantha Karannagoda,Military,Sri Lanka
+Q797566,1,2,0.0,0.0,1,0,1,All years,Babaker Shawkat B. Zebari,Military,Iraq
+Q4806929,1,1,0.0,0.0,1,0,1,All years,Asif Sandila,Military,Pakistan
+Q104055006,1,1,0.0,0.0,1,0,1,All years,Al-Hajj Kabe,Military,United Arab Emirates
+Q7967019,1,1,0.0,0.0,1,0,1,All years,Wan Qingliang,Other/unknown,China
+Q47854,1,4,0.0,0.0,1,0,1,All years,Pratibha Patil,Head of state/govt,India
+Q7908993,1,1,0.0,0.0,1,0,1,All years,Vakhtang Kapanadze,Military,Georgia
+Q104123572,1,1,0.0,0.0,1,0,1,All years,Petr Tulpa,Other/unknown,Czech Republic
+Q487250,1,1,0.0,0.0,1,0,1,All years,Yu Myung-hwan,Minister,South Korea
+Q487095,1,2,0.0,0.0,1,0,1,All years,Liu Yongqing,Minister,China
+Q7929529,1,1,0.0,0.0,1,0,1,All years,Wei Fenghe,Minister,China
+Q486900,1,1,0.0,0.0,1,0,1,All years,Kim Tae-young,Minister,South Korea
+Q4861362,1,1,0.0,0.0,1,0,1,All years,Barnaby Joyce,Minister,Australia
+Q486034,1,1,0.0,0.0,1,0,1,All years,Kim Kwan-jin,Minister,South Korea
+Q485476,1,3,0.0,0.0,1,0,1,All years,Phung Quang Thanh,Minister,Vietnam
+Q47846,1,2,0.0,0.0,1,0,1,All years,Naoto Kan,Minister,Japan
+Q4852634,1,1,0.0,0.0,1,0,1,All years,Baltazar Hinojosa Ochoa,Other/unknown,Mexico
+Q7937671,1,1,0.0,0.0,1,0,1,All years,Vivian Balakrishnan,Minister,Singapore
+Q7937703,1,1,0.0,0.0,1,0,1,All years,Vivian FernÃ¡ndez,Head of state/govt,Panama
+Q48405,1,1,0.0,0.0,1,0,1,All years,Han Zheng,Other/unknown,China
+Q97819749,1,1,0.0,0.0,1,0,1,All years,Chan Yeng Kit,Other/unknown,Singapore
+Q4831072,1,2,0.0,0.0,1,0,1,All years,Aydin Aliyev,Other/unknown,Azerbaijan
+Q48283,1,1,0.0,0.0,1,0,1,All years,Yulia Tymoshenko,Minister,Ukraine
+Q79404489,1,1,0.0,0.0,1,0,1,All years,Kang Sun-young,Military,South Korea
+Q482738,1,1,0.0,0.0,1,0,1,All years,Kwon Yang-sook,Other/unknown,South Korea
+Q4854440,1,1,0.0,0.0,1,0,1,All years,Bandar bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q471291,1,1,0.0,0.0,1,0,1,All years,Gustavo Noboa,Head of state/govt,Ecuador
+Q8075164,1,1,0.0,0.0,1,0,1,All years,Zulkifeli Mohd. Zin,Military,Malaysia
+Q80954337,1,1,0.0,0.0,1,0,1,All years,Tsao Chin-ping,Military,Taiwan
+Q80976,1,9,0.0,0.0,1,0,1,All years,"Prince Philip, Duke of Edinburgh",Royalty,United Kingdom
+Q471248,1,1,0.0,0.0,1,0,1,All years,Jamil Mahuad,Head of state/govt,Ecuador
+Q81065,1,1,0.0,0.0,1,0,1,All years,ZandaakhÃ¼Ã¼giin Enkhbold,Other/unknown,Mongolia
+Q4712377,1,1,0.0,0.0,1,0,1,All years,Albin Gutman,Military,Slovenia
+Q471075,1,1,0.0,0.0,1,0,1,All years,Jacques-Ãƒâ€°douard Alexis,Minister,Haiti
+Q470946,1,1,0.0,0.0,1,0,1,All years,Abderrahmane Youssoufi,Minister,Morocco
+Q8061827,1,1,0.0,0.0,1,0,1,All years,Yusaf Khan,Military,Pakistan
+Q4705786,1,1,0.0,0.0,1,0,1,All years,Alam Khattak,Military,Pakistan
+Q82260,1,1,0.0,0.0,1,0,1,All years,Chen Yuan,Other/unknown,China
+Q978715,1,2,0.0,0.0,1,0,1,All years,MoÃ¯se Katumbi,Other/unknown,Democratic Republic of the Congo
+Q470024,1,1,0.0,0.0,1,0,1,All years,Bounnhang Vorachith,Head of state/govt,Laos
+Q8271165,1,2,0.0,0.0,1,0,1,All years,King Pu-tsung,Royalty,Taiwan
+Q4699821,1,2,0.0,0.0,1,0,1,All years,Ajith Nivard Cabraal,Other/unknown,Sri Lanka
+Q4699784,1,2,0.0,0.0,1,0,1,All years,Ajit Kumar Doval,Other/unknown,India
+Q8273357,1,3,0.0,0.0,1,0,1,All years,Kao Hua-chu,Minister,Taiwan
+Q469880,1,2,0.0,0.0,1,0,1,All years,Stella Obasanjo,Other/unknown,Nigeria
+Q81215,1,2,0.0,0.0,1,0,1,All years,Petar Stoyanov,Head of state/govt,Bulgaria
+Q477925,1,2,0.0,0.0,1,0,1,All years,Volodymyr Ohryzko,Minister,Ukraine
+Q4770680,1,2,0.0,0.0,1,0,1,All years,Anshuman Singh,Other/unknown,India
+Q8043992,1,1,0.0,0.0,1,0,1,All years,Xhemal Gjunkshi,Military,Albania
+Q47670249,1,1,0.0,0.0,1,0,1,All years,Xu Lingyi,Other/unknown,China
+Q47602,1,1,0.0,0.0,1,0,1,All years,Massimo D'Alema,Minister,Italy
+Q8056017,1,1,0.0,0.0,1,0,1,All years,Yoshifumi Hibako,Military,Japan
+Q105753084,1,1,0.0,0.0,1,0,1,All years,Tariq Shah Bahrami,Minister,Afghanistan
+Q47563,1,4,0.0,0.0,1,0,1,All years,Matteo Renzi,Head of state/govt,Italy
+Q78575,1,1,0.0,0.0,1,0,1,All years,Benita Ferrero-Waldner,International org.,
+Q471871,1,1,0.0,0.0,1,0,1,All years,Franklin Drilon,Head of state/govt,Philippines
+Q47531099,1,1,0.0,0.0,1,0,1,All years,Monica Juma,Other/unknown,Kenya
+Q47502444,1,1,0.0,0.0,1,0,1,All years,Falah Hassan al-Zidan,Other/unknown,Iraq
+Q47495164,1,1,0.0,0.0,1,0,1,All years,Mohammed bin Khalifa bin Ahmed,Royalty,Bahrain
+Q8064679,1,1,0.0,0.0,1,0,1,All years,Zahir Uddin Ahmed,Military,Bangladesh
+Q473132,1,1,0.0,0.0,1,0,1,All years,Husain Haqqani,Diplomat,Pakistan
+Q4727556,1,2,0.0,0.0,1,0,1,All years,Aliyu Mohammed Gusau,Other/unknown,Nigeria
+Q472589,1,1,0.0,0.0,1,0,1,All years,Jaime Gama,Minister,Portugal
+Q8068465,1,2,0.0,0.0,1,0,1,All years,Zeenat Karzai,Head of state/govt,Afghanistan
+Q806947,1,1,0.0,0.0,1,0,1,All years,Banri Kaieda,Head of state/govt,Japan
+Q8072975,1,2,0.0,0.0,1,0,1,All years,Zlatan Stoykov,Military,Bulgaria
+Q8061999,1,5,0.0,0.0,1,0,1,All years,Yusuf Ã‡etin,Other/unknown,Turkey
+Q5250509,1,1,0.0,0.0,1,0,1,All years,Deepak Kapoor,Military,India
+Q524949,1,4,0.0,0.0,1,0,1,All years,IvÃ¡n Cepeda Castro,Legislator,Colombia
+Q5240325,1,2,0.0,0.0,1,0,1,All years,David Tevzadze,Minister,Georgia
+Q5236438,1,1,0.0,0.0,1,0,1,All years,David Lee,Military,Taiwan
+Q52274914,1,1,0.0,0.0,1,0,1,All years,Carlito Galvez Jr.,Other/unknown,Philippines
+Q7463498,1,1,0.0,0.0,1,0,1,All years,Eiji Yoshikawa,Military,Japan
+Q52265474,1,1,0.0,0.0,1,0,1,All years,Jean-Pierre De Saedeleer,Other/unknown,Belgium
+Q7463570,1,2,0.0,0.0,1,0,1,All years,Masahiko Sugimoto,Military,Japan
+Q5214667,1,1,0.0,0.0,1,0,1,All years,Dana Ahmed Majid,Other/unknown,Iraq
+Q4915447,1,1,0.0,0.0,1,0,1,All years,Bipin Rawat,Military,India
+Q7463590,1,1,0.0,0.0,1,0,1,All years,Katsutoshi Kawano,Military,Japan
+Q5208549,1,1,0.0,0.0,1,0,1,All years,Daggubati Purandeswari,Minister,India
+Q518626,1,1,0.0,0.0,1,0,1,All years,LenÃƒÂ­n Moreno,Head of state/govt,Ecuador
+Q7464183,1,1,0.0,0.0,1,0,1,All years,Takashi Uto,Minister,Japan
+Q7477292,1,1,0.0,0.0,1,0,1,All years,RyÅichi Oriki,Military,Japan
+Q517540,1,1,0.0,0.0,1,0,1,All years,Lawrence Cannon,Minister,Canada
+Q7487561,1,1,0.0,0.0,1,0,1,All years,Shamim Jawad,Diplomat,Afghanistan
+Q515624,1,1,0.0,0.0,1,0,1,All years,Jerry Mateparae,Military,New Zealand
+Q7498270,1,2,0.0,0.0,1,0,1,All years,Shiranthi Rajapaksa,Other/unknown,Sri Lanka
+Q521021,1,2,0.0,0.0,1,0,1,All years,HervÃƒÂ© Morin,Minister,France
+Q5361449,1,1,0.0,0.0,1,0,1,All years,Elisabeth Delatour PrÃ©val,Other/unknown,Haiti
+Q973742,1,1,0.0,0.0,1,0,1,All years,Manuel Vicente,Minister,Angola
+Q535055,1,1,0.0,0.0,1,0,1,All years,Angelino Alfano,Minister,Italy
+Q5348664,1,1,0.0,0.0,1,0,1,All years,Ehsan ul Haq,Intelligence/security,Pakistan
+Q53282,1,1,0.0,0.0,1,0,1,All years,Werner Faymann,Head of state/govt,Austria
+Q53244209,1,1,0.0,0.0,1,0,1,All years,Mher Grigoryan,Minister,Armenia
+Q531514,1,2,0.0,0.0,1,0,1,All years,Hajredin KuÃ§i,Minister,Kosovo
+Q53140569,1,1,0.0,0.0,1,0,1,All years,Souren Papikyan,Minister,Armenia
+Q529388,1,3,0.0,0.0,1,0,1,All years,Nassir Abdulaziz Al-Nasser,International org.,
+Q525126,1,5,0.0,0.0,1,0,1,All years,Patricio PatrÃƒÂ³n Laviada,Other/unknown,Mexico
+Q528581,1,1,0.0,0.0,1,0,1,All years,Claude GuÃ©ant,Minister,France
+Q5277579,1,1,0.0,0.0,1,0,1,All years,Dimitrios Grapsas,Military,Greece
+Q5274679,1,1,0.0,0.0,1,0,1,All years,Diego GarcÃƒÂ­a-SayÃƒÂ¡n,Minister,Peru
+Q527095,1,1,0.0,0.0,1,0,1,All years,Pio Laghi,Other/unknown,Italy
+Q5266858,1,1,0.0,0.0,1,0,1,All years,Devendra Kumar Joshi,Military,India
+Q526366,1,1,0.0,0.0,1,0,1,All years,Xavier Abreu Sierra,Other/unknown,Mexico
+Q7453342,1,1,0.0,0.0,1,0,1,All years,Serge Mombouli,Diplomat,Republic of the Congo
+Q7459009,1,1,0.0,0.0,1,0,1,All years,Seydou Bouda,Diplomat,Burkina Faso
+Q7459020,1,1,0.0,0.0,1,0,1,All years,Abbas Araghchi,Minister,Iran
+Q5253516,1,2,0.0,0.0,1,0,1,All years,Delbar Jan Arman,Other/unknown,Afghanistan
+Q52920,1,1,0.0,0.0,1,0,1,All years,Fredrik Reinfeldt,Minister,Sweden
+Q4953084,1,1,0.0,0.0,1,0,1,All years,BoÅ¾o BiÅ¡kupiÄ‡,Minister,Croatia
+Q49344,1,1,0.0,0.0,1,0,1,All years,Ã“scar Arias SÃ¡nchez,Head of state/govt,Costa Rica
+Q4934050,1,2,0.0,0.0,1,0,1,All years,Bob Speller,Minister,Canada
+Q77391,1,1,0.0,0.0,1,0,1,All years,Stanislaw Tillich,Minister,Germany
+Q4933595,1,1,0.0,0.0,1,0,1,All years,Bob Parker,Other/unknown,New Zealand
+Q7799907,1,1,0.0,0.0,1,0,1,All years,ThÃƒÂ©rÃƒÂ¨se Rein,Minister,Australia
+Q492723,1,1,0.0,0.0,1,0,1,All years,Kim Sung-hwan,Minister,South Korea
+Q49252573,1,1,0.0,0.0,1,0,1,All years,Yudo Margono,Military,Indonesia
+Q4922374,1,1,0.0,0.0,1,0,1,All years,Somkid Jatusripitak,Minister,Thailand
+Q514264,1,1,0.0,0.0,1,0,1,All years,Viviane Wade,Head of state/govt,Senegal
+Q97988,1,2,0.0,0.0,1,0,1,All years,JÃ¼rgen Linden,Other/unknown,Germany
+Q7820424,1,1,0.0,0.0,1,0,1,All years,Tomy Winata,Other/unknown,Indonesia
+Q491437,1,1,0.0,0.0,1,0,1,All years,Chung Dong-young,Minister,South Korea
+Q49067,1,1,0.0,0.0,1,0,1,All years,Gabi Ashkenazi,Military,Israel
+Q48990117,1,1,0.0,0.0,1,0,1,All years,Nompumelelo Ntuli Zuma,Other/unknown,South Africa
+Q7853663,1,4,0.0,0.0,1,0,1,All years,Turai Yar'Adua,Head of state/govt,Nigeria
+Q4883364,1,1,0.0,0.0,1,0,1,All years,Bella Kocharyan,Head of state/govt,Armenia
+Q7855211,1,1,0.0,0.0,1,0,1,All years,Turki bin Nasser,Royalty,Saudi Arabia
+Q4879891,1,2,0.0,0.0,1,0,1,All years,Beena Kak,Minister,India
+Q7804233,1,1,0.0,0.0,1,0,1,All years,Mufidah Jusuf Kalla,Minister,Indonesia
+Q7506505,1,1,0.0,0.0,1,0,1,All years,Sia Nyama Koroma,Other/unknown,Sierra Leone
+Q5112867,1,1,0.0,0.0,1,0,1,All years,Christopher Meyer,Diplomat,United Kingdom
+Q5106549,1,1,0.0,0.0,1,0,1,All years,Chris Finlayson,Military,New Zealand
+Q76167,1,2,0.0,0.0,1,0,1,All years,Abdurrahman Wahid,Head of state/govt,Indonesia
+Q51008,1,1,0.0,0.0,1,0,1,All years,John Evans Atta Mills,Head of state/govt,Ghana
+Q76362,1,1,0.0,0.0,1,0,1,All years,Boediono,Minister,Indonesia
+Q509775,1,1,0.0,0.0,1,0,1,All years,Kadir TopbaÃ…Å¸,Other/unknown,Turkey
+Q7636761,1,1,0.0,0.0,1,0,1,All years,Sultan bin Zayed bin Sultan Al Nahyan,Royalty,United Arab Emirates
+Q7636786,1,1,0.0,0.0,1,0,1,All years,Che Puan Besar Kalsom of Pahang,Royalty,Malaysia
+Q496572,1,1,0.0,0.0,1,0,1,All years,Kim Yoon-ok,Other/unknown,South Korea
+Q767826,1,2,0.0,0.0,1,0,1,All years,Augustin Katumba Mwanke,Minister,Democratic Republic of the Congo
+Q5052828,1,1,0.0,0.0,1,0,1,All years,Catherine Meyer,Diplomat,United Kingdom
+Q7686357,1,1,0.0,0.0,1,0,1,All years,Tarmo KÃµuts,Military,Estonia
+Q76924,1,1,0.0,0.0,1,0,1,All years,Karl-Theodor zu Guttenberg,Minister,Germany
+Q50295332,1,1,0.0,0.0,1,0,1,All years,Suhail Bahwan,Royalty,Oman
+Q77348,1,1,0.0,0.0,1,0,1,All years,Rangin Dadfar Spanta,Minister,Afghanistan
+Q50074948,1,1,0.0,0.0,1,0,1,All years,Q50074948,Other/unknown,Taiwan
+Q5004185,1,1,0.0,0.0,1,0,1,All years,Byong Man Ahn,Minister,South Korea
+Q5002159,1,1,0.0,0.0,1,0,1,All years,Buster Howes,Military,United Kingdom
+Q4977068,1,1,0.0,0.0,1,0,1,All years,Rita Sargsyan,Other/unknown,Armenia
+Q50825405,1,1,0.0,0.0,1,0,1,All years,Pierre Mila AssoutÃ©,Other/unknown,Cameroon
+Q9151911,1,2,0.0,0.0,1,0,1,All years,Andrzej Duda,Head of state/govt,Poland
+Q433938,1,1,0.0,0.0,1,0,1,All years,EphraÃƒÂ¯m Inoni,Minister,Cameroon
+Q920403,1,1,0.0,0.0,1,0,1,All years,MicheÃ¡l Martin,Other/unknown,Ireland
+Q92187615,1,1,0.0,0.0,1,0,1,All years,Mazen O Al-Qadi,Intelligence/security,Jordan
+Q43287478,1,1,0.0,0.0,1,0,1,All years,Madeeha bint Ahmed bin Nassir al Shibaniyah,Minister,Oman
+Q43274,1,2,0.0,0.0,1,0,1,All years,Charles III,Royalty,United Kingdom
+Q432110,1,1,0.0,0.0,1,0,1,All years,Henryk Kowalczyk,Minister,Poland
+Q9250896,1,1,0.0,0.0,1,0,1,All years,Edward Gruszka,Military,Poland
+Q9268379,1,2,0.0,0.0,1,0,1,All years,Gitanas NausÄ—da,Head of state/govt,Lithuania
+Q4696351,1,1,0.0,0.0,1,0,1,All years,Ahsan Saleem Hyat,Military,Pakistan
+Q43135,1,5,0.0,0.0,1,0,1,All years,Kevin Rudd,Minister,Australia
+Q927787,1,1,0.0,0.0,1,0,1,All years,Enrique MartÃ­nez y MartÃ­nez,Other/unknown,Mexico
+Q431115,1,3,0.0,0.0,1,0,1,All years,Bernadette Chirac,Other/unknown,France
+Q430911,1,9,0.0,0.0,1,0,1,All years,Peng Liyuan,Other/unknown,China
+Q4308133,1,1,0.0,0.0,1,0,1,All years,Ināra Mūrniece,Legislator,Latvia
+Q4299035,1,1,0.0,0.0,1,0,1,All years,Armen Movsisyan,Minister,Armenia
+Q9301391,1,1,0.0,0.0,1,0,1,All years,Jiang Zehui,Other/unknown,China
+Q930444,1,1,0.0,0.0,1,0,1,All years,Giuseppe Pericu,Other/unknown,Italy
+Q4276774,1,2,0.0,0.0,1,0,1,All years,Guo Shengkun,Other/unknown,China
+Q927550,1,3,0.0,0.0,1,0,1,All years,Malcolm Turnbull,Minister,Australia
+Q442511,1,2,0.0,0.0,1,0,1,All years,Gyude Bryant,Other/unknown,Liberia
+Q44178650,1,1,0.0,0.0,1,0,1,All years,Alejandro DÃ­az de LeÃ³n,International org.,
+Q89911492,1,1,0.0,0.0,1,0,1,All years,Guy-Olivier Segond,Head of state/govt,Switzerland
+Q4414,1,1,0.0,0.0,1,0,1,All years,Faure Essozimna GnassingbÃ©,Head of state/govt,Togo
+Q9029949,1,6,0.0,0.0,1,0,1,All years,MarÃ­a Auxiliadora Delgado,Head of state/govt,Uruguay
+Q4402403,1,2,0.0,0.0,1,0,1,All years,Sergei Ryabkov,Minister,Russia
+Q9029971,1,2,0.0,0.0,1,0,1,All years,MarÃ­a Clemencia RodrÃ­guez MÃºnera,Other/unknown,Colombia
+Q4401853,1,1,0.0,0.0,1,0,1,All years,Serhiy Ryzhuk,Minister,Ukraine
+Q4400069,1,1,0.0,0.0,1,0,1,All years,Alexander Rumyantsev,Minister,Russia
+Q434534,1,3,0.0,0.0,1,0,1,All years,Ana Paula dos Santos,Head of state/govt,Angola
+Q4392444,1,1,0.0,0.0,1,0,1,All years,Oleksii Reznikov,Minister,Ukraine
+Q438465,1,1,0.0,0.0,1,0,1,All years,Michel Barnier,Minister,France
+Q9041308,1,1,0.0,0.0,1,0,1,All years,Sun Wensheng,Minister,China
+Q437575,1,2,0.0,0.0,1,0,1,All years,Sukhumbhand Paribatra,Other/unknown,Thailand
+Q43723,1,6,0.0,0.0,1,0,1,All years,Benjamin Netanyahu,Minister,Israel
+Q436587,1,1,0.0,0.0,1,0,1,All years,Olubanke King Akerele,Royalty,Liberia
+Q9059638,1,2,0.0,0.0,1,0,1,All years,Pilar Nores,Other/unknown,Peru
+Q435200,1,1,0.0,0.0,1,0,1,All years,Mircea GeoanÄƒ,Minister,Romania
+Q434756,1,2,0.0,0.0,1,0,1,All years,Soledad Alvear,Minister,Chile
+Q9122260,1,2,0.0,0.0,1,0,1,All years,Khaltmaagiin Battulga,Head of state/govt,Mongolia
+Q981482,1,1,0.0,0.0,1,0,1,All years,Shwe Mann,Legislator,Myanmar
+Q9513,1,4,0.0,0.0,1,0,1,All years,A. P. J. Abdul Kalam,Head of state/govt,India
+Q4164742,1,1,0.0,0.0,1,0,1,All years,Cecilia Morel,Other/unknown,Chile
+Q4157031,1,1,0.0,0.0,1,0,1,All years,FranÃ§ois Delattre,International org.,
+Q41563,1,4,0.0,0.0,1,0,1,All years,Julia Gillard,Minister,Australia
+Q95242737,1,1,0.0,0.0,1,0,1,All years,Knut Dethlefsen,Other/unknown,Canada
+Q4142905,1,1,0.0,0.0,1,0,1,All years,Gombojavyn Zandanshatar,Legislator,Mongolia
+Q41395,1,1,0.0,0.0,1,0,1,All years,JosÃ© Luis RodrÃ­guez Zapatero,Head of state/govt,Spain
+Q9545,1,7,0.0,0.0,1,0,1,All years,Tony Blair,Minister,United Kingdom
+Q4120045,1,2,0.0,0.0,1,0,1,All years,Nguyen Sinh Hung,Legislator,Vietnam
+Q42683211,1,1,0.0,0.0,1,0,1,All years,Kunio Orita,Military,Japan
+Q4116437,1,4,0.0,0.0,1,0,1,All years,Sedki Sobhi,Minister,Egypt
+Q4115994,1,2,0.0,0.0,1,0,1,All years,Kosrat Rasul Ali,Other/unknown,Iraq
+Q4097019,1,3,0.0,0.0,1,0,1,All years,Dave Bronconnier,Other/unknown,Canada
+Q956335,1,1,0.0,0.0,1,0,1,All years,Bill Graham,Minister,Canada
+Q956519,1,2,0.0,0.0,1,0,1,All years,LjubÄo Georgievski,Minister,
+Q96184845,1,1,0.0,0.0,1,0,1,All years,Bronagh Key,Minister,New Zealand
+Q4072002,1,1,0.0,0.0,1,0,1,All years,Beibut Bakirovich Atamkulov,Minister,Kazakhstan
+Q4070059,1,1,0.0,0.0,1,0,1,All years,Gurgen Arsenyan,Legislator,Armenia
+Q96312268,1,1,0.0,0.0,1,0,1,All years,UrÅ¡ka BaÄovnik JanÅ¡a,Minister,Slovenia
+Q403220,1,1,0.0,0.0,1,0,1,All years,Abdelaziz Bennani,Military,Morocco
+Q4119453,1,1,0.0,0.0,1,0,1,All years,Faisal bin Bandar Al Saud,Royalty,Saudi Arabia
+Q9310939,1,1,0.0,0.0,1,0,1,All years,Robert Kupiecki,Other/unknown,Poland
+Q981866,1,1,0.0,0.0,1,0,1,All years,Pat the Cope Gallagher,Other/unknown,Ireland
+Q42521104,1,1,0.0,0.0,1,0,1,All years,Lee Jong-sup,Minister,South Korea
+Q936654,1,1,0.0,0.0,1,0,1,All years,Oscar Temaru,Head of state/govt,France
+Q42410,1,2,0.0,0.0,1,0,1,All years,Evo Morales,Head of state/govt,Bolivia
+Q4228078,1,1,0.0,0.0,1,0,1,All years,Yuriy Kolobov,Minister,Ukraine
+Q42171239,1,1,0.0,0.0,1,0,1,All years,Ivonne Baki,Diplomat,Ecuador
+Q4216540,1,1,0.0,0.0,1,0,1,All years,DÃ¼ysen Qaseinov,Military,
+Q42084770,1,6,0.0,0.0,1,0,1,All years,Jeong Jin-seop,Military,South Korea
+Q41674406,1,1,0.0,0.0,1,0,1,All years,Mohammad Ziauddin,Diplomat,Bangladesh
+Q4207583,1,1,0.0,0.0,1,0,1,All years,Tadao Chino,International org.,
+Q4206751,1,1,0.0,0.0,1,0,1,All years,Sultanah Haminah Hamidun,Royalty,Malaysia
+Q939484,1,1,0.0,0.0,1,0,1,All years,Alexandr Vondra,Minister,Czech Republic
+Q4201324,1,1,0.0,0.0,1,0,1,All years,Rustam Inoyatov,Intelligence/security,Uzbekistan
+Q943732,1,2,0.0,0.0,1,0,1,All years,Fumio KyÅ«ma,Minister,Japan
+Q4200571,1,2,0.0,0.0,1,0,1,All years,Ahmad Shah III of Pahang,Royalty,Malaysia
+Q4199383,1,1,0.0,0.0,1,0,1,All years,Marisa LetÃ­cia Lula da Silva,Head of state/govt,Brazil
+Q94579585,1,1,0.0,0.0,1,0,1,All years,Lolwah Al-Khater,Other/unknown,Qatar
+Q95023,1,2,0.0,0.0,1,0,1,All years,Wan Gang,Minister,China
+Q4181893,1,1,0.0,0.0,1,0,1,All years,Murat Jurynuly Jurynov,Head of state/govt,Kazakhstan
+Q937937,1,1,0.0,0.0,1,0,1,All years,Irakli Alasania,Minister,Georgia
+Q467000,1,1,0.0,0.0,1,0,1,All years,Sandra Roelofs,Head of state/govt,Georgia
+Q4666152,1,2,0.0,0.0,1,0,1,All years,Abdullatif bin Rashid Al Zayani,Minister,Bahrain
+Q8325594,1,1,0.0,0.0,1,0,1,All years,Yun Byung-se,Minister,South Korea
+Q834484,1,1,0.0,0.0,1,0,1,All years,Dai Xianglong,Other/unknown,China
+Q4666104,1,1,0.0,0.0,1,0,1,All years,Abdullah bin Khalid Al Thani,Royalty,Qatar
+Q4665893,1,1,0.0,0.0,1,0,1,All years,Abdulla Shahid,Minister,Maldives
+Q4665575,1,1,0.0,0.0,1,0,1,All years,Prince Abdul Muntaqim of Brunei,Royalty,Brunei
+Q4665425,1,1,0.0,0.0,1,0,1,All years,Abdul Jabar Sabet,Military,Afghanistan
+Q4665324,1,1,0.0,0.0,1,0,1,All years,Abdul Gani Patail,Military,Malaysia
+Q897790,1,1,0.0,0.0,1,0,1,All years,Francisco Guterres,Head of state/govt,Timor-Leste
+Q842303,1,1,0.0,0.0,1,0,1,All years,Fredrick Chien,Head of state/govt,Taiwan
+Q466199,1,1,0.0,0.0,1,0,1,All years,Yelena Skrynnik,Minister,Russia
+Q465743,1,1,0.0,0.0,1,0,1,All years,StÃ©phane Abrial,Military,France
+Q465481,1,2,0.0,0.0,1,0,1,All years,Shahabuddin Ahmed,Head of state/govt,Bangladesh
+Q465285,1,6,0.0,0.0,1,0,1,All years,Herman Gref,Minister,Germany
+Q843890,1,1,0.0,0.0,1,0,1,All years,Liang Baohua,Other/unknown,China
+Q464301,1,1,0.0,0.0,1,0,1,All years,Chuan Leekpai,Head of state/govt,Thailand
+Q463926,1,2,0.0,0.0,1,0,1,All years,Tang Jiaxuan,Minister,China
+Q84718692,1,1,0.0,0.0,1,0,1,All years,Sardor Umurzakov,Minister,Uzbekistan
+Q463588,1,1,0.0,0.0,1,0,1,All years,Sigmundur DavÃƒÂ­ÃƒÂ° Gunnlaugsson,Minister,Iceland
+Q8350363,1,1,0.0,0.0,1,0,1,All years,Twu Shiing-jer,Other/unknown,Taiwan
+Q98017689,1,1,0.0,0.0,1,0,1,All years,Rodrigo Chaves,Head of state/govt,Costa Rica
+Q8289162,1,1,0.0,0.0,1,0,1,All years,Shan Jixiang,Other/unknown,China
+Q82918,1,4,0.0,0.0,1,0,1,All years,Saparmurat Niyazov,Head of state/govt,Turkmenistan
+Q46987183,1,1,0.0,0.0,1,0,1,All years,Marieme Faye Sall,Other/unknown,Senegal
+Q4696975,1,1,0.0,0.0,1,0,1,All years,Aiko Shimajiri,Minister,Japan
+Q53747,1,7,0.0,0.0,1,0,1,All years,GÃƒÂ¶ran Persson,Minister,Sweden
+Q4695503,1,1,0.0,0.0,1,0,1,All years,Ahmad Zahid Hamidi,Minister,Malaysia
+Q4690881,1,2,0.0,0.0,1,0,1,All years,Afzal Tahir,Military,Pakistan
+Q8292032,1,2,0.0,0.0,1,0,1,All years,Sun Jianguo,Military,China
+Q467201,1,1,0.0,0.0,1,0,1,All years,Meira Kumar,Legislator,India
+Q468805,1,1,0.0,0.0,1,0,1,All years,Jorge Quiroga,Head of state/govt,Bolivia
+Q8292136,1,1,0.0,0.0,1,0,1,All years,Xie Heping,Head of state/govt,China
+Q8292174,1,1,0.0,0.0,1,0,1,All years,Zhang Shibo,Military,China
+Q8292642,1,1,0.0,0.0,1,0,1,All years,Niu Hongguang,Military,China
+Q8293977,1,1,0.0,0.0,1,0,1,All years,Wang Guanzhong,Military,China
+Q8294074,1,2,0.0,0.0,1,0,1,All years,Liu He,Minister,China
+Q46809,1,4,0.0,0.0,1,0,1,All years,RaÃºl Castro,Head of state/govt,Cuba
+Q467852,1,1,0.0,0.0,1,0,1,All years,Samir Rifai,Military,Jordan
+Q467761,1,1,0.0,0.0,1,0,1,All years,Jerzy SzmajdziÅ„ski,Minister,Poland
+Q467644,1,1,0.0,0.0,1,0,1,All years,Alexey Miller,Other/unknown,Russia
+Q469010,1,1,0.0,0.0,1,0,1,All years,Roland Ries,Other/unknown,France
+Q45068,1,1,0.0,0.0,1,0,1,All years,Carl XVI Gustaf of Sweden,Royalty,Sweden
+Q866951,1,1,0.0,0.0,1,0,1,All years,Eugene Chien,Minister,Taiwan
+Q450654,1,1,0.0,0.0,1,0,1,All years,Aliza Olmert,Minister,Israel
+Q4492815,1,1,0.0,0.0,1,0,1,All years,Chrystia Freeland,Minister,Canada
+Q869782,1,2,0.0,0.0,1,0,1,All years,Bouthaina Shaaban,Minister,Syria
+Q4479563,1,1,0.0,0.0,1,0,1,All years,Yuri Ushakov,Diplomat,Russia
+Q87130,1,1,0.0,0.0,1,0,1,All years,Johanna Mikl-Leitner,Minister,Austria
+Q8777371,1,1,0.0,0.0,1,0,1,All years,Ernesto Gasco,Other/unknown,Spain
+Q88114,1,1,0.0,0.0,1,0,1,All years,Margot Klestil-LÃ¶ffler,Head of state/govt,Austria
+Q463533,1,1,0.0,0.0,1,0,1,All years,Michel Temer,Minister,Brazil
+Q446865,1,1,0.0,0.0,1,0,1,All years,Nikolai Patrushev,Military,Russia
+Q44612,1,2,0.0,0.0,1,0,1,All years,Horst Seehofer,Minister,Germany
+Q445841,1,1,0.0,0.0,1,0,1,All years,Modibo SidibÃ©,Minister,Mali
+Q44507,1,1,0.0,0.0,1,0,1,All years,Edmund Stoiber,Minister,Germany
+Q881193,1,4,0.0,0.0,1,0,1,All years,Blairo Maggi,Other/unknown,Brazil
+Q890971,1,1,0.0,0.0,1,0,1,All years,Bohuslav Sobotka,Minister,Czech Republic
+Q44383,1,1,0.0,0.0,1,0,1,All years,Tarcisio Bertone,Other/unknown,Vatican City
+Q44329,1,1,0.0,0.0,1,0,1,All years,Bashar al-Assad,Head of state/govt,Syria
+Q4427187,1,2,0.0,0.0,1,0,1,All years,Yordan Sokolov,Head of state/govt,Bulgaria
+Q8963212,1,1,0.0,0.0,1,0,1,All years,FÃ©lix Sanz RoldÃ¡n,Intelligence/security,Spain
+Q4473550,1,1,0.0,0.0,1,0,1,All years,Miguel AlemÃ¡n Velasco,Head of state/govt,Mexico
+Q463095,1,2,0.0,0.0,1,0,1,All years,Volodymyr Lytvyn,Legislator,Ukraine
+Q461192,1,3,0.0,0.0,1,0,1,All years,Prince Feisal bin Al-Hussein of Jordan,Royalty,Jordan
+Q46052,1,4,0.0,0.0,1,0,1,All years,Anders Fogh Rasmussen,Minister,Denmark
+Q460136,1,1,0.0,0.0,1,0,1,All years,Beverley McLachlin,Other/unknown,Canada
+Q85406,1,3,0.0,0.0,1,0,1,All years,Hubert Gorbach,Head of state/govt,Austria
+Q980828,1,1,0.0,0.0,1,0,1,All years,Sorin Oprescu,Other/unknown,Romania
+Q459998,1,2,0.0,0.0,1,0,1,All years,IchirÅ Ozawa,Other/unknown,Japan
+Q855252,1,2,0.0,0.0,1,0,1,All years,Bhumibol Adulyadej,Royalty,Thailand
+Q458597,1,2,0.0,0.0,1,0,1,All years,Franciszek GÄ…gor,Military,Poland
+Q451235,1,1,0.0,0.0,1,0,1,All years,Igor Corman,Legislator,Moldova
+Q457786,1,2,0.0,0.0,1,0,1,All years,Rodrigo Duterte,Head of state/govt,Philippines
+Q8590208,1,1,0.0,0.0,1,0,1,All years,Zhou Naixiang,Other/unknown,China
+Q86008135,1,1,0.0,0.0,1,0,1,All years,HÃ  Kim Ngá»c,Diplomat,Vietnam
+Q454382,1,1,0.0,0.0,1,0,1,All years,Amani Abeid Karume,Head of state/govt,Tanzania
+Q866594,1,3,0.0,0.0,1,0,1,All years,Bismillah Khan Mohammadi,Minister,Afghanistan
+Q45344598,1,2,0.0,0.0,1,0,1,All years,Osabarimba Kwesi Atta II,Head of state/govt,Ghana
+Q45302312,1,2,0.0,0.0,1,0,1,All years,Mohammad al-Tobaishi,Military,Saudi Arabia
+Q4529309,1,1,0.0,0.0,1,0,1,All years,Igor' Fomich Shchegolev,Head of state/govt,Russia
+Q4527445,1,1,0.0,0.0,1,0,1,All years,Umirzak Shukeyev,Minister,Kazakhstan
+Q451455,1,2,0.0,0.0,1,0,1,All years,Vagit Alekperov,Other/unknown,
+Q85804913,1,1,0.0,0.0,1,0,1,All years,Tahnoun bin Zayed Al Nahyan,Royalty,United Arab Emirates
+Q63701596,1,2,0.0,0.0,1,0,1,All years,Kurt Straif,Other/unknown,
+Q58147,1,1,0.0,0.0,1,0,1,All years,Aurelia Frick,Minister,Liechtenstein
+Q63764602,1,1,0.0,0.0,1,0,1,All years,Marc LefÃ¨vre,Military,France
+Q58142,1,2,0.0,0.0,1,0,1,All years,George Yeo,Minister,Singapore
+Q104723842,1,1,0.0,0.0,1,0,1,All years,Eric Huang,Other/unknown,Taiwan
+Q6384431,1,1,0.0,0.0,1,0,1,All years,Keith Gull,Other/unknown,United Kingdom
+Q58135,1,1,0.0,0.0,1,0,1,All years,Basile IkouÃ©bÃ©,Minister,Republic of the Congo
+Q6384971,1,1,0.0,0.0,1,0,1,All years,Keith Rowley,Minister,Trinidad and Tobago
+Q58130,1,3,0.0,0.0,1,0,1,All years,MichÃƒÂ¨le Alliot-Marie,Minister,France
+Q5444976,1,1,0.0,0.0,1,0,1,All years,Fernando Damata Pimentel,Minister,Brazil
+Q58095,1,1,0.0,0.0,1,0,1,All years,JosÃ© GarcÃ­a-Margallo y Marfil,Minister,Spain
+Q63974187,1,1,0.0,0.0,1,0,1,All years,Abdullah al-Mansoori,Military,Bahrain
+Q6399043,1,1,0.0,0.0,1,0,1,All years,Khairat Abdulrazaq-Gwadabe,Legislator,Nigeria
+Q640668,1,1,0.0,0.0,1,0,1,All years,Hakuo Yanagisawa,Other/unknown,Japan
+Q58083,1,2,0.0,0.0,1,0,1,All years,Elmar Mammadyarov,Minister,Azerbaijan
+Q64168538,1,1,0.0,0.0,1,0,1,All years,Alexander Schallenberg,Minister,Austria
+Q58078,1,1,0.0,0.0,1,0,1,All years,Giulio Terzi di Sant'Agata,Minister,Italy
+Q1047359,1,1,0.0,0.0,1,0,1,All years,Michael Hardie Boys,Head of state/govt,New Zealand
+Q64211928,1,3,0.0,0.0,1,0,1,All years,Mareva Grabowskiâ€“Mitsotakis,Minister,Greece
+Q58108,1,1,0.0,0.0,1,0,1,All years,Ahmed Aboul Gheit,Minister,Egypt
+Q62819566,1,1,0.0,0.0,1,0,1,All years,Guillermo Javier Corral,Military,Spain
+Q6285933,1,1,0.0,0.0,1,0,1,All years,Joseph Ole Nkaissery,Other/unknown,Kenya
+Q6291817,1,2,0.0,0.0,1,0,1,All years,JosÃ© Carlos De Nardi,Military,Brazil
+Q1045853,1,3,0.0,0.0,1,0,1,All years,Mukhtar Altynbayev,Minister,Nigeria
+Q58200,1,1,0.0,0.0,1,0,1,All years,Jean Asselborn,Minister,Luxembourg
+Q6301957,1,2,0.0,0.0,1,0,1,All years,Jibril Aminu,Diplomat,Nigeria
+Q630887,1,1,0.0,0.0,1,0,1,All years,Nelson Jobim,Minister,Brazil
+Q6321730,1,1,0.0,0.0,1,0,1,All years,JÃºlio Soares de Moura Neto,Military,Brazil
+Q6324008,1,1,0.0,0.0,1,0,1,All years,K. Shanmugam,Minister,Singapore
+Q6366022,1,1,0.0,0.0,1,0,1,All years,Kao Kim Hourn,Military,Cambodia
+Q58190,1,1,0.0,0.0,1,0,1,All years,JÃ¡nos Martonyi,Minister,Hungary
+Q5818794,1,4,0.0,0.0,1,0,1,All years,Edmundo GonzÃ¡lez,Military,Chile
+Q58183,1,1,0.0,0.0,1,0,1,All years,Bruno RodrÃ­guez Parrilla,Minister,Cuba
+Q58180,1,1,0.0,0.0,1,0,1,All years,Edmond Haxhinasto,Minister,Albania
+Q63283334,1,1,0.0,0.0,1,0,1,All years,Bakhodir Kurbanov,Minister,Uzbekistan
+Q58170,1,3,0.0,0.0,1,0,1,All years,Pham Gia Khiem,Minister,Vietnam
+Q63349528,1,1,0.0,0.0,1,0,1,All years,GeneviÃ¨ve Inagosi,Minister,Democratic Republic of the Congo
+Q58161,1,1,0.0,0.0,1,0,1,All years,Paulo Portas,Minister,Portugal
+Q58160,1,3,0.0,0.0,1,0,1,All years,Maite Nkoana-Mashabane,Minister,South Africa
+Q58156,1,1,0.0,0.0,1,0,1,All years,Saud bin Faisal bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q581931,1,3,0.0,0.0,1,0,1,All years,Nikolai Makarov,Military,Russia
+Q57699,1,1,0.0,0.0,1,0,1,All years,Hamadi Jebali,Minister,Tunisia
+Q57692,1,1,0.0,0.0,1,0,1,All years,Victor Ponta,Minister,Romania
+Q65536,1,1,0.0,0.0,1,0,1,All years,Harald Ringstorff,Minister,Germany
+Q6640290,1,1,0.0,0.0,1,0,1,All years,Sukampol Suwannathat,Minister,Thailand
+Q6705462,1,1,0.0,0.0,1,0,1,All years,Lutfullah Mashal,Other/unknown,Afghanistan
+Q57670,1,2,0.0,0.0,1,0,1,All years,Yingluck Shinawatra,Minister,Thailand
+Q671930,1,7,0.0,0.0,1,0,1,All years,Mehriban Alieva,Head of state/govt,Azerbaijan
+Q57667,1,1,0.0,0.0,1,0,1,All years,Desi Bouterse,Head of state/govt,Suriname
+Q6733078,1,1,0.0,0.0,1,0,1,All years,Mahamudu Bawumia,Minister,Ghana
+Q643218,1,2,0.0,0.0,1,0,1,All years,Edmund Szoka,Head of state/govt,Vatican City
+Q6734442,1,3,0.0,0.0,1,0,1,All years,Mahmoud al-Mashhadani,Legislator,Iraq
+Q673705,1,1,0.0,0.0,1,0,1,All years,David Bakradze,Legislator,Georgia
+Q6743544,1,1,0.0,0.0,1,0,1,All years,Maleeha Lodhi,Diplomat,Pakistan
+Q674366,1,2,0.0,0.0,1,0,1,All years,Wafaa Sleiman,Head of state/govt,Lebanon
+Q57641,1,3,0.0,0.0,1,0,1,All years,Viktor OrbÃ¡n,Minister,Hungary
+Q6756281,1,2,0.0,0.0,1,0,1,All years,Marcela Guerra Castillo,Head of state/govt,Mexico
+Q6756617,1,2,0.0,0.0,1,0,1,All years,Marcelo Rebelo de Sousa,Head of state/govt,Portugal
+Q6774141,1,1,0.0,0.0,1,0,1,All years,Marta Linares de Martinelli,Other/unknown,Panama
+Q6781875,1,2,0.0,0.0,1,0,1,All years,Marzouq Al-Ghanim,Legislator,Kuwait
+Q57657,1,1,0.0,0.0,1,0,1,All years,Raila A Odinga,Minister,Kenya
+Q57892,1,1,0.0,0.0,1,0,1,All years,Peter O'Neill,Minister,Papua New Guinea
+Q6437344,1,1,0.0,0.0,1,0,1,All years,Krishan Mohan,Legislator,India
+Q644783,1,2,0.0,0.0,1,0,1,All years,Jim Flaherty,Minister,Canada
+Q578806,1,2,0.0,0.0,1,0,1,All years,Ra Jong-yil,Head of state/govt,South Korea
+Q645970,1,1,0.0,0.0,1,0,1,All years,Urmas Reinsalu,Minister,Estonia
+Q57840,1,1,0.0,0.0,1,0,1,All years,PhilÃ©mon Yang,Minister,Cameroon
+Q64692216,1,1,0.0,0.0,1,0,1,All years,Faiz Hameed,Intelligence/security,Pakistan
+Q1043040,1,1,0.0,0.0,1,0,1,All years,Kamel Morjane,Minister,Tunisia
+Q10513434,1,1,0.0,0.0,1,0,1,All years,Tung Hsiang-lung,Military,Taiwan
+Q57705,1,1,0.0,0.0,1,0,1,All years,Perry Christie,Minister,The Bahamas
+Q57806,1,1,0.0,0.0,1,0,1,All years,Antonis Samaras,Minister,Greece
+Q57792,1,1,0.0,0.0,1,0,1,All years,Mark Rutte,Minister,Netherlands
+Q65054811,1,1,0.0,0.0,1,0,1,All years,Choi Young-ae,Diplomat,South Korea
+Q57783,1,2,0.0,0.0,1,0,1,All years,John Key,Minister,New Zealand
+Q6507746,1,1,0.0,0.0,1,0,1,All years,Le Thanh Hai,Other/unknown,Vietnam
+Q57775,1,1,0.0,0.0,1,0,1,All years,Boyko Borisov,Minister,Bulgaria
+Q57766,1,1,0.0,0.0,1,0,1,All years,Nikola Gruevski,Minister,North Macedonia
+Q65109,1,3,0.0,0.0,1,0,1,All years,Q65109,Minister,Germany
+Q653611,1,3,0.0,0.0,1,0,1,All years,HipÃƒÂ³lito MejÃƒÂ­a,Head of state/govt,Dominican Republic
+Q654177,1,1,0.0,0.0,1,0,1,All years,Carlos Roberto Flores,Head of state/govt,Honduras
+Q647148,1,1,0.0,0.0,1,0,1,All years,Giampaolo Di Paola,Minister,Italy
+Q1046021,1,1,0.0,0.0,1,0,1,All years,Ermukhamet Ertysbayev,Diplomat,Kazakhstan
+Q6052158,1,1,0.0,0.0,1,0,1,All years,Berat Albayrak,Minister,Turkey
+Q60452163,1,1,0.0,0.0,1,0,1,All years,Toyoei Shigeeda,Diplomat,Japan
+Q6042000,1,1,0.0,0.0,1,0,1,All years,Erol Ã‡akÄ±r,Other/unknown,Turkey
+Q6034799,1,1,0.0,0.0,1,0,1,All years,Kemal Ã–nal,Other/unknown,Turkey
+Q6153696,1,5,0.0,0.0,1,0,1,All years,Janette Howard,Other/unknown,Australia
+Q6155600,1,1,0.0,0.0,1,0,1,All years,Mustapa Mohamed,Minister,Malaysia
+Q6161560,1,1,0.0,0.0,1,0,1,All years,Jasim Mohammed Saleh,Royalty,Iraq
+Q6026340,1,2,0.0,0.0,1,0,1,All years,ErtuÄŸrul DokuzoÄŸlu,Other/unknown,Turkey
+Q58213,1,1,0.0,0.0,1,0,1,All years,KÅichirÅ Genba,Minister,Japan
+Q6161563,1,1,0.0,0.0,1,0,1,All years,Prince Jassim bin Hamad of Qatar,Royalty,Qatar
+Q6172288,1,1,0.0,0.0,1,0,1,All years,Jeannette Kagame,Other/unknown,Rwanda
+Q60106,1,1,0.0,0.0,1,0,1,All years,Guntis Ulmanis,Head of state/govt,Latvia
+Q5997886,1,1,0.0,0.0,1,0,1,All years,Ilhom Nematov,Diplomat,Uzbekistan
+Q5996250,1,1,0.0,0.0,1,0,1,All years,Marco Antonio Peyrot SolÃ­s,Military,Mexico
+Q5996246,1,3,0.0,0.0,1,0,1,All years,Marco Antonio Peyrot GonzÃ¡lez,Military,Mexico
+Q5989392,1,1,0.0,0.0,1,0,1,All years,Kemal Kirkuki,Legislator,
+Q5989300,1,1,0.0,0.0,1,0,1,All years,Nawzad Hadi,Other/unknown,
+Q5984743,1,1,0.0,0.0,1,0,1,All years,Ibrahim Spinzada,Other/unknown,Afghanistan
+Q6022656,1,2,0.0,0.0,1,0,1,All years,Bekir Kumbul,Other/unknown,Turkey
+Q6117660,1,3,0.0,0.0,1,0,1,All years,Salvador Cienfuegos,Military,Mexico
+Q6112180,1,7,0.0,0.0,1,0,1,All years,Rosa GÃ³mez,Other/unknown,Dominican Republic
+Q61117556,1,2,0.0,0.0,1,0,1,All years,Suh Wook,Minister,South Korea
+Q61082429,1,1,0.0,0.0,1,0,1,All years,Mwanaidi Sinare Maajar,Diplomat,Tanzania
+Q61053,1,1,0.0,0.0,1,0,1,All years,Olaf Scholz,Head of state/govt,Germany
+Q6120161,1,2,0.0,0.0,1,0,1,All years,Jacqueline McGlade,International org.,
+Q613051,1,3,0.0,0.0,1,0,1,All years,Robert Kocharyan,Head of state/govt,Armenia
+Q6138091,1,2,0.0,0.0,1,0,1,All years,Lee Tien-yu,Military,Taiwan
+Q61014623,1,1,0.0,0.0,1,0,1,All years,Joaquim David,Minister,Angola
+Q6056125,1,1,0.0,0.0,1,0,1,All years,Kemal NehrozoÄŸlu,Other/unknown,Turkey
+Q6084858,1,1,0.0,0.0,1,0,1,All years,Ismail Sabri Yaakob,Minister,Malaysia
+Q60805,1,1,0.0,0.0,1,0,1,All years,Rinat Akhmetov,Other/unknown,Ukraine
+Q6143012,1,1,0.0,0.0,1,0,1,All years,Kazumi Matsui,Other/unknown,Japan
+Q614951,1,2,0.0,0.0,1,0,1,All years,Kazuo Torashima,Military,Japan
+Q6080011,1,1,0.0,0.0,1,0,1,All years,Ishaq Shahryar,Diplomat,Afghanistan
+Q60788,1,1,0.0,0.0,1,0,1,All years,Otto Schily,Minister,Germany
+Q60772,1,1,0.0,0.0,1,0,1,All years,Ursula von der Leyen,Minister,Germany
+Q6153522,1,2,0.0,0.0,1,0,1,All years,Janet Museveni,Head of state/govt,Uganda
+Q6061867,1,1,0.0,0.0,1,0,1,All years,Ioan TalpeÈ™,Military,Romania
+Q606034,1,1,0.0,0.0,1,0,1,All years,Ángel Aguirre Rivero,Other/unknown,Mexico
+Q6138903,1,2,0.0,0.0,1,0,1,All years,James Marape,Minister,Papua New Guinea
+Q624531,1,1,0.0,0.0,1,0,1,All years,Sohn Hak-kyu,Other/unknown,South Korea
+Q625257,1,1,0.0,0.0,1,0,1,All years,Hong Seok-hyun,Diplomat,South Korea
+Q58312,1,1,0.0,0.0,1,0,1,All years,Ruslan Kazakbayev,Minister,Kyrgyzstan
+Q58306,1,1,0.0,0.0,1,0,1,All years,AssunÃ§Ã£o dos Anjos,Minister,Angola
+Q62551,1,1,0.0,0.0,1,0,1,All years,Mikhail Kasianov,Other/unknown,Russia
+Q62577258,1,1,0.0,0.0,1,0,1,All years,Joachim SchÃ¼z,Other/unknown,Germany
+Q58291,1,1,0.0,0.0,1,0,1,All years,Murray McCully,Minister,New Zealand
+Q58290,1,1,0.0,0.0,1,0,1,All years,Marty Natalegawa,Minister,Indonesia
+Q62577326,1,1,0.0,0.0,1,0,1,All years,Elisabeth Cardis Mersch,Other/unknown,Spain
+Q6173697,1,1,0.0,0.0,1,0,1,All years,María Ángeles Muñoz Uriol,Other/unknown,Spain
+Q58286,1,2,0.0,0.0,1,0,1,All years,Jean Ping,Minister,Gabon
+Q58284,1,1,0.0,0.0,1,0,1,All years,Guido Westerwelle,Minister,Germany
+Q58282,1,1,0.0,0.0,1,0,1,All years,William Hague,Other/unknown,United Kingdom
+Q58280,1,1,0.0,0.0,1,0,1,All years,Didier Burkhalter,Other/unknown,Switzerland
+Q582685,1,1,0.0,0.0,1,0,1,All years,Hirotaka Akamatsu,Minister,Japan
+Q625939,1,1,0.0,0.0,1,0,1,All years,Lee Tae-sik,Diplomat,South Korea
+Q6277681,1,1,0.0,0.0,1,0,1,All years,Jorge ArgÃ¼ello,Diplomat,Argentina
+Q58264,1,1,0.0,0.0,1,0,1,All years,Dipu Moni,Minister,Bangladesh
+Q58233,1,1,0.0,0.0,1,0,1,All years,Prince Mohamed Bolkiah of Brunei,Royalty,Brunei
+Q58217,1,5,0.0,0.0,1,0,1,All years,Sergej Lavrov,Minister,Russia
+Q58287,1,2,0.0,0.0,1,0,1,All years,Hor Namhong,Minister,Cambodia
+Q5984651,1,7,0.0,0.0,1,0,1,All years,Ibrahim Mahmud Alfa,Military,Nigeria
+Q5984501,1,1,0.0,0.0,1,0,1,All years,Ibrahim Bunu,Minister,Nigeria
+Q59781993,1,1,0.0,0.0,1,0,1,All years,Nasir Ahmad Durrani,Minister,Afghanistan
+Q59683530,1,4,0.0,0.0,1,0,1,All years,Abdulaziz M Al-Swailem,Intelligence/security,Saudi Arabia
+Q6174876,1,1,0.0,0.0,1,0,1,All years,Ã“scar MaÃºrtua,Minister,Peru
+Q59660242,1,1,0.0,0.0,1,0,1,All years,Asa'ad bin Tariq Al Said,Royalty,Oman
+Q6180288,1,2,0.0,0.0,1,0,1,All years,Jeong Seung-jo,Military,South Korea
+Q5948643,1,1,0.0,0.0,1,0,1,All years,Liu Yazhou,Military,China
+Q5941874,1,1,0.0,0.0,1,0,1,All years,Zhang Qinsheng,Military,China
+Q623670,1,1,0.0,0.0,1,0,1,All years,Kim Won-gi,Legislator,South Korea
+Q61914148,1,1,0.0,0.0,1,0,1,All years,Sergey Ivanov,Minister,Russia
+Q61927262,1,1,0.0,0.0,1,0,1,All years,Christopher Tickell,Military,Afghanistan
+Q59321885,1,1,0.0,0.0,1,0,1,All years,Olena Zelenska,Other/unknown,Ukraine
+Q5901842,1,2,0.0,0.0,1,0,1,All years,Horacio Cartes,Head of state/govt,Paraguay
+Q61968122,1,1,0.0,0.0,1,0,1,All years,Bakhtiyar Gulyamov,Diplomat,Uzbekistan
+Q620468,1,1,0.0,0.0,1,0,1,All years,Akis Tsochatzopoulos,Minister,Greece
+Q5901012,1,2,0.0,0.0,1,0,1,All years,Gunnar Karlson,Intelligence/security,Sweden
+Q58932594,1,1,0.0,0.0,1,0,1,All years,Monika BabiÃ…Â¡ovÃƒÂ¡,Minister,Czech Republic
+Q62112291,1,1,0.0,0.0,1,0,1,All years,KeÃ¯ta Aminata Maiga,Other/unknown,Mali
+Q587688,1,1,0.0,0.0,1,0,1,All years,Khalid bin Saqr Al Qasimi,Royalty,United Arab Emirates
+Q5936445,1,1,0.0,0.0,1,0,1,All years,Susana Malcorra,Minister,Argentina
+Q56651188,1,1,0.0,0.0,1,0,1,All years,TomÃƒÂ¡Ã…Â¡ PetÃ…â„¢ÃƒÂ­Ã„Âek,Minister,Czech Republic
+Q56594543,1,1,0.0,0.0,1,0,1,All years,Joan Boyar,Other/unknown,Denmark
+Q5657339,1,1,0.0,0.0,1,0,1,All years,Adalberto RodrÃ­guez Giavarini,Minister,Argentina
+Q734914,1,1,0.0,0.0,1,0,1,All years,Wang Yang,Other/unknown,China
+Q5652484,1,1,0.0,0.0,1,0,1,All years,Javier Usabiaga Arroyo,Other/unknown,Mexico
+Q5646647,1,1,0.0,0.0,1,0,1,All years,Han Min-goo,Minister,South Korea
+Q5640611,1,1,0.0,0.0,1,0,1,All years,Carlos Ospina Ovalle,Military,Colombia
+Q562918,1,1,0.0,0.0,1,0,1,All years,Jakup Krasniqi,Minister,Kosovo
+Q562577,1,1,0.0,0.0,1,0,1,All years,Miguel ÃƒÂngel RodrÃƒÂ­guez EcheverrÃƒÂ­a,Head of state/govt,Costa Rica
+Q6783481,1,1,0.0,0.0,1,0,1,All years,Princess Masna of Brunei,Royalty,Brunei
+Q736127,1,1,0.0,0.0,1,0,1,All years,Giovanni Chiodi,Head of state/govt,Italy
+Q562097,1,1,0.0,0.0,1,0,1,All years,Roberto Maroni,Minister,Italy
+Q5620296,1,1,0.0,0.0,1,0,1,All years,Gursharan Kaur,Minister,India
+Q7363705,1,1,0.0,0.0,1,0,1,All years,Ron Dermer,Diplomat,Israel
+Q561837,1,2,0.0,0.0,1,0,1,All years,Mauricio Macri,Head of state/govt,
+Q5617130,1,2,0.0,0.0,1,0,1,All years,Gul Aqa Nahib,Military,Afghanistan
+Q7365603,1,1,0.0,0.0,1,0,1,All years,Ronen Sen,Diplomat,India
+Q7366002,1,1,0.0,0.0,1,0,1,All years,Ronnie Tay,Military,Singapore
+Q55932,1,1,0.0,0.0,1,0,1,All years,Leszek Balcerowicz,Head of state/govt,Poland
+Q56249994,1,1,0.0,0.0,1,0,1,All years,Jenny Morrison,Minister,Australia
+Q103916279,1,1,0.0,0.0,1,0,1,All years,Teodoro Biyogo Nsue Okomo,Diplomat,Equatorial Guinea
+Q725223,1,1,0.0,0.0,1,0,1,All years,Ashfaq Parvez Kayani,Intelligence/security,Pakistan
+Q982209,1,3,0.0,0.0,1,0,1,All years,Vladimir Vysotskiy,Military,Russia
+Q57295,1,3,0.0,0.0,1,0,1,All years,Ivan GaÅ¡paroviÄ,Head of state/govt,Slovakia
+Q57291,1,1,0.0,0.0,1,0,1,All years,Mwai Kibaki,Head of state/govt,Kenya
+Q7265770,1,1,0.0,0.0,1,0,1,All years,Qader Al-Obeidi,Minister,Iraq
+Q7267060,1,1,0.0,0.0,1,0,1,All years,Qassim Daoud,Other/unknown,Iraq
+Q7282202,1,3,0.0,0.0,1,0,1,All years,Rafael Macedo de la Concha,Military,Mexico
+Q7294871,1,1,0.0,0.0,1,0,1,All years,Rashid Abdullah Al Noaimi,Military,Qatar
+Q734909,1,2,0.0,0.0,1,0,1,All years,Leonid Reiman,Minister,Russia
+Q7301648,1,1,0.0,0.0,1,0,1,All years,Rebecca Akufo-Addo,Other/unknown,Ghana
+Q7301841,1,1,0.0,0.0,1,0,1,All years,Rebecca Nabutola,Other/unknown,Kenya
+Q7307189,1,4,0.0,0.0,1,0,1,All years,Refiloe Johannes Mudimu,Military,South Africa
+Q730798,1,1,0.0,0.0,1,0,1,All years,Baz Mohammad Ahmadi,Minister,Afghanistan
+Q73281,1,2,0.0,0.0,1,0,1,All years,Kiyoko Fukuda,Minister,Japan
+Q5707221,1,1,0.0,0.0,1,0,1,All years,Arturo Fermandois,Diplomat,Chile
+Q5701332,1,1,0.0,0.0,1,0,1,All years,Hekmat Karzai,Minister,Afghanistan
+Q5680106,1,1,0.0,0.0,1,0,1,All years,Hassoumi Massoudou,Minister,Niger
+Q567965,1,1,0.0,0.0,1,0,1,All years,Abdul Rehman Malik,Minister,Pakistan
+Q73358,1,10,0.0,0.0,1,0,1,All years,Akie Abe,Minister,Japan
+Q57279,1,3,0.0,0.0,1,0,1,All years,Traian BÄƒsescu,Head of state/govt,Romania
+Q55392139,1,1,0.0,0.0,1,0,1,All years,Mohamed Maait,Minister,Egypt
+Q5531992,1,1,0.0,0.0,1,0,1,All years,General Khodaidad,Minister,Afghanistan
+Q5525524,1,1,0.0,0.0,1,0,1,All years,Gary Mar,Minister,Canada
+Q55196900,1,1,0.0,0.0,1,0,1,All years,Mohamed Ahmed Zaki,Minister,Egypt
+Q551904,1,1,0.0,0.0,1,0,1,All years,Su Tseng-chang,Military,Taiwan
+Q5512329,1,1,0.0,0.0,1,0,1,All years,G. L. Peiris,Minister,Sri Lanka
+Q971910,1,1,0.0,0.0,1,0,1,All years,Vitaly Malkin,Legislator,Russia
+Q97348813,1,1,0.0,0.0,1,0,1,All years,Wu Xijun,Other/unknown,China
+Q55006539,1,1,0.0,0.0,1,0,1,All years,Vannia Gava,Other/unknown,Italy
+Q55920,1,1,0.0,0.0,1,0,1,All years,Kazimierz Marcinkiewicz,Minister,Poland
+Q54860605,1,1,0.0,0.0,1,0,1,All years,Oksana Markarova,Diplomat,Ukraine
+Q7429365,1,1,0.0,0.0,1,0,1,All years,Badr bin Saud Al Busaidi,Minister,Oman
+Q5442790,1,2,0.0,0.0,1,0,1,All years,Femi Fani-Kayode,Minister,Nigeria
+Q5433787,1,4,0.0,0.0,1,0,1,All years,Fang Fenghui,Military,China
+Q74526627,1,3,0.0,0.0,1,0,1,All years,Md. Shahidul Haque,Minister,Bangladesh
+Q540255,1,1,0.0,0.0,1,0,1,All years,Indulis Emsis,Minister,Latvia
+Q53844829,1,1,0.0,0.0,1,0,1,All years,Giuseppe Conte,Minister,Italy
+Q538231,1,1,0.0,0.0,1,0,1,All years,Serhiy Lyovochkin,Head of state/govt,Ukraine
+Q5375270,1,1,0.0,0.0,1,0,1,All years,Enayatullah Nazari,Minister,Afghanistan
+Q5496898,1,2,0.0,0.0,1,0,1,All years,Freddy Padilla de LeÃ³n,Military,Colombia
+Q55910,1,1,0.0,0.0,1,0,1,All years,Jerzy Buzek,Minister,Poland
+Q559040,1,2,0.0,0.0,1,0,1,All years,Jean-Yves Le Drian,Minister,France
+Q7385486,1,1,0.0,0.0,1,0,1,All years,Muhammad Yunus Nawandish,Diplomat,Afghanistan
+Q7400024,1,1,0.0,0.0,1,0,1,All years,Saif bin Zayed Al Nahyan,Royalty,United Arab Emirates
+Q7409268,1,1,0.0,0.0,1,0,1,All years,Sameh Shoukry,Diplomat,Egypt
+Q7409549,1,1,0.0,0.0,1,0,1,All years,Samir Sumaidaie,Diplomat,Iraq
+Q740955,1,4,0.0,0.0,1,0,1,All years,Sayed Mustafa Kazemi,Minister,Afghanistan
+Q55756,1,2,0.0,0.0,1,0,1,All years,Q55756,Other/unknown,Poland
+Q55729,1,5,0.0,0.0,1,0,1,All years,Dagmar HavlovÃƒÂ¡,Other/unknown,Czech Republic
+Q5542998,1,2,0.0,0.0,1,0,1,All years,George Obiozor,Diplomat,Nigeria
+Q55638252,1,2,0.0,0.0,1,0,1,All years,Ziad Hawat,Other/unknown,Lebanon
+Q55637,1,7,0.0,0.0,1,0,1,All years,JosÃ© MarÃ­a Aznar,Head of state/govt,Spain
+Q5562939,1,6,0.0,0.0,1,0,1,All years,Gina de Venecia,Other/unknown,Philippines
+Q7419814,1,1,0.0,0.0,1,0,1,All years,Ryamizard Ryacudu,Minister,Indonesia
+Q968223,1,1,0.0,0.0,1,0,1,All years,Vasco Cordeiro,Head of state/govt,Portugal
+Q5557575,1,1,0.0,0.0,1,0,1,All years,Ghulam Farooq Wardak,Minister,Afghanistan
+Q5555270,1,1,0.0,0.0,1,0,1,All years,Ghali Umar Na'Abba,Legislator,Nigeria
+Q7426488,1,1,0.0,0.0,1,0,1,All years,Satsuki Katayama,Other/unknown,Japan
+Q5550302,1,1,0.0,0.0,1,0,1,All years,Gerardo Rodriguez Regordosa,Other/unknown,Mexico
+Q554479,1,1,0.0,0.0,1,0,1,All years,HÃ¼seyin KÄ±vrÄ±koÄŸlu,Military,Turkey
+Q55720,1,1,0.0,0.0,1,0,1,All years,Sarah Ferguson,Royalty,United Kingdom
+Q57491,1,1,0.0,0.0,1,0,1,All years,Ricardo Martinelli,Head of state/govt,Panama
+Q689244,1,1,0.0,0.0,1,0,1,All years,Marcello Pera,Head of state/govt,Italy
+Q1053159,1,2,0.0,0.0,1,0,1,All years,Celso Amorim,Minister,Brazil
+Q57469,1,2,0.0,0.0,1,0,1,All years,Hifikepunye Pohamba,Head of state/govt,Namibia
+Q6893312,1,1,0.0,0.0,1,0,1,All years,Mohammed Saleh Al Sada,Other/unknown,Qatar
+Q5746141,1,1,0.0,0.0,1,0,1,All years,Hessa Al Jaber,Military,Qatar
+Q57458,1,1,0.0,0.0,1,0,1,All years,Ikililou Dhoinine,Head of state/govt,Comoros
+Q57449,1,1,0.0,0.0,1,0,1,All years,Seretse Khama Ian Khama,Head of state/govt,Botswana
+Q69103,1,2,0.0,0.0,1,0,1,All years,Hassan II,Royalty,Morocco
+Q105672876,1,1,0.0,0.0,1,0,1,All years,Markus Seiler,Intelligence/security,Switzerland
+Q6932875,1,1,0.0,0.0,1,0,1,All years,Muhammad ibn Mubarak ibn Hamad Al Khalifah,Minister,Bahrain
+Q6956410,1,1,0.0,0.0,1,0,1,All years,Na Kyung-won,Legislator,South Korea
+Q105428236,1,1,0.0,0.0,1,0,1,All years,Chalermpol Srisawat,Military,Thailand
+Q696669,1,1,0.0,0.0,1,0,1,All years,Cyril Svoboda,Minister,Czech Republic
+Q699188,1,1,0.0,0.0,1,0,1,All years,Lee Jye,Minister,Taiwan
+Q5742719,1,3,0.0,0.0,1,0,1,All years,Hero Ibrahim Ahmed,Head of state/govt,Iraq
+Q701484,1,1,0.0,0.0,1,0,1,All years,Klaus Iohannis,Head of state/govt,Romania
+Q703503,1,1,0.0,0.0,1,0,1,All years,Leoluca Orlando,Other/unknown,Italy
+Q7040049,1,2,0.0,0.0,1,0,1,All years,Nirmala Sitharaman,Minister,India
+Q6932839,1,1,0.0,0.0,1,0,1,All years,Muhammad bin Jabr Al Thani,Other/unknown,Qatar
+Q6783841,1,1,0.0,0.0,1,0,1,All years,Masood Khan,Diplomat,Pakistan
+Q57620,1,1,0.0,0.0,1,0,1,All years,Lawrence Gonzi,Minister,Malta
+Q678553,1,3,0.0,0.0,1,0,1,All years,Ã‰douard Guillaud,Military,France
+Q57613,1,1,0.0,0.0,1,0,1,All years,Ahmed Ouyahia,Minister,Algeria
+Q57597,1,1,0.0,0.0,1,0,1,All years,Portia Simpson-Miller,Minister,Jamaica
+Q6791638,1,6,0.0,0.0,1,0,1,All years,Matthieu Borsboom,Military,Netherlands
+Q6792729,1,2,0.0,0.0,1,0,1,All years,Maureen Mwanawasa,Head of state/govt,Zambia
+Q6805025,1,1,0.0,0.0,1,0,1,All years,Zhang Xiyun,Diplomat,China
+Q57550,1,1,0.0,0.0,1,0,1,All years,Abdul Halim of Kedah,Royalty,Malaysia
+Q57496,1,1,0.0,0.0,1,0,1,All years,Federico Franco,Minister,Paraguay
+Q6845299,1,1,0.0,0.0,1,0,1,All years,Mihnea Motoc,Minister,Romania
+Q6891806,1,1,0.0,0.0,1,0,1,All years,Mohammad Amin Fatemi,Minister,Afghanistan
+Q6891822,1,1,0.0,0.0,1,0,1,All years,Mohammad Arif Noorzai,Minister,Afghanistan
+Q57526,1,1,0.0,0.0,1,0,1,All years,Bujar Nishani,Head of state/govt,Albania
+Q57521,1,1,0.0,0.0,1,0,1,All years,Ali Bongo Ondimba,Head of state/govt,Gabon
+Q57517,1,1,0.0,0.0,1,0,1,All years,Jorge Carlos Fonseca,Head of state/govt,Cape Verde
+Q6891922,1,1,0.0,0.0,1,0,1,All years,Mohammad Dawran,Military,Afghanistan
+Q57512,1,1,0.0,0.0,1,0,1,All years,Michel Martelly,Head of state/govt,Haiti
+Q57509,1,3,0.0,0.0,1,0,1,All years,Atifete Jahjaga,Head of state/govt,Kosovo
+Q5750450,1,1,0.0,0.0,1,0,1,All years,Carlos GarcÃƒÂ­a Orjuela,Head of state/govt,Colombia
+Q6807673,1,1,0.0,0.0,1,0,1,All years,Meera Shankar,Diplomat,India
+Q716710,1,1,0.0,0.0,1,0,1,All years,Chang Chun-hsiung,Head of state/govt,Taiwan
+Q717014,1,2,0.0,0.0,1,0,1,All years,Wu Shengli,Military,China
+Q1056659,1,3,0.0,0.0,1,0,1,All years,Cesar Purisima,Other/unknown,Philippines
+Q717185,1,1,0.0,0.0,1,0,1,All years,Hakainde Hichilema,Head of state/govt,Zambia
+Q717483,1,2,0.0,0.0,1,0,1,All years,Wang Yeping,Other/unknown,
+Q7177062,1,1,0.0,0.0,1,0,1,All years,Peter Squire,Military,United Kingdom
+Q57344,1,1,0.0,0.0,1,0,1,All years,Joschka Fischer,Minister,Germany
+Q7199798,1,1,0.0,0.0,1,0,1,All years,Piyush Goyal,Minister,India
+Q57340,1,3,0.0,0.0,1,0,1,All years,Mswati III,Royalty,Eswatini
+Q704022,1,1,0.0,0.0,1,0,1,All years,Gustavo Petro,Head of state/govt,Colombia
+Q72121705,1,1,0.0,0.0,1,0,1,All years,Ichraf Saied,Other/unknown,Tunisia
+Q5732719,1,1,0.0,0.0,1,0,1,All years,Heraldo MuÃ±oz,Minister,Chile
+Q7216297,1,1,0.0,0.0,1,0,1,All years,Qin Gang,Diplomat,China
+Q7218197,1,1,0.0,0.0,1,0,1,All years,Hryhoriy Pedchenko,Military,Ukraine
+Q722499,1,1,0.0,0.0,1,0,1,All years,Claudio Graziano,Military,Italy
+Q57321,1,1,0.0,0.0,1,0,1,All years,Laura Chinchilla,Head of state/govt,Costa Rica
+Q57319,1,1,0.0,0.0,1,0,1,All years,Norodom Sihamoni,Royalty,Cambodia
+Q57315,1,1,0.0,0.0,1,0,1,All years,Salva Kiir Mayardit,Head of state/govt,South Sudan
+Q72306460,1,1,0.0,0.0,1,0,1,All years,Najah al-Shammari,Military,Iraq
+Q7237445,1,1,0.0,0.0,1,0,1,All years,Pradeep Vasant Naik,Military,India
+Q72099398,1,1,0.0,0.0,1,0,1,All years,Faisal bin Farhan,Royalty,Saudi Arabia
+Q704345,1,1,0.0,0.0,1,0,1,All years,Tsuyoshi Yamaguchi,Other/unknown,Japan
+Q5741535,1,1,0.0,0.0,1,0,1,All years,Hermilando Mandanas,Legislator,Philippines
+Q7048454,1,2,0.0,0.0,1,0,1,All years,Noman Bashir,Military,Pakistan
+Q57410,1,3,0.0,0.0,1,0,1,All years,Shimon Peres,Head of state/govt,Israel
+Q7051915,1,1,0.0,0.0,1,0,1,All years,Norman Anil Kumar Browne,Military,India
+Q7063918,1,2,0.0,0.0,1,0,1,All years,Nouriya Al-Subaih,Minister,Kuwait
+Q574058,1,3,0.0,0.0,1,0,1,All years,Pietro Parolin,Other/unknown,Vatican City
+Q57405,1,9,0.0,0.0,1,0,1,All years,Susilo Bambang Yudhoyono,Head of state/govt,Indonesia
+Q708023,1,1,0.0,0.0,1,0,1,All years,Peter Mafany Musonge,Minister,Cameroon
+Q716486,1,3,0.0,0.0,1,0,1,All years,KlÃƒÂ¡ra Dobrev,Minister,Hungary
+Q709846,1,7,0.0,0.0,1,0,1,All years,Cao Gangchuan,Minister,China
+Q57392,1,1,0.0,0.0,1,0,1,All years,Armando Guebuza,Head of state/govt,Mozambique
+Q711599,1,1,0.0,0.0,1,0,1,All years,Wang Jiarui,Diplomat,China
+Q7121672,1,1,0.0,0.0,1,0,1,All years,Pablo Longueira,Legislator,Chile
+Q7129831,1,3,0.0,0.0,1,0,1,All years,Panagiotis Chinofotis,Military,Greece
+Q57385,1,1,0.0,0.0,1,0,1,All years,Teodoro Obiang,Head of state/govt,Equatorial Guinea
+Q57381,1,1,0.0,0.0,1,0,1,All years,Haris SilajdÅ¾iÄ‡,Other/unknown,Bosnia and Herzegovina
+Q7155601,1,2,0.0,0.0,1,0,1,All years,Pavel Filip,Minister,Moldova
+Q715633,1,1,0.0,0.0,1,0,1,All years,Yevhen Marchuk,Minister,Ukraine
+Q57376,1,3,0.0,0.0,1,0,1,All years,Jigme Khesar Namgyel Wangchuck,Royalty,Bhutan
+Q57398,1,1,0.0,0.0,1,0,1,All years,AnÃ­bal Cavaco Silva,Head of state/govt,Portugal
+Q155164,1,1,0.0,0.0,1,0,1,All years,Imran Khan,Minister,Pakistan
+Q1545103,1,1,0.0,0.0,1,0,1,All years,Gregor Kathstede,Other/unknown,Germany
+Q15431339,1,1,0.0,0.0,1,0,1,All years,Fikri IÅŸÄ±k,Minister,Turkey
+Q1542271,1,1,0.0,0.0,1,0,1,All years,Sarkis Aghajan Mamendo,Minister,Iraq
+Q15410371,1,2,0.0,0.0,1,0,1,All years,Ng Chee Peng,Military,Singapore
+Q1540417,1,1,0.0,0.0,1,0,1,All years,Nikolay Svinarov,Minister,Bulgaria
+Q1539074,1,1,0.0,0.0,1,0,1,All years,Mu Sochua,Legislator,Cambodia
+Q15382355,1,1,0.0,0.0,1,0,1,All years,Hery Rajaonarimampianina,Head of state/govt,Madagascar
+Q1534851,1,1,0.0,0.0,1,0,1,All years,Pieter De Crem,Minister,Belgium
+Q153330,1,1,0.0,0.0,1,0,1,All years,Andrew Mountbatten-Windsor,Royalty,United Kingdom
+Q152905,1,1,0.0,0.0,1,0,1,All years,Jean-Claude Trichet,Other/unknown,France
+Q15258446,1,1,0.0,0.0,1,0,1,All years,Ã˜ystein BÃ¸,Other/unknown,Norway
+Q3379592,1,1,0.0,0.0,1,0,1,All years,Philippe Close,Other/unknown,Belgium
+Q152327,1,2,0.0,0.0,1,0,1,All years,Kgalema Motlanthe,Minister,South Africa
+Q152316,1,2,0.0,0.0,1,0,1,All years,"Prince Harry, Duke of Sussex",Royalty,United Kingdom
+Q152308,1,2,0.0,0.0,1,0,1,All years,Queen Silvia of Sweden,Royalty,Sweden
+Q152260,1,2,0.0,0.0,1,0,1,All years,Alexandra of Denmark,Royalty,Denmark
+Q151944,1,3,0.0,0.0,1,0,1,All years,Leonel FernÃƒÂ¡ndez,Head of state/govt,Dominican Republic
+Q151879,1,1,0.0,0.0,1,0,1,All years,Fernando Lugo,Head of state/govt,Paraguay
+Q151729,1,3,0.0,0.0,1,0,1,All years,SÃ¼leyman Demirel,Head of state/govt,Turkey
+Q151509,1,1,0.0,0.0,1,0,1,All years,Ibn Saud,Royalty,Saudi Arabia
+Q15147,1,1,0.0,0.0,1,0,1,All years,Jorge Batlle IbÃ¡Ã±ez,Head of state/govt,Uruguay
+Q151301,1,3,0.0,0.0,1,0,1,All years,Vaira VÃ„Â«Ã„Â·e-Freiberga,Head of state/govt,Latvia
+Q1512701,1,1,0.0,0.0,1,0,1,All years,Gerhard W. Back,Military,Germany
+Q15090200,1,1,0.0,0.0,1,0,1,All years,Vladimir Zarudnitsky,Military,Russia
+Q15046268,1,1,0.0,0.0,1,0,1,All years,Humayun Akhtar Khan,Minister,Pakistan
+Q152369,1,1,0.0,0.0,1,0,1,All years,Fouad Mebazaa,Head of state/govt,Tunisia
+Q16106631,1,3,0.0,0.0,1,0,1,All years,RaÃºl Santos GalvÃ¡n Villanueva,Military,Mexico
+Q16106528,1,1,0.0,0.0,1,0,1,All years,Mahmud Ahmed,Intelligence/security,Pakistan
+Q16105704,1,1,0.0,0.0,1,0,1,All years,Mohamed Abdel Hamid El-Shahat,Intelligence/security,Egypt
+Q16090635,1,3,0.0,0.0,1,0,1,All years,Yoon Suk Yeol,Head of state/govt,South Korea
+Q160902,1,1,0.0,0.0,1,0,1,All years,Sigmar Gabriel,Minister,Germany
+Q16084836,1,1,0.0,0.0,1,0,1,All years,Ahn Ho-young,Diplomat,South Korea
+Q16084637,1,1,0.0,0.0,1,0,1,All years,Ahn Byung-young,Other/unknown,South Korea
+Q16080118,1,1,0.0,0.0,1,0,1,All years,Kwon Oh-sung,Military,South Korea
+Q16051127,1,1,0.0,0.0,1,0,1,All years,Hossein Fereydoun,Head of state/govt,Iran
+Q15926137,1,2,0.0,0.0,1,0,1,All years,Zhang Kunsheng,Minister,China
+Q15925685,1,1,0.0,0.0,1,0,1,All years,Abdullah al-Thani,Minister,Libya
+Q159101,1,2,0.0,0.0,1,0,1,All years,Prince Joachim of Denmark,Royalty,Denmark
+Q155385,1,1,0.0,0.0,1,0,1,All years,Ãƒâ€°tienne GnassingbÃƒÂ© EyadÃƒÂ©ma,Head of state/govt,
+Q1584976,1,1,0.0,0.0,1,0,1,All years,Kamchybek Tashiev,Other/unknown,Kyrgyzstan
+Q15849,1,7,0.0,0.0,1,0,1,All years,JosÃƒÂ© Manuel DurÃƒÂ£o Barroso,Minister,Portugal
+Q1584605,1,4,0.0,0.0,1,0,1,All years,Harald Lastovka,Other/unknown,Germany
+Q1573260,1,1,0.0,0.0,1,0,1,All years,Hamdan bin Zayed bin Sultan Al Nahyan,Royalty,United Arab Emirates
+Q157282,1,1,0.0,0.0,1,0,1,All years,BronisÅ‚aw Geremek,Minister,Poland
+Q157131,1,1,0.0,0.0,1,0,1,All years,Zoran ÄinÄ‘iÄ‡,Minister,Serbia
+Q157111,1,1,0.0,0.0,1,0,1,All years,Branko Crvenkovski,Head of state/govt,North Macedonia
+Q156780,1,3,0.0,0.0,1,0,1,All years,Jorge Sampaio,Head of state/govt,Portugal
+Q156548,1,2,0.0,0.0,1,0,1,All years,Queen SofÃ­a of Spain,Royalty,Spain
+Q156487,1,5,0.0,0.0,1,0,1,All years,PÃƒÂ©ter Medgyessy,Minister,Hungary
+Q156390,1,1,0.0,0.0,1,0,1,All years,"Victoria, Crown Princess of Sweden",Royalty,Sweden
+Q155880,1,2,0.0,0.0,1,0,1,All years,Mirek TopolÃƒÂ¡nek,Minister,Czech Republic
+Q155390,1,6,0.0,0.0,1,0,1,All years,Costas Simitis,Minister,Greece
+Q15902678,1,3,0.0,0.0,1,0,1,All years,Shen Lyu-shun,Minister,Taiwan
+Q139324,1,1,0.0,0.0,1,0,1,All years,Tráº§n Äá»©c LÆ°Æ¡ng,Head of state/govt,Vietnam
+Q139275724,1,1,0.0,0.0,1,0,1,All years,Q139275724,Minister,Egypt
+Q139254411,1,4,0.0,0.0,1,0,1,All years,LÃª Sá»¹ VÆ°Æ¡ng HÃ,Military,Vietnam
+Q1391309,1,1,0.0,0.0,1,0,1,All years,Manohar Parrikar,Minister,India
+Q1388724,1,1,0.0,0.0,1,0,1,All years,JosÃ© Antonio Alonso,Minister,Spain
+Q138745878,1,1,0.0,0.0,1,0,1,All years,Phyllis Tharenou,Other/unknown,Australia
+Q138609363,1,1,0.0,0.0,1,0,1,All years,Philippa Karsera,Other/unknown,Cyprus
+Q1382641,1,1,0.0,0.0,1,0,1,All years,LuÃ­s Amado,Minister,Portugal
+Q1380993,1,1,0.0,0.0,1,0,1,All years,Saqr bin Mohammad al-Qassimi,Royalty,United Arab Emirates
+Q1377798,1,1,0.0,0.0,1,0,1,All years,Marat Tazhin,Minister,Kazakhstan
+Q1372923,1,3,0.0,0.0,1,0,1,All years,Necdet Ã–zel,Military,Turkey
+Q1371792,1,2,0.0,0.0,1,0,1,All years,Solomon Passy,Minister,Bulgaria
+Q150276,1,1,0.0,0.0,1,0,1,All years,Nkosazana Dlamini-Zuma,Minister,South Africa
+Q1367826,1,1,0.0,0.0,1,0,1,All years,Voltaire Gazmin,Other/unknown,Philippines
+Q136670725,1,1,0.0,0.0,1,0,1,All years,Raymond A. Joseph,Diplomat,Haiti
+Q1366538,1,2,0.0,0.0,1,0,1,All years,Ali BardakoÄŸlu,Head of state/govt,Turkey
+Q1366279,1,1,0.0,0.0,1,0,1,All years,Jozias van Aartsen,Other/unknown,Netherlands
+Q136417487,1,1,0.0,0.0,1,0,1,All years,Biser Borisov,Other/unknown,Egypt
+Q13638863,1,1,0.0,0.0,1,0,1,All years,Jaliya Wickramasuriya,Diplomat,Sri Lanka
+Q13627134,1,1,0.0,0.0,1,0,1,All years,Mohamed Fareed,Intelligence/security,Egypt
+Q136065530,1,4,0.0,0.0,1,0,1,All years,Tan Meng Dui,Military,Singapore
+Q13589522,1,1,0.0,0.0,1,0,1,All years,Tea Tsulukiani,Minister,Georgia
+Q13581225,1,1,0.0,0.0,1,0,1,All years,Luigi Di Maio,Minister,Italy
+Q135630886,1,1,0.0,0.0,1,0,1,All years,Petra Schneebauer,Diplomat,Austria
+Q135517184,1,2,0.0,0.0,1,0,1,All years,Pushpendra Pal Singh,Military,Indonesia
+Q13550478,1,1,0.0,0.0,1,0,1,All years,Nuri Abu Sahmain,Head of state/govt,Libya
+Q1369872,1,1,0.0,0.0,1,0,1,All years,Richard Descoings,Head of state/govt,France
+Q15024,1,1,0.0,0.0,1,0,1,All years,Donald Tsang,Other/unknown,
+Q1502209,1,3,0.0,0.0,1,0,1,All years,Robert KaliÅˆÃ¡k,Minister,Slovakia
+Q149368,1,1,0.0,0.0,1,0,1,All years,Kamal Abbas,Military,Egypt
+Q14917375,1,1,0.0,0.0,1,0,1,All years,Luhut Binsar Panjaitan,Minister,Indonesia
+Q1485068,1,2,0.0,0.0,1,0,1,All years,Hidehiko Yuzaki,Other/unknown,Japan
+Q1476255,1,1,0.0,0.0,1,0,1,All years,SÃ¸ren Gade,Minister,Denmark
+Q146906,1,1,0.0,0.0,1,0,1,All years,Hussein I of Jordan,Royalty,Jordan
+Q1467594,1,1,0.0,0.0,1,0,1,All years,Panos Kammenos,Minister,Greece
+Q14657774,1,1,0.0,0.0,1,0,1,All years,GermÃ¡n Rojas Irigoyen,Diplomat,Germany
+Q146496,1,3,0.0,0.0,1,0,1,All years,Stjepan MesiÄ‡,Head of state/govt,Croatia
+Q1464,1,5,0.0,0.0,1,0,1,All years,Benigno Aquino III,Head of state/govt,Philippines
+Q14618311,1,1,0.0,0.0,1,0,1,All years,Lalao Ravalomanana,Head of state/govt,Madagascar
+Q1449940,1,1,0.0,0.0,1,0,1,All years,Khairy Jamaluddin,Minister,Malaysia
+Q1394911,1,1,0.0,0.0,1,0,1,All years,Clemente Mastella,Minister,Italy
+Q1440956,1,2,0.0,0.0,1,0,1,All years,Francesco Canalini,Other/unknown,Vatican City
+Q143945,1,5,0.0,0.0,1,0,1,All years,Carla Bruni,Head of state/govt,France
+Q14345,1,8,0.0,0.0,1,0,1,All years,Roh Moo-hyun,Head of state/govt,South Korea
+Q1423289,1,1,0.0,0.0,1,0,1,All years,Yury Baluevsky,Military,Russia
+Q14191994,1,1,0.0,0.0,1,0,1,All years,Ange Kagame,Head of state/govt,Rwanda
+Q140144,1,2,0.0,0.0,1,0,1,All years,Zafarullah Khan Jamali,Minister,Pakistan
+Q1399260,1,2,0.0,0.0,1,0,1,All years,Jorge CastaÃ±eda Gutman,Other/unknown,Mexico
+Q1396860,1,1,0.0,0.0,1,0,1,All years,Igor Shuvalov,Minister,Russia
+Q1396192,1,2,0.0,0.0,1,0,1,All years,Gilbert Teodoro,Other/unknown,Philippines
+Q1395772,1,2,0.0,0.0,1,0,1,All years,Sarath Fonseka,Military,Sri Lanka
+Q1395651,1,1,0.0,0.0,1,0,1,All years,Nayla Moawad,Minister,Lebanon
+Q139505175,1,1,0.0,0.0,1,0,1,All years,Amadeo Flores Carcagno,Other/unknown,Peru
+Q1395018,1,1,0.0,0.0,1,0,1,All years,Kalonzo Musyoka,Minister,Kenya
+Q1446607,1,1,0.0,0.0,1,0,1,All years,Campbell Newman,Other/unknown,Australia
+Q18285,1,1,0.0,0.0,1,0,1,All years,Zhu Rongji,Head of state/govt,China
+Q182673,1,1,0.0,0.0,1,0,1,All years,Valdis Zatlers,Head of state/govt,Latvia
+Q182654,1,1,0.0,0.0,1,0,1,All years,Valentina Matviyenko,Other/unknown,Russia
+Q182367,1,3,0.0,0.0,1,0,1,All years,JosÃƒÂ© SÃƒÂ³crates,Minister,Portugal
+Q18200492,1,1,0.0,0.0,1,0,1,All years,Alojz Å teiner,Military,Slovenia
+Q18198123,1,2,0.0,0.0,1,0,1,All years,Sirodjidin Aslov,Minister,Tajikistan
+Q18198028,1,1,0.0,0.0,1,0,1,All years,Rula Ghani,Other/unknown,Afghanistan
+Q181586,1,1,0.0,0.0,1,0,1,All years,Bingu wa Mutharika,Head of state/govt,Malawi
+Q181383,1,3,0.0,0.0,1,0,1,All years,Mahathir Mohamad,Minister,Malaysia
+Q18111,1,1,0.0,0.0,1,0,1,All years,Li Keqiang,Head of state/govt,China
+Q180589,1,1,0.0,0.0,1,0,1,All years,Boris Johnson,Minister,United Kingdom
+Q180383,1,3,0.0,0.0,1,0,1,All years,Helen Clark,Minister,New Zealand
+Q16120878,1,1,0.0,0.0,1,0,1,All years,Kais Saied,Head of state/govt,Tunisia
+Q1770922,1,1,0.0,0.0,1,0,1,All years,Vera Baboun,Other/unknown,State of Palestine
+Q1756312,1,1,0.0,0.0,1,0,1,All years,Gennady Seleznyov,Legislator,Russia
+Q174662,1,2,0.0,0.0,1,0,1,All years,Mary McAleese,Head of state/govt,Ireland
+Q1746137,1,1,0.0,0.0,1,0,1,All years,Nahyan bin Mubarak Al Nahyan,Royalty,United Arab Emirates
+Q174267,1,2,0.0,0.0,1,0,1,All years,Abhisit Vejjajiva,Minister,Thailand
+Q174214,1,2,0.0,0.0,1,0,1,All years,Cherie Blair,Minister,United Kingdom
+Q17285561,1,1,0.0,0.0,1,0,1,All years,Gertrude Maseko,Other/unknown,Malawi
+Q17279167,1,4,0.0,0.0,1,0,1,All years,Fadhil Jalil al-Barwari,Military,Iraq
+Q17198126,1,1,0.0,0.0,1,0,1,All years,Entissar Amer,Other/unknown,Egypt
+Q17198045,1,1,0.0,0.0,1,0,1,All years,Bouchaib Arroub,Military,Morocco
+Q1713893,1,1,0.0,0.0,1,0,1,All years,Monica Prieto-Teodoro,Other/unknown,Philippines
+Q171228,1,2,0.0,0.0,1,0,1,All years,Janez DrnovÃ…Â¡ek,Minister,Slovenia
+Q1711779,1,1,0.0,0.0,1,0,1,All years,July Edelstein,Minister,Israel
+Q17991252,1,2,0.0,0.0,1,0,1,All years,Flavia Franzoni,Head of state/govt,Italy
+Q1917377,1,9,0.0,0.0,1,0,1,All years,Vecdi GÃ¶nÃ¼l,Minister,Turkey
+Q1917341,1,1,0.0,0.0,1,0,1,All years,Hilmi GÃ¼ler,Minister,Turkey
+Q191060,1,5,0.0,0.0,1,0,1,All years,Manuel Zelaya,Head of state/govt,Honduras
+Q190889,1,3,0.0,0.0,1,0,1,All years,Alfred Moisiu,Head of state/govt,Albania
+Q1898651,1,1,0.0,0.0,1,0,1,All years,M. K. Narayanan,Other/unknown,India
+Q1898634,1,1,0.0,0.0,1,0,1,All years,Mario Arpino,Military,Italy
+Q189519,1,3,0.0,0.0,1,0,1,All years,Zeng Qinghong,Minister,China
+Q18922152,1,1,0.0,0.0,1,0,1,All years,Osama Askar,Military,Egypt
+Q18785847,1,1,0.0,0.0,1,0,1,All years,Clio Bittoni,Head of state/govt,Italy
+Q1877224,1,1,0.0,0.0,1,0,1,All years,Lulzim Basha,Other/unknown,Albania
+Q1876185,1,1,0.0,0.0,1,0,1,All years,Pierre Muller,Other/unknown,Switzerland
+Q1873388,1,1,0.0,0.0,1,0,1,All years,Lucien Bouchard,Minister,Canada
+Q1871549,1,1,0.0,0.0,1,0,1,All years,Albert Ramdin,Minister,Suriname
+Q18342447,1,1,0.0,0.0,1,0,1,All years,Hanna Hopko,Legislator,Ukraine
+Q187099,1,1,0.0,0.0,1,0,1,All years,Lionel Jospin,Minister,France
+Q18684617,1,1,0.0,0.0,1,0,1,All years,Maria BÄƒsescu,Head of state/govt,Romania
+Q18684390,1,1,0.0,0.0,1,0,1,All years,Azubuike Ihejirika,Military,Nigeria
+Q18643851,1,1,0.0,0.0,1,0,1,All years,Vicky Barahona,Other/unknown,Chile
+Q18643129,1,1,0.0,0.0,1,0,1,All years,Vika PotoÄnik,Other/unknown,Slovenia
+Q1860288,1,1,0.0,0.0,1,0,1,All years,Youssef Boutros Ghali,Minister,Egypt
+Q18590433,1,1,0.0,0.0,1,0,1,All years,Aleksandr Savenkov,Military,Russia
+Q1858267,1,2,0.0,0.0,1,0,1,All years,Ali Aujali,Diplomat,Libya
+Q185272,1,2,0.0,0.0,1,0,1,All years,Brian Cowen,Minister,Ireland
+Q1844322,1,1,0.0,0.0,1,0,1,All years,Imad Moustapha,Diplomat,Syria
+Q18421371,1,1,0.0,0.0,1,0,1,All years,Setya Novanto,Legislator,Indonesia
+Q18421241,1,1,0.0,0.0,1,0,1,All years,Andika Perkasa,Military,Indonesia
+Q18350440,1,1,0.0,0.0,1,0,1,All years,Agnese Landini,Minister,Italy
+Q18711583,1,1,0.0,0.0,1,0,1,All years,Issa al-Khouli,Military,Syria
+Q16526820,1,1,0.0,0.0,1,0,1,All years,Angelo Zubbani,Other/unknown,Italy
+Q16329403,1,1,0.0,0.0,1,0,1,All years,Michael Kostarakos,Military,Greece
+Q16300525,1,1,0.0,0.0,1,0,1,All years,Ana Rosalinda GarcÃ­a CarÃ­as,Other/unknown,Honduras
+Q16267511,1,1,0.0,0.0,1,0,1,All years,FaÃ¯za Kefi,Minister,Tunisia
+Q16260868,1,1,0.0,0.0,1,0,1,All years,Zeng Wei,Other/unknown,China
+Q16215199,1,2,0.0,0.0,1,0,1,All years,Andrian Candu,Legislator,Moldova
+Q16203685,1,1,0.0,0.0,1,0,1,All years,Aizaz Ahmad Chaudhry,Diplomat,Pakistan
+Q16195662,1,1,0.0,0.0,1,0,1,All years,Mohamed Mounir Majidi,Royalty,Morocco
+Q16194716,1,1,0.0,0.0,1,0,1,All years,Muhammad Talha Mahmood,Other/unknown,Pakistan
+Q16193885,1,2,0.0,0.0,1,0,1,All years,Samia Suluhu Hassan,Head of state/govt,Tanzania
+Q16193473,1,1,0.0,0.0,1,0,1,All years,Franck Biancheri,Other/unknown,Monaco
+Q16190148,1,1,0.0,0.0,1,0,1,All years,Sarad Singh Bhandari,Minister,Nepal
+Q17117413,1,1,0.0,0.0,1,0,1,All years,Miro Cerar,Minister,Slovenia
+Q16186714,1,2,0.0,0.0,1,0,1,All years,Ola Ibrahim,Military,Nigeria
+Q16186475,1,1,0.0,0.0,1,0,1,All years,Ombeni Sefue,Diplomat,Tanzania
+Q16185620,1,1,0.0,0.0,1,0,1,All years,Nadeem Taj,Intelligence/security,Pakistan
+Q16185612,1,1,0.0,0.0,1,0,1,All years,Haroun Ali Suleiman,Minister,Tanzania
+Q1617073,1,4,0.0,0.0,1,0,1,All years,Lucien Weiler,Head of state/govt,Luxembourg
+Q16168437,1,1,0.0,0.0,1,0,1,All years,Giannis Sgouros,Other/unknown,Greece
+Q161671,1,2,0.0,0.0,1,0,1,All years,JiÃ…â„¢ÃƒÂ­ Paroubek,Other/unknown,Czech Republic
+Q16143657,1,1,0.0,0.0,1,0,1,All years,Agnaldo TimÃ³teo,Other/unknown,Brazil
+Q16138591,1,1,0.0,0.0,1,0,1,All years,Takorn Tantasith,Military,Thailand
+Q16135350,1,4,0.0,0.0,1,0,1,All years,Ibrahim Abdulaziz Al-Assaf,Minister,Saudi Arabia
+Q16130184,1,1,0.0,0.0,1,0,1,All years,Ori Gordin,Military,Israel
+Q16129715,1,1,0.0,0.0,1,0,1,All years,Aharon Haliva,Intelligence/security,Israel
+Q16122399,1,1,0.0,0.0,1,0,1,All years,Ali Hassan Al-ahmadi,Other/unknown,Yemen
+Q16186722,1,1,0.0,0.0,1,0,1,All years,Jalil Abbas Jilani,Diplomat,Pakistan
+Q1711465,1,1,0.0,0.0,1,0,1,All years,Leonid KoÅ¾ara,Minister,Ukraine
+Q170899,1,3,0.0,0.0,1,0,1,All years,NÃ©stor Kirchner,Head of state/govt,Argentina
+Q17069946,1,2,0.0,0.0,1,0,1,All years,Wai Lwin,Minister,Myanmar
+Q170597,1,5,0.0,0.0,1,0,1,All years,Amadou Toumani TourÃƒÂ©,Head of state/govt,Mali
+Q1704969,1,1,0.0,0.0,1,0,1,All years,Keiji Furuya,Other/unknown,Japan
+Q17045790,1,1,0.0,0.0,1,0,1,All years,Hulusi Akar,Military,Turkey
+Q170194,1,1,0.0,0.0,1,0,1,All years,"Princess Astrid, Archduchess of Austria-Este",Royalty,Belgium
+Q17013223,1,2,0.0,0.0,1,0,1,All years,Laila Takla,Other/unknown,Egypt
+Q1691536,1,1,0.0,0.0,1,0,1,All years,Joe Modise,Minister,South Africa
+Q16907428,1,1,0.0,0.0,1,0,1,All years,Shao Yiming,Other/unknown,China
+Q1688608,1,1,0.0,0.0,1,0,1,All years,Jewel Taylor,Other/unknown,Liberia
+Q16868185,1,1,0.0,0.0,1,0,1,All years,Miodrag RakiÄ‡,Head of state/govt,Serbia
+Q16866530,1,1,0.0,0.0,1,0,1,All years,Margaret Gakuo Kenyatta,Other/unknown,Kenya
+Q165487,1,2,0.0,0.0,1,0,1,All years,Ahmet Necdet Sezer,Head of state/govt,Turkey
+Q16732648,1,1,0.0,0.0,1,0,1,All years,Hubert Minnis,Minister,The Bahamas
+Q16731841,1,2,0.0,0.0,1,0,1,All years,Rashad Mahmood,Other/unknown,Pakistan
+Q16731095,1,1,0.0,0.0,1,0,1,All years,Rajnish Kumar,Other/unknown,India
+Q16730803,1,1,0.0,0.0,1,0,1,All years,Tariq Khan,Military,Pakistan
+Q16729541,1,1,0.0,0.0,1,0,1,All years,LÃ¡szlÃ³ Habis,Other/unknown,Hungary
+Q16728298,1,1,0.0,0.0,1,0,1,All years,"Jose L. Cuisia, Jr.",Diplomat,Philippines
+Q167211,1,4,0.0,0.0,1,0,1,All years,Alan GarcÃ­a,Head of state/govt,Peru
+Q16702363,1,1,0.0,0.0,1,0,1,All years,Valerii Kondratiuk,Military,Ukraine
+Q16695896,1,1,0.0,0.0,1,0,1,All years,Yurii Vitrenko,Other/unknown,Ukraine
+Q166846,1,2,0.0,0.0,1,0,1,All years,Yerzhan Kazykhanov,Minister,Kazakhstan
+Q16646540,1,1,0.0,0.0,1,0,1,All years,Vilma Reyes Escalante,Other/unknown,Honduras
+Q1657292,1,1,0.0,0.0,1,0,1,All years,Ignacio Walker,Minister,Chile
+Q16556710,1,1,0.0,0.0,1,0,1,All years,Juan Pablo RodrÃ­guez BarragÃ¡n,Military,Colombia
+Q1686500,1,1,0.0,0.0,1,0,1,All years,Parkash Singh Badal,Minister,India
+Q1133880,1,1,0.0,0.0,1,0,1,All years,Toshihiro Nikai,Minister,Japan
+Q11306330,1,8,0.0,0.0,1,0,1,All years,Zokir Almatov,Minister,Uzbekistan
+Q112927515,1,1,0.0,0.0,1,0,1,All years,Marina Serrano,Other/unknown,Spain
+Q11270093,1,1,0.0,0.0,1,0,1,All years,Chung Sye-kyun,Legislator,South Korea
+Q11267083,1,3,0.0,0.0,1,0,1,All years,Lee Hui-ho,Other/unknown,South Korea
+Q112661788,1,1,0.0,0.0,1,0,1,All years,Han-Maurits Schaapveld,Other/unknown,Netherlands
+Q11256,1,2,0.0,0.0,1,0,1,All years,Fidel Castro,Head of state/govt,Cuba
+Q112365798,1,1,0.0,0.0,1,0,1,All years,Petr HlavÃ­nek,International org.,
+Q112326281,1,1,0.0,0.0,1,0,1,All years,Salman bin Khalifa Al Khalifa,Minister,Bahrain
+Q111718059,1,5,0.0,0.0,1,0,1,All years,Michael Moussa Adamo,Diplomat,
+Q110915463,1,1,0.0,0.0,1,0,1,All years,Otar Shamugia,Minister,Georgia
+Q1106890,1,1,0.0,0.0,1,0,1,All years,Ã‰douard Fritch,Head of state/govt,France
+Q135216959,1,2,0.0,0.0,1,0,1,All years,Abdul Rahman Al-Awadi,Military,Kuwait
+Q110390709,1,1,0.0,0.0,1,0,1,All years,Juan Carlos HolguÃ­n,Minister,Ecuador
+Q110233,1,1,0.0,0.0,1,0,1,All years,Tigran Sargsyan,Minister,Armenia
+Q1100237,1,2,0.0,0.0,1,0,1,All years,Rosmah Mansor,Other/unknown,Malaysia
+Q10986133,1,1,0.0,0.0,1,0,1,All years,Hok Lundy,Military,Cambodia
+Q109586088,1,1,0.0,0.0,1,0,1,All years,Kobita Ramdanee,Minister,Mauritius
+Q109332289,1,1,0.0,0.0,1,0,1,All years,Gabriel Issa,Diplomat,Lebanon
+Q109259869,1,3,0.0,0.0,1,0,1,All years,Ahmed Nawaf Al-Ahmad Al-Sabah,Royalty,Kuwait
+Q109257337,1,2,0.0,0.0,1,0,1,All years,Khaled Saleh Mohammed Al-Sabah,Military,Kuwait
+Q109257335,1,2,0.0,0.0,1,0,1,All years,Fahed Ahmad Al-Amir,Royalty,Kuwait
+Q108885978,1,1,0.0,0.0,1,0,1,All years,Martin Sampson,Military,United Kingdom
+Q108806841,1,2,0.0,0.0,1,0,1,All years,Yuko Kishida,Minister,Japan
+Q108804602,1,2,0.0,0.0,1,0,1,All years,Nadeem Ahmed Anjum,Intelligence/security,Pakistan
+Q108670737,1,1,0.0,0.0,1,0,1,All years,Yasushi Matsushita,Military,Japan
+Q110584237,1,1,0.0,0.0,1,0,1,All years,Jovan LakÄeviÄ‡,Military,Montenegro
+Q115944621,1,5,0.0,0.0,1,0,1,All years,Abdulla Hassan Saif,Minister,Bahrain
+Q115841,1,2,0.0,0.0,1,0,1,All years,Samuel Schmid,Other/unknown,Switzerland
+Q115797876,1,1,0.0,0.0,1,0,1,All years,Prakash Ramadhar,Minister,Trinidad and Tobago
+Q11575658,1,1,0.0,0.0,1,0,1,All years,Masami Tanaka,Head of state/govt,Japan
+Q115725550,1,1,0.0,0.0,1,0,1,All years,Saeed Mohammed Al Tayer,Other/unknown,United Arab Emirates
+Q115671,1,1,0.0,0.0,1,0,1,All years,Yu Zhengsheng,Diplomat,China
+Q115596,1,1,0.0,0.0,1,0,1,All years,Karim Khalili,Minister,Afghanistan
+Q115591671,1,1,0.0,0.0,1,0,1,All years,Kok Ping Soon,Other/unknown,Singapore
+Q115558494,1,1,0.0,0.0,1,0,1,All years,Mohammad Ishaq Dar,Minister,Pakistan
+Q115529914,1,1,0.0,0.0,1,0,1,All years,Hiroshi Mimura,Other/unknown,Japan
+Q115528302,1,2,0.0,0.0,1,0,1,All years,Lee Jong-ho,Military,South Korea
+Q115442,1,1,0.0,0.0,1,0,1,All years,Doris Leuthard,Head of state/govt,Switzerland
+Q114983210,1,1,0.0,0.0,1,0,1,All years,Hideo Suzuki,Minister,Japan
+Q1134096,1,1,0.0,0.0,1,0,1,All years,Juan Carlos Varela,Head of state/govt,Panama
+Q11475563,1,1,0.0,0.0,1,0,1,All years,Tsukasa Iwashina,Other/unknown,Japan
+Q11474501,1,2,0.0,0.0,1,0,1,All years,Hidetoshi Iwasaki,Military,Japan
+Q11466249,1,1,0.0,0.0,1,0,1,All years,Kazunori Yamanoi,Other/unknown,Japan
+Q114588964,1,1,0.0,0.0,1,0,1,All years,Sam Matekane,Minister,Lesotho
+Q114587557,1,2,0.0,0.0,1,0,1,All years,Mohammed bin Said bin Khalfan Al Mamari,Minister,Oman
+Q11458035,1,1,0.0,0.0,1,0,1,All years,ItsurÅ Terada,Other/unknown,Japan
+Q114293069,1,1,0.0,0.0,1,0,1,All years,Hanena Ould Sidi,Minister,Mauritania
+Q114268811,1,1,0.0,0.0,1,0,1,All years,Nyan Tun,Minister,Myanmar
+Q113961437,1,1,0.0,0.0,1,0,1,All years,AimÃ© BarthÃ©lemy SimporÃ©,Military,Burkina Faso
+Q1138858,1,1,0.0,0.0,1,0,1,All years,Vladimir Masorin,Military,Russia
+Q11373220,1,4,0.0,0.0,1,0,1,All years,Yutaka Inoue,Head of state/govt,Japan
+Q113555993,1,1,0.0,0.0,1,0,1,All years,Luis Yturralde Mancero,Minister,
+Q113437054,1,1,0.0,0.0,1,0,1,All years,Sheikha Rima al-Sabah,Diplomat,Kuwait
+Q114874287,1,1,0.0,0.0,1,0,1,All years,Shaikh Salman bin Khalifa Al-Khalifa,Royalty,Bahrain
+Q1060355,1,2,0.0,0.0,1,0,1,All years,Simeon II of Bulgaria,Minister,Bulgaria
+Q982225,1,1,0.0,0.0,1,0,1,All years,Eamon Gilmore,Minister,Ireland
+Q99162142,1,1,0.0,0.0,1,0,1,All years,Abdulaziz bin Fahd bin Turki II bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q98843186,1,1,0.0,0.0,1,0,1,All years,Obaid Al Tayer,Minister,United Arab Emirates
+Q98828346,1,1,0.0,0.0,1,0,1,All years,Brahim Bartagi,Minister,Tunisia
+Q98456849,1,3,0.0,0.0,1,0,1,All years,Badr bin Hamad Al Busaidi,Minister,Oman
+Q984160,1,3,0.0,0.0,1,0,1,All years,Tomasz Siemoniak,Minister,Poland
+Q983664,1,1,0.0,0.0,1,0,1,All years,Dimitris Avramopoulos,Minister,Greece
+Q983503,1,1,0.0,0.0,1,0,1,All years,Rustam Minnikhanov,Minister,Russia
+Q983180,1,1,0.0,0.0,1,0,1,All years,Gerd Leers,Other/unknown,Netherlands
+Q982817,1,1,0.0,0.0,1,0,1,All years,Vilasrao Deshmukh,Minister,India
+Q982813,1,1,0.0,0.0,1,0,1,All years,Sharad Pawar,Minister,India
+Q108559068,1,1,0.0,0.0,1,0,1,All years,Gul Nabi Ahmadzai,Other/unknown,Afghanistan
+Q99519075,1,1,0.0,0.0,1,0,1,All years,Mariko Suga,Minister,Japan
+Q96775116,1,1,0.0,0.0,1,0,1,All years,Giorgi Matiashvili,Other/unknown,Georgia
+Q103838608,1,1,0.0,0.0,1,0,1,All years,Pedro Castillo,Head of state/govt,Peru
+Q1034521,1,1,0.0,0.0,1,0,1,All years,AndrÃƒÂ¡s Havril,Military,Hungary
+Q10329706,1,1,0.0,0.0,1,0,1,All years,Miguel Albuquerque,Head of state/govt,Portugal
+Q10304982,1,2,0.0,0.0,1,0,1,All years,Jair Bolsonaro,Head of state/govt,Brazil
+Q10287,1,1,0.0,0.0,1,0,1,All years,Manuel Valls,Minister,France
+Q102200,1,2,0.0,0.0,1,0,1,All years,ÃrpÃ¡d GÃ¶ncz,Head of state/govt,Hungary
+Q102139,1,3,0.0,0.0,1,0,1,All years,Margrethe II of Denmark,Royalty,Denmark
+Q1020672,1,1,0.0,0.0,1,0,1,All years,BÃ¼lent ArÄ±nÃ§,Minister,Turkey
+Q101547,1,8,0.0,0.0,1,0,1,All years,Thabo Mbeki,Head of state/govt,South Africa
+Q101137,1,2,0.0,0.0,1,0,1,All years,Yasuo Fukuda,Other/unknown,Japan
+Q100579253,1,1,0.0,0.0,1,0,1,All years,Hessa bint Trad Al Shaalan,Royalty,Saudi Arabia
+Q982620,1,1,0.0,0.0,1,0,1,All years,Vladimir Anatolyevich Yakovlev,Other/unknown,Russia
+Q10842190,1,1,0.0,0.0,1,0,1,All years,Äá»— VÄƒn TÃ i,Legislator,Vietnam
+Q10842107,1,1,0.0,0.0,1,0,1,All years,Äá»— BÃ¡ Tá»µ,Military,Vietnam
+Q10833913,1,1,0.0,0.0,1,0,1,All years,VÅ© Tiáº¿n Lá»™c,Head of state/govt,Vietnam
+Q10831196,1,1,0.0,0.0,1,0,1,All years,TÃ´ LÃ¢m,Minister,Vietnam
+Q10828770,1,1,0.0,0.0,1,0,1,All years,TrÆ°Æ¡ng ÄÃ¬nh Tuyá»ƒn,Minister,Vietnam
+Q10819807,1,1,0.0,0.0,1,0,1,All years,Andrej BabiÅ¡,Minister,Czech Republic
+Q10819,1,1,0.0,0.0,1,0,1,All years,Mariano Rajoy,Head of state/govt,Spain
+Q10806892,1,3,0.0,0.0,1,0,1,All years,Pháº¡m BÃ¬nh Minh,Minister,Vietnam
+Q108046651,1,1,0.0,0.0,1,0,1,All years,Bandar bin Mohammed Al-Attiyah,Diplomat,Qatar
+Q10800424,1,1,0.0,0.0,1,0,1,All years,NgÃ´ XuÃ¢n Lá»‹ch,Minister,Vietnam
+Q10799008,1,1,0.0,0.0,1,0,1,All years,Nguyá»…n ChÃ­ Vá»‹nh,Military,Vietnam
+Q1078529,1,1,0.0,0.0,1,0,1,All years,Miyuki Hatoyama,Minister,Japan
+Q107805133,1,1,0.0,0.0,1,0,1,All years,Kim Keon Hee,Other/unknown,South Korea
+Q106066829,1,6,0.0,0.0,1,0,1,All years,Ibrahim Salim Mohamed Al Musharrakh,Military,United Arab Emirates
+Q1075725,1,1,0.0,0.0,1,0,1,All years,Liu Dongdong,Military,China
+Q107418198,1,1,0.0,0.0,1,0,1,All years,Sheikh Md Monirul Islam,Intelligence/security,Bangladesh
+Q107213763,1,1,0.0,0.0,1,0,1,All years,Shaikh Abdul Hannan,Royalty,Bangladesh
+Q1071031,1,2,0.0,0.0,1,0,1,All years,Paolo Gentiloni,Minister,Italy
+Q107069485,1,1,0.0,0.0,1,0,1,All years,Danny Broughton,Military,New Zealand
+Q107038260,1,1,0.0,0.0,1,0,1,All years,Mauricio Montalvo Samaniego,Minister,Ecuador
+Q107024043,1,1,0.0,0.0,1,0,1,All years,Abd al-Ameer al-Shammari,Military,Saudi Arabia
+Q106963,1,1,0.0,0.0,1,0,1,All years,Abdoulaye Wade,Head of state/govt,Senegal
+Q10665,1,1,0.0,0.0,1,0,1,All years,Kim Jong-il,Military,South Korea
+Q106634157,1,1,0.0,0.0,1,0,1,All years,Jane Waetara,Diplomat,
+Q10648,1,8,0.0,0.0,1,0,1,All years,Gordon Brown,Minister,United Kingdom
+Q106453538,1,2,0.0,0.0,1,0,1,All years,Patricio Zuquilanda Duque,Minister,Ecuador
+Q106094877,1,1,0.0,0.0,1,0,1,All years,Juansher Burchuladze,Minister,Georgia
+Q10771978,1,1,0.0,0.0,1,0,1,All years,Há»“ NghÄ©a DÅ©ng,Minister,Vietnam
+Q128911,1,1,0.0,0.0,1,0,1,All years,Ezer Weizman,Head of state/govt,Israel
+Q1289100,1,2,0.0,0.0,1,0,1,All years,Eduard Kukan,Minister,Slovakia
+Q128888,1,1,0.0,0.0,1,0,1,All years,Benjamin Ben-Eliezer,Minister,Israel
+Q12881862,1,1,0.0,0.0,1,0,1,All years,Nikolaos Panagiotopoulos,Minister,Greece
+Q12881818,1,1,0.0,0.0,1,0,1,All years,Nikos Kotzias,Minister,Greece
+Q12849768,1,1,0.0,0.0,1,0,1,All years,ÅžÉ™msÉ™ddin HacÄ±yev,Other/unknown,Azerbaijan
+Q12849766,1,1,0.0,0.0,1,0,1,All years,Shamsaddin Khanbabaev,Other/unknown,Azerbaijan
+Q12848345,1,1,0.0,0.0,1,0,1,All years,Ziya Mammadov,Minister,Azerbaijan
+Q12848240,1,1,0.0,0.0,1,0,1,All years,Zakir Hasanov,Minister,Azerbaijan
+Q127570292,1,1,0.0,0.0,1,0,1,All years,Alok Prasad,Other/unknown,India
+Q12744290,1,1,0.0,0.0,1,0,1,All years,È˜tefan DÄƒnilÄƒ,Military,Romania
+Q12743386,1,1,0.0,0.0,1,0,1,All years,Victor Gaiciuc,Minister,Moldova
+Q116058185,1,1,0.0,0.0,1,0,1,All years,Belkhir El Farouk,Military,Morocco
+Q12729178,1,1,0.0,0.0,1,0,1,All years,Gheorghe Marin,Military,Romania
+Q126909260,1,1,0.0,0.0,1,0,1,All years,Scott Dewar,Other/unknown,Australia
+Q12681876,1,1,0.0,0.0,1,0,1,All years,Abdul Aziz bin Haji Jaafar,Military,Malaysia
+Q12625469,1,1,0.0,0.0,1,0,1,All years,Hong Ihk-pyo,Legislator,South Korea
+Q12619778,1,1,0.0,0.0,1,0,1,All years,Choi Yoon-hee,Military,South Korea
+Q12616983,1,1,0.0,0.0,1,0,1,All years,Cho Yoon-je,Diplomat,South Korea
+Q12616038,1,1,0.0,0.0,1,0,1,All years,Chung Jin-suk,Legislator,South Korea
+Q12612564,1,1,0.0,0.0,1,0,1,All years,Lee Joung-binn,Minister,South Korea
+Q12596508,1,1,0.0,0.0,1,0,1,All years,Park Kwan-yong,Legislator,South Korea
+Q12587932,1,2,0.0,0.0,1,0,1,All years,Kim Shin,Other/unknown,South Korea
+Q12587759,1,1,0.0,0.0,1,0,1,All years,Kim Sung-chan,Legislator,South Korea
+Q12587076,1,2,0.0,0.0,1,0,1,All years,Kim Gi-hyeon,Other/unknown,South Korea
+Q125492863,1,1,0.0,0.0,1,0,1,All years,Mohamad bin Khalifa Al Khalifa,Minister,Bahrain
+Q12735562,1,1,0.0,0.0,1,0,1,All years,Mihail Popescu,Military,Romania
+Q13491463,1,4,0.0,0.0,1,0,1,All years,Aslan GÃ¼ner,Military,Turkey
+Q134069,1,3,0.0,0.0,1,0,1,All years,Yunus Qanuni,Minister,Afghanistan
+Q1337947,1,1,0.0,0.0,1,0,1,All years,Guo Boxiong,Military,China
+Q133765720,1,1,0.0,0.0,1,0,1,All years,Q133765720,Legislator,South Korea
+Q133520251,1,3,0.0,0.0,1,0,1,All years,Fatou-Danielle Diagne,Diplomat,Senegal
+Q133386,1,3,0.0,0.0,1,0,1,All years,Jan Peter Balkenende,Minister,Netherlands
+Q132280,1,1,0.0,0.0,1,0,1,All years,Seiji Maehara,Minister,Japan
+Q1320534,1,1,0.0,0.0,1,0,1,All years,Pham Van Tra,Minister,Vietnam
+Q1320379,1,1,0.0,0.0,1,0,1,All years,Alexander Konovalov,Minister,Russia
+Q131913809,1,1,0.0,0.0,1,0,1,All years,Nuhu Yaqub,Head of state/govt,Nigeria
+Q131440922,1,5,0.0,0.0,1,0,1,All years,Q131440922,Head of state/govt,Mali
+Q1312869,1,1,0.0,0.0,1,0,1,All years,Tarzisius Caviezel,Other/unknown,Switzerland
+Q131248,1,1,0.0,0.0,1,0,1,All years,Lee Kuan Yew,Minister,Singapore
+Q12905565,1,3,0.0,0.0,1,0,1,All years,Vilma Trajkovska,Head of state/govt,North Macedonia
+Q13107337,1,1,0.0,0.0,1,0,1,All years,Giorgi Marghvilashvili,Head of state/govt,Georgia
+Q13104842,1,1,0.0,0.0,1,0,1,All years,Prince Robert of Luxembourg,Royalty,Luxembourg
+Q130852,1,19,0.0,0.0,1,0,1,All years,Jun'ichirÅ Koizumi,Minister,Japan
+Q130772007,1,2,0.0,0.0,1,0,1,All years,Abdullah Al Raisi,Military,Oman
+Q13059446,1,1,0.0,0.0,1,0,1,All years,Md Abdul Mubeen,Military,Bangladesh
+Q13059317,1,1,0.0,0.0,1,0,1,All years,Mahbubey Alam,Military,Bangladesh
+Q1305893,1,1,0.0,0.0,1,0,1,All years,Einar Kristinn GuÃ°finnsson,Legislator,Iceland
+Q1304104,1,1,0.0,0.0,1,0,1,All years,Albert Mabri Toikeusse,Minister,Ivory Coast
+Q1303796,1,1,0.0,0.0,1,0,1,All years,Eikei Suzuki,Other/unknown,Japan
+Q130210720,1,1,0.0,0.0,1,0,1,All years,Q130210720,Diplomat,United Arab Emirates
+Q13015772,1,1,0.0,0.0,1,0,1,All years,Thanasak Patimaprakorn,Military,Thailand
+Q13012625,1,1,0.0,0.0,1,0,1,All years,Kritika Kongsompong,Head of state/govt,Thailand
+Q12978,1,7,0.0,0.0,1,0,1,All years,Guy Verhofstadt,Minister,Belgium
+Q1311580,1,1,0.0,0.0,1,0,1,All years,JosÃƒÂ© Bono,Minister,Spain
+Q12213376,1,3,0.0,0.0,1,0,1,All years,Rashad al-Alimi,Minister,Yemen
+Q12210074,1,1,0.0,0.0,1,0,1,All years,Khaled Al-Sarayra,Military,Jordan
+Q12208794,1,3,0.0,0.0,1,0,1,All years,Hamdi Wheiba,Military,Egypt
+Q12208755,1,1,0.0,0.0,1,0,1,All years,Hamad bin Abdullah Al Manie,Minister,Saudi Arabia
+Q12204053,1,5,0.0,0.0,1,0,1,All years,Jaber Al-Ali Al-Sabah,Royalty,Kuwait
+Q12178787,1,4,0.0,0.0,1,0,1,All years,Ahmed Boutaleb,Military,Morocco
+Q121160,1,1,0.0,0.0,1,0,1,All years,Guy Parmelin,Head of state/govt,Switzerland
+Q1206954,1,2,0.0,0.0,1,0,1,All years,Kapil Sibal,Minister,India
+Q12022546,1,1,0.0,0.0,1,0,1,All years,Jan HamÃ¡Äek,Legislator,Czech Republic
+Q12022508,1,1,0.0,0.0,1,0,1,All years,Jan Fencl,Minister,Czech Republic
+Q11984925,1,1,0.0,0.0,1,0,1,All years,Naser Al Belooshi,Diplomat,Bahrain
+Q11980504,1,1,0.0,0.0,1,0,1,All years,K. Dwight Venner,Other/unknown,Saint Lucia
+Q1254,1,2,0.0,0.0,1,0,1,All years,Kofi Annan,International org.,
+Q118496,1,1,0.0,0.0,1,0,1,All years,Gaston Reinesch,Other/unknown,Luxembourg
+Q117788611,1,2,0.0,0.0,1,0,1,All years,Louise Araneta Marcos,Other/unknown,Philippines
+Q11771436,1,1,0.0,0.0,1,0,1,All years,Mateusz Morawiecki,Minister,Poland
+Q117648,1,2,0.0,0.0,1,0,1,All years,Surapong Tovichakchaikul,Minister,Thailand
+Q11757807,1,4,0.0,0.0,1,0,1,All years,Liri Berisha,Minister,Albania
+Q11753,1,1,0.0,0.0,1,0,1,All years,Heinz Fischer,Head of state/govt,Austria
+Q11715253,1,1,0.0,0.0,1,0,1,All years,Jacek Czaputowicz,Minister,Poland
+Q117037367,1,1,0.0,0.0,1,0,1,All years,Roberto Vannacci,Military,Italy
+Q116939336,1,1,0.0,0.0,1,0,1,All years,Yasmin Umar,Minister,Brunei
+Q11686406,1,1,0.0,0.0,1,0,1,All years,Juan Carlos Romero Hicks,Other/unknown,Mexico
+Q116765522,1,2,0.0,0.0,1,0,1,All years,Ali AlQarni,Royalty,Saudi Arabia
+Q116449037,1,1,0.0,0.0,1,0,1,All years,NguyÃ¡Â»â€¦n ThÃ¡Â»â€¹ HiÃ¡Â»Ân,Head of state/govt,Vietnam
+Q1162679,1,1,0.0,0.0,1,0,1,All years,Daniel Scioli,Minister,Argentina
+Q1191545,1,6,0.0,0.0,1,0,1,All years,Morris Iemma,Minister,Australia
+Q125305485,1,1,0.0,0.0,1,0,1,All years,Manasvi Srisodapol,Diplomat,Thailand
+Q1252175,1,1,0.0,0.0,1,0,1,All years,Petros Molyviatis,Minister,Greece
+Q12498731,1,2,0.0,0.0,1,0,1,All years,Moeldoko,Military,Indonesia
+Q12483575,1,1,0.0,0.0,1,0,1,All years,Gatot Nurmantyo,Military,Indonesia
+Q12482698,1,1,0.0,0.0,1,0,1,All years,Fadli Zon,Legislator,Indonesia
+Q12467290,1,1,0.0,0.0,1,0,1,All years,Bruno Archi,Minister,Italy
+Q124520062,1,1,0.0,0.0,1,0,1,All years,Imtiaz Ahmad Kazi,Other/unknown,Pakistan
+Q12447362,1,1,0.0,0.0,1,0,1,All years,Muhammad Afzal,Military,Pakistan
+Q124344499,1,1,0.0,0.0,1,0,1,All years,Rostom Al-Zoubi,Diplomat,
+Q12390882,1,1,0.0,0.0,1,0,1,All years,JesÃºs VÃ¡zquez AlmuÃ­Ã±a,Other/unknown,Spain
+Q123823,1,1,0.0,0.0,1,0,1,All years,Joseph Deiss,Head of state/govt,Switzerland
+Q123614506,1,1,0.0,0.0,1,0,1,All years,Bernhard Altersberger,Military,Germany
+Q123298205,1,1,0.0,0.0,1,0,1,All years,Mohamed Elshahat,Intelligence/security,Egypt
+Q12215117,1,2,0.0,0.0,1,0,1,All years,Salem Sabah Al-Salem Al-Sabah,Minister,Kuwait
+Q123004,1,1,0.0,0.0,1,0,1,All years,Behgjet Pacolli,Other/unknown,Kosovo
+Q12260578,1,1,0.0,0.0,1,0,1,All years,Tontxu Campos,Minister,Spain
+Q12249079,1,1,0.0,0.0,1,0,1,All years,Nawaf bin Faisal bin Fahd Al Saud,Royalty,Saudi Arabia
+Q12247753,1,1,0.0,0.0,1,0,1,All years,Nasser Sabah Al-Ahmad Al-Sabah,Royalty,Qatar
+Q122465,1,1,0.0,0.0,1,0,1,All years,Yoshihide Suga,Other/unknown,Japan
+Q12243161,1,2,0.0,0.0,1,0,1,All years,Mishal Al-Ahmad Al-Jaber Al-Sabah,Royalty,Kuwait
+Q12241106,1,1,0.0,0.0,1,0,1,All years,Mohamed Ould Ghazouani,Head of state/govt,Mauritania
+Q1224,1,9,0.0,0.0,1,0,1,All years,Carlo Azeglio Ciampi,Head of state/govt,Italy
+Q122377,1,1,0.0,0.0,1,0,1,All years,Micheline Calmy-Rey,Military,Switzerland
+Q12231207,1,8,0.0,0.0,1,0,1,All years,Fahad bin Badr bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q12220452,1,1,0.0,0.0,1,0,1,All years,Sigfrido A. Pared PÃ©rez,Minister,Dominican Republic
+Q12219691,1,3,0.0,0.0,1,0,1,All years,Sabah Al-Khalid Al-Sabah,Royalty,Kuwait
+Q12216479,1,1,0.0,0.0,1,0,1,All years,Sultan bin Muhammad Sultan Al Qasimi,Royalty,United Arab Emirates
+Q123273230,1,1,0.0,0.0,1,0,1,All years,Lee Kang-Kook,Head of state/govt,South Korea
+Q316583,1,1,0.0,0.0,1,0,1,All years,Anatoly Serdyukov,Minister,Russia
+Q316264,1,1,0.0,0.0,1,0,1,All years,Michael Somare,Minister,Papua New Guinea
+Q3159754,1,1,0.0,0.0,1,0,1,All years,Jacques Peyrat,Other/unknown,France
+Q315953,1,7,0.0,0.0,1,0,1,All years,Didier Ratsiraka,Head of state/govt,Madagascar
+Q315565,1,1,0.0,0.0,1,0,1,All years,Kiichi Miyazawa,Minister,Japan
+Q315528,1,1,0.0,0.0,1,0,1,All years,Lee Teng-hui,Head of state/govt,Taiwan
+Q3155254,1,1,0.0,0.0,1,0,1,All years,Ishaq Dar,Minister,Pakistan
+Q315467,1,1,0.0,0.0,1,0,1,All years,Ivica RaÄan,Minister,Croatia
+Q31535331,1,1,0.0,0.0,1,0,1,All years,ChÃ©kou KorÃ© Lawel,Intelligence/security,Niger
+Q313989,1,1,0.0,0.0,1,0,1,All years,Sergei Stepashin,Other/unknown,Russia
+Q3133541,1,1,0.0,0.0,1,0,1,All years,Sattam bin Abdul-Aziz Al Saud,Royalty,Saudi Arabia
+Q313339,1,1,0.0,0.0,1,0,1,All years,Keizō Obuchi,Minister,Japan
+Q192,1,8,0.0,0.0,1,0,1,All years,David Cameron,Minister,United Kingdom
+Q312340,1,1,0.0,0.0,1,0,1,All years,Marian Lupu,Head of state/govt,Moldova
+Q31196321,1,1,0.0,0.0,1,0,1,All years,Ararat Mirzoyan,Minister,Armenia
+Q31179461,1,2,0.0,0.0,1,0,1,All years,Song Young-moo,Other/unknown,South Korea
+Q311440,1,1,0.0,0.0,1,0,1,All years,AntÃƒÂ³nio Guterres,Minister,Portugal
+Q311428,1,1,0.0,0.0,1,0,1,All years,Julio MarÃ­a Sanguinetti,Head of state/govt,Uruguay
+Q311355,1,1,0.0,0.0,1,0,1,All years,Enrique BolaÃ±os,Head of state/govt,Nicaragua
+Q311116,1,2,0.0,0.0,1,0,1,All years,Yurii Yekhanurov,Minister,Ukraine
+Q30951255,1,1,0.0,0.0,1,0,1,All years,Lundeg Purevsuren,Minister,Mongolia
+Q3093904,1,2,0.0,0.0,1,0,1,All years,Gabriel Oprea,Minister,Romania
+Q30934625,1,1,0.0,0.0,1,0,1,All years,Shigeru Kitamura,Military,Japan
+Q30926612,1,1,0.0,0.0,1,0,1,All years,Koji Tomita,Diplomat,Japan
+Q308017,1,1,0.0,0.0,1,0,1,All years,Abdelwahab Abdallah,Minister,Tunisia
+Q307580,1,1,0.0,0.0,1,0,1,All years,Abdullah S. Jum'ah,Other/unknown,Saudi Arabia
+Q31296056,1,1,0.0,0.0,1,0,1,All years,Karim Valiyev,Minister,Azerbaijan
+Q3324440,1,1,0.0,0.0,1,0,1,All years,Morshed Khan,Minister,Bangladesh
+Q3318961,1,1,0.0,0.0,1,0,1,All years,Mohammad Safadi,Minister,Lebanon
+Q3318712,1,1,0.0,0.0,1,0,1,All years,Mohamed Mediene,Military,Algeria
+Q3318622,1,1,0.0,0.0,1,0,1,All years,Mohamed Jegham,Minister,Tunisia
+Q3318398,1,1,0.0,0.0,1,0,1,All years,Mohamed Bazoum,Head of state/govt,Niger
+Q3317660,1,1,0.0,0.0,1,0,1,All years,Rosalba Ciarlini,Other/unknown,Brazil
+Q331707,1,1,0.0,0.0,1,0,1,All years,Ekmeleddin Ä°hsanoÄŸlu,Military,Turkey
+Q331,1,3,0.0,0.0,1,0,1,All years,Ricardo Lagos,Head of state/govt,Chile
+Q3309571,1,1,0.0,0.0,1,0,1,All years,Michel EddÃ©,Minister,Lebanon
+Q33031,1,2,0.0,0.0,1,0,1,All years,Vojislav KoÅ¡tunica,Head of state/govt,Serbia
+Q3285700,1,1,0.0,0.0,1,0,1,All years,Mangala Samaraweera,Minister,Sri Lanka
+Q32777,1,1,0.0,0.0,1,0,1,All years,VladimÃƒÂ­r Ã…Â pidla,Minister,Czech Republic
+Q3176299,1,1,0.0,0.0,1,0,1,All years,Kolinda Grabar-KitaroviÃ„â€¡,Diplomat,Croatia
+Q3266913,1,1,0.0,0.0,1,0,1,All years,Luisa DurÃ¡n,Other/unknown,Chile
+Q3246571,1,1,0.0,0.0,1,0,1,All years,HansÅ SÅshitsu,International org.,
+Q324564,1,1,0.0,0.0,1,0,1,All years,Hajim al-Hassani,Legislator,Iraq
+Q324108,1,1,0.0,0.0,1,0,1,All years,Ibrahim Boubacar KeÃ¯ta,Head of state/govt,Mali
+Q322893,1,1,0.0,0.0,1,0,1,All years,Maia Panjikidze,Minister,Georgia
+Q3196140,1,1,0.0,0.0,1,0,1,All years,Khemaies Jhinaoui,Minister,Tunisia
+Q3186309,1,2,0.0,0.0,1,0,1,All years,JosÃ© GoÃ±i,Minister,Chile
+Q318508,1,1,0.0,0.0,1,0,1,All years,AndrÃ©s Manuel LÃ³pez Obrador,Head of state/govt,Mexico
+Q318493,1,3,0.0,0.0,1,0,1,All years,Mohamed Agha,Minister,Lebanon
+Q31794016,1,1,0.0,0.0,1,0,1,All years,Karim Sinjari,Royalty,Iraq
+Q317757,1,1,0.0,0.0,1,0,1,All years,Abdallah Senussi,Other/unknown,Libya
+Q317670,1,1,0.0,0.0,1,0,1,All years,Driss Jettou,Minister,Morocco
+Q317664,1,1,0.0,0.0,1,0,1,All years,Hubert Ingraham,Minister,The Bahamas
+Q3273322,1,4,0.0,0.0,1,0,1,All years,Surakiart Sathirathai,Minister,Thailand
+Q29230,1,1,0.0,0.0,1,0,1,All years,Martti Ahtisaari,Head of state/govt,Finland
+Q29213,1,2,0.0,0.0,1,0,1,All years,Tarja Halonen,Head of state/govt,Finland
+Q29207,1,2,0.0,0.0,1,0,1,All years,Sauli NiinistÃƒÂ¶,Head of state/govt,Finland
+Q2917441,1,1,0.0,0.0,1,0,1,All years,Ram Rothberg,Military,Israel
+Q2917191,1,1,0.0,0.0,1,0,1,All years,Pedro Cateriano,Minister,Peru
+Q291648,1,1,0.0,0.0,1,0,1,All years,Laila Freivalds,Minister,Sweden
+Q2914654,1,1,0.0,0.0,1,0,1,All years,Houda Nonoo,Diplomat,Bahrain
+Q2912630,1,1,0.0,0.0,1,0,1,All years,Abdul Jolil,Minister,Bangladesh
+Q2912277,1,2,0.0,0.0,1,0,1,All years,HÃ©di M'henni,Minister,Tunisia
+Q2911528,1,1,0.0,0.0,1,0,1,All years,Mohammed Younis al-Ahmed al-Muwali,Military,Iraq
+Q2906409,1,1,0.0,0.0,1,0,1,All years,Amir Eshel,Royalty,Israel
+Q2904001,1,2,0.0,0.0,1,0,1,All years,Benjamin Elon,Minister,Israel
+Q3074013,1,1,0.0,0.0,1,0,1,All years,Florence Parly,Minister,France
+Q2898413,1,1,0.0,0.0,1,0,1,All years,Mithal al-Alusi,Legislator,Iraq
+Q2897006,1,1,0.0,0.0,1,0,1,All years,Mohammed Aly Fahmy,Military,Egypt
+Q28950289,1,2,0.0,0.0,1,0,1,All years,Nicolae CiucÄƒ,Military,Romania
+Q2889217,1,1,0.0,0.0,1,0,1,All years,Enrique Cervantes Aguirre,Military,Mexico
+Q28715686,1,1,0.0,0.0,1,0,1,All years,Mohammed Al-Jadaan,Minister,Saudi Arabia
+Q28702023,1,1,0.0,0.0,1,0,1,All years,Vasyl Burba,Intelligence/security,Ukraine
+Q28650390,1,1,0.0,0.0,1,0,1,All years,JoÃ£o LourenÃ§o,Minister,Angola
+Q2853995,1,1,0.0,0.0,1,0,1,All years,Antoine Ghonda,Head of state/govt,Democratic Republic of the Congo
+Q2849149,1,1,0.0,0.0,1,0,1,All years,Andy Mitchell,Minister,Canada
+Q28464475,1,1,0.0,0.0,1,0,1,All years,Lim Jock Seng,Minister,Brunei
+Q2843714,1,1,0.0,0.0,1,0,1,All years,Horacio RodrÃ­guez Larreta,Military,Argentina
+Q2842534,1,1,0.0,0.0,1,0,1,All years,Amir Haider Azam Khan,Other/unknown,Pakistan
+Q2837024,1,2,0.0,0.0,1,0,1,All years,Aline ChrÃƒÂ©tien,Minister,Canada
+Q29032770,1,1,0.0,0.0,1,0,1,All years,FÃ©lix Tshisekedi,Head of state/govt,Democratic Republic of the Congo
+Q307365,1,2,0.0,0.0,1,0,1,All years,Abdul Qadir Gilani,Military,Iraq
+Q30688167,1,1,0.0,0.0,1,0,1,All years,Noorulah Delwari,Other/unknown,Afghanistan
+Q3064644,1,1,0.0,0.0,1,0,1,All years,Miguel Ãngel Osorio Chong,Other/unknown,Mexico
+Q305956,1,1,0.0,0.0,1,0,1,All years,Abbas El Fassi,Minister,Morocco
+Q3054680,1,1,0.0,0.0,1,0,1,All years,Juan Enrique GuzmÃ¡n,Other/unknown,Mexico
+Q30538925,1,2,0.0,0.0,1,0,1,All years,Barbara Gemma Mogae,Head of state/govt,Botswana
+Q30505022,1,2,0.0,0.0,1,0,1,All years,Kim Dong-shin,Minister,South Korea
+Q30246749,1,1,0.0,0.0,1,0,1,All years,Raynold Oilouch,Minister,Palau
+Q30158635,1,1,0.0,0.0,1,0,1,All years,Nava Barak,Other/unknown,Israel
+Q3012366,1,1,0.0,0.0,1,0,1,All years,Dali Jazi,Minister,Tunisia
+Q30084836,1,1,0.0,0.0,1,0,1,All years,ElÃ­as Bendodo Benasayag,Head of state/govt,Spain
+Q30082184,1,1,0.0,0.0,1,0,1,All years,Khalid bin Salman bin Abdulaziz Al Saud,Royalty,Saudi Arabia
+Q30058638,1,3,0.0,0.0,1,0,1,All years,AmÃ©lie Derbaudrenghien,Minister,Belgium
+Q293194,1,1,0.0,0.0,1,0,1,All years,Ãƒâ€œscar Berger,Head of state/govt,Guatemala
+Q299743,1,1,0.0,0.0,1,0,1,All years,Marouf al-Bakhit,Minister,Jordan
+Q299020,1,1,0.0,0.0,1,0,1,All years,Ronald Venetiaan,Head of state/govt,Suriname
+Q29881198,1,1,0.0,0.0,1,0,1,All years,Kim Jung-sook,Other/unknown,South Korea
+Q2986943,1,1,0.0,0.0,1,0,1,All years,Sarah Brown,Minister,United Kingdom
+Q298547,1,1,0.0,0.0,1,0,1,All years,Mukesh Ambani,Other/unknown,India
+Q298149,1,2,0.0,0.0,1,0,1,All years,Q298149,Head of state/govt,Mexico
+Q2961554,1,1,0.0,0.0,1,0,1,All years,Parvez Elahi,Minister,Pakistan
+Q29574,1,1,0.0,0.0,1,0,1,All years,Beatrix of the Netherlands,Royalty,Netherlands
+Q29564249,1,1,0.0,0.0,1,0,1,All years,Abdullah Habibi,Minister,Afghanistan
+Q295212,1,1,0.0,0.0,1,0,1,All years,Rosen Plevneliev,Head of state/govt,Bulgaria
+Q295007,1,3,0.0,0.0,1,0,1,All years,Fernando de la RÃºa,Head of state/govt,Argentina
+Q294765,1,1,0.0,0.0,1,0,1,All years,Ahmed Shafik,Military,Egypt
+Q294460,1,1,0.0,0.0,1,0,1,All years,Mario Draghi,Head of state/govt,Italy
+Q30055865,1,1,0.0,0.0,1,0,1,All years,RocÃ­o GonzÃ¡lez Navas,Other/unknown,Ecuador
+Q37181,1,4,0.0,0.0,1,0,1,All years,Luiz InÃ¡cio Lula da Silva,Head of state/govt,Brazil
+Q371263,1,1,0.0,0.0,1,0,1,All years,Khalid bin Faisal,Royalty,Saudi Arabia
+Q370110,1,1,0.0,0.0,1,0,1,All years,Keith Mitchell,Minister,Grenada
+Q368947,1,1,0.0,0.0,1,0,1,All years,Sergei Mironov,Legislator,Russia
+Q368896,1,1,0.0,0.0,1,0,1,All years,Mintimer ÅžÃ¤ymief,Head of state/govt,Russia
+Q3666237,1,1,0.0,0.0,1,0,1,All years,Chantal CompaorÃƒÂ©,Head of state/govt,Burkina Faso
+Q366274,1,1,0.0,0.0,1,0,1,All years,Melih GÃ¶kÃ§ek,Other/unknown,Turkey
+Q366016,1,2,0.0,0.0,1,0,1,All years,Philippe Douste-Blazy,Minister,France
+Q365790,1,1,0.0,0.0,1,0,1,All years,Adolphe Muzito,Minister,Democratic Republic of the Congo
+Q365206,1,5,0.0,0.0,1,0,1,All years,Patrick Manning,Minister,Trinidad and Tobago
+Q3629240,1,1,0.0,0.0,1,0,1,All years,Attilio Fontana,Other/unknown,Italy
+Q36233,1,11,0.0,0.0,1,0,1,All years,VÃƒÂ¡clav Havel,Head of state/govt,Czech Republic
+Q332476,1,1,0.0,0.0,1,0,1,All years,DerviÅŸ EroÄŸlu,Other/unknown,Turkey
+Q3612334,1,1,0.0,0.0,1,0,1,All years,Allan O'Mill,Military,Italy
+Q36073,1,3,0.0,0.0,1,0,1,All years,Valery Gerasimov,Minister,Russia
+Q3606816,1,1,0.0,0.0,1,0,1,All years,Jacinda Ardern,Minister,New Zealand
+Q359689,1,1,0.0,0.0,1,0,1,All years,Shaul Mofaz,Military,Israel
+Q3595814,1,4,0.0,0.0,1,0,1,All years,Nirmala Deshpande,Legislator,India
+Q3595745,1,1,0.0,0.0,1,0,1,All years,Nirupama Rao,Diplomat,India
+Q3595630,1,1,0.0,0.0,1,0,1,All years,Brajesh Mishra,Minister,India
+Q3587695,1,5,0.0,0.0,1,0,1,All years,Eliane Karp,Other/unknown,Peru
+Q35786,1,1,0.0,0.0,1,0,1,All years,Petr NeÄas,Minister,Czech Republic
+Q357241,1,1,0.0,0.0,1,0,1,All years,Ã„dilbek Zhaqsybekov,Minister,Kazakhstan
+Q356919,1,1,0.0,0.0,1,0,1,All years,Pierre Moscovici,Minister,France
+Q356675,1,1,0.0,0.0,1,0,1,All years,Han Seung-soo,Minister,South Korea
+Q356389,1,1,0.0,0.0,1,0,1,All years,Owen Arthur,Minister,Barbados
+Q362129,1,1,0.0,0.0,1,0,1,All years,Ivan Kostov,Minister,Bulgaria
+Q401574,1,1,0.0,0.0,1,0,1,All years,Ahmed Zaki Yamani,Other/unknown,Saudi Arabia
+Q400837,1,1,0.0,0.0,1,0,1,All years,Ahmed Chalabi,Other/unknown,Iraq
+Q3956186,1,3,0.0,0.0,1,0,1,All years,Sergio Mattarella,Head of state/govt,Italy
+Q3953644,1,1,0.0,0.0,1,0,1,All years,Bandar ibn Khalid Al-Faisal Al Saud,Royalty,Saudi Arabia
+Q3917572,1,1,0.0,0.0,1,0,1,All years,Eugenio Javier HernÃ¡ndez Flores,Other/unknown,Mexico
+Q3910,1,1,0.0,0.0,1,0,1,All years,"Albert II, Prince of Monaco",Royalty,Monaco
+Q3897122,1,1,0.0,0.0,1,0,1,All years,Pasquale Preziosa,Military,Italy
+Q3896432,1,1,0.0,0.0,1,0,1,All years,Dhammajayo,Other/unknown,Thailand
+Q3894158,1,2,0.0,0.0,1,0,1,All years,Paolo La Rosa,Military,Italy
+Q388793,1,1,0.0,0.0,1,0,1,All years,Aftab Ahmad Sherpao,Minister,Pakistan
+Q38793028,1,1,0.0,0.0,1,0,1,All years,Fayzulla Mullajonov,Other/unknown,Uzbekistan
+Q3874799,1,4,0.0,0.0,1,0,1,All years,Volodymyr Zelenskyy,Head of state/govt,Ukraine
+Q38484,1,2,0.0,0.0,1,0,1,All years,Romano Prodi,Head of state/govt,Italy
+Q372202,1,1,0.0,0.0,1,0,1,All years,SÃ¼khbaataryn Batbold,Minister,Mongolia
+Q382311,1,1,0.0,0.0,1,0,1,All years,Takeo Kawamura,Other/unknown,Japan
+Q381218,1,1,0.0,0.0,1,0,1,All years,Karel De Gucht,Minister,Belgium
+Q381027,1,2,0.0,0.0,1,0,1,All years,Pedro Pablo Kuczynski,Head of state/govt,Peru
+Q381018,1,2,0.0,0.0,1,0,1,All years,Armando CalderÃ³n Sol,Head of state/govt,El Salvador
+Q381002,1,1,0.0,0.0,1,0,1,All years,Francisco Flores,Head of state/govt,El Salvador
+Q380681,1,1,0.0,0.0,1,0,1,All years,Goh Kun,Minister,South Korea
+Q3798833,1,1,0.0,0.0,1,0,1,All years,Nanaia Mahuta,Minister,New Zealand
+Q379857,1,2,0.0,0.0,1,0,1,All years,Tariq al-Hashimi,Minister,Iraq
+Q379645,1,1,0.0,0.0,1,0,1,All years,Gonzalo SÃ¡nchez de Lozada,Head of state/govt,Bolivia
+Q379489,1,3,0.0,0.0,1,0,1,All years,Phan VÄƒn Kháº£i,Minister,Vietnam
+Q3776268,1,1,0.0,0.0,1,0,1,All years,Luis Almagro,Minister,Uruguay
+Q3770422,1,1,0.0,0.0,1,0,1,All years,Giuseppe de Giorgi,Military,Italy
+Q3735466,1,1,0.0,0.0,1,0,1,All years,Juhani Kaskeala,Military,Finland
+Q3838690,1,1,0.0,0.0,1,0,1,All years,Luciano Portolano,Military,Italy
+Q339008,1,1,0.0,0.0,1,0,1,All years,Ahmed Makarfi,Other/unknown,Nigeria
+Q3387740,1,1,0.0,0.0,1,0,1,All years,Pierre de Villiers,Military,France
+Q3386594,1,1,0.0,0.0,1,0,1,All years,Pierre Pettigrew,Minister,Canada
+Q338148,1,4,0.0,0.0,1,0,1,All years,Ä°lker BaÅŸbuÄŸ,Military,Turkey
+Q100330037,1,1,0.0,0.0,1,0,1,All years,Gavan Reynolds,Intelligence/security,Australia
+Q3379261,1,1,0.0,0.0,1,0,1,All years,Philippe Augier,Other/unknown,France
+Q3379134,1,2,0.0,0.0,1,0,1,All years,Rebecca Nyandeng De Mabior,Minister,South Sudan
+Q3376791,1,1,0.0,0.0,1,0,1,All years,Zhang Ping,Legislator,China
+Q3362882,1,1,0.0,0.0,1,0,1,All years,Riad Salameh,Other/unknown,Lebanon
+Q336285,1,1,0.0,0.0,1,0,1,All years,Thomas Remengesau Jr.,Head of state/govt,Palau
+Q336234,1,1,0.0,0.0,1,0,1,All years,Lucio GutiÃ©rrez,Head of state/govt,Ecuador
+Q3361453,1,1,0.0,0.0,1,0,1,All years,Gill Marcus,Other/unknown,South Africa
+Q355874,1,1,0.0,0.0,1,0,1,All years,Petru Lucinschi,Head of state/govt,Moldova
+Q3355314,1,1,0.0,0.0,1,0,1,All years,Zoran Jolevski,Diplomat,North Macedonia
+Q3349989,1,3,0.0,0.0,1,0,1,All years,Ojo Maduekwe,Minister,Nigeria
+Q3348637,1,1,0.0,0.0,1,0,1,All years,Amar Singh,Legislator,India
+Q3345838,1,1,0.0,0.0,1,0,1,All years,NoÃ«l Kinsella,Legislator,Canada
+Q3345004,1,2,0.0,0.0,1,0,1,All years,Ashok Gehlot,Minister,India
+Q333833,1,2,0.0,0.0,1,0,1,All years,Franco Frattini,Minister,Italy
+Q333828,1,1,0.0,0.0,1,0,1,All years,Paul Murphy,Legislator,Ireland
+Q333056,1,1,0.0,0.0,1,0,1,All years,"George Robertson, Baron Robertson of Port Ellen",International org.,
+Q33275664,1,1,0.0,0.0,1,0,1,All years,Christophe Gomart,Military,France
+Q332576,1,1,0.0,0.0,1,0,1,All years,Michael Martin,Minister,Ireland
+Q332544,1,1,0.0,0.0,1,0,1,All years,Rowsch Shaways,Minister,Iraq
+Q332509,1,1,0.0,0.0,1,0,1,All years,Madhav Kumar Nepal,Minister,Nepal
+Q332493,1,1,0.0,0.0,1,0,1,All years,George Osborne,Head of state/govt,United Kingdom
+Q335697,1,1,0.0,0.0,1,0,1,All years,Anthony Albanese,Minister,Australia
+Q355843,1,1,0.0,0.0,1,0,1,All years,SÅ‚awomir Skrzypek,Head of state/govt,Poland
+Q355053,1,6,0.0,0.0,1,0,1,All years,Michael Jeffery,Head of state/govt,Australia
+Q3530771,1,1,0.0,0.0,1,0,1,All years,Thomas J. Lawson,Military,Canada
+Q3520217,1,1,0.0,0.0,1,0,1,All years,Prithviraj Chavan,Minister,India
+Q3518489,1,2,0.0,0.0,1,0,1,All years,Jaswant Singh,Minister,India
+Q3518225,1,1,0.0,0.0,1,0,1,All years,Teodor Baconschi,Minister,Romania
+Q3518013,1,2,0.0,0.0,1,0,1,All years,Nara Chandrababu Naidu,Minister,India
+Q351014,1,1,0.0,0.0,1,0,1,All years,Alexei Kudrin,Minister,Russia
+Q3509669,1,1,0.0,0.0,1,0,1,All years,Petr GandaloviÄ,Diplomat,Czech Republic
+Q3506475,1,1,0.0,0.0,1,0,1,All years,Rajnath Singh,Minister,India
+Q3503748,1,1,0.0,0.0,1,0,1,All years,Sun Jiazheng,Minister,China
+Q3497271,1,1,0.0,0.0,1,0,1,All years,Livia KlausovÃƒÂ¡,Head of state/govt,Czech Republic
+Q34935,1,1,0.0,0.0,1,0,1,All years,Muhammad Rafiq Tarar,Head of state/govt,Pakistan
+Q339081,1,1,0.0,0.0,1,0,1,All years,Wunna Maung Lwin,Minister,Myanmar
+Q3481745,1,2,0.0,0.0,1,0,1,All years,Sheila Martin,Minister,Canada
+Q348143,1,1,0.0,0.0,1,0,1,All years,Fan Changlong,Military,China
+Q347586,1,1,0.0,0.0,1,0,1,All years,Nasser Al-Rashid,Other/unknown,Saudi Arabia
+Q344153,1,2,0.0,0.0,1,0,1,All years,Ä°smail Cem,Minister,Turkey
+Q3439757,1,1,0.0,0.0,1,0,1,All years,Rohitha Bogollagama,Minister,Sri Lanka
+Q3438181,1,1,0.0,0.0,1,0,1,All years,Rodger Cuzner,Legislator,Canada
+Q3434213,1,1,0.0,0.0,1,0,1,All years,Rob Merrifield,Minister,Canada
+Q343312,1,4,0.0,0.0,1,0,1,All years,Bruno Branciforte,Military,Italy
+Q3431743,1,1,0.0,0.0,1,0,1,All years,Ridha Grira,Minister,Tunisia
+Q3416205,1,1,0.0,0.0,1,0,1,All years,Rachid Talbi Alami,Head of state/govt,Morocco
+Q3407316,1,1,0.0,0.0,1,0,1,All years,Prokopis Pavlopoulos,Head of state/govt,Greece
+Q3401447,1,1,0.0,0.0,1,0,1,All years,Pravind Jugnauth,Minister,Mauritius
+Q3397553,1,1,0.0,0.0,1,0,1,All years,Miroslav Stojanovski,Military,North Macedonia
+Q3482398,1,1,0.0,0.0,1,0,1,All years,Shivshankar Menon,Other/unknown,India
+Q217500,1,1,0.0,0.0,1,0,1,All years,Rupiah Banda,Head of state/govt,Zambia
+Q217070,1,1,0.0,0.0,1,0,1,All years,Laurent Fabius,Minister,France
+Q2157733,1,1,0.0,0.0,1,0,1,All years,John Sawers,Other/unknown,United Kingdom
+Q215569,1,4,0.0,0.0,1,0,1,All years,Alain JuppÃ©,Other/unknown,France
+Q21511883,1,1,0.0,0.0,1,0,1,All years,Brigitte Macron,Head of state/govt,France
+Q2134696,1,1,0.0,0.0,1,0,1,All years,Alejandro Giammattei,Head of state/govt,Guatemala
+Q2130427,1,1,0.0,0.0,1,0,1,All years,Ramtan Liamamira,Minister,Algeria
+Q212765,1,1,0.0,0.0,1,0,1,All years,MikulÃƒÂ¡Ã…Â¡ Dzurinda,Minister,Slovakia
+Q2125645,1,2,0.0,0.0,1,0,1,All years,Wolfgang SchÃ¼ssel,Head of state/govt,Austria
+Q2117887,1,1,0.0,0.0,1,0,1,All years,Yang Xiong,Other/unknown,China
+Q2112764,1,1,0.0,0.0,1,0,1,All years,Nikos Anastasiades,Head of state/govt,Cyprus
+Q211000,1,6,0.0,0.0,1,0,1,All years,Antonio Saca,Head of state/govt,El Salvador
+Q28221960,1,1,0.0,0.0,1,0,1,All years,Abdel-Wahab al-Saadi,Military,Iraq
+Q21063459,1,1,0.0,0.0,1,0,1,All years,Babagana Monguno,Military,Nigeria
+Q21062617,1,1,0.0,0.0,1,0,1,All years,Usman Oyibe Jibrin,Military,Nigeria
+Q21005151,1,1,0.0,0.0,1,0,1,All years,Elias Bou Saab,Legislator,Lebanon
+Q20985949,1,1,0.0,0.0,1,0,1,All years,Ye Myint,Other/unknown,Myanmar
+Q2096387,1,1,0.0,0.0,1,0,1,All years,Shehbaz Sharif,Minister,Pakistan
+Q208879,1,1,0.0,0.0,1,0,1,All years,HalldÃƒÂ³r ÃƒÂsgrÃƒÂ­msson,Minister,Iceland
+Q2088195,1,1,0.0,0.0,1,0,1,All years,Aviv Kochavi,Military,Israel
+Q208355,1,1,0.0,0.0,1,0,1,All years,Joaquim Chissano,Head of state/govt,Mozambique
+Q208100,1,2,0.0,0.0,1,0,1,All years,Lamberto Dini,Minister,Italy
+Q207655,1,1,0.0,0.0,1,0,1,All years,Kjell Magne Bondevik,Minister,Norway
+Q207473,1,2,0.0,0.0,1,0,1,All years,CÄƒlin Popescu-TÄƒriceanu,Minister,Romania
+Q2074445,1,1,0.0,0.0,1,0,1,All years,Peter D. Robinson,Minister,Ireland
+Q207426,1,9,0.0,0.0,1,0,1,All years,Alejandro Toledo,Head of state/govt,Peru
+Q210734,1,1,0.0,0.0,1,0,1,All years,Youssou Nâ€™Dour,Minister,Senegal
+Q232639,1,1,0.0,0.0,1,0,1,All years,Margaret Beckett,Minister,United Kingdom
+Q2325136,1,1,0.0,0.0,1,0,1,All years,Alfonso Petersen,Other/unknown,Mexico
+Q2317216,1,4,0.0,0.0,1,0,1,All years,Silverio Cavazos,Other/unknown,Mexico
+Q2313952,1,1,0.0,0.0,1,0,1,All years,Kateryna Yushchenko,Other/unknown,Ukraine
+Q230539,1,1,0.0,0.0,1,0,1,All years,ValÃ©rie Trierweiler,Other/unknown,France
+Q23020336,1,6,0.0,0.0,1,0,1,All years,Mohammed bin Abdulrahman Al Thani,Royalty,Qatar
+Q2301433,1,1,0.0,0.0,1,0,1,All years,Songkitti Jaggabatara,Military,Thailand
+Q2298768,1,2,0.0,0.0,1,0,1,All years,Khalifa Belqasim Haftar,Military,Libya
+Q22974711,1,2,0.0,0.0,1,0,1,All years,Lee Soo-hyuck,Diplomat,South Korea
+Q229493,1,1,0.0,0.0,1,0,1,All years,Nino Burjanadze,Head of state/govt,Georgia
+Q22934512,1,1,0.0,0.0,1,0,1,All years,Hakim Benchamach,Minister,Morocco
+Q2280369,1,4,0.0,0.0,1,0,1,All years,Shunji Yanai,Diplomat,Japan
+Q22690848,1,2,0.0,0.0,1,0,1,All years,Youssef bin Ali Al Idrissi,Military,Saudi Arabia
+Q217794,1,2,0.0,0.0,1,0,1,All years,Abel Pacheco,Head of state/govt,Costa Rica
+Q2262885,1,1,0.0,0.0,1,0,1,All years,Sebastian Kurz,Head of state/govt,Austria
+Q224488,1,1,0.0,0.0,1,0,1,All years,NamÄ±k Tan,Diplomat,Turkey
+Q223568,1,1,0.0,0.0,1,0,1,All years,Omar Suleiman,Intelligence/security,Egypt
+Q222031,1,1,0.0,0.0,1,0,1,All years,Alexander VuÄiÄ‡,Head of state/govt,Serbia
+Q2218688,1,1,0.0,0.0,1,0,1,All years,VÃ­ctor Cervera Pacheco,Other/unknown,Mexico
+Q2213506,1,1,0.0,0.0,1,0,1,All years,Ma Xiaotian,Military,China
+Q2213434,1,1,0.0,0.0,1,0,1,All years,Cui Tiankai,Other/unknown,China
+Q2212953,1,1,0.0,0.0,1,0,1,All years,Ivan Fernald,Minister,Suriname
+Q2207912,1,1,0.0,0.0,1,0,1,All years,Leonel Efrain Cota MontaÃ±o,Other/unknown,Mexico
+Q220526,1,2,0.0,0.0,1,0,1,All years,Zoran Konjanovski,Minister,North Macedonia
+Q220296,1,1,0.0,0.0,1,0,1,All years,Ahmed Nazif,Minister,Egypt
+Q218863,1,1,0.0,0.0,1,0,1,All years,Ahmad Zia Massoud,Minister,Afghanistan
+Q21822,1,1,0.0,0.0,1,0,1,All years,Bo Xilai,Minister,China
+Q22688029,1,1,0.0,0.0,1,0,1,All years,Duaij bin Salman Al Khalifa,Military,Bahrain
+Q1998925,1,1,0.0,0.0,1,0,1,All years,Turki I bin Abdul,Royalty,Saudi Arabia
+Q19961808,1,2,0.0,0.0,1,0,1,All years,Elisavet Papazoi,Minister,Greece
+Q19957726,1,3,0.0,0.0,1,0,1,All years,Ernestina Naadu Mills,Other/unknown,Ghana
+Q19946887,1,3,0.0,0.0,1,0,1,All years,Enrique LarraÃ±aga,Military,Chile
+Q19943,1,4,0.0,0.0,1,0,1,All years,Juan Carlos I of Spain,Royalty,Spain
+Q19908720,1,1,0.0,0.0,1,0,1,All years,Gennady Sukhikh,Other/unknown,Russia
+Q19878,1,3,0.0,0.0,1,0,1,All years,Muammar Gaddafi,Military,Libya
+Q19825815,1,1,0.0,0.0,1,0,1,All years,Chiu Kuo-cheng,Military,Taiwan
+Q1981824,1,1,0.0,0.0,1,0,1,All years,Sergey Bogdanchikov,Head of state/govt,Russia
+Q198003,1,1,0.0,0.0,1,0,1,All years,Zhou Qiang,Other/unknown,China
+Q197180,1,1,0.0,0.0,1,0,1,All years,Zhang Gaoli,Head of state/govt,China
+Q19673630,1,1,0.0,0.0,1,0,1,All years,Mahmoud al-Subaihi,Minister,Yemen
+Q20722948,1,2,0.0,0.0,1,0,1,All years,Lordina Mahama,Other/unknown,Ghana
+Q19663463,1,1,0.0,0.0,1,0,1,All years,Tony Radakin,Military,United Kingdom
+Q19663253,1,2,0.0,0.0,1,0,1,All years,Rajinder Khanna,Other/unknown,India
+Q19661549,1,1,0.0,0.0,1,0,1,All years,Abdulla bin Mohammed bin Saud Al Thani,Other/unknown,Qatar
+Q19609510,1,1,0.0,0.0,1,0,1,All years,Bashir Ahmed,Other/unknown,Pakistan
+Q196070,1,1,0.0,0.0,1,0,1,All years,Uhuru Kenyatta,Head of state/govt,Kenya
+Q19599290,1,1,0.0,0.0,1,0,1,All years,Lee Sun-jin,Military,South Korea
+Q19513511,1,3,0.0,0.0,1,0,1,All years,Monica Geingos,Other/unknown,Namibia
+Q1947252,1,1,0.0,0.0,1,0,1,All years,Nout Wellink,Other/unknown,Netherlands
+Q194443,1,3,0.0,0.0,1,0,1,All years,Milan KuÄan,Head of state/govt,Slovenia
+Q1941436,1,1,0.0,0.0,1,0,1,All years,Ä°dris Naim Åžahin,Minister,Turkey
+Q193874,1,1,0.0,0.0,1,0,1,All years,Mohammed V of Morocco,Royalty,Morocco
+Q193675,1,1,0.0,0.0,1,0,1,All years,Jan Fischer,Minister,Czech Republic
+Q193238,1,2,0.0,0.0,1,0,1,All years,Festus Mogae,Head of state/govt,Botswana
+Q19667789,1,1,0.0,0.0,1,0,1,All years,Saoud Bin Abdulrahman Al Thani,Minister,Qatar
+Q2067775,1,1,0.0,0.0,1,0,1,All years,Alberto Romulo,Other/unknown,Philippines
+Q206719,1,2,0.0,0.0,1,0,1,All years,Mathieu KÃƒÂ©rÃƒÂ©kou,Head of state/govt,Benin
+Q2067182,1,1,0.0,0.0,1,0,1,All years,Taher Masri,Head of state/govt,Jordan
+Q206479,1,3,0.0,0.0,1,0,1,All years,Ãƒâ€°mile Lahoud,Head of state/govt,Lebanon
+Q206471,1,1,0.0,0.0,1,0,1,All years,Borut Pahor,Head of state/govt,Slovenia
+Q20645466,1,1,0.0,0.0,1,0,1,All years,Juliana Awada,Other/unknown,Argentina
+Q206421,1,4,0.0,0.0,1,0,1,All years,Konstantinos Stephanopoulos,Head of state/govt,Greece
+Q2063696,1,2,0.0,0.0,1,0,1,All years,Y. S. Rajasekhara Reddy,Minister,India
+Q206209,1,2,0.0,0.0,1,0,1,All years,Salaheddine Mezouar,Minister,Morocco
+Q2060455,1,3,0.0,0.0,1,0,1,All years,Mikhail Margelov,Legislator,Russia
+Q206,1,12,0.0,0.0,1,0,1,All years,Stephen Harper,Minister,Canada
+Q20564905,1,1,0.0,0.0,1,0,1,All years,Itthipol Khunpluem,Minister,Thailand
+Q205642,1,1,0.0,0.0,1,0,1,All years,Ferenc MÃƒÂ¡dl,Head of state/govt,Hungary
+Q2002390,1,1,0.0,0.0,1,0,1,All years,Nello Musumeci,Head of state/govt,Italy
+Q2055676,1,1,0.0,0.0,1,0,1,All years,Gabino CuÃ© Monteagudo,Other/unknown,Mexico
+Q20534287,1,2,0.0,0.0,1,0,1,All years,Kadyr Gulamov,Other/unknown,Uzbekistan
+Q20500334,1,1,0.0,0.0,1,0,1,All years,Simeon Simeonov,Military,Bulgaria
+Q2042859,1,1,0.0,0.0,1,0,1,All years,Mariano Francisco Saynez Mendoza,Military,Mexico
+Q20385277,1,1,0.0,0.0,1,0,1,All years,Ahmad Asiri,Military,Saudi Arabia
+Q2034366,1,2,0.0,0.0,1,0,1,All years,August Van Daele,Military,Belgium
+Q202209,1,3,0.0,0.0,1,0,1,All years,Giuliano Amato,Head of state/govt,Italy
+Q201589,1,1,0.0,0.0,1,0,1,All years,Queen Letizia of Spain,Royalty,Spain
+Q20151,1,1,0.0,0.0,1,0,1,All years,Li Ka-shing,Other/unknown,
+Q201327,1,1,0.0,0.0,1,0,1,All years,Gyanendra of Nepal,Royalty,Nepal
+Q20090884,1,1,0.0,0.0,1,0,1,All years,Hilda C. Heine,Head of state/govt,Marshall Islands
+Q20055561,1,1,0.0,0.0,1,0,1,All years,Rishi Sunak,Minister,United Kingdom
+Q20045743,1,1,0.0,0.0,1,0,1,All years,Eduardo Bacellar Leal Ferreira,Military,Brazil
+Q20558348,1,1,0.0,0.0,1,0,1,All years,Don Pramudwinai,Diplomat,Thailand
+Q2723759,1,1,0.0,0.0,1,0,1,All years,Yashwant Sinha,Minister,India
+Q272117,1,1,0.0,0.0,1,0,1,All years,Princess Haya bint Al-Hussein of Jordan,Royalty,Jordan
+Q271966,1,1,0.0,0.0,1,0,1,All years,Adrian NÄƒstase,Minister,Romania
+Q27088299,1,2,0.0,0.0,1,0,1,All years,Hussam bin Abdulmohsen ALANGARI,Military,Saudi Arabia
+Q27058418,1,1,0.0,0.0,1,0,1,All years,Khurelsukh Ukhnaa,Minister,Mongolia
+Q27050024,1,1,0.0,0.0,1,0,1,All years,Hamdullah Mohib,Other/unknown,Afghanistan
+Q26923364,1,1,0.0,0.0,1,0,1,All years,Thandiwe Banda,Other/unknown,Zambia
+Q268099,1,1,0.0,0.0,1,0,1,All years,Veronica Lario,Head of state/govt,Italy
+Q2670877,1,1,0.0,0.0,1,0,1,All years,Dorji Wangmo,Royalty,Bhutan
+Q26704407,1,1,0.0,0.0,1,0,1,All years,Ahmed Ali Al-Ashwal,Military,Yemen
+Q2657523,1,4,0.0,0.0,1,0,1,All years,HayrÃ¼nnisa GÃ¼l,Minister,Turkey
+Q265479,1,1,0.0,0.0,1,0,1,All years,Achille Variati,Other/unknown,Italy
+Q233282,1,6,0.0,0.0,1,0,1,All years,Lyudmila Ocheretnaya,Other/unknown,Russia
+Q2646393,1,4,0.0,0.0,1,0,1,All years,Guillermo GalvÃ¡n GalvÃ¡n,Military,Mexico
+Q2640587,1,1,0.0,0.0,1,0,1,All years,Alexey Ulyukaev,Minister,Russia
+Q2636948,1,3,0.0,0.0,1,0,1,All years,Samantha Cameron,Other/unknown,United Kingdom
+Q2634821,1,2,0.0,0.0,1,0,1,All years,Seyran Ohanyan,Minister,Armenia
+Q2631716,1,1,0.0,0.0,1,0,1,All years,Ranko KrivokapiÄ‡,Legislator,Montenegro
+Q2630429,1,1,0.0,0.0,1,0,1,All years,Valentin Korabelnikov,Intelligence/security,Russia
+Q26251264,1,1,0.0,0.0,1,0,1,All years,Ishaya Ibrahim,Military,Nigeria
+Q262346,1,1,0.0,0.0,1,0,1,All years,Abdulsalami Abubakar,Head of state/govt,Nigeria
+Q2607345,1,1,0.0,0.0,1,0,1,All years,Kenneth Marende,Legislator,Kenya
+Q260218,1,1,0.0,0.0,1,0,1,All years,Trinidad JimÃ©nez,Minister,Spain
+Q2600349,1,1,0.0,0.0,1,0,1,All years,Sa'ad Khair,Intelligence/security,Jordan
+Q2600091,1,1,0.0,0.0,1,0,1,All years,Murad Muwafi,Intelligence/security,Egypt
+Q2598165,1,1,0.0,0.0,1,0,1,All years,Edward Hagedorn,Legislator,Philippines
+Q26464804,1,2,0.0,0.0,1,0,1,All years,Levan Izoria,Minister,Georgia
+Q2821412,1,1,0.0,0.0,1,0,1,All years,Abdul Hafeez Shaikh,Royalty,Pakistan
+Q2821266,1,2,0.0,0.0,1,0,1,All years,Abderrahmane Sbai,Minister,Morocco
+Q2821151,1,1,0.0,0.0,1,0,1,All years,Abdellatif Loudiyi,Minister,Morocco
+Q28146442,1,1,0.0,0.0,1,0,1,All years,Alfonso Manuel Portabales VÃ¡zquez,Diplomat,Spain
+Q28062393,1,1,0.0,0.0,1,0,1,All years,Qadam Shah Shahim,Military,Afghanistan
+Q28051634,1,1,0.0,0.0,1,0,1,All years,John Chipman,Military,United Kingdom
+Q27942264,1,1,0.0,0.0,1,0,1,All years,Uday Maitra,Other/unknown,India
+Q27941657,1,1,0.0,0.0,1,0,1,All years,DuÅ¡ko MarkoviÄ‡,Minister,Montenegro
+Q27926906,1,1,0.0,0.0,1,0,1,All years,Julio Ligorria,Diplomat,Guatemala
+Q27916509,1,2,0.0,0.0,1,0,1,All years,Jamal Uddin Ahmed,Military,Bangladesh
+Q27832633,1,2,0.0,0.0,1,0,1,All years,Humayoon Azizi,Other/unknown,Afghanistan
+Q278144,1,1,0.0,0.0,1,0,1,All years,Abdus Samad Azad,Minister,Bangladesh
+Q27804590,1,1,0.0,0.0,1,0,1,All years,Tariq Ahmed Siddiq,Minister,Bangladesh
+Q272559,1,3,0.0,0.0,1,0,1,All years,LeÃ¯la Ben Ali,Head of state/govt,Tunisia
+Q27736287,1,1,0.0,0.0,1,0,1,All years,Molla Fazle Akbar,Military,Bangladesh
+Q27736271,1,1,0.0,0.0,1,0,1,All years,Sheikh Mamun Khaled,Royalty,Bangladesh
+Q27736262,1,1,0.0,0.0,1,0,1,All years,ATM Amin,Military,Bangladesh
+Q27501273,1,2,0.0,0.0,1,0,1,All years,Sirwan Barzani,Minister,Iraq
+Q27464927,1,1,0.0,0.0,1,0,1,All years,Charlotte Scott,Other/unknown,Zambia
+Q274594,1,1,0.0,0.0,1,0,1,All years,Carolina Barco,Minister,Colombia
+Q2745305,1,1,0.0,0.0,1,0,1,All years,Omar Abdullah,Minister,India
+Q2738322,1,1,0.0,0.0,1,0,1,All years,Riho Terras,Military,Estonia
+Q273812,1,4,0.0,0.0,1,0,1,All years,Jaap de Hoop Scheffer,International org.,
+Q273791,1,4,0.0,0.0,1,0,1,All years,Edith Lucie Bongo,Other/unknown,
+Q2737847,1,1,0.0,0.0,1,0,1,All years,Gebran Bassil,Minister,Lebanon
+Q272670,1,1,0.0,0.0,1,0,1,All years,David Miliband,Other/unknown,United Kingdom
+Q272588,1,2,0.0,0.0,1,0,1,All years,Abdullah Ahmad Badawi,Minister,Malaysia
+Q27756289,1,1,0.0,0.0,1,0,1,All years,Robert Dussey,Minister,Togo
+Q24263737,1,1,0.0,0.0,1,0,1,All years,Stanley Kao,Other/unknown,Taiwan
+Q24248226,1,1,0.0,0.0,1,0,1,All years,Luvsannamsrain Oyun-Erdene,Minister,Mongolia
+Q2410548,1,4,0.0,0.0,1,0,1,All years,Marta SahagÃºn,Other/unknown,Mexico
+Q240575,1,1,0.0,0.0,1,0,1,All years,Queen Noor of Jordan,Royalty,Jordan
+Q24053602,1,1,0.0,0.0,1,0,1,All years,Zanele Dlamini Mbeki,Head of state/govt,South Africa
+Q24051609,1,1,0.0,0.0,1,0,1,All years,Anna Maria Anders,Legislator,Poland
+Q23940525,1,1,0.0,0.0,1,0,1,All years,KÅji Matsuzaki,Other/unknown,Japan
+Q23891145,1,1,0.0,0.0,1,0,1,All years,Enzo Vecciarelli,Military,Italy
+Q238774,1,1,0.0,0.0,1,0,1,All years,Moza bint Nasser Al Missned,Royalty,Qatar
+Q2380760,1,3,0.0,0.0,1,0,1,All years,Gerardo Clemente Ricardo Vega GarcÃ­a,Military,Mexico
+Q2379592,1,1,0.0,0.0,1,0,1,All years,Carol Kidu,Other/unknown,Papua New Guinea
+Q23772685,1,1,0.0,0.0,1,0,1,All years,Chum Bunrong,Diplomat,Cambodia
+Q2595973,1,1,0.0,0.0,1,0,1,All years,VÆ°Æ¡ng ÄÃ¬nh Huá»‡,Legislator,Vietnam
+Q237143,1,1,0.0,0.0,1,0,1,All years,Hanan Ashrawi,Military,State of Palestine
+Q2370402,1,2,0.0,0.0,1,0,1,All years,Margarita Zavala de CalderÃ³n,Other/unknown,Mexico
+Q2367193,1,1,0.0,0.0,1,0,1,All years,Konstantin Titov,Other/unknown,Russia
+Q235996,1,2,0.0,0.0,1,0,1,All years,Jenny Shipley,Minister,New Zealand
+Q2354992,1,1,0.0,0.0,1,0,1,All years,Bikram Singh,Military,India
+Q235454,1,3,0.0,0.0,1,0,1,All years,K. R. Narayanan,Head of state/govt,India
+Q23530,1,9,0.0,0.0,1,0,1,All years,Dmitry Medvedev,Head of state/govt,Russia
+Q235137,1,1,0.0,0.0,1,0,1,All years,Keiko Fujimori,Other/unknown,Peru
+Q234814,1,1,0.0,0.0,1,0,1,All years,Khaleda Zia,Other/unknown,Bangladesh
+Q2345173,1,1,0.0,0.0,1,0,1,All years,Hind Khoury,Minister,State of Palestine
+Q234259,1,2,0.0,0.0,1,0,1,All years,Svetlana Medvedeva,Head of state/govt,Russia
+Q234190,1,2,0.0,0.0,1,0,1,All years,Dalia Itzik,Legislator,Israel
+Q2337592,1,1,0.0,0.0,1,0,1,All years,Stefan Schostok,Other/unknown,Germany
+Q23771428,1,1,0.0,0.0,1,0,1,All years,Prak Sokhon,Minister,Cambodia
+Q2585447,1,1,0.0,0.0,1,0,1,All years,Taieb Fassi Fihri,Minister,Morocco
+Q257156,1,1,0.0,0.0,1,0,1,All years,Inonge Mbikusita-Lewanika,Diplomat,Zambia
+Q2571494,1,1,0.0,0.0,1,0,1,All years,Carlos CÃ©sar,Head of state/govt,Portugal
+Q2569345,1,1,0.0,0.0,1,0,1,All years,Henry Puna,Minister,Cook Islands
+Q256294,1,1,0.0,0.0,1,0,1,All years,Bertrand DelanoÃ«,Other/unknown,France
+Q2562313,1,1,0.0,0.0,1,0,1,All years,Ismail Isakov,Minister,Kyrgyzstan
+Q2551,1,2,0.0,0.0,1,0,1,All years,Johannes Rau,Head of state/govt,Germany
+Q25464528,1,1,0.0,0.0,1,0,1,All years,Rosan Roeslani,Diplomat,Indonesia
+Q25455436,1,1,0.0,0.0,1,0,1,All years,Mohammad Al-Malkawi,Minister,Jordan
+Q25450147,1,3,0.0,0.0,1,0,1,All years,Abdul Rahman Al Banyan,Military,Saudi Arabia
+Q2538,1,2,0.0,0.0,1,0,1,All years,Joachim Gauck,Head of state/govt,Germany
+Q253667,1,2,0.0,0.0,1,0,1,All years,Suha Arafat,Other/unknown,
+Q25351017,1,1,0.0,0.0,1,0,1,All years,Delfin Lorenzana,Other/unknown,Philippines
+Q243623,1,1,0.0,0.0,1,0,1,All years,Samak Sundaravej,Minister,Thailand
+Q2529738,1,1,0.0,0.0,1,0,1,All years,Vlado BuÄkovski,Minister,North Macedonia
+Q2529628,1,1,0.0,0.0,1,0,1,All years,Vlastimil Picek,Military,Czech Republic
+Q25183790,1,1,0.0,0.0,1,0,1,All years,Heather Smith,Minister,Australia
+Q2512500,1,8,0.0,0.0,1,0,1,All years,Safar Abiyev,Minister,Azerbaijan
+Q250924,1,1,0.0,0.0,1,0,1,All years,Ãlvaro Colom,Head of state/govt,Guatemala
+Q250834,1,1,0.0,0.0,1,0,1,All years,Ãlvaro Enrique ArzÃº Irigoyen,Head of state/govt,Guatemala
+Q25039567,1,1,0.0,0.0,1,0,1,All years,Masood Ahmad Azizi,Minister,Afghanistan
+Q2502814,1,8,0.0,0.0,1,0,1,All years,Lazar Elenovski,Minister,North Macedonia
+Q24977370,1,1,0.0,0.0,1,0,1,All years,Honeylet AvanceÃƒÂ±a,Head of state/govt,Philippines
+Q24957799,1,1,0.0,0.0,1,0,1,All years,VÃµ Thá»‹ Ãnh XuÃ¢n,Minister,Vietnam
+Q2494,1,3,0.0,0.0,1,0,1,All years,Benedict XVI,Other/unknown,
+Q249206,1,4,0.0,0.0,1,0,1,All years,MevlÃ¼t Ã‡avuÅŸoÄŸlu,Minister,Turkey
+Q244471,1,1,0.0,0.0,1,0,1,All years,Tsvetan Tsvetanov,Minister,Bulgaria
+Q2530,1,7,0.0,0.0,1,0,1,All years,Gerhard SchrÃ¶der,Head of state/govt,Germany

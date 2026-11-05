@@ -6,6 +6,7 @@
   ],
   "n_agencies": 107,
   "agency_missing": 0,
+  "n_agencies_std": 58,
   "recip_qid_share": 0.7101074031453778,
   "giver_qid_share": 0.7627541235136172,
   "recip_unique_qids": 1026,
@@ -45,5 +46,764 @@
   "value_median": 600.0,
   "role_branch_head_state_whitehouse": 39.482623464854974,
   "role_branch_military_defense": 44.074074074074076,
-  "role_branch_other_intel": 98.6272439281943
+  "role_branch_other_intel": 98.6272439281943,
+  "giver_edu_known_people": 1526,
+  "giver_us_educated_people": 288,
+  "giver_us_pme_people": 27,
+  "giver_us_educated_gift_share": 0.21979835013748855,
+  "giver_us_educated_by_branch": {
+    "Defense": 0.185,
+    "Diplomatic": 0.259,
+    "Intelligence": 0.0,
+    "Judicial": 0.0,
+    "Legislative": 0.261,
+    "Other executive": 0.164,
+    "White House": 0.214
+  },
+  "giver_us_pme_by_branch": {
+    "Defense": 0.03,
+    "Diplomatic": 0.013,
+    "Intelligence": 0.0,
+    "Judicial": 0.0,
+    "Legislative": 0.027,
+    "Other executive": 0.0,
+    "White House": 0.02
+  },
+  "recip_profile": {
+    "White House": {
+      "People": "135",
+      "Female": "35\\%",
+      "Born (median)": "1961",
+      "Military": "10\\%",
+      "Diplomat": "31\\%",
+      "Law": "29\\%",
+      "Party member": "65\\%",
+      "Studied abroad": "21\\%"
+    },
+    "Diplomatic": {
+      "People": "223",
+      "Female": "32\\%",
+      "Born (median)": "1954",
+      "Military": "5\\%",
+      "Diplomat": "71\\%",
+      "Law": "11\\%",
+      "Party member": "30\\%",
+      "Studied abroad": "17\\%"
+    },
+    "Defense": {
+      "People": "252",
+      "Female": "12\\%",
+      "Born (median)": "1956",
+      "Military": "74\\%",
+      "Diplomat": "6\\%",
+      "Law": "4\\%",
+      "Party member": "17\\%",
+      "Studied abroad": "7\\%"
+    },
+    "Legislative": {
+      "People": "278",
+      "Female": "17\\%",
+      "Born (median)": "1951",
+      "Military": "13\\%",
+      "Diplomat": "6\\%",
+      "Law": "42\\%",
+      "Party member": "87\\%",
+      "Studied abroad": "9\\%"
+    },
+    "Intelligence": {
+      "People": "19",
+      "Female": "11\\%",
+      "Born (median)": "1953",
+      "Military": "47\\%",
+      "Diplomat": "11\\%",
+      "Law": "16\\%",
+      "Party member": "47\\%",
+      "Studied abroad": "11\\%"
+    },
+    "Other executive": {
+      "People": "155",
+      "Female": "19\\%",
+      "Born (median)": "1952",
+      "Military": "7\\%",
+      "Diplomat": "3\\%",
+      "Law": "20\\%",
+      "Party member": "41\\%",
+      "Studied abroad": "15\\%"
+    },
+    "Judicial": {
+      "People": "19",
+      "Female": "21\\%",
+      "Born (median)": "1948",
+      "Military": "0\\%",
+      "Diplomat": "0\\%",
+      "Law": "95\\%",
+      "Party member": "11\\%",
+      "Studied abroad": "22\\%"
+    },
+    "All": {
+      "People": "1026",
+      "Female": "21\\%",
+      "Born (median)": "1954",
+      "Military": "25\\%",
+      "Diplomat": "21\\%",
+      "Law": "22\\%",
+      "Party member": "46\\%",
+      "Studied abroad": "12\\%"
+    }
+  },
+  "shared": {
+    "A. All branches": {
+      "Same gender": {
+        "gifts": 4513,
+        "obs": 0.7629,
+        "exp_year": 0.6999,
+        "exp_branch_year": 0.7106,
+        "ratio": 1.0736,
+        "ratio_year": 1.09,
+        "null_lo": 0.9905,
+        "null_hi": 1.0102,
+        "p": 0.002
+      },
+      "Same professional career": {
+        "gifts": 2459,
+        "obs": 0.5165,
+        "exp_year": 0.368,
+        "exp_branch_year": 0.4872,
+        "ratio": 1.0601,
+        "ratio_year": 1.4033,
+        "null_lo": 0.9736,
+        "null_hi": 1.0244,
+        "p": 0.002
+      },
+      "Both have military careers": {
+        "gifts": 4521,
+        "obs": 0.1363,
+        "exp_year": 0.0923,
+        "exp_branch_year": 0.1299,
+        "ratio": 1.0489,
+        "ratio_year": 1.4763,
+        "null_lo": 0.9673,
+        "null_hi": 1.0319,
+        "p": 0.004
+      },
+      "Same birth cohort ($\\pm$5 years)": {
+        "gifts": 4262,
+        "obs": 0.3001,
+        "exp_year": 0.2818,
+        "exp_branch_year": 0.2864,
+        "ratio": 1.048,
+        "ratio_year": 1.0648,
+        "null_lo": 0.9652,
+        "null_hi": 1.036,
+        "p": 0.008
+      },
+      "Educated in the same country": {
+        "gifts": 3599,
+        "obs": 0.2262,
+        "exp_year": 0.2243,
+        "exp_branch_year": 0.2265,
+        "ratio": 0.9984,
+        "ratio_year": 1.0082,
+        "null_lo": 0.9788,
+        "null_hi": 1.0217,
+        "p": 0.5609
+      },
+      "Same educational institution": {
+        "gifts": 3627,
+        "obs": 0.0077,
+        "exp_year": 0.0077,
+        "exp_branch_year": 0.0068,
+        "ratio": 1.1397,
+        "ratio_year": 0.9988,
+        "null_lo": 0.7122,
+        "null_hi": 1.3421,
+        "p": 0.1996
+      },
+      "Same employer": {
+        "gifts": 559,
+        "obs": 0.0179,
+        "exp_year": 0.0104,
+        "exp_branch_year": 0.014,
+        "ratio": 1.2797,
+        "ratio_year": 1.7207,
+        "null_lo": 0.5497,
+        "null_hi": 1.5221,
+        "p": 0.1218
+      }
+    },
+    "B. Executive agencies only": {
+      "Same gender": {
+        "gifts": 2254,
+        "obs": 0.7476,
+        "exp_year": 0.7228,
+        "exp_branch_year": 0.7365,
+        "ratio": 1.015,
+        "ratio_year": 1.0342,
+        "null_lo": 0.9903,
+        "null_hi": 1.0093,
+        "p": 0.002
+      },
+      "Same professional career": {
+        "gifts": 1307,
+        "obs": 0.6228,
+        "exp_year": 0.4107,
+        "exp_branch_year": 0.5741,
+        "ratio": 1.0849,
+        "ratio_year": 1.5166,
+        "null_lo": 0.9751,
+        "null_hi": 1.0267,
+        "p": 0.002
+      },
+      "Both have military careers": {
+        "gifts": 2261,
+        "obs": 0.2371,
+        "exp_year": 0.1687,
+        "exp_branch_year": 0.2313,
+        "ratio": 1.0251,
+        "ratio_year": 1.4053,
+        "null_lo": 0.9754,
+        "null_hi": 1.0244,
+        "p": 0.022
+      },
+      "Same birth cohort ($\\pm$5 years)": {
+        "gifts": 2056,
+        "obs": 0.3512,
+        "exp_year": 0.3144,
+        "exp_branch_year": 0.3288,
+        "ratio": 1.0682,
+        "ratio_year": 1.117,
+        "null_lo": 0.9547,
+        "null_hi": 1.0464,
+        "p": 0.006
+      },
+      "Educated in the same country": {
+        "gifts": 1678,
+        "obs": 0.2122,
+        "exp_year": 0.2138,
+        "exp_branch_year": 0.2132,
+        "ratio": 0.9949,
+        "ratio_year": 0.9921,
+        "null_lo": 0.9715,
+        "null_hi": 1.025,
+        "p": 0.6527
+      },
+      "Same educational institution": {
+        "gifts": 1695,
+        "obs": 0.0094,
+        "exp_year": 0.0066,
+        "exp_branch_year": 0.0057,
+        "ratio": 1.6461,
+        "ratio_year": 1.4341,
+        "null_lo": 0.5198,
+        "null_hi": 1.5603,
+        "p": 0.01
+      },
+      "Same employer": {
+        "gifts": 191,
+        "obs": 0.0157,
+        "exp_year": 0.0054,
+        "exp_branch_year": 0.0051,
+        "ratio": 3.0695,
+        "ratio_year": 2.882,
+        "null_lo": 0.0,
+        "null_hi": 3.4691,
+        "p": 0.0579
+      }
+    }
+  },
+  "backgrounds": {
+    "profile": [
+      {
+        "": "Recipients",
+        "People": "1026",
+        "Any technical": "41\\%",
+        "Any business": "11\\%",
+        "Any political": "50\\%",
+        "Political": "30\\%",
+        "Technical": "33\\%",
+        "Business": "4\\%",
+        "Military": "19\\%",
+        "Spouse/family": "3\\%",
+        "Unknown": "11\\%"
+      },
+      {
+        "": "Givers",
+        "People": "2361",
+        "Any technical": "29\\%",
+        "Any business": "7\\%",
+        "Any political": "65\\%",
+        "Political": "48\\%",
+        "Technical": "11\\%",
+        "Business": "2\\%",
+        "Military": "13\\%",
+        "Spouse/family": "6\\%",
+        "Unknown": "19\\%"
+      }
+    ],
+    "bg_rowpct": {
+      "Political": {
+        "Political": 0.477,
+        "Technical": 0.213,
+        "Business": 0.067,
+        "Military": 0.123,
+        "Spouse/family": 0.12
+      },
+      "Technical": {
+        "Political": 0.421,
+        "Technical": 0.269,
+        "Business": 0.088,
+        "Military": 0.105,
+        "Spouse/family": 0.117
+      },
+      "Business": {
+        "Political": 0.442,
+        "Technical": 0.312,
+        "Business": 0.116,
+        "Military": 0.065,
+        "Spouse/family": 0.065
+      },
+      "Military": {
+        "Political": 0.227,
+        "Technical": 0.238,
+        "Business": 0.055,
+        "Military": 0.439,
+        "Spouse/family": 0.041
+      },
+      "Spouse/family": {
+        "Political": 0.156,
+        "Technical": 0.072,
+        "Business": 0.072,
+        "Military": 0.006,
+        "Spouse/family": 0.695
+      }
+    },
+    "bg_ratio": {
+      "Political": {
+        "Political": 1.13,
+        "Technical": 0.97,
+        "Business": 0.97,
+        "Military": 0.76,
+        "Spouse/family": 0.93
+      },
+      "Technical": {
+        "Political": 1.0,
+        "Technical": 1.22,
+        "Business": 1.28,
+        "Military": 0.65,
+        "Spouse/family": 0.91
+      },
+      "Business": {
+        "Political": 1.05,
+        "Technical": 1.42,
+        "Business": 1.68,
+        "Military": 0.4,
+        "Spouse/family": 0.51
+      },
+      "Military": {
+        "Political": 0.54,
+        "Technical": 1.08,
+        "Business": 0.8,
+        "Military": 2.72,
+        "Spouse/family": 0.32
+      },
+      "Spouse/family": {
+        "Political": 0.37,
+        "Technical": 0.33,
+        "Business": 1.04,
+        "Military": 0.04,
+        "Spouse/family": 5.41
+      }
+    },
+    "bg_gifts": {
+      "Political": 2964,
+      "Technical": 420,
+      "Business": 138,
+      "Military": 631,
+      "Spouse/family": 167
+    },
+    "office_rowpct": {
+      "Political": {
+        "Political": 0.653,
+        "Technical": 0.026,
+        "Diplomatic": 0.191,
+        "Security": 0.13
+      },
+      "Technical": {
+        "Political": 0.252,
+        "Technical": 0.382,
+        "Diplomatic": 0.143,
+        "Security": 0.224
+      },
+      "Business": {
+        "Political": 0.229,
+        "Technical": 0.314,
+        "Diplomatic": 0.4,
+        "Security": 0.057
+      },
+      "Diplomatic": {
+        "Political": 0.598,
+        "Technical": 0.05,
+        "Diplomatic": 0.227,
+        "Security": 0.125
+      },
+      "Security": {
+        "Political": 0.066,
+        "Technical": 0.014,
+        "Diplomatic": 0.049,
+        "Security": 0.871
+      }
+    },
+    "office_ratio": {
+      "Political": {
+        "Political": 1.23,
+        "Technical": 0.4,
+        "Diplomatic": 1.12,
+        "Security": 0.56
+      },
+      "Technical": {
+        "Political": 0.47,
+        "Technical": 5.77,
+        "Diplomatic": 0.84,
+        "Security": 0.96
+      },
+      "Business": {
+        "Political": 0.43,
+        "Technical": 4.75,
+        "Diplomatic": 2.35,
+        "Security": 0.25
+      },
+      "Diplomatic": {
+        "Political": 1.13,
+        "Technical": 0.75,
+        "Diplomatic": 1.33,
+        "Security": 0.54
+      },
+      "Security": {
+        "Political": 0.12,
+        "Technical": 0.21,
+        "Diplomatic": 0.29,
+        "Security": 3.75
+      }
+    },
+    "office_gifts": {
+      "Political": 5469,
+      "Technical": 841,
+      "Business": 35,
+      "Diplomatic": 361,
+      "Security": 954
+    },
+    "nature": [
+      {
+        "Background": "Giver: Political",
+        "Gifts": "4688",
+        "Median (\\$)": "570.0",
+        "$>$\\$5k": "7\\%",
+        "Jewelry": "13\\%",
+        "Watch": "7\\%",
+        "Art, decor": "49\\%",
+        "Textile": "4\\%",
+        "Weapon": "8\\%",
+        "Book": "3\\%",
+        "Food": "2\\%",
+        "Travel": "1\\%"
+      },
+      {
+        "Background": "Giver: Technical",
+        "Gifts": "588",
+        "Median (\\$)": "500.0",
+        "$>$\\$5k": "4\\%",
+        "Jewelry": "10\\%",
+        "Watch": "5\\%",
+        "Art, decor": "51\\%",
+        "Textile": "5\\%",
+        "Weapon": "9\\%",
+        "Book": "3\\%",
+        "Food": "2\\%",
+        "Travel": "3\\%"
+      },
+      {
+        "Background": "Giver: Business",
+        "Gifts": "222",
+        "Median (\\$)": "727.5",
+        "$>$\\$5k": "10\\%",
+        "Jewelry": "13\\%",
+        "Watch": "8\\%",
+        "Art, decor": "32\\%",
+        "Textile": "19\\%",
+        "Weapon": "4\\%",
+        "Book": "1\\%",
+        "Food": "1\\%",
+        "Travel": "4\\%"
+      },
+      {
+        "Background": "Giver: Military",
+        "Gifts": "825",
+        "Median (\\$)": "525.0",
+        "$>$\\$5k": "2\\%",
+        "Jewelry": "15\\%",
+        "Watch": "4\\%",
+        "Art, decor": "41\\%",
+        "Textile": "5\\%",
+        "Weapon": "16\\%",
+        "Book": "3\\%",
+        "Food": "1\\%",
+        "Travel": "4\\%"
+      },
+      {
+        "Background": "Giver: Spouse/family",
+        "Gifts": "387",
+        "Median (\\$)": "495.0",
+        "$>$\\$5k": "3\\%",
+        "Jewelry": "26\\%",
+        "Watch": "0\\%",
+        "Art, decor": "43\\%",
+        "Textile": "12\\%",
+        "Weapon": "2\\%",
+        "Book": "6\\%",
+        "Food": "2\\%",
+        "Travel": "0\\%"
+      },
+      {
+        "Background": "Recipient: Political",
+        "Gifts": "2254",
+        "Median (\\$)": "565.58",
+        "$>$\\$5k": "6\\%",
+        "Jewelry": "7\\%",
+        "Watch": "3\\%",
+        "Art, decor": "52\\%",
+        "Textile": "3\\%",
+        "Weapon": "9\\%",
+        "Book": "2\\%",
+        "Food": "3\\%",
+        "Travel": "8\\%"
+      },
+      {
+        "Background": "Recipient: Technical",
+        "Gifts": "1525",
+        "Median (\\$)": "540.0",
+        "$>$\\$5k": "5\\%",
+        "Jewelry": "14\\%",
+        "Watch": "4\\%",
+        "Art, decor": "43\\%",
+        "Textile": "4\\%",
+        "Weapon": "10\\%",
+        "Book": "2\\%",
+        "Food": "1\\%",
+        "Travel": "9\\%"
+      },
+      {
+        "Background": "Recipient: Business",
+        "Gifts": "348",
+        "Median (\\$)": "635.0",
+        "$>$\\$5k": "5\\%",
+        "Jewelry": "11\\%",
+        "Watch": "1\\%",
+        "Art, decor": "55\\%",
+        "Textile": "3\\%",
+        "Weapon": "12\\%",
+        "Book": "1\\%",
+        "Food": "1\\%",
+        "Travel": "3\\%"
+      },
+      {
+        "Background": "Recipient: Military",
+        "Gifts": "1087",
+        "Median (\\$)": "632.5",
+        "$>$\\$5k": "5\\%",
+        "Jewelry": "14\\%",
+        "Watch": "14\\%",
+        "Art, decor": "38\\%",
+        "Textile": "2\\%",
+        "Weapon": "17\\%",
+        "Book": "1\\%",
+        "Food": "1\\%",
+        "Travel": "3\\%"
+      },
+      {
+        "Background": "Recipient: Spouse/family",
+        "Gifts": "640",
+        "Median (\\$)": "605.0",
+        "$>$\\$5k": "8\\%",
+        "Jewelry": "31\\%",
+        "Watch": "0\\%",
+        "Art, decor": "45\\%",
+        "Textile": "10\\%",
+        "Weapon": "3\\%",
+        "Book": "1\\%",
+        "Food": "1\\%",
+        "Travel": "2\\%"
+      }
+    ],
+    "value_reg": {
+      "n": 4205,
+      "givers": 1526,
+      "terms": {
+        "giver_bg:Technical": [
+          -0.04689255701902541,
+          0.10094926637783513
+        ],
+        "giver_bg:Business": [
+          0.18337689833526155,
+          0.1852069349588935
+        ],
+        "giver_bg:Military": [
+          -0.4510950183748881,
+          0.2003495597462535
+        ],
+        "giver_bg:Spouse/family": [
+          -0.09778411258470582,
+          0.14027933812271223
+        ],
+        "recip_bg:Technical": [
+          -0.12148426854886865,
+          0.09620408841520714
+        ],
+        "recip_bg:Business": [
+          0.10679337608321685,
+          0.0829591106516471
+        ],
+        "recip_bg:Military": [
+          0.16468154824566247,
+          0.09730489632356923
+        ],
+        "recip_bg:Spouse/family": [
+          -0.010968639093962715,
+          0.10521203122321629
+        ],
+        "giver_office:Technical": [
+          0.014068418497499532,
+          0.13731075513795588
+        ],
+        "giver_office:Diplomatic": [
+          -0.36608294913091755,
+          0.10346170592093343
+        ],
+        "giver_office:Security": [
+          0.21437644566832673,
+          0.16025229652291922
+        ],
+        "giver_office:Unknown": [
+          -0.266512722601915,
+          0.15377757107347298
+        ]
+      }
+    },
+    "item_kinds": {
+      "Art/decorative": 4002,
+      "Jewelry": 1316,
+      "Other": 1204,
+      "Travel/lodging": 1145,
+      "Watch": 987,
+      "Weapon/ceremonial": 861,
+      "Clothing/textile": 485,
+      "Book/media": 242,
+      "Food/drink": 186
+    },
+    "giver_office_counts": {
+      "Political": 5469,
+      "Unknown": 2768,
+      "Security": 954,
+      "Technical": 841,
+      "Diplomatic": 361,
+      "Business": 35
+    },
+    "recip_office_counts": {
+      "Political": 4942,
+      "Security": 2986,
+      "Diplomatic": 1655,
+      "Technical": 845
+    }
+  },
+  "shared_school_pairs": [
+    [
+      "Gary Roughead",
+      "Fahd bin Abdullah bin Mohammed Al Saud",
+      "Defense",
+      4
+    ],
+    [
+      "Barack Obama",
+      "Ban Ki-moon",
+      "White House",
+      2
+    ],
+    [
+      "Barack Obama",
+      "Shimon Peres",
+      "White House",
+      2
+    ],
+    [
+      "David Hale",
+      "Abdullah II of Jordan",
+      "Diplomatic",
+      2
+    ],
+    [
+      "Barack Obama",
+      "Ashraf Ghani",
+      "White House",
+      1
+    ],
+    [
+      "Arlen Specter",
+      "Shen Lyu-shun",
+      "Legislative",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Sebasti\u00c3\u00a1n Pi\u00c3\u00b1era",
+      "White House",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Mikheil Saakashvili",
+      "White House",
+      1
+    ],
+    [
+      "Barack Obama",
+      "John Key",
+      "White House",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Toomas Hendrik Ilves",
+      "White House",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Abdullah II of Jordan",
+      "White House",
+      1
+    ],
+    [
+      "Bathsheba Nell Crocker",
+      "Md. Shahidul Haque",
+      "Diplomatic",
+      1
+    ],
+    [
+      "Colin Powell",
+      "Hamad II of Bahrain",
+      "Diplomatic",
+      1
+    ],
+    [
+      "Ford M. Fraker",
+      "Abdullah S. Jum'ah",
+      "Diplomatic",
+      1
+    ],
+    [
+      "Ivanka Trump",
+      "Taro Kono",
+      "White House",
+      1
+    ]
+  ]
 }

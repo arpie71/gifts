@@ -1,0 +1,1276 @@
+{
+  "audit": {
+    "lookup_keys": 4662,
+    "lookup_keys_conflicting": 1,
+    "lookup_exact_duplicate_rows": 34,
+    "qids_with_name_variants": {
+      "recip": 195,
+      "giver": 393
+    },
+    "qids_variants_no_common_token": {
+      "recip": 7,
+      "giver": 67
+    },
+    "names_linked_to_multiple_qids": {
+      "recip": 1,
+      "giver": 3
+    },
+    "qid_pairs_same_label": {
+      "recip": 1,
+      "giver": 1
+    },
+    "qids_on_both_sides": 0,
+    "nonhuman_qids": [
+      {
+        "side": "giver",
+        "entity_type": "organization",
+        "qids": 307,
+        "records": 651
+      },
+      {
+        "side": "giver",
+        "entity_type": "state",
+        "qids": 64,
+        "records": 408
+      },
+      {
+        "side": "giver",
+        "entity_type": "suspect link",
+        "qids": 7,
+        "records": 49
+      },
+      {
+        "side": "recip",
+        "entity_type": "organization",
+        "qids": 3,
+        "records": 3
+      },
+      {
+        "side": "recip",
+        "entity_type": "suspect link",
+        "qids": 1,
+        "records": 2
+      }
+    ],
+    "bare_office_records": 1614,
+    "bare_offices": [
+      "President",
+      "Vice President",
+      "First Lady"
+    ],
+    "career_coverage": [
+      {
+        "side": "recip",
+        "measure": "has any Wikidata claims",
+        "people": 1022,
+        "people_share": 1.0,
+        "records_share_of_all": 0.7096279248177982,
+        "records_share_of_linked": 1.0
+      },
+      {
+        "side": "recip",
+        "measure": "has a P39 or P108 spell",
+        "people": 701,
+        "people_share": 0.6859099804305284,
+        "records_share_of_all": 0.6436517069428462,
+        "records_share_of_linked": 0.907027027027027
+      },
+      {
+        "side": "recip",
+        "measure": "has a dated spell",
+        "people": 593,
+        "people_share": 0.5802348336594912,
+        "records_share_of_all": 0.6205408515535098,
+        "records_share_of_linked": 0.8744594594594595
+      },
+      {
+        "side": "recip",
+        "measure": "has a dated, classified spell",
+        "people": 591,
+        "people_share": 0.5782778864970646,
+        "records_share_of_all": 0.620253164556962,
+        "records_share_of_linked": 0.874054054054054
+      },
+      {
+        "side": "giver",
+        "measure": "has any Wikidata claims",
+        "people": 1983,
+        "people_share": 1.0,
+        "records_share_of_all": 0.6565017261219793,
+        "records_share_of_linked": 1.0
+      },
+      {
+        "side": "giver",
+        "measure": "has a P39 or P108 spell",
+        "people": 1704,
+        "people_share": 0.859304084720121,
+        "records_share_of_all": 0.6028960490985807,
+        "records_share_of_linked": 0.918346479696173
+      },
+      {
+        "side": "giver",
+        "measure": "has a dated spell",
+        "people": 1567,
+        "people_share": 0.7902168431669188,
+        "records_share_of_all": 0.5807441503644035,
+        "records_share_of_linked": 0.8846041484078294
+      },
+      {
+        "side": "giver",
+        "measure": "has a dated, classified spell",
+        "people": 1536,
+        "people_share": 0.7745839636913767,
+        "records_share_of_all": 0.5739355581127733,
+        "records_share_of_linked": 0.8742331288343558
+      }
+    ],
+    "implausible_links": {
+      "giver": {
+        "qids": 15,
+        "records": 24
+      },
+      "recip": {
+        "qids": 8,
+        "records": 12
+      }
+    }
+  },
+  "career_desc": [
+    {
+      "Measure": "People",
+      "All linked recipients": 1015.0,
+      "Cabinet level and above": 170.0,
+      "Legislators": 264.0,
+      "Agency, military, diplomatic staff": 581.0
+    },
+    {
+      "Measure": "% with dated career",
+      "All linked recipients": 58.1,
+      "Cabinet level and above": 92.9,
+      "Legislators": 84.1,
+      "Agency, military, diplomatic staff": 36.1
+    },
+    {
+      "Measure": "Median career yrs at first gift",
+      "All linked recipients": 9.0,
+      "Cabinet level and above": 6.0,
+      "Legislators": 21.0,
+      "Agency, military, diplomatic staff": 2.0
+    },
+    {
+      "Measure": "Median prior orgs at entry",
+      "All linked recipients": 1.0,
+      "Cabinet level and above": 1.0,
+      "Legislators": 2.0,
+      "Agency, military, diplomatic staff": 1.0
+    },
+    {
+      "Measure": "Mean prior sector changes at entry",
+      "All linked recipients": 0.55,
+      "Cabinet level and above": 0.61,
+      "Legislators": 0.87,
+      "Agency, military, diplomatic staff": 0.15
+    },
+    {
+      "Measure": "% any public-private/academic/IO move before entry",
+      "All linked recipients": 8.3,
+      "Cabinet level and above": 13.9,
+      "Legislators": 7.2,
+      "Agency, military, diplomatic staff": 5.2
+    },
+    {
+      "Measure": "% ever private before entry",
+      "All linked recipients": 4.9,
+      "Cabinet level and above": 8.9,
+      "Legislators": 3.2,
+      "Agency, military, diplomatic staff": 3.8
+    },
+    {
+      "Measure": "% ever legislature before entry",
+      "All linked recipients": 38.0,
+      "Cabinet level and above": 17.7,
+      "Legislators": 88.3,
+      "Agency, military, diplomatic staff": 0.0
+    },
+    {
+      "Measure": "% ever military before entry",
+      "All linked recipients": 4.6,
+      "Cabinet level and above": 9.5,
+      "Legislators": 0.5,
+      "Agency, military, diplomatic staff": 5.2
+    },
+    {
+      "Measure": "Median active gift years",
+      "All linked recipients": 1.0,
+      "Cabinet level and above": 2.0,
+      "Legislators": 1.0,
+      "Agency, military, diplomatic staff": 1.0
+    },
+    {
+      "Measure": "% observed under >1 agency",
+      "All linked recipients": 8.1,
+      "Cabinet level and above": 25.9,
+      "Legislators": 3.8,
+      "Agency, military, diplomatic staff": 4.8
+    },
+    {
+      "Measure": "Median tenure in org at gift",
+      "All linked recipients": 3.0,
+      "Cabinet level and above": 2.0,
+      "Legislators": 10.0,
+      "Agency, military, diplomatic staff": 2.0
+    },
+    {
+      "Measure": "Gifts per active year",
+      "All linked recipients": 3.9,
+      "Cabinet level and above": 9.66,
+      "Legislators": 1.41,
+      "Agency, military, diplomatic staff": 1.63
+    }
+  ],
+  "transitions": {
+    "moves": 883,
+    "same_sector_share": 0.464326160815402,
+    "public_nonpublic_moves": 117,
+    "public_nonpublic_share": 0.13250283125707815,
+    "into_private": 25
+  },
+  "network_periods": [
+    {
+      "Administration": "Clinton",
+      "Years": "1998-2000",
+      "Gifts/yr": 254,
+      "Agencies": 20.0,
+      "Countries": 92.0,
+      "Linked recipients": 88.0,
+      "Agency-country ties": 210.0,
+      "Ties kept from prev. (%)": NaN,
+      "Recipients seen in prev. (%)": NaN,
+      "Modularity (agency-country)": 0.39,
+      "Giant comp. share": 0.92,
+      "Gini, gifts per recipient": 0.75,
+      "Top-10 recipients' share": 76.8
+    },
+    {
+      "Administration": "Bush I",
+      "Years": "2001-2004",
+      "Gifts/yr": 495,
+      "Agencies": 24.0,
+      "Countries": 125.0,
+      "Linked recipients": 178.0,
+      "Agency-country ties": 393.0,
+      "Ties kept from prev. (%)": 61.0,
+      "Recipients seen in prev. (%)": 10.7,
+      "Modularity (agency-country)": 0.25,
+      "Giant comp. share": 0.96,
+      "Gini, gifts per recipient": 0.81,
+      "Top-10 recipients' share": 74.2
+    },
+    {
+      "Administration": "Bush II",
+      "Years": "2005-2008",
+      "Gifts/yr": 481,
+      "Agencies": 30.0,
+      "Countries": 130.0,
+      "Linked recipients": 214.0,
+      "Agency-country ties": 401.0,
+      "Ties kept from prev. (%)": 57.8,
+      "Recipients seen in prev. (%)": 26.2,
+      "Modularity (agency-country)": 0.27,
+      "Giant comp. share": 0.96,
+      "Gini, gifts per recipient": 0.78,
+      "Top-10 recipients' share": 66.8
+    },
+    {
+      "Administration": "Obama I",
+      "Years": "2009-2012",
+      "Gifts/yr": 582,
+      "Agencies": 35.0,
+      "Countries": 131.0,
+      "Linked recipients": 341.0,
+      "Agency-country ties": 498.0,
+      "Ties kept from prev. (%)": 55.4,
+      "Recipients seen in prev. (%)": 17.0,
+      "Modularity (agency-country)": 0.32,
+      "Giant comp. share": 0.98,
+      "Gini, gifts per recipient": 0.71,
+      "Top-10 recipients' share": 54.2
+    },
+    {
+      "Administration": "Obama II",
+      "Years": "2013-2016",
+      "Gifts/yr": 470,
+      "Agencies": 34.0,
+      "Countries": 128.0,
+      "Linked recipients": 296.0,
+      "Agency-country ties": 498.0,
+      "Ties kept from prev. (%)": 55.0,
+      "Recipients seen in prev. (%)": 32.4,
+      "Modularity (agency-country)": 0.3,
+      "Giant comp. share": 0.96,
+      "Gini, gifts per recipient": 0.7,
+      "Top-10 recipients' share": 53.4
+    },
+    {
+      "Administration": "Trump",
+      "Years": "2017-2020",
+      "Gifts/yr": 215,
+      "Agencies": 28.0,
+      "Countries": 88.0,
+      "Linked recipients": 150.0,
+      "Agency-country ties": 245.0,
+      "Ties kept from prev. (%)": 30.7,
+      "Recipients seen in prev. (%)": 18.7,
+      "Modularity (agency-country)": 0.39,
+      "Giant comp. share": 0.95,
+      "Gini, gifts per recipient": 0.65,
+      "Top-10 recipients' share": 55.8
+    },
+    {
+      "Administration": "Biden",
+      "Years": "2021-2023",
+      "Gifts/yr": 216,
+      "Agencies": 25.0,
+      "Countries": 91.0,
+      "Linked recipients": 97.0,
+      "Agency-country ties": 213.0,
+      "Ties kept from prev. (%)": 39.6,
+      "Recipients seen in prev. (%)": 16.5,
+      "Modularity (agency-country)": 0.42,
+      "Giant comp. share": 0.93,
+      "Gini, gifts per recipient": 0.68,
+      "Top-10 recipients' share": 68.5
+    }
+  ],
+  "main_career": {
+    "g_between": {
+      "coef": {
+        "log_career": 0.02269128722432136,
+        "log_tenure": -0.4114982828789555,
+        "n_prior_orgs": 0.00515578359035021,
+        "trans_sector": 0.11432134992424733,
+        "trans_domain": -0.034853662172857916,
+        "log_prior_gifts": 0.6073503237386778,
+        "elite_now": 1.4553448430898523
+      },
+      "se": {
+        "log_career": 0.09289377364144363,
+        "log_tenure": 0.09444142829957816,
+        "n_prior_orgs": 0.06453286530964647,
+        "trans_sector": 0.0647692097855264,
+        "trans_domain": 0.09945331277610023,
+        "log_prior_gifts": 0.04336067299666076,
+        "elite_now": 0.14650838889353973
+      }
+    },
+    "g_within": {
+      "coef": {
+        "log_tenure": -0.1692864672103897,
+        "n_prior_orgs": 0.5565142186696984,
+        "trans_sector": 0.13548440365665462,
+        "trans_domain": -0.034245503596041546,
+        "log_prior_gifts": -0.21658008451519611,
+        "elite_now": 2.1972181593214755
+      },
+      "se": {
+        "log_tenure": 0.08058736766081245,
+        "n_prior_orgs": 0.16227672253223252,
+        "trans_sector": 0.302631344551448,
+        "trans_domain": 0.3796368319595014,
+        "log_prior_gifts": 0.054476445131206995,
+        "elite_now": 0.2969937932878486
+      }
+    },
+    "c_between": {
+      "coef": {
+        "log_career": 0.007679342329099444,
+        "log_tenure": -0.3162358885321876,
+        "n_prior_orgs": 0.01703264482392671,
+        "trans_sector": 0.1347705733204074,
+        "trans_domain": 0.04951032262077314,
+        "log_prior_gifts": 0.5320894655622777,
+        "elite_now": 1.4465731090602199
+      },
+      "se": {
+        "log_career": 0.10536857546335578,
+        "log_tenure": 0.08372204657258665,
+        "n_prior_orgs": 0.05882408244680017,
+        "trans_sector": 0.060210860753756715,
+        "trans_domain": 0.09232262125816057,
+        "log_prior_gifts": 0.03658131691982335,
+        "elite_now": 0.12478243672887573
+      }
+    },
+    "c_within": {
+      "coef": {
+        "log_tenure": -0.16085103376467827,
+        "n_prior_orgs": 0.4971686750456434,
+        "trans_sector": 0.09166490225471847,
+        "trans_domain": 0.05434761920241361,
+        "log_prior_gifts": -0.17941890758989595,
+        "elite_now": 1.8253991484895642
+      },
+      "se": {
+        "log_tenure": 0.0751429195689207,
+        "n_prior_orgs": 0.14852505499346996,
+        "trans_sector": 0.2542011507328356,
+        "trans_domain": 0.3193547068611053,
+        "log_prior_gifts": 0.051563147626576385,
+        "elite_now": 0.26638991971064274
+      }
+    },
+    "new_within": {
+      "coef": {
+        "log_tenure": -0.16514227932289574,
+        "n_prior_orgs": 0.5605101109779048,
+        "trans_sector": 0.054446222385256336,
+        "trans_domain": 0.07526838609599308,
+        "log_prior_gifts": -0.4210739836404022,
+        "elite_now": 1.9954436737889527
+      },
+      "se": {
+        "log_tenure": 0.08497512316802064,
+        "n_prior_orgs": 0.15431861702790722,
+        "trans_sector": 0.26527148384659993,
+        "trans_domain": 0.3400102716775089,
+        "log_prior_gifts": 0.047139337407835935,
+        "elite_now": 0.30957905542722725
+      }
+    }
+  },
+  "brokerage": {
+    "0": {
+      "coef": {
+        "trans_sector": -0.002378154285148795,
+        "n_prior_orgs": -0.004447428596254806,
+        "prior_multi_agency": 0.008220524628175583,
+        "log_career": 0.005349840805895084,
+        "net_l3_participation": -0.018120857773763342,
+        "log_c1_degree": 0.22637544649342256
+      },
+      "se": {
+        "trans_sector": 0.00599280568944875,
+        "n_prior_orgs": 0.004650944377805521,
+        "prior_multi_agency": 0.023863450156168264,
+        "log_career": 0.005066187694498583,
+        "net_l3_participation": 0.021579432402032424,
+        "log_c1_degree": 0.013312512475502396
+      }
+    },
+    "1": {
+      "coef": {
+        "trans_sector": -0.016967936815868268,
+        "n_prior_orgs": 0.008714226426828106,
+        "prior_multi_agency": 0.0029456766119537324,
+        "net_l3_participation": -0.09606825840966345,
+        "log_c1_degree": 0.2696771401477849
+      },
+      "se": {
+        "trans_sector": 0.020235812687655327,
+        "n_prior_orgs": 0.016158177414983266,
+        "prior_multi_agency": 0.031393339691472726,
+        "net_l3_participation": 0.0299728052839184,
+        "log_c1_degree": 0.014678808265610875
+      }
+    },
+    "2": {
+      "coef": {
+        "trans_sector": 0.13768503212882552,
+        "n_prior_orgs": 0.167695848501275,
+        "prior_multi_agency": 1.0817838627452332,
+        "log_career": -0.10924130415927441,
+        "net_l3_participation": -1.361803667515769,
+        "log_c1_degree": 5.872087976516257
+      },
+      "se": {
+        "trans_sector": 0.3111574000942149,
+        "n_prior_orgs": 0.19489210327053264,
+        "prior_multi_agency": 1.2086750474408456,
+        "log_career": 0.227520807458495,
+        "net_l3_participation": 0.5394358567880118,
+        "log_c1_degree": 0.8341899657657462
+      }
+    },
+    "3": {
+      "coef": {
+        "trans_sector": 3.1476839836477355,
+        "n_prior_orgs": 0.322233643313254,
+        "prior_multi_agency": -0.1230734763424306,
+        "net_l3_participation": 0.12700896760871225,
+        "log_c1_degree": 4.586638728664935
+      },
+      "se": {
+        "trans_sector": 1.226004338817804,
+        "n_prior_orgs": 0.5364444510353822,
+        "prior_multi_agency": 1.3527818293236573,
+        "net_l3_participation": 0.6843204009822903,
+        "log_c1_degree": 0.6530324475961021
+      }
+    },
+    "4": {
+      "coef": {
+        "trans_sector": 0.002324496729786794,
+        "n_prior_orgs": -0.011621389733927245,
+        "prior_multi_agency": -0.0006269242579280167,
+        "log_career": 0.006184433829455566,
+        "net_l3_participation": -0.03933397673357546,
+        "log_c1_degree": 0.38913532774952
+      },
+      "se": {
+        "trans_sector": 0.012068339345595749,
+        "n_prior_orgs": 0.008859613842216002,
+        "prior_multi_agency": 0.04662008491142043,
+        "log_career": 0.01026718185102988,
+        "net_l3_participation": 0.040508999916210375,
+        "log_c1_degree": 0.025237941948105736
+      }
+    }
+  },
+  "selection": {
+    "0": {
+      "coef": {
+        "entry_trans_sector": 0.006467762673507385,
+        "entry_prior_orgs": -0.011141765171743938,
+        "log_entry_career": 0.0058417685898879135,
+        "entry_ever_private": -0.00067637369730757,
+        "entry_ever_military": 0.018761183361510846,
+        "entry_ever_legis": 0.012523386254530729,
+        "log_entry_countries": 0.2500853784113408
+      },
+      "se": {
+        "entry_trans_sector": 0.0074547878161473425,
+        "entry_prior_orgs": 0.005799353217772693,
+        "log_entry_career": 0.005974769692505768,
+        "entry_ever_private": 0.020222433258974756,
+        "entry_ever_military": 0.029972142864102966,
+        "entry_ever_legis": 0.017924129563870426,
+        "log_entry_countries": 0.01639500368394417
+      }
+    },
+    "1": {
+      "coef": {
+        "entry_trans_sector": 0.018311940746826422,
+        "entry_prior_orgs": -0.06541419040470725,
+        "log_entry_career": 0.16204271425484648,
+        "entry_ever_private": 0.450850538697424,
+        "entry_ever_military": -0.011950742364721129,
+        "entry_ever_legis": -0.6823573622721808,
+        "log_entry_countries": 4.154100853305767
+      },
+      "se": {
+        "entry_trans_sector": 0.11292832393859563,
+        "entry_prior_orgs": 0.10800477469711929,
+        "log_entry_career": 0.132095289653199,
+        "entry_ever_private": 0.7073444009055734,
+        "entry_ever_military": 0.68664667247979,
+        "entry_ever_legis": 0.4867208295794843,
+        "log_entry_countries": 0.9791061054830399
+      }
+    },
+    "2": {
+      "coef": {
+        "entry_trans_sector": 0.29438920009182523,
+        "entry_prior_orgs": -0.13364940593074282,
+        "log_entry_career": 0.24810455405960116,
+        "entry_ever_private": 0.10388206435088457,
+        "entry_ever_military": 0.5388919655873473,
+        "entry_ever_legis": -0.3881562153903233
+      },
+      "se": {
+        "entry_trans_sector": 0.13004718210535265,
+        "entry_prior_orgs": 0.07606611796360868,
+        "log_entry_career": 0.10872372365805945,
+        "entry_ever_private": 0.38138354495321297,
+        "entry_ever_military": 0.42177829427904945,
+        "entry_ever_legis": 0.3813092574927333
+      }
+    }
+  },
+  "event_study": [
+    {
+      "Event": "Any change of organization",
+      "Outcome": "Gifts",
+      "Events": 104,
+      "Post (t>=0)": "1.370***",
+      "SE post": "(0.209)",
+      "Pre (t-3,t-2)": "0.203",
+      "SE pre": "(0.187)",
+      "N": 10877
+    },
+    {
+      "Event": "Any change of organization",
+      "Outcome": "Countries",
+      "Events": 104,
+      "Post (t>=0)": "1.231***",
+      "SE post": "(0.182)",
+      "Pre (t-3,t-2)": "0.234",
+      "SE pre": "(0.159)",
+      "N": 10382
+    },
+    {
+      "Event": "Lateral/non-cabinet move",
+      "Outcome": "Gifts",
+      "Events": 78,
+      "Post (t>=0)": "0.321",
+      "SE post": "(0.510)",
+      "Pre (t-3,t-2)": "0.268",
+      "SE pre": "(0.198)",
+      "N": 10737
+    },
+    {
+      "Event": "Lateral/non-cabinet move",
+      "Outcome": "Countries",
+      "Events": 78,
+      "Post (t>=0)": "0.318",
+      "SE post": "(0.511)",
+      "Pre (t-3,t-2)": "0.040",
+      "SE pre": "(0.161)",
+      "N": 10252
+    },
+    {
+      "Event": "Move into cabinet-level office",
+      "Outcome": "Gifts",
+      "Events": 26,
+      "Post (t>=0)": "1.790***",
+      "SE post": "(0.498)",
+      "Pre (t-3,t-2)": "0.273",
+      "SE pre": "(0.274)",
+      "N": 4546
+    },
+    {
+      "Event": "Move into cabinet-level office",
+      "Outcome": "Countries",
+      "Events": 26,
+      "Post (t>=0)": "1.822***",
+      "SE post": "(0.537)",
+      "Pre (t-3,t-2)": "0.565**",
+      "SE pre": "(0.186)",
+      "N": 4353
+    },
+    {
+      "Event": "Cross-sector move",
+      "Outcome": "Gifts",
+      "Events": 37,
+      "Post (t>=0)": "1.441***",
+      "SE post": "(0.163)",
+      "Pre (t-3,t-2)": "-0.033",
+      "SE pre": "(0.144)",
+      "N": 8704
+    },
+    {
+      "Event": "Cross-sector move",
+      "Outcome": "Countries",
+      "Events": 37,
+      "Post (t>=0)": "1.200***",
+      "SE post": "(0.195)",
+      "Pre (t-3,t-2)": "0.044",
+      "SE pre": "(0.117)",
+      "N": 8352
+    },
+    {
+      "Event": "Cross-sector, non-cabinet",
+      "Outcome": "Gifts",
+      "Events": 26,
+      "Post (t>=0)": "-1.769***",
+      "SE post": "(0.263)",
+      "Pre (t-3,t-2)": "0.572*",
+      "SE pre": "(0.287)",
+      "N": 8273
+    },
+    {
+      "Event": "Cross-sector, non-cabinet",
+      "Outcome": "Countries",
+      "Events": 26,
+      "Post (t>=0)": "-1.793***",
+      "SE post": "(0.290)",
+      "Pre (t-3,t-2)": "0.174",
+      "SE pre": "(0.174)",
+      "N": 7954
+    },
+    {
+      "Event": "Moves by agency/military/diplomatic staff",
+      "Outcome": "Gifts",
+      "Events": 27,
+      "Post (t>=0)": "1.487*",
+      "SE post": "(0.720)",
+      "Pre (t-3,t-2)": "0.942",
+      "SE pre": "(0.483)",
+      "N": 7635
+    },
+    {
+      "Event": "Moves by agency/military/diplomatic staff",
+      "Outcome": "Countries",
+      "Events": 27,
+      "Post (t>=0)": "1.241",
+      "SE post": "(0.759)",
+      "Pre (t-3,t-2)": "0.668",
+      "SE pre": "(0.530)",
+      "N": 7326
+    },
+    {
+      "Event": "Public / non-public move",
+      "Outcome": "Gifts",
+      "Events": 12,
+      "Post (t>=0)": "-0.803",
+      "SE post": "(0.882)",
+      "Pre (t-3,t-2)": "0.205",
+      "SE pre": "(0.238)",
+      "N": 5366
+    },
+    {
+      "Event": "Public / non-public move",
+      "Outcome": "Countries",
+      "Events": 12,
+      "Post (t>=0)": "-0.935",
+      "SE post": "(0.919)",
+      "Pre (t-3,t-2)": "0.052",
+      "SE pre": "(0.228)",
+      "N": 5157
+    }
+  ],
+  "placebo_events": {
+    "observed_post": 1.2327189779999281,
+    "placebo_mean": -0.011221159511332618,
+    "placebo_sd": 0.2484984886209143,
+    "p": 0.0,
+    "draws": 200
+  },
+  "hazard": {
+    "exit": {
+      "coef": {
+        "l_degree": 0.5944684650137932,
+        "l_betw": -0.05217385484047494,
+        "net_l3_participation": -0.5740941591074226,
+        "log_tenure": -0.6659209241821569,
+        "log_career": 0.21406890177227098,
+        "n_prior_orgs": 0.06750873880107705,
+        "trans_sector": -0.2521122876977198,
+        "elite_now": 0.7671386906864281
+      },
+      "se": {
+        "l_degree": 0.13746548655420399,
+        "l_betw": 0.01914935261122988,
+        "net_l3_participation": 0.4241270175877951,
+        "log_tenure": 0.06554699468075723,
+        "log_career": 0.07089008645373665,
+        "n_prior_orgs": 0.05148992030264067,
+        "trans_sector": 0.0656498655426367,
+        "elite_now": 0.12953710589022543
+      }
+    },
+    "move": {
+      "coef": {
+        "l_degree": -0.16555620023562653,
+        "l_betw": -0.02902897556883923,
+        "net_l3_participation": 0.8075476291131766,
+        "log_tenure": -0.40146718661666936,
+        "log_career": -0.21856388733177984,
+        "n_prior_orgs": 0.13792113271557557,
+        "trans_sector": -0.0058518012578662746,
+        "elite_now": 0.18399518035197543
+      },
+      "se": {
+        "l_degree": 0.21439117045424022,
+        "l_betw": 0.03220970322245699,
+        "net_l3_participation": 0.6882431915726465,
+        "log_tenure": 0.09432763215663338,
+        "log_career": 0.11778572240359722,
+        "n_prior_orgs": 0.09412096978926267,
+        "trans_sector": 0.13141343605875097,
+        "elite_now": 0.23194588748304687
+      }
+    },
+    "move_nonelite": {
+      "coef": {
+        "l_degree": -0.12845442176956337,
+        "l_betw": -0.0858782826260175,
+        "net_l3_participation": 1.54234039325254,
+        "log_tenure": -0.3711412257414926,
+        "log_career": -0.32269221512380564,
+        "n_prior_orgs": 0.16627156390664716,
+        "trans_sector": -0.059571707946238936
+      },
+      "se": {
+        "l_degree": 0.24774399650652532,
+        "l_betw": 0.20368548128727426,
+        "net_l3_participation": 0.725364508348763,
+        "log_tenure": 0.1083744363747993,
+        "log_career": 0.13573457929299584,
+        "n_prior_orgs": 0.09573187518861936,
+        "trans_sector": 0.14431985045222223
+      }
+    }
+  },
+  "org": {
+    "0": {
+      "coef": {
+        "exit_rate": -0.015030196652692373,
+        "log_gifts": 0.1400594128389898,
+        "log_gifts_prev": -0.016526377176505687
+      },
+      "se": {
+        "exit_rate": 0.07463826907481211,
+        "log_gifts": 0.025543760211665257,
+        "log_gifts_prev": 0.019863077761124833
+      }
+    },
+    "1": {
+      "coef": {
+        "head_change": -0.042023493854489245,
+        "log_gifts": 0.13494972950497416,
+        "log_gifts_prev": -0.020512814393845533
+      },
+      "se": {
+        "head_change": 0.025438616099332612,
+        "log_gifts": 0.02473535477473752,
+        "log_gifts_prev": 0.01795320712698752
+      }
+    },
+    "2": {
+      "coef": {
+        "exit_rate": 0.0166897416642932,
+        "log_gifts": 0.04011941198400248,
+        "log_gifts_prev": 0.0606922786068426
+      },
+      "se": {
+        "exit_rate": 0.03399868638013126,
+        "log_gifts": 0.013987503949131841,
+        "log_gifts_prev": 0.012777333611962134
+      }
+    },
+    "3": {
+      "coef": {
+        "exit_rate": 0.02733383263048316,
+        "log_gifts": 0.059348153803125345,
+        "log_gifts_prev": -0.018651837026453306
+      },
+      "se": {
+        "exit_rate": 0.0718996172742772,
+        "log_gifts": 0.027756040109513925,
+        "log_gifts_prev": 0.02562795724757642
+      }
+    },
+    "4": {
+      "coef": {
+        "exit_rate_ident": -0.02457270778356436,
+        "log_gifts": 0.13884678729820876,
+        "log_gifts_prev": -0.02292902514328218
+      },
+      "se": {
+        "exit_rate_ident": 0.10345734906638641,
+        "log_gifts": 0.024116824003937262,
+        "log_gifts_prev": 0.02053966579339021
+      }
+    }
+  },
+  "tie": {
+    "0": {
+      "coef": {
+        "all_departed": -0.11238965179538658,
+        "log_carriers": 0.04000609731303241
+      },
+      "se": {
+        "all_departed": 0.022122906240782687,
+        "log_carriers": 0.022979818604971124
+      }
+    },
+    "1": {
+      "coef": {
+        "all_departed": 0.0187676630896458,
+        "log_carriers": 0.004595621808839266
+      },
+      "se": {
+        "all_departed": 0.029194877335520432,
+        "log_carriers": 0.03518188663435742
+      }
+    },
+    "2": {
+      "coef": {
+        "share_departed": 0.04510915709662838,
+        "log_carriers": -0.002426223871679147
+      },
+      "se": {
+        "share_departed": 0.025815702489700037,
+        "log_carriers": 0.03635537607091313
+      }
+    }
+  },
+  "tie_means": {
+    "retained_any": {
+      "0": 0.6427616926503341,
+      "1": 0.4739952718676123
+    },
+    "retained_by_others": {
+      "0": 0.47928730512249446,
+      "1": 0.4739952718676123
+    }
+  },
+  "movers": [
+    {
+      "Comparison": "Countries: mover vs. others at new agency",
+      "Episodes": 68,
+      "Mean (first)": 0.139,
+      "Mean (second)": 0.094,
+      "Difference": 0.045,
+      "Sign-flip p": 0.1078
+    },
+    {
+      "Comparison": "Foreign individuals: mover vs. others at new agency",
+      "Episodes": 55,
+      "Mean (first)": 0.036,
+      "Mean (second)": 0.025,
+      "Difference": 0.01,
+      "Sign-flip p": 0.6522
+    },
+    {
+      "Comparison": "Countries: old agency after vs. before the move",
+      "Episodes": 69,
+      "Mean (first)": 0.094,
+      "Mean (second)": 0.126,
+      "Difference": -0.031,
+      "Sign-flip p": 0.0172
+    }
+  ],
+  "permutation": [
+    {
+      "Administration": "Clinton",
+      "Recipients": 82,
+      "Observed rho (betweenness, prior moves)": 0.11,
+      "Null mean": 0.12,
+      "Null 95% range": "[0.102, 0.139]",
+      "Permutation p": 0.33,
+      "Top-5% share of betweenness": 0.779
+    },
+    {
+      "Administration": "Bush I",
+      "Recipients": 174,
+      "Observed rho (betweenness, prior moves)": 0.099,
+      "Null mean": 0.12,
+      "Null 95% range": "[0.096, 0.143]",
+      "Permutation p": 0.09,
+      "Top-5% share of betweenness": 0.931
+    },
+    {
+      "Administration": "Bush II",
+      "Recipients": 198,
+      "Observed rho (betweenness, prior moves)": 0.111,
+      "Null mean": 0.093,
+      "Null 95% range": "[0.068, 0.120]",
+      "Permutation p": 0.16,
+      "Top-5% share of betweenness": 0.88
+    },
+    {
+      "Administration": "Obama I",
+      "Recipients": 323,
+      "Observed rho (betweenness, prior moves)": 0.121,
+      "Null mean": 0.076,
+      "Null 95% range": "[0.059, 0.096]",
+      "Permutation p": 0.0,
+      "Top-5% share of betweenness": 0.902
+    },
+    {
+      "Administration": "Obama II",
+      "Recipients": 278,
+      "Observed rho (betweenness, prior moves)": 0.139,
+      "Null mean": 0.127,
+      "Null 95% range": "[0.111, 0.143]",
+      "Permutation p": 0.165,
+      "Top-5% share of betweenness": 0.883
+    },
+    {
+      "Administration": "Trump",
+      "Recipients": 139,
+      "Observed rho (betweenness, prior moves)": -0.138,
+      "Null mean": -0.16,
+      "Null 95% range": "[-0.179, -0.132]",
+      "Permutation p": 0.075,
+      "Top-5% share of betweenness": 0.82
+    },
+    {
+      "Administration": "Biden",
+      "Recipients": 93,
+      "Observed rho (betweenness, prior moves)": 0.256,
+      "Null mean": 0.229,
+      "Null 95% range": "[0.190, 0.261]",
+      "Permutation p": 0.15,
+      "Top-5% share of betweenness": 0.791
+    }
+  ],
+  "label_permutation": {
+    "observed": -0.004324652588162082,
+    "null_mean": -2.1644425152262376e-05,
+    "null_sd": 0.004999010605696501,
+    "p": 0.4
+  },
+  "robust_samples": [
+    {
+      "Sample": "Main sample",
+      "Outcome": "Gifts",
+      "Tenure": "-0.166*",
+      "Prior orgs": "0.556***",
+      "Cross-sector moves": "0.123",
+      "Prior gifts": "-0.217***",
+      "People": 548,
+      "N": 5361
+    },
+    {
+      "Sample": "Main sample",
+      "Outcome": "Countries",
+      "Tenure": "-0.166*",
+      "Prior orgs": "0.499***",
+      "Cross-sector moves": "0.112",
+      "Prior gifts": "-0.179***",
+      "People": 548,
+      "N": 5159
+    },
+    {
+      "Sample": "Excl. cabinet level and above",
+      "Outcome": "Gifts",
+      "Tenure": "0.076",
+      "Prior orgs": "0.512**",
+      "Cross-sector moves": "-0.753*",
+      "Prior gifts": "-0.737***",
+      "People": 396,
+      "N": 4171
+    },
+    {
+      "Sample": "Excl. cabinet level and above",
+      "Outcome": "Countries",
+      "Tenure": "0.033",
+      "Prior orgs": "0.485**",
+      "Cross-sector moves": "-0.678*",
+      "Prior gifts": "-0.679***",
+      "People": 396,
+      "N": 3901
+    },
+    {
+      "Sample": "Excl. top-25 recipients",
+      "Outcome": "Gifts",
+      "Tenure": "-0.035",
+      "Prior orgs": "0.408*",
+      "Cross-sector moves": "-0.050",
+      "Prior gifts": "-0.597***",
+      "People": 523,
+      "N": 5122
+    },
+    {
+      "Sample": "Excl. top-25 recipients",
+      "Outcome": "Countries",
+      "Tenure": "-0.027",
+      "Prior orgs": "0.362",
+      "Cross-sector moves": "0.047",
+      "Prior gifts": "-0.540***",
+      "People": 523,
+      "N": 4927
+    },
+    {
+      "Sample": "Excl. top 1%",
+      "Outcome": "Gifts",
+      "Tenure": "-0.247",
+      "Prior orgs": "0.400*",
+      "Cross-sector moves": "0.192",
+      "Prior gifts": "-0.223**",
+      "People": 538,
+      "N": 5242
+    },
+    {
+      "Sample": "Excl. top 1%",
+      "Outcome": "Countries",
+      "Tenure": "-0.197",
+      "Prior orgs": "0.386*",
+      "Cross-sector moves": "0.215",
+      "Prior gifts": "-0.197*",
+      "People": 538,
+      "N": 5040
+    },
+    {
+      "Sample": "Excl. White House branch",
+      "Outcome": "Gifts",
+      "Tenure": "-0.278*",
+      "Prior orgs": "0.535***",
+      "Cross-sector moves": "-0.317",
+      "Prior gifts": "-0.312***",
+      "People": 515,
+      "N": 4893
+    },
+    {
+      "Sample": "Excl. White House branch",
+      "Outcome": "Countries",
+      "Tenure": "-0.212",
+      "Prior orgs": "0.515**",
+      "Cross-sector moves": "-0.357",
+      "Prior gifts": "-0.261***",
+      "People": 515,
+      "N": 4686
+    },
+    {
+      "Sample": "Agency, military, diplomatic staff only",
+      "Outcome": "Gifts",
+      "Tenure": "0.188",
+      "Prior orgs": "0.614*",
+      "Cross-sector moves": "-0.309",
+      "Prior gifts": "-0.796***",
+      "People": 178,
+      "N": 816
+    },
+    {
+      "Sample": "Agency, military, diplomatic staff only",
+      "Outcome": "Countries",
+      "Tenure": "0.101",
+      "Prior orgs": "0.623*",
+      "Cross-sector moves": "-0.166",
+      "Prior gifts": "-0.712**",
+      "People": 178,
+      "N": 742
+    },
+    {
+      "Sample": "Excl. cabinet level and legislators (= staff) and top 1%",
+      "Outcome": "Gifts",
+      "Tenure": "0.188",
+      "Prior orgs": "0.614*",
+      "Cross-sector moves": "-0.309",
+      "Prior gifts": "-0.796***",
+      "People": 178,
+      "N": 816
+    },
+    {
+      "Sample": "Excl. cabinet level and legislators (= staff) and top 1%",
+      "Outcome": "Countries",
+      "Tenure": "0.101",
+      "Prior orgs": "0.623*",
+      "Cross-sector moves": "-0.166",
+      "Prior gifts": "-0.712**",
+      "People": 178,
+      "N": 742
+    },
+    {
+      "Sample": "Wikidata tenure years only",
+      "Outcome": "Gifts",
+      "Tenure": "-0.164*",
+      "Prior orgs": "0.557***",
+      "Cross-sector moves": "0.122",
+      "Prior gifts": "-0.218***",
+      "People": 508,
+      "N": 5286
+    },
+    {
+      "Sample": "Wikidata tenure years only",
+      "Outcome": "Countries",
+      "Tenure": "-0.163*",
+      "Prior orgs": "0.494***",
+      "Cross-sector moves": "0.111",
+      "Prior gifts": "-0.179***",
+      "People": 508,
+      "N": 5084
+    }
+  ],
+  "robust_transitions": [
+    {
+      "Definition": "Any sector change (main)",
+      "Outcome": "Gifts",
+      "Within person": "0.537*",
+      "SE (within)": "(0.215)",
+      "Between people": "0.099",
+      "SE (between)": "(0.055)"
+    },
+    {
+      "Definition": "Any sector change (main)",
+      "Outcome": "Countries",
+      "Within person": "0.497**",
+      "SE (within)": "(0.178)",
+      "Between people": "0.167**",
+      "SE (between)": "(0.051)"
+    },
+    {
+      "Definition": "Sector change, sequential spells only",
+      "Outcome": "Gifts",
+      "Within person": "0.563*",
+      "SE (within)": "(0.225)",
+      "Between people": "0.108",
+      "SE (between)": "(0.063)"
+    },
+    {
+      "Definition": "Sector change, sequential spells only",
+      "Outcome": "Countries",
+      "Within person": "0.533**",
+      "SE (within)": "(0.189)",
+      "Between people": "0.179**",
+      "SE (between)": "(0.058)"
+    },
+    {
+      "Definition": "Public / private / academic / IO change",
+      "Outcome": "Gifts",
+      "Within person": "0.497",
+      "SE (within)": "(0.256)",
+      "Between people": "0.096",
+      "SE (between)": "(0.082)"
+    },
+    {
+      "Definition": "Public / private / academic / IO change",
+      "Outcome": "Countries",
+      "Within person": "0.530*",
+      "SE (within)": "(0.237)",
+      "Between people": "0.202**",
+      "SE (between)": "(0.074)"
+    },
+    {
+      "Definition": "Any change of organization",
+      "Outcome": "Gifts",
+      "Within person": "0.584***",
+      "SE (within)": "(0.164)",
+      "Between people": "0.051",
+      "SE (between)": "(0.052)"
+    },
+    {
+      "Definition": "Any change of organization",
+      "Outcome": "Countries",
+      "Within person": "0.535***",
+      "SE (within)": "(0.142)",
+      "Between people": "0.100*",
+      "SE (between)": "(0.049)"
+    }
+  ],
+  "robust_windows": [
+    {
+      "Window": "t-3..t-1 (main)",
+      "Particip. at t on lagged particip.": "-0.015",
+      "... on prior moves": "-0.004",
+      "Move at t+1 on lagged degree": "0.061",
+      "Move at t+1 on lagged betweenness": "-0.040"
+    },
+    {
+      "Window": "t-5..t-1",
+      "Particip. at t on lagged particip.": "-0.017",
+      "... on prior moves": "-0.004",
+      "Move at t+1 on lagged degree": "0.040",
+      "Move at t+1 on lagged betweenness": "-0.038"
+    },
+    {
+      "Window": "All prior years",
+      "Particip. at t on lagged particip.": "-0.014",
+      "... on prior moves": "-0.004",
+      "Move at t+1 on lagged degree": "-0.016",
+      "Move at t+1 on lagged betweenness": "-0.026"
+    }
+  ],
+  "brokers": {
+    "eligible": 311,
+    "top_decile_share_by_group": {
+      "Cabinet level and above": 0.9354838709677419,
+      "Legislators": 0.03225806451612903,
+      "Agency, military, diplomatic staff": 0.03225806451612903
+    },
+    "eligible_share_by_group": {
+      "Agency, military, diplomatic staff": 0.4565916398713826,
+      "Cabinet level and above": 0.3665594855305466,
+      "Legislators": 0.17684887459807075
+    },
+    "share_people_multi_agency": 0.08078817733990148
+  },
+  "foreign_brokers": {
+    "share_multi_agency": 0.23045890065557237,
+    "share_multi_agency_heads": 0.32661290322580644,
+    "share_multi_agency_others": 0.19838601210490922,
+    "top_decile_share_heads": 0.41414141414141414
+  }
+}

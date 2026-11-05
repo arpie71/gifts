@@ -1,0 +1,95 @@
+term,coef,se,k,outcome,event,n_events,n
+ev_-3,0.15379415814004513,0.28432002059738476,-3,n_gifts,Any change of organization,104,10877
+ev_-2,0.2486819272982128,0.18126458934505482,-2,n_gifts,Any change of organization,104,10877
+ev_-1,0.0,0.0,-1,n_gifts,Any change of organization,104,10877
+ev_0,1.640150026025387,0.2344290206942859,0,n_gifts,Any change of organization,104,10877
+ev_1,1.2925699407834255,0.25129861492759975,1,n_gifts,Any change of organization,104,10877
+ev_2,1.204111025755483,0.3014562479658003,2,n_gifts,Any change of organization,104,10877
+ev_3,1.2534623227074901,0.19852401780233742,3,n_gifts,Any change of organization,104,10877
+ev_-3,0.08452355057684564,0.206923380120307,-3,n_countries,Any change of organization,104,10382
+ev_-2,0.3592338436036422,0.1636794312339088,-2,n_countries,Any change of organization,104,10382
+ev_-1,0.0,0.0,-1,n_countries,Any change of organization,104,10382
+ev_0,1.406039993630447,0.2544512028128747,0,n_countries,Any change of organization,104,10382
+ev_1,1.169116193451496,0.1916388886207066,1,n_countries,Any change of organization,104,10382
+ev_2,1.1892274408537786,0.21106858515466423,2,n_countries,Any change of organization,104,10382
+ev_3,1.1093021778207979,0.20302110101775414,3,n_countries,Any change of organization,104,10382
+ev_-3,0.21279233548110954,0.250036494265713,-3,n_gifts,Lateral/non-cabinet move,78,10737
+ev_-2,0.3230677375144143,0.24722063117007262,-2,n_gifts,Lateral/non-cabinet move,78,10737
+ev_-1,0.0,0.0,-1,n_gifts,Lateral/non-cabinet move,78,10737
+ev_0,0.5642435359159226,0.5102979989828262,0,n_gifts,Lateral/non-cabinet move,78,10737
+ev_1,-0.2005116289631807,0.6187882455828563,1,n_gifts,Lateral/non-cabinet move,78,10737
+ev_2,0.4970806611168016,0.4622890856494359,2,n_gifts,Lateral/non-cabinet move,78,10737
+ev_3,0.45401951919269323,0.6252915449244753,3,n_gifts,Lateral/non-cabinet move,78,10737
+ev_-3,-0.01630733364980381,0.22755254542155198,-3,n_countries,Lateral/non-cabinet move,78,10252
+ev_-2,0.08734754297506886,0.17244868088585855,-2,n_countries,Lateral/non-cabinet move,78,10252
+ev_-1,0.0,0.0,-1,n_countries,Lateral/non-cabinet move,78,10252
+ev_0,0.5081629917139451,0.5551205529153725,0,n_countries,Lateral/non-cabinet move,78,10252
+ev_1,-0.16983508283777493,0.6342280157392166,1,n_countries,Lateral/non-cabinet move,78,10252
+ev_2,0.4334395056557943,0.4801117363321018,2,n_countries,Lateral/non-cabinet move,78,10252
+ev_3,0.5133470771389803,0.6092225082818904,3,n_countries,Lateral/non-cabinet move,78,10252
+ev_-3,0.3321733863722308,0.28570472845960315,-3,n_gifts,Move into cabinet-level office,26,4546
+ev_-2,0.2134529570482182,0.27768339283042154,-2,n_gifts,Move into cabinet-level office,26,4546
+ev_-1,0.0,0.0,-1,n_gifts,Move into cabinet-level office,26,4546
+ev_0,2.0817699879560743,0.5273993875362498,0,n_gifts,Move into cabinet-level office,26,4546
+ev_1,1.7686856372884354,0.5127082449131964,1,n_gifts,Move into cabinet-level office,26,4546
+ev_2,1.558680234887969,0.5422229062979256,2,n_gifts,Move into cabinet-level office,26,4546
+ev_3,1.6388436720907316,0.3991999858311442,3,n_gifts,Move into cabinet-level office,26,4546
+ev_-3,0.4293379868657864,0.20851646015727004,-3,n_countries,Move into cabinet-level office,26,4353
+ev_-2,0.6973281239846241,0.20494230356448773,-2,n_countries,Move into cabinet-level office,26,4353
+ev_-1,0.0,0.0,-1,n_countries,Move into cabinet-level office,26,4353
+ev_0,2.003341063774234,0.6320652117897575,0,n_countries,Move into cabinet-level office,26,4353
+ev_1,1.844572336210879,0.5190569631315167,1,n_countries,Move into cabinet-level office,26,4353
+ev_2,1.7379712747916638,0.5214131689313352,2,n_countries,Move into cabinet-level office,26,4353
+ev_3,1.6278200949375152,0.46372168420253895,3,n_countries,Move into cabinet-level office,26,4353
+ev_-3,-0.2469046290377299,0.2931943182520932,-3,n_gifts,Cross-sector move,37,8704
+ev_-2,0.14397028344559404,0.2266133143665472,-2,n_gifts,Cross-sector move,37,8704
+ev_-1,0.0,0.0,-1,n_gifts,Cross-sector move,37,8704
+ev_0,1.7563158046377874,0.3578941413182642,0,n_gifts,Cross-sector move,37,8704
+ev_1,1.3878531385489765,0.23159890451312246,1,n_gifts,Cross-sector move,37,8704
+ev_2,1.418947656070303,0.20526393827527864,2,n_gifts,Cross-sector move,37,8704
+ev_3,1.0162689448642175,0.2350826754244923,3,n_gifts,Cross-sector move,37,8704
+ev_-3,-0.2142565506713991,0.2036866363391416,-3,n_countries,Cross-sector move,37,8352
+ev_-2,0.2597452079887459,0.1463795112526953,-2,n_countries,Cross-sector move,37,8352
+ev_-1,0.0,0.0,-1,n_countries,Cross-sector move,37,8352
+ev_0,1.4829879657390928,0.38958223682919185,0,n_countries,Cross-sector move,37,8352
+ev_1,1.0667484937381935,0.20212956447221034,1,n_countries,Cross-sector move,37,8352
+ev_2,1.2251158717217319,0.1963611087191854,2,n_countries,Cross-sector move,37,8352
+ev_3,0.9564506652397535,0.2835725535576276,3,n_countries,Cross-sector move,37,8352
+ev_-3,0.5874574411017035,0.30241146322640394,-3,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_-2,0.5535147107960123,0.3145040565375993,-2,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_-1,0.0,0.0,-1,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_0,-30.18536206977936,0.37537392305367273,0,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_1,-2.274643398779962,0.25574455977514055,1,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_2,-1.0078191954599933,0.3867843190476643,2,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_3,-1.418087840684718,0.5473861995948213,3,n_gifts,"Cross-sector, non-cabinet",26,8273
+ev_-3,0.14250591676646876,0.18071825704926317,-3,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_-2,0.1724866879557405,0.19325981492143351,-2,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_-1,0.0,0.0,-1,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_0,-30.41565920359614,0.35782099785281185,0,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_1,-2.4835146074810583,0.23090886111237835,1,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_2,-0.997676120322088,0.5433786557081044,2,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_3,-1.1259405549056907,0.6166767915191,3,n_countries,"Cross-sector, non-cabinet",26,7954
+ev_-3,1.6489097810710562,0.6904932542393922,-3,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_-2,0.4860043237365872,0.6012079435574809,-2,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_-1,0.0,0.0,-1,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_0,1.6682747311871189,0.9047950500894165,0,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_1,0.8236889343446762,0.7155194661973796,1,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_2,0.7407164842296184,0.7421477005293768,2,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_3,2.058594035718721,0.7158764513597575,3,n_gifts,Moves by agency/military/diplomatic staff,27,7635
+ev_-3,1.2432403551680176,0.7717893909037622,-3,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_-2,0.3749349060845786,0.5603841890298451,-2,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_-1,0.0,0.0,-1,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_0,1.4758485611124217,0.9645977161573757,0,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_1,0.5370226181358998,0.7336675496216682,1,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_2,0.2962560277346464,0.766559780149631,2,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_3,1.9108686684197342,0.7665216769487345,3,n_countries,Moves by agency/military/diplomatic staff,27,7326
+ev_-3,0.37373656608396466,0.2886358469966048,-3,n_gifts,Public / non-public move,12,5366
+ev_-2,-0.01262142496287241,0.23929877513449577,-2,n_gifts,Public / non-public move,12,5366
+ev_-1,0.0,0.0,-1,n_gifts,Public / non-public move,12,5366
+ev_0,-27.492832341440494,0.6403048630531792,0,n_gifts,Public / non-public move,12,5366
+ev_3,28.210234105463467,0.7616379736927804,3,n_gifts,Public / non-public move,12,5366
+ev_-3,0.09734580950728414,0.20714308801741912,-3,n_countries,Public / non-public move,12,5157
+ev_-2,0.00833809096733,0.29544433429547184,-2,n_countries,Public / non-public move,12,5157
+ev_-1,0.0,0.0,-1,n_countries,Public / non-public move,12,5157
+ev_0,-27.65565272349156,0.6622982673105021,0,n_countries,Public / non-public move,12,5157
+ev_3,28.066893077855244,0.7585409174234294,3,n_countries,Public / non-public move,12,5157

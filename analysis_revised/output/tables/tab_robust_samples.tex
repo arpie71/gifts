@@ -1,0 +1,24 @@
+% Robustness: excluding prominent people and branches (within-person models)
+\begin{tabular}{lrrrrrrr}
+\toprule
+Sample & Outcome & Tenure & Prior orgs & Cross-sector moves & Prior gifts & People & N \\
+\midrule
+Main sample & Gifts & -0.166* & 0.556*** & 0.123 & -0.217*** & 548 & 5361 \\
+Main sample & Countries & -0.166* & 0.499*** & 0.112 & -0.179*** & 548 & 5159 \\
+Excl. cabinet level and above & Gifts & 0.076 & 0.512** & -0.753* & -0.737*** & 396 & 4171 \\
+Excl. cabinet level and above & Countries & 0.033 & 0.485** & -0.678* & -0.679*** & 396 & 3901 \\
+Excl. top-25 recipients & Gifts & -0.035 & 0.408* & -0.050 & -0.597*** & 523 & 5122 \\
+Excl. top-25 recipients & Countries & -0.027 & 0.362 & 0.047 & -0.540*** & 523 & 4927 \\
+Excl. top 1\% & Gifts & -0.247 & 0.400* & 0.192 & -0.223** & 538 & 5242 \\
+Excl. top 1\% & Countries & -0.197 & 0.386* & 0.215 & -0.197* & 538 & 5040 \\
+Excl. White House branch & Gifts & -0.278* & 0.535*** & -0.317 & -0.312*** & 515 & 4893 \\
+Excl. White House branch & Countries & -0.212 & 0.515** & -0.357 & -0.261*** & 515 & 4686 \\
+Agency, military, diplomatic staff only & Gifts & 0.251 & 0.567* & 0.047 & -0.714*** & 175 & 792 \\
+Agency, military, diplomatic staff only & Countries & 0.155 & 0.568* & 0.152 & -0.623** & 175 & 719 \\
+Staff, excl. the 10 most-observed staff & Gifts & 0.333 & 0.518 & 0.094 & -1.483*** & 170 & 767 \\
+Staff, excl. the 10 most-observed staff & Countries & 0.262 & 0.556 & 0.189 & -1.485*** & 170 & 696 \\
+Wikidata tenure years only & Gifts & -0.164* & 0.557*** & 0.122 & -0.218*** & 508 & 5286 \\
+Wikidata tenure years only & Countries & -0.163* & 0.494*** & 0.111 & -0.179*** & 508 & 5084 \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize Poisson PML with person and year FE, as in Table tab\_main\_career columns 2 and 4; SEs clustered by person (not shown; stars at 5/1/0.1\%). Evidence type: within person.}

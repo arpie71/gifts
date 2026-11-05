@@ -1,0 +1,1016 @@
+qid,betweenness,agencies,countries,name,total_gifts,elite_person,top25,entry_branch,group,has_career_data,suspect_link
+Q76,0.06685072276996165,2,110,Barack Obama,482,1,1,Legislative,Cabinet level and above,1,False
+Q207,0.05963617011312368,1,115,George W. Bush,888,1,1,White House,Cabinet level and above,1,False
+Q6294,0.05960098636418128,3,93,Hillary Clinton,298,1,1,White House,Cabinet level and above,1,False
+Q6279,0.04270531267133301,3,80,Joe Biden,229,1,1,Legislative,Cabinet level and above,1,False
+Q47216,0.037801657504466984,2,72,Condoleezza Rice,246,1,1,White House,Cabinet level and above,1,False
+Q22316,0.03361109076359201,2,62,John Kerry,165,1,1,Legislative,Cabinet level and above,1,False
+Q152019,0.03246370983590042,1,81,Laura Bush,445,1,1,White House,Cabinet level and above,1,False
+Q150851,0.02662952925496472,1,66,Colin Powell,150,1,1,Diplomatic,Cabinet level and above,1,False
+Q13133,0.02298370637263205,1,65,Michelle Obama,154,1,1,White House,Cabinet level and above,1,False
+Q1124,0.021923728323501545,2,56,Bill Clinton,151,1,1,White House,Cabinet level and above,1,False
+Q22686,0.01837562714015143,1,47,Donald Trump,82,1,1,White House,Cabinet level and above,1,False
+Q7821917,0.015317208822888615,3,27,Antony Blinken,38,1,0,Legislative,Cabinet level and above,1,False
+Q26093,0.01414285548071444,2,33,Martin Dempsey,58,1,1,Defense,Cabinet level and above,1,False
+Q58040717,0.013828987589203435,1,1,Daniel E. Campbell,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q473239,0.012155685443693243,2,21,Mike Pompeo,47,1,1,Intelligence,Cabinet level and above,1,False
+Q503161,0.011522703923897065,2,34,Michael Mullen,78,1,1,Defense,Cabinet level and above,1,False
+Q235349,0.010567291351415004,2,37,Jill Biden,51,1,1,White House,Cabinet level and above,1,False
+Q267902,0.009837132719838031,4,24,James Mattis,46,1,1,Defense,Cabinet level and above,1,False
+Q184650,0.008991891180732013,1,36,Donald Rumsfeld,88,1,1,Defense,Cabinet level and above,1,False
+Q48259,0.00844062246832633,1,37,Dick Cheney,101,1,1,White House,Cabinet level and above,1,False
+Q212979,0.007583043770308669,1,27,Robert Gates,79,1,1,Defense,Cabinet level and above,1,False
+Q88915010,0.007354903500471535,1,1,Diane Nacci,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q432473,0.007068182309406317,1,28,Melania Trump,41,1,0,White House,Cabinet level and above,1,False
+Q355522,0.007038452650732506,1,18,Mitch McConnell,31,0,0,Legislative,Legislators,1,False
+Q64740945,0.006701270171720646,1,1,Ruth A Etzel,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q244631,0.006447818068056279,2,15,Leon Panetta,49,1,1,Intelligence,Cabinet level and above,1,False
+Q1276563,0.006385691015703867,2,13,William Joseph Burns,36,1,0,Diplomatic,Cabinet level and above,1,False
+Q941013,0.005802200083770914,3,19,Lloyd Austin,34,1,0,Defense,Cabinet level and above,1,False
+Q381670,0.005337457139397107,2,19,Chuck Hagel,36,1,0,Legislative,Cabinet level and above,1,False
+Q698907,0.005303280136908233,1,21,Stephen Hadley,53,1,1,White House,Cabinet level and above,1,False
+Q5343604,0.004860919377092858,1,2,Edward Isaac Ezra,3,0,0,Legislative,Legislators,0,True
+Q6282969,0.004706860397689488,2,16,"Joseph F. Dunford, Jr.",22,1,0,Defense,Cabinet level and above,1,False
+Q343740,0.004333630708293713,2,14,Gary Roughead,28,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q331401,0.004025871058213916,1,15,Rex Tillerson,20,1,0,Diplomatic,Cabinet level and above,1,False
+Q234992,0.00389549394428151,2,17,Lynne Cheney,33,1,0,White House,Cabinet level and above,1,False
+Q1381742,0.003722528931053808,1,18,Jonathan W. Greenert,26,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q553626,0.0035841719142512916,1,11,Dennis Hastert,17,1,0,Legislative,Cabinet level and above,1,False
+Q108901083,0.003531609245997632,1,1,William Davis Jones,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q170581,0.0034985521281271897,1,8,Nancy Pelosi,10,1,0,Other executive,Cabinet level and above,1,False
+Q50612,0.003473538759458194,2,12,Susan Rice,16,1,0,Diplomatic,Cabinet level and above,1,False
+Q10390,0.0034126182232935534,1,15,John McCain,35,0,0,Legislative,Legislators,1,False
+Q1276376,0.003369869934290572,2,16,Samuel Bodman,25,1,0,Other executive,Cabinet level and above,1,False
+Q3657872,0.003337287699678224,1,12,Capricia Marshall,12,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q363079,0.0031935520468216435,1,17,Richard Lugar,19,0,0,Legislative,Legislators,1,False
+Q24313,0.003110607727571489,1,21,Mike Pence,31,1,0,White House,Cabinet level and above,1,False
+Q358443,0.0031049343451297843,2,5,Jeff Sessions,6,1,0,Legislative,Cabinet level and above,1,False
+Q31112,0.0030737399157270396,1,11,Bill Frist,12,0,0,Legislative,Legislators,1,False
+Q174438,0.0030350640563223973,1,16,Madeleine Albright,29,1,0,Diplomatic,Cabinet level and above,1,False
+Q6766465,0.0028961662270625085,2,11,Mark A. Milley,17,1,0,Defense,Cabinet level and above,1,False
+Q22212,0.0028208650286758396,1,9,Lindsey Graham,20,0,0,Legislative,Legislators,1,False
+Q356475,0.002627754247952842,2,7,Russ Feingold,9,0,0,Legislative,Legislators,1,False
+Q4806029,0.002577481342578825,1,13,Ashton Carter,22,1,0,Defense,Cabinet level and above,1,False
+Q339046,0.0025485925611456093,2,3,Mark Kirk,5,0,0,Legislative,Legislators,1,False
+Q314459,0.0025236895234612513,1,11,Harry Reid,13,0,0,Legislative,Legislators,1,False
+Q1240095,0.002366757041594047,1,14,Donald Evans,34,1,0,Other executive,Cabinet level and above,1,False
+Q710721,0.0023541888075563275,1,16,William Cohen,63,1,1,Defense,Cabinet level and above,1,False
+Q358437,0.00234701635940718,1,12,Bill Nelson,15,0,0,Legislative,Legislators,1,False
+Q4110970,0.002341704541578103,1,13,Michael G. Vickers,24,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q25011,0.0022797222622213766,1,1,Charles Bolden,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q359442,0.002222063897511287,2,2,Bernie Sanders,2,0,0,Legislative,Legislators,1,False
+Q464810,0.002125507644977289,1,10,John Warner,16,1,0,Legislative,Cabinet level and above,1,False
+Q453868,0.0021052665048947087,2,2,John Negroponte,7,1,0,Intelligence,Cabinet level and above,1,False
+Q20749485,0.002103460727278739,2,7,Vincent R. Stewart,11,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q5231001,0.002097870561617159,2,4,David B. Shear,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q935034,0.0020640491576771054,2,5,John Holdren,7,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q116464,0.0020632296238757997,2,6,James Stavridis,7,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q5560545,0.0020462402395148233,2,2,Gil Kerlikowske,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q33190271,0.0020025670620041278,2,9,Mark T. Esper,12,1,0,Legislative,Cabinet level and above,1,False
+Q23302985,0.0019319920578394724,2,4,Jonathan Finer,5,1,0,Diplomatic,Cabinet level and above,1,False
+Q229032,0.0018934332224027784,1,12,Janet Napolitano,17,1,0,Other executive,Cabinet level and above,1,False
+Q88021078,0.001893032693171125,1,1,James J Jetter,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q504029,0.0018681254073791304,1,11,Andrew Card,18,1,0,White House,Cabinet level and above,1,False
+Q3702047,0.0018447777502792525,2,6,Denis McDonough,7,1,0,Legislative,Cabinet level and above,1,False
+Q16730147,0.0018336504713759383,3,10,Jake Sullivan,11,1,0,Diplomatic,Cabinet level and above,1,False
+Q380900,0.001827410123016235,1,7,Chuck Schumer,10,0,0,Legislative,Legislators,1,False
+Q344930,0.0017775667978662019,1,6,Evan Bayh,6,0,0,Legislative,Legislators,1,False
+Q18684027,0.0017034194770435746,1,2,Amata Coleman Radewagen,2,0,0,Legislative,Legislators,1,False
+Q201795,0.0016856524734203534,1,4,Ben Bernanke,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q79484036,0.0016797224310002026,1,5,Adam S. Boehler,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q28976604,0.001678900310411733,2,1,Robert J. Fenton,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q4126786,0.0016699297657263826,2,8,Joseph Votel,25,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q262554,0.001635437769710108,2,2,Margaret Spellings,4,1,0,White House,Cabinet level and above,1,False
+Q4758104,0.0016343636328072508,1,2,Andrew Natsios,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q22947718,0.0016256910617696446,1,2,Sara J. Bloomfield,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q970720,0.0016154876498663845,1,1,Julián Castro,1,1,0,Other executive,Cabinet level and above,1,False
+Q1077819,0.001615487649866384,1,1,Chris Van Hollen,1,0,0,Legislative,Legislators,1,False
+Q3177637,0.0016154876498663839,1,1,Jesse White,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q1174836,0.0016154876498663839,1,1,David J. Skorton,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q112364441,0.0016154876498663839,1,1,Christopher L. Hill,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q4662392,0.0016154876498663839,1,1,Aaron S. Williams,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q43549478,0.0016154876498663839,1,1,Bijan R. Kian,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q7351064,0.0016154876498663839,1,1,Robert Wilkie,1,1,0,Other executive,Cabinet level and above,1,False
+Q737493,0.0016154876498663839,1,1,Dirk Kempthorne,1,1,0,Other executive,Cabinet level and above,1,False
+Q1347744,0.0016154876498663839,1,1,Frederic Mishkin,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q5213608,0.0016154876498663839,1,1,Dan Gregory Blair,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q5407458,0.0016154876498663839,1,1,Eugene Louis Dodaro,1,0,0,Legislative,Legislators,0,False
+Q29169549,0.0016154876498663837,1,1,Kristine Svinicki,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q110141811,0.0016154876498663837,1,1,Caroline Pham,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q723295,0.0015892157809775426,2,2,Ben Cardin,2,0,0,Legislative,Legislators,1,False
+Q312724,0.001582856285308543,2,3,Robert Zoellick,3,1,0,White House,Cabinet level and above,1,False
+Q266040,0.001577300797566866,1,11,Michael E. Ryan,20,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q1937025,0.0015380166060199156,1,11,Richard Bowman Myers,21,1,0,Defense,Cabinet level and above,1,False
+Q984191,0.0015007948017631007,2,6,John Owen Brennan,83,1,1,White House,Cabinet level and above,1,False
+Q16186981,0.0014772436398840744,1,6,Randy Baumgardner,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q4391764,0.001440583067445393,2,4,Mark Welsh,5,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q6768160,0.0014210343227686296,3,6,Mark I. Fox,10,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q444652,0.0014167581557057156,1,7,Carl Levin,16,0,0,Legislative,Legislators,1,False
+Q81254315,0.001362488412290334,2,3,Alina Romanowski,4,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q923242,0.0013569428802752313,1,10,Chris Coons,14,0,0,Legislative,Legislators,1,False
+Q4169153,0.0013539038750092847,1,8,Wendy Sherman,11,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q193635,0.0013379321843868528,1,5,Alan Greenspan,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q888132,0.0013236503039018798,1,9,Robert Menendez,11,0,0,Legislative,Legislators,1,False
+Q237290,0.001294622891607379,1,1,Keeley Hawes,1,0,0,Other executive,Family of officials,0,False
+Q317618,0.001279561414313568,2,1,Sam Brownback,3,0,0,Legislative,Legislators,1,False
+Q719911,0.0012648195898728324,1,1,Jeffrey A. Hoffman,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q28131687,0.0012631050397320653,2,3,Marcel Lettre,3,0,0,Legislative,Legislators,0,False
+Q353826,0.0012535698565198914,1,7,Tom Vilsack,7,1,0,Other executive,Cabinet level and above,1,False
+Q5482879,0.0012515434914290738,2,3,Francis X. Taylor,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q288503,0.0012463300996773993,1,5,Teresa Heinz Kerry,8,0,0,Diplomatic,Family of officials,0,False
+Q85795031,0.0012334562173102529,2,3,Puneet Talwar,9,0,0,Legislative,Legislators,1,False
+Q6262421,0.0012209355650350576,1,9,John W. Miller,16,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q4964793,0.0012101914278560303,2,1,Q4964793,2,0,0,Legislative,Legislators,1,False
+Q622219,0.001208650730204876,1,6,MichÃƒÂ¨le Flournoy,8,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q13628723,0.0011984141458331215,1,9,Jared Kushner,15,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q262534,0.001196734789854866,1,2,Nick Rahall,2,0,0,Legislative,Legislators,1,False
+Q732804,0.001191495402546064,1,4,Tommy Thompson,6,1,0,Other executive,Cabinet level and above,1,False
+Q16728453,0.0011681001568292241,1,5,Deborah K. Jones,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5057841,0.0011490201739486347,2,3,Celeste A. Wallander,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q115558890,0.0011410479732719917,1,6,Bruce Swartz,8,1,0,Other executive,Cabinet level and above,0,False
+Q263725,0.001122982288186404,2,5,Janet Yellen,5,1,0,Other executive,Cabinet level and above,1,False
+Q160157,0.0011212480478942578,1,6,Joe Lieberman,8,0,0,Legislative,Legislators,1,False
+Q312644,0.0011122024726268138,1,8,Eric Holder,18,1,0,Other executive,Cabinet level and above,1,False
+Q649653,0.0011118069720291888,1,6,Joshua Bolten,11,1,0,White House,Cabinet level and above,1,False
+Q528979,0.0010798669478382797,1,8,Jack Reed,19,0,0,Legislative,Legislators,1,False
+Q6446882,0.0010155875848745215,2,4,Kurt M. Campbell,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q572954,0.001013069819760822,2,6,Anthony Zinni,10,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q10853588,0.000978666738230786,1,17,Kamala Harris,29,1,0,White House,Cabinet level and above,1,False
+Q3068781,0.0009549991931562216,1,4,Vincent C. Gray,8,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q134549,0.0009533575242167204,1,6,Ted Kennedy,8,0,0,Legislative,Legislators,1,False
+Q5127395,0.0009090880502977213,1,3,"Clark T. Randt, Jr.",12,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q11702,0.0008959271810953886,1,3,John Boehner,3,1,0,Legislative,Cabinet level and above,1,False
+Q16107293,0.0008813385286045533,1,6,Donald Ensenat,8,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q11153,0.0008786932993771595,1,4,John Roberts,7,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q324546,0.0008715451633715068,1,5,Marco Rubio,5,1,0,Legislative,Cabinet level and above,1,False
+Q382314,0.0008595241726820263,2,3,James Franklin Jeffrey,3,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q5042478,0.000841992538667273,2,3,Carlos Pascual,3,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q615356,0.0008277849736634334,2,3,John R. Allen,6,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q28591,0.0008263272671553343,2,1,David Petraeus,49,1,1,Defense,Cabinet level and above,1,False
+Q540453,0.000811101373718458,1,10,Peter Pace,16,1,0,Defense,Cabinet level and above,1,False
+Q4699790,0.0008070865882977704,1,1,Ajit Pai,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q6790153,0.0008070865882977704,1,1,Matthew Berry,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q258825,0.0008070865882977701,1,1,Patty Murray,1,0,0,Other executive,Legislators,1,False
+Q67172217,0.0008070865882977701,1,1,Wilda Logan,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q41694283,0.0008030951384107422,2,2,Christopher Campbell,2,0,0,Legislative,Legislators,0,False
+Q1525924,0.0007956719034590792,1,3,Roy Blunt,3,0,0,Legislative,Legislators,1,False
+Q311269,0.0007906118524327637,2,3,John R. Bolton,4,1,0,Diplomatic,Cabinet level and above,1,False
+Q463641,0.0007873937156267932,1,4,James Steinberg,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5362573,0.0007808433848993265,2,4,Elizabeth Cheney,12,1,0,Diplomatic,Cabinet level and above,1,False
+Q16933945,0.0007804241836322496,1,4,Peter A. Selfridge,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q203966,0.0007785375268370455,1,3,Paul Ryan,3,1,0,Legislative,Cabinet level and above,1,False
+Q14541026,0.0007747521078685813,1,1,Randal Quarles,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q6830434,0.000771267967606131,2,3,Michael Froman,3,1,0,White House,Cabinet level and above,1,False
+Q470748,0.0007687425290996362,1,4,Max Baucus,4,0,0,Legislative,Legislators,1,False
+Q5628492,0.000746544364659241,1,6,H. R. McMaster,6,1,0,White House,Cabinet level and above,1,False
+Q983055,0.0007261768801219822,1,2,Dana Rohrabacher,2,0,0,Legislative,Legislators,1,False
+Q106555050,0.0007227280299308889,1,5,Asel Roberts,8,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q239411,0.000714116369020532,1,6,Ivanka Trump,12,0,0,White House,Family of officials,1,False
+Q531247,0.0007126216563313121,1,6,Ray Mabus,6,1,0,Defense,Cabinet level and above,1,False
+Q456921,0.0007099794623844597,1,8,Paul H. O'Neill,13,1,0,Other executive,Cabinet level and above,1,False
+Q443640,0.0007046101638635465,1,5,Tom Daschle,6,0,0,Legislative,Legislators,1,False
+Q7274014,0.0007013684969843196,1,5,R. Steven Whitcomb,11,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q50599,0.0006895134577549212,1,5,Ted Stevens,7,0,0,Legislative,Legislators,1,False
+Q17466083,0.0006867920408884142,1,4,David L. Goldfein,10,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q350378,0.0006856958044747606,1,5,Gary Locke,10,1,0,Other executive,Cabinet level and above,1,False
+Q7183630,0.0006823829510497241,2,2,Philip H. Gordon,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5334860,0.0006495579306617,1,4,Ed Gillespie,4,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q326836,0.0006469348602105565,1,6,James Cartwright,7,1,0,Defense,Cabinet level and above,1,False
+Q96419165,0.0006355171536701963,1,1,Peter Meijer,1,0,0,Legislative,Legislators,1,False
+Q18045052,0.0006355171536701963,1,1,Seth Moulton,1,0,0,Legislative,Legislators,1,False
+Q230733,0.0006291947764725266,1,3,Dianne Feinstein,5,0,0,Legislative,Legislators,1,False
+Q96065274,0.0006277076139615135,1,3,Barbara A. Leaf,6,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q359888,0.0006238347844339282,1,5,Tim Kaine,6,0,0,Legislative,Legislators,1,False
+Q59315,0.0006238156845408769,1,4,Patrick Leahy,6,0,0,Legislative,Legislators,1,False
+Q469094,0.0006237451440066407,1,2,Loretta Sanchez,2,0,0,Legislative,Legislators,1,False
+Q822657,0.0006229471561224421,1,4,Robert M. Kimmitt,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q20067627,0.0006225877664567985,2,2,David S. Cohen,23,1,0,Other executive,Cabinet level and above,1,False
+Q1852641,0.0006221182684742199,1,3,Michael B. Donley,12,1,0,Defense,Cabinet level and above,1,False
+Q381157,0.0006058371085736728,1,5,Orrin Hatch,5,0,0,Legislative,Legislators,1,False
+Q618727,0.0006049655419638645,1,4,Thomas E. Donilon,5,1,0,White House,Cabinet level and above,1,False
+Q19920980,0.0005915282748561014,1,5,Linda Thomas-Greenfield,5,1,0,Diplomatic,Cabinet level and above,1,False
+Q6768611,0.0005915035916067988,2,2,Mark Lippert,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q1285613,0.0005804327520216405,1,4,Spencer Abraham,9,1,0,Other executive,Cabinet level and above,1,False
+Q62569386,0.0005758483075298782,2,3,Scott D. Berrier,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q130024,0.000572673663165055,1,3,Johnny Isakson,4,0,0,Legislative,Legislators,1,False
+Q976487,0.0005687484094282549,1,1,Mike McIntyre,1,0,0,Legislative,Legislators,1,False
+Q539587,0.0005685968156724706,1,2,Gene Green,2,0,0,Legislative,Legislators,1,False
+Q6177419,0.0005657280628803555,2,2,Jendayi Frazer,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q652066,0.000563027053966566,1,3,Sheldon Whitehouse,3,0,0,Legislative,Legislators,1,False
+Q25894869,0.0005621370727453215,1,8,Karen Pence,8,1,0,White House,Cabinet level and above,1,False
+Q16476,0.0005618131672888875,1,3,Mazie Hirono,5,0,0,Legislative,Legislators,1,False
+Q3430687,0.0005584778624227979,1,3,Anthony A. Williams,4,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q503529,0.0005581105797375582,1,1,Rick Larsen,1,0,0,Legislative,Legislators,1,False
+Q1617137,0.0005581105797375582,1,1,Tom Feeney,1,0,0,Legislative,Legislators,1,False
+Q3176689,0.0005557658222131353,1,3,Jeffrey D. Feltman,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q22279,0.0005404670580964429,1,4,Susan Collins,4,0,0,Legislative,Legislators,1,False
+Q298443,0.0005404049356321937,1,4,Rahm Emanuel,4,1,0,White House,Cabinet level and above,1,False
+Q573246,0.0005402253832145373,1,1,Anthony Fauci,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q462981,0.0005395978342640417,1,3,John Thune,4,0,0,Legislative,Legislators,1,False
+Q317953,0.0005320924364826932,2,4,Lawrence Summers,5,1,0,Other executive,Cabinet level and above,1,False
+Q381610,0.0005240578340768602,2,3,Richard Danzig,5,1,0,Defense,Cabinet level and above,1,False
+Q4801814,0.000515646663620981,2,2,Arturo Valenzuela,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q110515281,0.000508978735613953,1,4,David S. Sedney,9,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q21552245,0.0005022353463201777,1,2,Marcelle M. Wahba,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q1358112,0.0005004377336157519,1,6,Hugh Shelton,12,1,0,Defense,Cabinet level and above,1,False
+Q292936,0.0005002646432013855,1,7,Ann Veneman,9,1,0,Other executive,Cabinet level and above,1,False
+Q1758631,0.0004993028070262529,1,1,Alcee Hastings,1,0,0,Legislative,Legislators,1,False
+Q888270,0.0004993028070262529,1,1,Bob Stump,1,0,0,Legislative,Legislators,1,False
+Q1699908,0.0004993028070262529,1,1,John E. Sununu,1,0,0,Legislative,Legislators,1,False
+Q461497,0.0004993028070262529,1,1,Diane Watson,1,0,0,Legislative,Legislators,1,False
+Q540544,0.0004993028070262529,1,1,Bob Barr,1,0,0,Legislative,Legislators,1,False
+Q219861,0.0004975456347934687,1,5,Paul Wolfowitz,10,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q399621,0.0004949997018116745,1,2,Mike Honda,2,0,0,Legislative,Legislators,1,False
+Q71725344,0.0004810870583694291,1,3,Susan Pompeo,3,0,0,Diplomatic,Family of officials,0,False
+Q56871224,0.00047962241201476895,1,4,David J. Nesbitt,5,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q6809043,0.00047950451140065973,1,2,Meghan O'Sullivan,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q4733589,0.00047929594445992067,1,4,Alma Powell,7,0,0,Diplomatic,Family of officials,0,False
+Q1677579,0.0004767491169915813,1,4,Jack Lew,4,1,0,Other executive,Cabinet level and above,1,False
+Q907764,0.00046942700009559716,1,1,Lane Evans,1,0,0,Legislative,Legislators,1,False
+Q519825,0.00046893201663528145,1,4,R. Nicholas Burns,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q1370400,0.0004669939260996131,1,4,William M. Daley,4,1,0,Other executive,Cabinet level and above,1,False
+Q202350,0.0004662520718560124,2,2,Alberto Gonzales,2,1,0,White House,Cabinet level and above,1,False
+Q448880,0.0004634971423642419,2,2,Mike Johanns,2,1,0,Other executive,Cabinet level and above,1,False
+Q223151,0.00046035532356557664,1,2,James Baker,2,1,0,Diplomatic,Cabinet level and above,1,False
+Q29604456,0.00045987559316710354,2,2,"Kenneth F. McKenzie, Jr.",2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q720521,0.0004585845288309043,1,5,John Barrasso,5,0,0,Legislative,Legislators,1,False
+Q38858352,0.00045672770423186405,1,4,Kirstjen Nielsen,6,1,0,Other executive,Cabinet level and above,1,False
+Q529294,0.00045667959336435617,1,4,Chuck Grassley,4,0,0,Legislative,Legislators,1,False
+Q6210158,0.00045576081554267277,1,4,Joe Hagin,6,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q6232322,0.0004548985866566928,2,3,John F. Kelly,3,1,0,Defense,Cabinet level and above,1,False
+Q16186345,0.00044850674229040714,1,2,Hugo Llorens,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7626496,0.00044373336313065177,1,2,Stuart E. Jones,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q665919,0.00044122835778987585,1,3,Ted Kaufman,8,0,0,Legislative,Legislators,1,False
+Q381880,0.00044122835778987585,1,3,Sherrod Brown,3,0,0,Legislative,Legislators,1,False
+Q285102,0.0004391205356830563,1,3,Jay Rockefeller,3,0,0,Legislative,Legislators,1,False
+Q16890597,0.0004373557156692278,1,3,Natalie Jones,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q24248265,0.00043393989701156425,1,4,Steven Mnuchin,8,1,0,Other executive,Cabinet level and above,1,False
+Q7325834,0.0004314300594958278,1,2,Richard G. Olson,7,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6226385,0.0004249270192371193,1,4,John Clifford Wallace,4,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q311211,0.00042359374708770403,1,3,Timothy Geithner,4,1,0,Other executive,Cabinet level and above,1,False
+Q1215367,0.0004164308501520159,1,2,Nancy Brinker,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5195882,0.00040913547719461236,2,2,Curtis Scaparrotti,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q311025,0.00040359884930480505,1,3,Henry Paulson,4,1,0,Other executive,Cabinet level and above,1,False
+Q7364818,0.00040225838847671576,1,2,Ronald E. Neumann,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q342586,0.0004001834273554275,1,3,Ken Salazar,3,1,0,Legislative,Cabinet level and above,1,False
+Q5478983,0.0003978597192682332,1,4,Frances Townsend,5,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q8008244,0.0003958702278777287,2,2,William E. Gortney,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q741648,0.0003957155514048106,1,4,Carlos Gutierrez,4,1,0,Other executive,Cabinet level and above,1,False
+Q312845,0.00039294949314384983,1,2,Daniel Inouye,2,0,0,Legislative,Legislators,1,False
+Q3476754,0.00038897554898248665,1,2,Sean McCormack,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q107419955,0.0003873796137330158,1,2,Terrence McKenrick,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1263846,0.00037288457487412793,1,4,Elliott Abrams,7,1,0,White House,Cabinet level and above,1,False
+Q7786914,0.00037207985851631266,1,2,"Thomas A. Shannon, Jr.",2,1,0,Diplomatic,Cabinet level and above,1,False
+Q47492974,0.0003699864482221303,1,3,Peter Lavoy,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q64748638,0.00036734277804432774,1,1,Philip Jefferson,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q5218668,0.0003655769000136026,1,3,Dan Sullivan,3,0,0,Legislative,Legislators,1,False
+Q1188501,0.0003624119017606427,1,5,Victoria Nuland,7,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q20645208,0.0003556571674598079,1,1,Kin W. Moy,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q529873,0.0003533850172808741,1,3,George Voinovich,4,0,0,Legislative,Legislators,1,False
+Q28086194,0.0003522978670227425,1,4,Willie E. May,4,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q6176439,0.0003516790703970111,1,3,Jeh Johnson,9,1,0,Other executive,Cabinet level and above,1,False
+Q50281264,0.00035118036940938045,2,2,Christopher W. Grady,2,1,0,Defense,Cabinet level and above,1,False
+Q45780715,0.00035070561048794956,1,4,Sean Lawler,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q237560,0.00034726165706615666,1,2,Barbara Boxer,2,0,0,Legislative,Legislators,1,False
+Q539509,0.0003451390150465553,1,1,Michael McCaul,1,0,0,Legislative,Legislators,1,False
+Q539562,0.0003451390150465553,1,1,Henry Cuellar,1,0,0,Legislative,Legislators,1,False
+Q45951,0.0003451390150465553,1,1,Mike Fitzpatrick,1,0,0,Legislative,Legislators,1,False
+Q1027026,0.0003451390150465553,1,1,Jeff Duncan,1,0,0,Legislative,Legislators,1,False
+Q1174271,0.0003451390150465553,1,1,David E. Bonior,1,0,0,Legislative,Legislators,1,False
+Q631195,0.0003446424835249969,1,2,Mark Udall,2,0,0,Legislative,Legislators,1,False
+Q718542,0.000342866976650168,1,3,Ben Nelson,5,0,0,Legislative,Legislators,1,False
+Q11138,0.0003417719621259407,1,1,Samuel Alito,1,0,0,Judicial,"Agency, military, diplomatic staff",1,False
+Q6245944,0.0003417719621259407,1,1,John M. Rogers,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q357510,0.00033817138884038373,1,2,Mark Kelly,3,0,0,Legislative,Legislators,1,False
+Q434952,0.0003365685959191201,1,2,Rosa DeLauro,2,0,0,Legislative,Legislators,1,False
+Q5744191,0.00033640210203058366,2,2,Herro Mustafa,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q82822778,0.0003354040906463919,1,2,Stephanie T. Williams,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q357832,0.000333615684615806,1,2,John B. Larson,2,0,0,Legislative,Legislators,1,False
+Q7176641,0.0003327978265152234,1,5,Peter Rodman,7,1,0,Defense,Cabinet level and above,0,False
+Q100167384,0.00033088933747719746,1,3,David F. Helvey,3,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q11339644,0.00033088933747719746,1,3,Michael Schiffer,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q66973646,0.0003275933722586305,1,2,Bridget Brink,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q26702611,0.0003206115418856914,1,2,Dennis Cheng,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q229671,0.00031874854017485547,1,2,Chelsea Clinton,2,0,0,Diplomatic,Family of officials,1,False
+Q6204212,0.00031846065054871414,1,1,Jo Ellen Powell,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5234629,0.0003161592853599705,1,4,David Hale,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6938597,0.0003161350640922678,1,1,Muriel Bowser,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q470755,0.00031408204121671676,1,2,Mark Pryor,2,0,0,Legislative,Legislators,1,False
+Q22360,0.0003134230738784337,1,2,Lisa Murkowski,3,0,0,Legislative,Legislators,1,False
+Q1363468,0.00031299536231504477,1,2,Mike DeWine,2,0,0,Legislative,Legislators,1,False
+Q4335852,0.000304832471982511,1,2,John Ordway,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6525608,0.0003037099341412293,1,2,Leonard P. Stark,2,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q5216534,0.0003022970059298178,1,2,Daniel Benjamin,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q2526622,0.0002997431396501829,1,3,Vincent K. Brooks,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q715787,0.00028773474581570725,1,2,Bob Bennett,2,0,0,Legislative,Legislators,1,False
+Q6271858,0.00028190057041370853,1,2,Jonah Blank,4,0,0,Legislative,Legislators,0,False
+Q721871,0.00027771245365923545,1,4,Jim Risch,6,0,0,Legislative,Legislators,1,False
+Q449689,0.00027606367000490367,1,3,John W. Snow,3,1,0,Other executive,Cabinet level and above,1,False
+Q966352,0.00027544525902016364,1,1,George Miller,1,0,0,Legislative,Legislators,1,False
+Q529090,0.00027544525902016364,1,1,Bill Pascrell,1,0,0,Legislative,Legislators,1,False
+Q551578,0.00027544525902016364,1,1,Mike Capuano,1,0,0,Legislative,Legislators,1,False
+Q926069,0.0002701375866470853,1,2,Robert Jones Portman,2,1,0,Legislative,Cabinet level and above,1,False
+Q22222,0.0002693855982640274,1,1,Kirsten Gillibrand,1,0,0,Legislative,Legislators,1,False
+Q7328082,0.0002691784010158676,1,3,Richard Norland,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5387414,0.0002639016086325601,1,2,Eric S. Edelman,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q12057770,0.0002584432648980086,1,6,Mark P. Fitzgerald,7,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q388356,0.0002582739218469512,1,1,Bob Filner,1,0,0,Legislative,Legislators,1,False
+Q471222,0.0002582739218469512,1,1,Earl F. Hilliard,1,0,0,Legislative,Legislators,1,False
+Q4888163,0.0002582739218469512,1,1,Benjamin A. Gilman,1,0,0,Legislative,Legislators,1,False
+Q110940327,0.0002582739218469512,1,1,James D. Ford,1,0,0,Legislative,Legislators,0,False
+Q7344228,0.0002574542825005,1,3,Robert F. Willard,5,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q971308,0.00025568706028443656,1,1,Patrick Joseph Toomey,1,0,0,Legislative,Legislators,1,False
+Q7365034,0.0002555649507003855,1,1,"Ronald L. Burgess, Jr.",1,0,0,Intelligence,"Agency, military, diplomatic staff",0,False
+Q11607,0.00025486181204547107,1,1,"Jon Huntsman, Jr.",3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6241291,0.00025486181204547107,1,1,John J. Sullivan,2,1,0,Diplomatic,Cabinet level and above,1,False
+Q116215246,0.00025486181204547107,1,1,Kirsten Madison,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6766955,0.00025486181204547107,1,1,Mark C. Minton,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7324271,0.00025486181204547107,1,1,Richard Boucher,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q323508,0.0002530892671815749,1,4,Gordon R. England,4,1,0,Defense,Cabinet level and above,1,False
+Q6271781,0.00025303938610310553,2,1,Q6271781,2,0,0,Legislative,Legislators,0,False
+Q911264,0.00025147758232114026,1,2,John P. Jumper,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q2668691,0.00024953609440532315,1,1,Paula Dobriansky,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q60010240,0.00024953609440532315,1,1,Daniel L. Feldman,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7146458,0.00024953609440532315,1,1,Patrick F. Kennedy,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7117418,0.00024953609440532315,1,1,P. Michael McKinley,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q7346529,0.00024890892050180206,1,2,Robert L. Caslen,9,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6558280,0.00024886599897916927,1,3,Lisa Monaco,5,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q153481,0.0002460951463313347,1,4,Jenna Bush Hager,4,0,0,White House,Family of officials,0,False
+Q190628,0.0002460951463313347,1,4,Barbara Bush,4,1,0,White House,Cabinet level and above,1,False
+Q675869,0.00024216240889927447,1,2,Jim Costa,2,0,0,Legislative,Legislators,1,False
+Q3997121,0.00023791434692354673,1,2,Tracey Ann Jacobson,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q2960128,0.00023656686985941346,1,1,Charles Rivkin,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q1569513,0.00023656686985941346,1,1,Marc Grossman,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6284856,0.00023656686985941346,1,1,Joseph LeBaron,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q24204565,0.00023656686985941346,1,1,Lisa J. Peterson,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q21663103,0.00023656686985941346,1,1,Atul Keshap,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q20735785,0.00023656686985941346,1,1,Dana Shell Smith,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q77010995,0.00023656686985941346,1,1,Susan L. Ziadeh,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5087207,0.00023656686985941346,1,1,Chase Untermeyer,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q1337459,0.00023630272748246958,1,1,Jim McGovern,2,0,0,Legislative,Legislators,1,False
+Q5525412,0.00023454258042117569,1,2,Gary L. North,8,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q114322,0.0002322542074710238,1,2,Dana Perino,3,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q322655,0.00023204014370590629,1,4,Vern Clark,5,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q7348126,0.00023176700835523758,2,2,Robert O. Work,3,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q124293594,0.00023172493999123415,1,2,J. Michael Rowe,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q715399,0.00023074696294725724,1,1,Robert Marion Berry,1,0,0,Legislative,Legislators,1,False
+Q5110742,0.0002301024584896379,1,2,Christina B. Rocca,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q65030127,0.00022752251140076936,1,1,Matthew Duss,1,0,0,Legislative,Legislators,0,False
+Q2218423,0.00022385586910653044,1,3,Samuel J. Locklear,4,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q61755194,0.00022372371558091928,1,2,B. Edwin Wilson,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6390354,0.00022310794693101857,1,2,Kenneth L. Wainstein,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q1400609,0.00022166800230999126,1,1,William V. Roth,1,0,0,Legislative,Legislators,1,False
+Q104760886,0.00021943588947911694,1,2,Peter Coneway,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5968865,0.0002192319644230235,1,2,William J. Lynn III,3,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q513091,0.00021431944032495156,1,1,Mark Dayton,2,0,0,Legislative,Legislators,1,False
+Q30502291,0.00021297071555424207,1,2,Jeffrey Eggers,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q494953,0.0002086697922260999,1,1,Christopher R. Hill,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6251594,0.00020748092651862258,1,3,John P. Hannah,4,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q1275851,0.00020564797178594627,1,3,Scott McClellan,4,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q17792597,0.0002046807723386901,1,2,Nevin Carr,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q28169559,0.00020375364730234498,1,1,Robert Cekuta,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q7781809,0.00020375364730234498,1,1,Theodore H. Kattouf,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7788143,0.00020375364730234498,1,1,Thomas C. Krajeski,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q28839755,0.00020375364730234498,1,1,Mark E. Walsh,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q4766690,0.00020375364730234498,1,1,Ann Stock,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q4720675,0.00020375364730234498,1,1,Alexandra Kerry,1,0,0,Diplomatic,Family of officials,0,False
+Q6836763,0.00020375364730234498,1,1,Michele J. Sison,1,1,0,Diplomatic,Cabinet level and above,1,False
+Q467891,0.00020335885355580007,1,1,Ray LaHood,1,1,0,Legislative,Cabinet level and above,1,False
+Q100605126,0.0002013009946004928,1,2,Naomi Biden,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q16499817,0.0002010366209696435,1,1,Clay Pell,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q21061985,0.00019992917955945788,1,4,Elizabeth Sherwood-Randall,4,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q7612486,0.00019678623373712672,1,1,Steve Elmendorf,1,0,0,Legislative,Legislators,0,False
+Q1209677,0.00019678623373712672,1,1,Dick Gephardt,1,0,0,Legislative,Legislators,1,False
+Q116797817,0.00019659091697274043,1,2,William C. Danvers,3,0,0,Legislative,Legislators,0,False
+Q19673,0.0001918596388983067,2,4,Al Gore,4,1,0,White House,Cabinet level and above,1,False
+Q693238,0.00019099131496918057,1,1,Mike D. Rogers,2,0,0,Legislative,Legislators,1,False
+Q5982486,0.00019099131496918057,1,1,Michael R. McNulty,1,0,0,Legislative,Legislators,1,False
+Q461526,0.00019099131496918057,1,1,Eddie Bernice Johnson,1,0,0,Legislative,Legislators,1,False
+Q461754,0.00019099131496918057,1,1,Julia Carson,1,0,0,Legislative,Legislators,1,False
+Q6130715,0.00019099131496918057,1,1,James C. Greenwood,1,0,0,Legislative,Legislators,1,False
+Q1803180,0.00018968349012303177,1,1,Michael Wynne,1,1,0,Defense,Cabinet level and above,1,False
+Q261147,0.00018952413393435075,1,3,Barbara Mikulski,3,0,0,Legislative,Legislators,1,False
+Q11116,0.00018861232720482636,1,1,Ruth Bader Ginsburg,1,0,0,Judicial,"Agency, military, diplomatic staff",1,False
+Q131319276,0.00018772030443862578,1,2,Anita McBride,2,1,0,White House,Cabinet level and above,1,False
+Q298016,0.0001868684723952961,1,2,Fred Thompson,2,0,0,Legislative,Legislators,1,False
+Q106355213,0.0001864788292920196,1,2,Ronald Moultrie,2,1,0,Defense,Cabinet level and above,0,False
+Q328696,0.00018547913412173103,1,2,Norton A. Schwartz,4,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q17386285,0.00018538870694167857,1,1,Stephen R. Lyons,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q107284504,0.00018487279655329038,1,1,Jess L. Baily,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q4859276,0.00018487279655329038,1,1,Barbara S. Jones,1,0,0,Diplomatic,Family of officials,1,False
+Q1489004,0.00018487279655329038,1,1,Philip D. Zelikow,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q108165579,0.00018487279655329038,1,1,Steven Fagin,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q967329,0.00018487279655329038,1,1,Ryan Crocker,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q60048512,0.00018487279655329038,1,1,Alexander M. Laskaris,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7793367,0.00018487279655329038,1,1,Thomas R. Nides,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6418973,0.00018429587067715164,1,1,Kiyo A. Matsumoto,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q7490183,0.00018429587067715164,1,1,Q7490183,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q331719,0.00018240590585413087,1,2,Bob Corker,4,0,0,Legislative,Legislators,1,False
+Q6394354,0.00018140244435174433,1,3,Kerri-Ann Jones,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q111230829,0.00018107871338644181,1,1,John D. Sullivan,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,True
+Q16189325,0.00017933558921501473,1,2,Deborah Lee James,3,1,0,Defense,Cabinet level and above,1,False
+Q4706175,0.0001792304204022904,1,2,Alan Bersin,5,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q1282411,0.00017788024878130838,1,2,Ed Markey,2,0,0,Legislative,Legislators,1,False
+Q19520020,0.0001777118014514678,1,3,Charles W. Moore Jr.,14,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q17318953,0.0001770206311274095,1,2,Gayle E. Smith,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q34677188,0.0001764683691653793,1,2,Ellen Lord,3,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q5001041,0.00017435109063740567,1,1,Burwell B. Bell III,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q21716302,0.00017340570020706514,1,1,David Thorne,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q4647742,0.00017340570020706514,1,1,A. Elizabeth Jones,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q3854074,0.00017340570020706514,1,1,Mel Sembler,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q457432,0.0001725264200195387,1,2,Tom Carper,3,0,0,Legislative,Legislators,1,False
+Q497271,0.00017138793932631527,1,1,Eric Cantor,1,0,0,Legislative,Legislators,1,False
+Q1175392,0.00017138793932631527,1,1,David M. McIntosh,1,0,0,Legislative,Legislators,1,False
+Q7703280,0.00017138793932631527,1,1,Terrance W. Gainer,1,0,0,Legislative,Legislators,0,False
+Q512705,0.00017036772489520416,1,1,Rose Gottemoeller,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q155649,0.00017036772489520416,1,1,Richard Holbrooke,1,1,0,Diplomatic,Cabinet level and above,1,False
+Q434270,0.00017036772489520416,1,1,Eliot A. Cohen,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q3291020,0.00017036772489520416,1,1,Maria Otero,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q23013776,0.00017036772489520416,1,1,Julieta Valls Noyes,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q29402380,0.00016930463336485197,1,2,Paul E. Funk II,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q887841,0.00016783894378748592,1,1,Bob Casey Jr.,1,0,0,Legislative,Legislators,1,False
+Q8013276,0.00016581289146969788,1,2,William J. Luti,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q973737,0.00016545747030671478,1,1,Jim Cooper,1,0,0,Legislative,Legislators,1,False
+Q5220892,0.00016545747030671478,1,1,Danny Tidwell,1,0,0,Legislative,Legislators,0,False
+Q2434181,0.00016545747030671478,1,1,Timothy F. Murphy,1,0,0,Legislative,Legislators,1,False
+Q399593,0.00016545747030671478,1,1,Mark Takano,1,0,0,Legislative,Legislators,1,False
+Q437159,0.00016545747030671478,1,1,Diana DeGette,1,0,0,Legislative,Legislators,1,False
+Q952268,0.00016545747030671478,1,1,Jim Sensenbrenner,1,0,0,Legislative,Legislators,1,False
+Q433857,0.00016545747030671478,1,1,Rob Bishop,1,0,0,Legislative,Legislators,1,False
+Q556034,0.00016545747030671478,1,1,Charlie Dent,1,0,0,Legislative,Legislators,1,False
+Q513960,0.00016545747030671478,1,1,Tim Ryan,1,0,0,Legislative,Legislators,1,False
+Q7610170,0.00016500185242483402,1,1,Stephen P. Friot,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q7327395,0.00016500185242483402,1,1,Richard Linn,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q419976,0.00016429853202727906,1,2,Lamar Alexander,2,1,0,Legislative,Cabinet level and above,1,False
+Q68366723,0.00016364497567537579,1,1,James Dubik,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q259514,0.00016254715663028066,1,2,Valerie Jarrett,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q5325710,0.00016250665020655644,1,1,Earl Anthony Wayne,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q94665432,0.00016123160983555498,1,2,Linda Hall Daschle,2,0,0,Legislative,Family of officials,0,False
+Q23762532,0.00016067626259617116,1,2,James M. Holmes,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q390491,0.00016047887271046984,1,3,Roger Wicker,3,0,0,Legislative,Legislators,1,False
+Q6279598,0.00016008310543721017,1,1,Jose W. Fernandez,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q14604898,0.00016008310543721017,1,1,James B. Smith,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q446778,0.00016008310543721017,1,1,Wyche Fowler,1,0,0,Diplomatic,Legislators,1,False
+Q1708182,0.00016008310543721017,1,1,Joseph W. Westphal,1,1,0,Diplomatic,Cabinet level and above,1,False
+Q907913,0.00016008310543721017,1,1,Harold Hongju Koh,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6130781,0.00016008310543721017,1,1,James C. Oberwetter,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q105306790,0.00016008310543721017,1,1,Tim Lenderking,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5519560,0.00016008310543721017,1,1,Gamal Helal,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7350690,0.00016008310543721017,1,1,Robert W. Jordan,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5240945,0.00016008310543721017,1,1,David Welch,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q84598853,0.00016008310543721017,1,1,Richard W. Erdman,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7327164,0.00016008310543721017,1,1,Richard L. Baltimore,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5467831,0.00016008310543721017,1,1,Ford M. Fraker,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q19957029,0.00015942690692230058,1,2,Charles T. Cleveland,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7177852,0.0001544152092915324,1,1,Peter Zimmerman,2,0,0,Legislative,Legislators,0,False
+Q7787239,0.00015437202637417683,1,2,Thomas B. Fargo,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q62391677,0.0001516440443841567,1,2,James J. Malloy,10,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q4285526,0.00015105535327250707,1,1,Vladimir Aleksandrovich Mau,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q16776319,0.00014995780270513276,1,3,Paul J. Selva,3,1,0,Defense,Cabinet level and above,1,False
+Q4756913,0.0001493533319822601,1,2,Andrew Exum,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q21934040,0.00014891728743007097,1,2,John W. Troxell,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q535254,0.00014835494589638887,1,1,Pete Hoekstra,1,0,0,Legislative,Legislators,1,False
+Q749710,0.00014835494589638887,1,1,Steve King,1,0,0,Legislative,Legislators,1,False
+Q321457,0.00014835494589638887,1,1,Jim McDermott,1,0,0,Legislative,Legislators,1,False
+Q715362,0.00014835494589638887,1,1,Mike Ross,1,0,0,Legislative,Legislators,1,False
+Q535887,0.00014835494589638887,1,1,Tom McClintock,1,0,0,Legislative,Legislators,1,False
+Q363055,0.0001474544575083875,1,2,Arlen Specter,2,0,0,Legislative,Legislators,1,False
+Q14946807,0.00014675786906739952,1,1,Dennis L. Via,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q23772372,0.00014542418311022694,1,1,Joan A. Polaschik,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q52114340,0.00014542418311022694,1,1,Kenneth D. Ward,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q139310346,0.00014542418311022694,1,1,Natalie A. Baker,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q44690,0.0001400932816239653,1,1,Lincoln Chafee,1,0,0,Legislative,Legislators,1,False
+Q28794141,0.00013941543004209866,1,1,Nicholas Rasmussen,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q104887666,0.0001381918539096111,1,1,Jewel H. Bronaugh,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q50506116,0.00013654690780514294,1,1,Bruce Wharton,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q3467171,0.0001365469078051429,1,1,Tony Garza,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q96013988,0.0001365469078051429,1,1,Christopher W. Murray,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q77205764,0.00013559929066325274,1,2,Robert P. White,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q16886217,0.00013510022752426443,1,1,Matthew H. Tueller,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q22290,0.0001350033855174782,1,1,Olympia Snowe,1,0,0,Legislative,Legislators,1,False
+Q16231847,0.0001350033855174782,1,1,Elizabeth O'Bagy,1,0,0,Legislative,Legislators,0,False
+Q706661,0.0001350033855174782,1,1,Norm Coleman,2,0,0,Legislative,Legislators,1,False
+Q16204936,0.0001339709367451012,1,1,Rufus Gifford,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q29057614,0.00013396828733291423,1,2,Thomas S. Vandal,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6128328,0.000133860788843303,1,3,"James A. Winnefeld, Jr.",3,1,0,Defense,Cabinet level and above,1,False
+Q484005,0.00013100375671981125,1,2,Alexander Vershbow,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q6779064,0.00013077617925294578,1,2,Mary Beth Long,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1176453,0.000129267559824072,1,3,David Addington,4,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q112035793,0.00012922825726660345,1,1,Beatrice Welters,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5481447,0.00012801787075804343,1,3,Francis J. Wiercinski,8,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q88156379,0.00012786854702624828,1,2,Joseph A. Stroscio,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q7349450,0.00012740425808565055,1,1,Robert S. Beecroft,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7345617,0.00012740425808565055,1,1,Robert Hormats,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q133454387,0.00012740425808565055,1,1,Anny Vu,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5345189,0.00012740425808565055,1,1,"Edward S. Walker, Jr.",1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q103166651,0.0001268283502818155,1,2,Q103166651,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q1286705,0.00012675273004965576,1,2,Edmund Giambastiani,2,1,0,Defense,Cabinet level and above,1,False
+Q6470875,0.00012491969688525263,1,3,Lael Brainard,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q555735,0.00012486985945986268,1,2,Byron Dorgan,2,0,0,Legislative,Legislators,1,False
+Q7188594,0.00012296953281410727,1,1,Phyllis M. Powers,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q16241519,0.00012259558122351276,1,2,John Francis Eisold,2,0,0,Legislative,Legislators,0,False
+Q6133646,0.00012253588956104354,1,1,James F. Holderman,5,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q45390804,0.00012253588956104354,1,1,Ernest W. DuBester,1,0,0,Judicial,Family of officials,0,False
+Q19957544,0.00012202580702921998,1,2,Patrick J. Donahue II,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6232197,0.00012136375764797808,1,1,John F. Campbell,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q311135,0.00012084114580790537,1,2,Karl Rove,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q778922,0.00012064735847074376,1,1,Mike Oxley,1,0,0,Legislative,Legislators,1,False
+Q331278,0.00012064735847074376,1,1,Richard Burr,1,0,0,Legislative,Legislators,1,False
+Q8000233,0.00012053078367514495,1,2,Wilbur Ross,4,1,0,Other executive,Cabinet level and above,1,False
+Q6768514,0.00011997669360554875,1,1,Mark Lawrence Wolf,2,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q434804,0.00011901130435423863,1,2,Dick Durbin,2,0,0,Legislative,Legislators,1,False
+Q15453080,0.00011801399390470728,1,1,Johnny Young,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6104556,0.00011801399390470728,1,1,J. Adam Ereli,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q50591851,0.00011801399390470728,1,1,William Roebuck,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6280836,0.00011801399390470728,1,1,Joseph A. Mussomeli,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q106512571,0.00011801399390470728,1,1,Steven C. Bondy,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q29885412,0.00011799293211463044,1,2,Charles A. Flynn,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q22095846,0.00011649035642530468,1,2,Kevin M. Donegan,5,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1110029,0.00011609041229731209,1,2,Louis Freeh,22,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q559822,0.0001160818760541711,1,2,Tom Ridge,2,1,0,Other executive,Cabinet level and above,1,False
+Q293365,0.00011561808201881755,1,2,Penny Pritzker,2,1,0,Other executive,Cabinet level and above,1,False
+Q16210573,0.00011426976071799761,1,1,Nancy Erickson,1,0,0,Legislative,Legislators,0,False
+Q46089,0.00011281176880489365,1,5,Sandy Berger,7,1,0,White House,Cabinet level and above,1,False
+Q105083028,0.00011195430266224232,1,2,Marisa Lago,3,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q5218373,0.00011186962369704111,1,1,Daniel P. Woodward,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q2129564,0.00011186962369704111,1,1,Ralph Eberhart,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q6260103,0.00011186962369704111,1,1,John T. Sheridan,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1265104,0.00011186962369704111,1,1,T. Michael Moseley,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q3500791,0.00011186962369704111,1,1,Barbara Barrett,1,1,0,Defense,Cabinet level and above,1,False
+Q3036410,0.00011030419641029733,1,2,Tammy Duckworth,3,0,0,Legislative,Legislators,1,False
+Q6390231,0.00010932709698121747,1,1,Kenneth I. Juster,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q50608,0.00010891530248588782,1,1,Trent Lott,1,0,0,Legislative,Legislators,1,False
+Q241092,0.00010847930080949559,1,2,Debbie Stabenow,2,0,0,Legislative,Legislators,1,False
+Q30039417,0.00010635729594906895,1,1,Kari Bingen,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q11059791,0.00010623868580163371,1,4,Bruce W. Clingan,5,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7174980,0.00010566370645522996,1,1,Peter Jo Messitte,3,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q16218923,0.00010504202718096855,1,1,Jared Weinstein,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q1252235,0.00010504202718096855,1,1,Douglas Lute,3,1,0,White House,Cabinet level and above,1,False
+Q95571597,0.00010498242439556408,1,1,Terry R. Ferrell,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q29947977,0.00010498242439556408,1,1,"Robert P. Ashley, Jr.",1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7294428,0.00010495021527103046,1,1,Raquel C. Bono,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q18684137,0.00010495021527103046,1,1,Christine Wormuth,1,1,0,Defense,Cabinet level and above,1,False
+Q23888396,0.00010440648243574895,1,1,Mary Catherine Phee,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q104784118,0.00010225124269346841,1,2,Greta Holtz,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q627098,0.00010190329589179162,1,1,Mike Lee,1,0,0,Legislative,Legislators,1,False
+Q7610773,0.00010149843195655833,1,1,Stephen W. Preston,4,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q125179676,0.00010149843195655833,1,1,Matthew Spence,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q110931587,0.00010149843195655833,1,1,Heidi V. Brown,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q289257,0.00010068513782161419,1,1,Karen Hughes,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q11124,0.00010024063952819971,1,1,Stephen Breyer,1,0,0,Judicial,"Agency, military, diplomatic staff",1,False
+Q7347656,0.00010024063952819971,1,1,Robert Michael Dow Jr.,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q11105,0.00010024063952819971,1,1,Elena Kagan,1,0,0,Judicial,"Agency, military, diplomatic staff",1,False
+Q20171066,9.97349305738869e-05,1,1,Caroline Atkinson,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q91712778,9.913665086408498e-05,1,1,Mike Dumont,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q29648126,9.91365907238257e-05,1,1,"Carl E. Mundy, III",1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q22237,9.859070848451107e-05,1,1,Amy Klobuchar,1,0,0,Legislative,Legislators,1,False
+Q215057,9.859070848451107e-05,1,1,Rick Perry,1,1,0,Legislative,Cabinet level and above,1,False
+Q88771289,9.85052851120042e-05,1,2,Jack F Douglas,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q5981051,9.809464780726379e-05,1,2,Ian Brzezinski,2,0,0,Legislative,Legislators,0,False
+Q723134,9.61136329088888e-05,1,2,Jim Inhofe,2,0,0,Legislative,Legislators,1,False
+Q82632453,9.56786167235725e-05,1,1,Daniel N. Rosenblum,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6230778,9.56786167235725e-05,1,1,John E. Herbst,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q14545676,9.56786167235725e-05,1,1,Nisha Biswal,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q56809205,9.56786167235725e-05,1,1,Jonathan Henick,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q137708989,9.563865495636678e-05,1,1,Mark R. Stammer,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q65029113,9.502764997674618e-05,1,3,Doug Emhoff,4,1,0,White House,Cabinet level and above,1,False
+Q3090307,9.469918836637357e-05,1,1,Tom Cotton,1,0,0,Legislative,Legislators,1,False
+Q19798487,9.387905453072617e-05,1,1,Ben Hodges,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q30323721,9.3740234222541e-05,1,2,Elissa Slotkin,2,0,0,Defense,Legislators,1,False
+Q107474595,9.306250968369339e-05,1,1,Dan Caine,1,1,0,Defense,Cabinet level and above,1,False
+Q217314,9.27403440994443e-05,1,1,John Edwards,1,0,0,Legislative,Legislators,1,False
+Q58323073,9.18478691866596e-05,1,2,Elaine Luria,2,0,0,Defense,Legislators,1,False
+Q544464,9.144641032274047e-05,1,2,Angus King,3,0,0,Legislative,Legislators,1,False
+Q1895804,9.135041160962313e-05,1,1,Paul Sarbanes,1,0,0,Legislative,Legislators,1,False
+Q6384538,9.128088034794005e-05,1,1,Keith J. Stalder,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q558460,9.125752856135458e-05,1,1,Ann Kirkpatrick,1,0,0,Legislative,Legislators,1,False
+Q466085,9.125752856135458e-05,1,1,Erik Paulsen,2,0,0,Legislative,Legislators,1,False
+Q490511,9.125752856135458e-05,1,1,Ander Crenshaw,1,0,0,Legislative,Legislators,1,False
+Q7964712,9.111104382048774e-05,1,2,Walter E. Carter Jr.,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q29876186,9.019172863271523e-05,1,2,Mira Ricardel,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5302363,8.979405144336935e-05,1,1,Dov S. Zakheim,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5487663,8.979405144336935e-05,1,1,Frank Kendall III,1,1,0,Defense,Cabinet level and above,1,False
+Q3200900,8.940642653320613e-05,1,1,Steve Daines,1,0,0,Legislative,Legislators,1,False
+Q131731745,8.70138612116384e-05,1,1,Q131731745,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q61679509,8.70138612116384e-05,1,1,Kevin Schneider,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5077567,8.70138612116384e-05,1,1,Charles F. Wald,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6779133,8.659770637601455e-05,1,1,Mary Burce Warlick,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q138191827,8.579179890973622e-05,1,2,Robert Lee Thomas,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q469222,8.551041960374036e-05,1,1,Huma Abedin,1,0,0,Legislative,Legislators,0,False
+Q4496,8.551041960374036e-05,1,1,Mitt Romney,2,0,0,Legislative,Legislators,1,False
+Q6759123,8.551041960374036e-05,1,1,Margaret Murphy,3,0,0,Legislative,Legislators,0,False
+Q96051981,8.551041960374036e-05,1,1,James A. Wolfe,4,0,0,Legislative,Legislators,0,False
+Q6217731,8.411104529085494e-05,1,1,John A. Heffern,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q101423348,8.399262987521994e-05,1,2,Christopher C. Miller,2,1,0,Defense,Cabinet level and above,1,False
+Q472254,8.398831397013147e-05,1,2,Richard Shelby,2,0,0,Legislative,Legislators,1,False
+Q20972170,8.317231216194829e-05,1,2,Scott H. Swift,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1345855,8.293529645314651e-05,1,1,Tom Campbell,1,0,0,Legislative,Legislators,1,False
+Q18685149,8.265413585805058e-05,1,1,"James F. Caldwell, Jr.",1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q100451814,8.24898031572993e-05,1,1,James R. Hall,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5081790,8.24898031572993e-05,1,1,Charles Q. Brown Jr.,1,1,0,Defense,Cabinet level and above,1,False
+Q5562495,8.24898031572993e-05,1,1,Gilmary M. Hostage III,4,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5486915,8.24898031572993e-05,1,1,Frank Gorenc,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q124880026,8.24898031572993e-05,1,1,Duke Pirak,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q21032393,8.24898031572993e-05,1,1,Ralph Jodice II,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7327901,8.175288660817938e-05,1,2,Richard Morningstar,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q92345257,8.133586781039041e-05,1,1,Daniel S Hussey,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q7645756,8.133586781039041e-05,1,1,Suresh Kumar,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q22005647,8.133586781039041e-05,1,1,Jun Ye,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q114235908,8.133586781039041e-05,1,1,Gregory M. Wong,3,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q319111,8.131870313048508e-05,1,1,Chris Dodd,2,0,0,Legislative,Legislators,1,False
+Q359366,8.131870313048508e-05,1,1,Daniel Akaka,1,0,0,Legislative,Legislators,1,False
+Q30253190,8.104481503189499e-05,1,1,James G. Foggo,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5056036,8.104481503189499e-05,1,1,Cecil D. Haney,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q71005458,8.061692631771717e-05,1,1,Angela R. Hight Walker,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q107987241,8.058996524905595e-05,1,1,Melissa Dalton,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q106178516,8.01615075596246e-05,1,1,Yael Lempert,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q89197302,7.856367778543897e-05,1,1,Brett Elliott Crozier,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7154188,7.783879941100916e-05,1,1,Paul W. Jones,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q23770504,7.725929640243222e-05,1,2,Steven Cundiff,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q8004790,7.684596120324551e-05,1,1,William B. Garrett III,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5698964,7.684596120324551e-05,1,1,Heidi Shyu,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q291193,7.641682317816491e-05,1,1,Anna Eshoo,1,0,0,Legislative,Legislators,1,False
+Q122294312,7.641682317816491e-05,1,1,Angela Ellard,1,0,0,Legislative,Legislators,0,False
+Q350843,7.641682317816491e-05,1,1,Adam Schiff,1,0,0,Legislative,Legislators,1,False
+Q7291417,7.540777180675757e-05,1,1,Rand Beers,1,1,0,Other executive,Cabinet level and above,1,False
+Q6152386,7.540777180675757e-05,1,1,Jane Holl Lute,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q42316397,7.462906771290323e-05,1,2,Kenneth Braithwaite,2,1,0,Defense,Cabinet level and above,1,False
+Q31487683,7.418842827606246e-05,1,2,Joseph W. Rixey,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q22260,7.405592734555386e-05,1,1,Claire McCaskill,1,0,0,Legislative,Legislators,1,False
+Q527553,7.405592734555386e-05,1,1,George Allen,2,0,0,Legislative,Legislators,1,False
+Q448619,7.405592734555386e-05,1,1,Jean Carnahan,1,0,0,Legislative,Legislators,1,False
+Q16192221,7.405592734555386e-05,1,1,Ben Sasse,1,0,0,Legislative,Legislators,1,False
+Q106605441,7.405592734555386e-05,1,1,Sarah Margon,1,0,0,Legislative,Family of officials,0,False
+Q453893,7.405592734555386e-05,1,1,Mark Warner,1,0,0,Legislative,Legislators,1,False
+Q270316,7.405592734555386e-05,1,1,Jeanne Shaheen,1,0,0,Legislative,Legislators,1,False
+Q1691395,7.405592734555386e-05,1,1,Joe Donnelly,1,0,0,Legislative,Legislators,1,False
+Q24053,7.405592734555386e-05,1,1,Maggie Hassan,1,0,0,Legislative,Legislators,1,False
+Q30225834,7.390124000740391e-05,1,1,"Jerry D. Harris, Jr.",1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7146887,7.390124000740391e-05,1,1,Patrick K. Gamble,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q24053675,7.351104713023096e-05,1,1,Elisabeth I. Millard,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q58822141,7.351104713023096e-05,1,1,Eileen H. Laubacher,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q4962244,7.351104713023096e-05,1,1,Brett Kavanaugh,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q111176345,7.309762828563886e-05,1,1,Eli R. Miller,1,0,0,Other executive,"Agency, military, diplomatic staff",0,True
+Q51535967,7.309762828563886e-05,1,1,Justin Muzinich,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q29959907,7.309762828563886e-05,1,1,Marshall Billingslea,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q96101326,7.309762828563886e-05,1,1,Wally Adeyemo,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q2036942,7.29842285237271e-05,1,1,Ted Cruz,1,0,0,Legislative,Legislators,1,False
+Q104856400,7.279247641648999e-05,1,1,Brian P. McKeon,2,0,0,Legislative,Legislators,1,False
+Q160717,7.199635827387188e-05,1,1,Tom Lantos,1,0,0,Legislative,Legislators,1,False
+Q1145362,7.199635827387188e-05,1,1,Curt Weldon,1,0,0,Legislative,Legislators,1,False
+Q460675,7.199635827387188e-05,1,1,Susan Davis,1,0,0,Legislative,Legislators,1,False
+Q977920,7.199635827387188e-05,1,1,Thaddeus McCotter,1,0,0,Legislative,Legislators,1,False
+Q546874,7.199635827387188e-05,1,1,Solomon P. Ortiz,1,0,0,Legislative,Legislators,1,False
+Q5389119,7.199635827387188e-05,1,1,Erin C. Conaton,1,0,0,Legislative,Legislators,0,False
+Q966208,7.199635827387188e-05,1,1,Silvestre Reyes,1,0,0,Legislative,Legislators,1,False
+Q100542125,7.02623669247564e-05,1,1,Lauren K. Moriarty,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q607069,7.023143305368987e-05,1,1,Gordon H. Smith,1,0,0,Legislative,Legislators,1,False
+Q5052604,7.023143305368987e-05,1,1,Catherine Cortez Masto,1,0,0,Legislative,Legislators,1,False
+Q6768014,6.960095111721455e-05,1,2,Mark Hertling,4,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q12061906,6.960095111721455e-05,1,2,Benjamin R. Mixon,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q20707727,6.905596431157418e-05,1,1,James C. McConville,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q107174153,6.905596431157418e-05,1,1,Antonio Aguto,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7341680,6.905596431157418e-05,1,1,Robert B. Abrams,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q107333412,6.905596431157418e-05,1,1,Timothy McGuire,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q56299151,6.905596431157418e-05,1,1,Eric P. Wendt,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q31558741,6.905596431157418e-05,1,1,John C. Thomson III,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q16731149,6.905596431157418e-05,1,1,Paul LaCamera,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1362004,6.905596431157418e-05,1,1,Peter Schoomaker,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q106519761,6.905596431157418e-05,1,1,James Rainey,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q125856406,6.905596431157418e-05,1,1,David S. Doyle,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q132200812,6.905596431157418e-05,1,1,Trevor J. Bredenkamp,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q29890787,6.905596431157418e-05,1,1,Ricky L. Waddell,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q126267750,6.905596431157418e-05,1,1,James L. Huggins,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5580698,6.862407755515869e-05,1,1,Goli Ameri,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q29913307,6.849450466477554e-05,1,2,Matthew Pottinger,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q27986907,6.697128818445279e-05,1,2,Sarah Sanders,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q740636,6.583020628687884e-05,1,1,Jerry Weller,1,0,0,Legislative,Legislators,1,False
+Q935136,6.557624729414848e-05,1,1,Robert Gibbs,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q4886347,6.557624729414848e-05,1,1,Ben Rhodes,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q64853113,6.557624729414848e-05,1,1,Avi Berkowitz,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q7347302,6.557624729414848e-05,1,1,Robert Malley,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q5218446,6.557624729414848e-05,1,1,Daniel Pfeiffer,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q519838,6.557624729414848e-05,1,1,David Axelrod,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q26260746,6.486939538667931e-05,1,1,Brad Blakeman,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q22095822,6.486939538667931e-05,1,1,Brian Mosteller,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q454133,6.352007416093351e-05,1,1,Mark Begich,1,0,0,Legislative,Legislators,1,False
+Q108028910,6.340006726908746e-05,1,1,Q108028910,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q83796873,6.340006726908746e-05,1,1,Janet E. Garvey,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q4756509,6.190046579482224e-05,1,2,Andrew C. Weber,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q112356599,6.096526403825053e-05,1,2,Dietrich Leibfried,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q9029185,6.079150212540788e-05,1,1,J. Stapleton Roy,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6451136,6.045872926245304e-05,1,1,Kyle E. McSlarrow,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q20313177,6.041755388194109e-05,1,1,Paul Brian Becker,1,0,0,Intelligence,"Agency, military, diplomatic staff",0,False
+Q22004989,5.9287102661971755e-05,1,1,Daniel R. Hokanson,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q7152671,5.888463946203593e-05,1,1,Paul N. Stockton,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q73152989,5.8521718774483256e-05,1,1,James H. Thessin,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q6792602,5.819239558010957e-05,1,1,Maura Connelly,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q368920,5.819239558010957e-05,1,1,George John Mitchell Jr.,1,0,0,Diplomatic,Legislators,1,False
+Q5301642,5.804592588526694e-05,1,2,Douglas J. Feith,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q1355634,5.803140583923893e-05,1,1,Gregory T. Linteris,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q3701614,5.7977402362916176e-05,1,2,Daniel Glaser,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q467308,5.754699306726202e-05,1,1,Ann E. Dunwoody,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q70996214,5.747413679765885e-05,1,1,George P. Kent,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q20406422,5.746817426785859e-05,1,2,Frank Craig Pandolfe,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q119149337,5.729810751533872e-05,1,1,Edgard Kagan,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q5112611,5.685536100043122e-05,1,1,Christopher J. King,1,0,0,Legislative,Legislators,0,False
+Q503548,5.685536100043122e-05,1,1,Brian Baird,1,0,0,Legislative,Legislators,1,False
+Q6835143,5.6481704855704826e-05,1,1,Michael W. Michalak,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q1234572,5.5930294051543086e-05,1,1,Alan Mollohan,1,0,0,Legislative,Family of officials,1,False
+Q723917,5.592442446426019e-05,1,1,William Barr,1,1,0,Other executive,Cabinet level and above,1,False
+Q1922011,5.592442446426019e-05,1,1,Merrick Garland,1,1,0,Other executive,Cabinet level and above,1,False
+Q88216451,5.5864591994330204e-05,1,1,Stephanie Johanns,1,0,0,Legislative,Family of officials,0,False
+Q734330,5.5864591994330204e-05,1,1,Saxby Chambliss,2,0,0,Legislative,Legislators,1,False
+Q1344707,5.5864591994330204e-05,1,1,John Boozman,1,0,0,Legislative,Legislators,1,False
+Q29883209,5.5693608860310284e-05,1,2,Michael M. Gilday,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q1239753,5.5120681478013676e-05,1,2,Donald C. Winter,3,1,0,Defense,Cabinet level and above,1,False
+Q98701466,5.478137767685525e-05,1,1,Q98701466,2,0,0,Legislative,Legislators,0,False
+Q5126976,5.44819091775635e-05,1,1,Clarine Nardi Riddle,1,0,0,Legislative,Legislators,0,False
+Q286514,5.439455512620568e-05,1,1,Harriet Miers,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q6447103,5.439455512620568e-05,1,1,Kurt Volker,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q5217207,5.439455512620568e-05,1,1,Daniel Fried,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q99264237,5.437435350696312e-05,1,1,Q99264237,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q21015950,5.437435350696312e-05,1,1,Thomas A. Cropper,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6250067,5.437435350696312e-05,1,1,John N. Christenson,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q135267690,5.437435350696312e-05,1,1,Kevin Cosgriff,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q137297281,5.437435350696312e-05,1,1,Sinclair M. Harris,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1302611,5.305974015328772e-05,1,3,Neal S. Wolin,3,1,0,Other executive,Cabinet level and above,1,False
+Q71371916,5.280271519629009e-05,1,1,W. Patrick Murphy,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q23198593,5.276327891518094e-05,1,1,Elizabeth L. Train,1,0,0,Intelligence,"Agency, military, diplomatic staff",0,False
+Q54187798,5.267917499546772e-05,1,1,Colin Kahl,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q100598223,5.2590687786427254e-05,1,3,Kathleen Biden,3,0,0,White House,Family of officials,0,False
+Q525362,5.246868738854134e-05,1,1,Sonny Perdue,1,1,0,Other executive,Cabinet level and above,1,False
+Q4278519,5.246352831698836e-05,1,1,"John F. Mulholland, Jr.",3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q134022671,5.246352831698836e-05,1,1,Mark Solo,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1702273,5.221009528871481e-05,1,1,Johnnie Carson,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q17109089,5.221009528871481e-05,1,1,James F. Entwistle,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5092756,5.221009528871481e-05,1,1,Cheryl Mills,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q325960,5.177441178280723e-05,1,1,Phil Crane,1,0,0,Legislative,Legislators,1,False
+Q20707064,5.1431975600940755e-05,1,1,"John W. Nicholson, Jr.",1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q109918758,5.1390492245862385e-05,1,1,Thomas M. Henderschedt,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q29643099,5.1390492245862385e-05,1,1,David Trachtenberg,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6693196,5.1390492245862385e-05,1,1,Lowell E. Jacoby,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q58880887,5.1390492245862385e-05,1,1,Kelly E. Magsamen,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6807999,5.090138862640804e-05,1,1,Meg Lundsager,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q734319,5.042550485139273e-05,1,1,Mike Crapo,1,0,0,Legislative,Legislators,1,False
+Q83802155,5.037424841517557e-05,1,1,Ralph Frank,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q957690,4.996678401317795e-05,1,2,Tom Udall,2,0,0,Legislative,Legislators,1,False
+Q60215404,4.9821390523353784e-05,1,1,Brian Pomper,1,0,0,Legislative,Legislators,0,False
+Q529351,4.9821390523353784e-05,1,1,Jon Tester,1,0,0,Legislative,Legislators,1,False
+Q465617,4.949241214674492e-05,1,2,Tom Harkin,2,0,0,Legislative,Legislators,1,False
+Q108032919,4.888516793695549e-05,1,1,Susan Sher,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q6226407,4.877506837914538e-05,1,1,John Cloud,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q16216012,4.788484566664248e-05,1,1,"Kenneth Allen Polite, Jr.",1,1,0,Other executive,Cabinet level and above,0,False
+Q80836931,4.770191124660389e-05,1,1,Thomas P. Kelly III,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q105771992,4.702133181564202e-05,1,1,Boualem Hammouda,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q90348666,4.702133181564202e-05,1,1,James K Thompson,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q1077594,4.629472647811809e-05,1,1,Chris Murphy,1,0,0,Legislative,Legislators,1,False
+Q7328923,4.6193425717085705e-05,1,1,Richard Schmierer,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5524568,4.6193425717085705e-05,1,1,Gary A. Grappo,10,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q84766140,4.6193425717085705e-05,1,1,Leslie Tsou,8,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q433742,4.6193425717085705e-05,1,1,Anne W. Patterson,1,1,0,Diplomatic,Cabinet level and above,1,False
+Q6219904,4.6193425717085705e-05,1,1,John B. Craig,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q3161915,4.6193425717085705e-05,1,1,Janet A. Sanderson,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5132762,4.6193425717085705e-05,1,1,Cliff Sloan,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q7608849,4.467656493826587e-05,1,1,Stephen Cambone,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q139996244,4.467656493826587e-05,1,1,Thomas J. Romig,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q61630179,4.467656493826587e-05,1,1,Eric Rosenbach,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7342304,4.439660396833938e-05,1,1,Robert Bradtke,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q6503830,4.439660396833938e-05,1,1,Lawrence B. Lindsey,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q5525015,4.439660396833938e-05,1,1,Q5525015,1,1,0,White House,Cabinet level and above,0,False
+Q565374,4.4220956022027114e-05,1,1,Martin Heinrich,1,0,0,Legislative,Legislators,1,False
+Q45940,4.4220956022027114e-05,1,1,James Lankford,1,0,0,Legislative,Legislators,1,False
+Q538375,4.4220956022027114e-05,1,1,Pat Roberts,1,0,0,Legislative,Legislators,1,False
+Q6389788,4.256348513052349e-05,1,1,Kenneth A. Myers III,1,0,0,Legislative,Legislators,0,False
+Q15919803,4.231200248296028e-05,1,1,Duane C. Butcher,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q28514306,4.2228975493446284e-05,1,1,Adam Szubin,1,1,0,Other executive,Cabinet level and above,1,False
+Q3528567,4.22040301714455e-05,1,1,David Valadao,1,0,0,Legislative,Legislators,1,False
+Q537287,4.22040301714455e-05,1,1,Barney Frank,1,0,0,Legislative,Legislators,1,False
+Q8004870,4.211740972735241e-05,1,1,William B. Taylor Jr.,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q500486,4.211740972735241e-05,1,1,John F. Tefft,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q76365184,4.1887174868823456e-05,1,1,John E. Kitching,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q190756,4.1887174868823456e-05,1,1,William Daniel Phillips,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q51420370,4.1887174868823456e-05,1,1,Jeffrey Fagan,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q28076289,4.153533146254177e-05,1,1,Dan Scavino,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q1176154,4.153533146254177e-05,1,1,David Plouffe,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q6386365,4.153533146254177e-05,1,1,Kellyanne Conway,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q30015089,4.153533146254177e-05,1,1,Stephanie Grisham,1,1,0,White House,Cabinet level and above,1,False
+Q28701112,4.153533146254177e-05,1,1,Lindsay Reynolds,1,1,0,White House,Cabinet level and above,0,False
+Q27996060,4.153533146254177e-05,1,1,Stephen Miller,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q46586126,4.078653261756046e-05,1,1,Everett Eissenstat,1,0,0,Legislative,Legislators,0,False
+Q54866594,4.049580701755832e-05,1,1,Scott H. Stalker,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7818775,4.049580701755832e-05,1,1,Tome H. Walters Jr.,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q13475242,4.047474745966405e-05,1,1,Joni Ernst,1,0,0,Legislative,Legislators,1,False
+Q5218956,4.045817591238758e-05,1,1,Daniel V. Speckhard,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q449604,4.0254624027218785e-05,2,0,Michael Hayden,16,1,0,Intelligence,Cabinet level and above,1,False
+Q6376616,4.021679482431059e-05,1,1,Kathie L. Olsen,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q97588420,4.015064893289671e-05,1,1,Ashley Biden,1,0,0,White House,Family of officials,0,False
+Q11288727,3.998600062610099e-05,1,1,Wallace Gregson,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q102164874,3.9974276832170625e-05,1,1,Brandon Wales,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q719568,3.923300512828313e-05,1,1,John Cornyn,1,0,0,Legislative,Legislators,1,False
+Q3048561,3.914615282052042e-05,1,1,Edward J. Erickson,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q733612,3.914024468627544e-05,1,2,Michael Chertoff,3,1,0,Other executive,Cabinet level and above,1,False
+Q8016923,3.8576459397287916e-05,1,1,William Piper,1,0,0,Legislative,Legislators,0,True
+Q104224064,3.8576459397287916e-05,1,1,Frank Lowenstein,1,0,0,Legislative,Legislators,0,False
+Q4977945,3.8576459397287916e-05,1,1,Bruce Mann,1,0,0,Legislative,Legislators,0,False
+Q111081541,3.8576459397287916e-05,1,1,Jamie Fly,1,0,0,Legislative,Legislators,1,False
+Q434706,3.8576459397287916e-05,1,1,Elizabeth Warren,1,0,0,Legislative,Legislators,1,False
+Q89825693,3.8576459397287916e-05,1,1,Ilan Goldenberg,1,0,0,Legislative,Legislators,0,False
+Q29634719,3.8534366119108975e-05,1,1,Darryl A. Williams,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q12297962,3.8504223942840166e-05,1,1,Henry G. Ulrich III,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q29882759,3.650051193877962e-05,1,1,Sean S. Buck,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5238702,3.6444134542994996e-05,1,1,David Pressman,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q89233115,3.640169374666274e-05,1,2,Marcus T Cicerone,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q6829639,3.611320695316159e-05,1,1,Michael D. Leinbach,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q60287019,3.611320695316159e-05,1,1,Craig B. Allen,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q7184879,3.611320695316159e-05,1,1,Philippe Reines,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q8008321,3.611320695316159e-05,1,1,William E. Todd,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q98641285,3.611320695316159e-05,1,1,Daniel L. Shields,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q16214089,3.611320695316159e-05,1,1,Nicholas Merrill,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q5214066,3.520921540093522e-05,1,1,Dan Mozena,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5529960,3.520921540093522e-05,1,1,Geeta Pasi,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q4768202,3.520921540093522e-05,1,1,Anne C. Richard,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q22003782,3.520921540093522e-05,1,1,Bathsheba Nell Crocker,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q23050162,3.520921540093522e-05,1,1,Alice Wells,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q7145428,3.520921540093522e-05,1,1,Patricia A. Butenis,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q121032633,3.517718317224506e-05,1,1,Gary Lee Sisco,2,0,0,Legislative,Legislators,1,False
+Q48814846,3.49621211841527e-05,1,1,Lisa Curtis,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q110442546,3.49621211841527e-05,1,1,Nicholas Berliner,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q652815,3.49621211841527e-05,1,1,Larry Kudlow,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q2913577,3.49621211841527e-05,1,1,Matthew Bryza,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q510988,3.481196343803415e-05,1,1,Julissa Reynoso PantaleÃƒÂ³n,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6144872,3.4378289442621274e-05,1,1,James W. Pardew,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q16730065,3.422091779210123e-05,1,1,Paul D. Irving,1,0,0,Legislative,Legislators,0,False
+Q1464697,3.422091779210123e-05,1,1,Richard Neal,1,0,0,Legislative,Legislators,1,False
+Q4960876,3.422091779210123e-05,1,1,Brendan F. Boyle,1,0,0,Legislative,Legislators,1,False
+Q3514907,3.422091779210123e-05,1,1,Steven Horsford,1,0,0,Legislative,Legislators,1,False
+Q434470,3.422091779210123e-05,1,1,Joe Courtney,1,0,0,Legislative,Legislators,1,False
+Q3880272,3.422091779210123e-05,1,1,Dan Kildee,1,0,0,Legislative,Legislators,1,False
+Q505581,3.422091779210123e-05,1,1,Brian Higgins,1,0,0,Legislative,Legislators,1,False
+Q2091892,3.422091779210123e-05,1,1,Suzan DelBene,1,0,0,Legislative,Legislators,1,False
+Q76166532,3.4102394384443614e-05,1,1,Christopher McMullen,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5359190,3.3819732975379735e-05,1,1,Eleni Tsakopoulos Kounalakis,2,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q6767236,3.372306578558036e-05,1,1,Mark D. Clookie,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q434458,3.355010813208759e-05,1,1,Collin Peterson,1,0,0,Legislative,Legislators,1,False
+Q1048182,3.355010813208759e-05,1,1,Cass Ballenger,1,0,0,Legislative,Legislators,1,False
+Q7151890,3.355010813208759e-05,1,1,Paul L. Oostburg Sanz,1,0,0,Legislative,Legislators,0,False
+Q5019270,3.355010813208759e-05,1,1,Caleb McCarry,1,0,0,Legislative,Legislators,0,False
+Q542676,3.355010813208759e-05,1,1,Elton Gallegly,1,0,0,Legislative,Legislators,1,False
+Q5667054,3.317267512077771e-05,1,1,Harry B. Harris Jr.,1,1,0,Defense,Cabinet level and above,0,False
+Q18601108,3.216591621179975e-05,1,1,John Kirby,1,1,0,Defense,Cabinet level and above,1,False
+Q1391865,3.216591621179975e-05,1,1,John F. Sattler,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q15490728,3.216591621179975e-05,1,1,Sarah Chayes,1,1,0,Defense,Cabinet level and above,0,False
+Q29555373,3.167684320456076e-05,1,1,Jeffrey Buchanan,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q30007938,3.167684320456076e-05,1,1,Scott L. Efflandt,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q19956466,3.167684320456076e-05,1,1,Robert Brooks Brown,9,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q106679027,3.167684320456076e-05,1,1,Paul T. Calvert,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q16728974,3.167684320456076e-05,1,1,Michael Ferriter,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6262024,3.167684320456076e-05,1,1,John Vines,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q9295090,3.167684320456076e-05,1,1,"Charles H. Jacoby, Jr.",2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7822142,3.167684320456076e-05,1,1,Tony Cucolo,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q20707342,3.167684320456076e-05,1,1,Kevin W. Mangum,3,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7441178,3.167684320456076e-05,1,1,Sean MacFarland,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q107405357,3.167684320456076e-05,1,1,John B. Richardson,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5233946,3.167684320456076e-05,1,1,David G. Perkins,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q125510670,3.167684320456076e-05,1,1,Bernard S. Champoux,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q107311847,3.167684320456076e-05,1,1,Charles Costanza,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q110950633,3.0977680282417005e-05,1,1,Chidi Blyden,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q205954,3.077908656520993e-05,1,1,Eric Allin Cornell,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q27662422,3.074187916075819e-05,1,1,Paul Folmsbee,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q21063040,3.054295482607901e-05,1,1,Philip S. Davidson,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q41803725,3.052161644033301e-05,1,1,Jay C. Shambaugh,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q104923417,3.052161644033301e-05,1,1,Andy Baukol,2,1,0,Other executive,Cabinet level and above,1,False
+Q6836725,3.003324815804492e-05,1,1,Michele Davis,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q6899924,3.003324815804492e-05,1,1,Monica Crowley,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q56222198,3.003324815804492e-05,1,1,Geoffrey Okamoto,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q116857993,3.003324815804492e-05,1,1,Brent McIntosh,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q6301172,3.003324815804492e-05,1,1,Juan Zarate,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q70709513,2.9975393497468225e-05,1,1,Anne Neuberger,1,1,0,White House,Cabinet level and above,0,False
+Q5487954,2.9763971948081063e-05,1,1,Frank Libutti,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6376452,2.9763971948081063e-05,1,1,Katherine L. Gregory,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q106684221,2.9763971948081063e-05,1,1,Charles Cooper II,6,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q107708308,2.9503166219817318e-05,1,1,Francisco O. Mora,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7152365,2.9503166219817318e-05,1,1,Paul McHale,1,0,0,Defense,Legislators,1,False
+Q5234531,2.9040566292765532e-05,1,1,David H. Huntoon,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6767454,2.8673046180582244e-05,1,1,Mark E. Ferguson III,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q20176971,2.830926960543242e-05,1,1,Hong Le Webb,1,0,0,Legislative,Family of officials,0,False
+Q532279,2.830926960543242e-05,1,1,Jim Webb,1,1,0,Legislative,Cabinet level and above,1,False
+Q7342642,2.8307581837398928e-05,1,1,Robert C. O'Brien,1,1,0,White House,Cabinet level and above,1,False
+Q18686434,2.787074308651481e-05,1,1,Ferial Govashiri,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q11317219,2.787074308651481e-05,1,1,Daniel R. Russel,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q6829642,2.7701220875061135e-05,1,1,Michael D. Lumpkin,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q237681,2.6624658310519877e-05,1,1,Blanche Lincoln,1,0,0,Legislative,Legislators,1,False
+Q7323557,2.6478848256513594e-05,1,1,Richard A. Falkenrath,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q111319150,2.6365594497771045e-05,1,1,James W. Miller,1,0,0,Other executive,"Agency, military, diplomatic staff",0,True
+Q6830870,2.6344992093204094e-05,1,1,Michael H. Miller,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q2997321,2.6344992093204094e-05,1,1,John M. Richardson,2,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q71620658,2.6150028257293026e-05,1,1,Laura Cooper,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6176202,2.50646064319527e-05,1,1,Jeffrey P. Minear,1,0,0,Judicial,"Agency, military, diplomatic staff",0,False
+Q4761114,2.478864739489497e-05,1,1,Andy Olson,1,0,0,Legislative,Legislators,0,False
+Q50300023,2.478864739489497e-05,1,1,Stephen Biegun,1,0,0,Legislative,Legislators,1,False
+Q5235490,2.478864739489497e-05,1,1,David J. Schiappa,1,0,0,Legislative,Legislators,0,False
+Q138048087,2.4765610544944206e-05,1,1,John M. Bird,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q127929950,2.4754009103857605e-05,1,1,Joshua Rudd,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q23772332,2.4417072131587348e-05,1,1,Karen Donfried,1,0,0,White House,Legislators,1,False
+Q432431,2.4382513181482482e-05,1,1,Mike Enzi,1,0,0,Legislative,Legislators,1,False
+Q110560451,2.436883875350703e-05,1,1,Paolo Tripodi,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q12053177,2.4189281538910595e-05,1,1,John W. Blaney,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q24053649,2.4189281538910595e-05,1,1,Deborah R. Malac,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q723896,2.4148763564236402e-05,1,1,Thad Cochran,3,0,0,Legislative,Legislators,1,False
+Q6140254,2.381736867166371e-05,1,1,James N. Miller,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q6792754,2.3657416663011935e-05,1,1,Maureen Reagan,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,True
+Q463557,2.315974108812667e-05,1,1,Rand Paul,1,0,0,Legislative,Legislators,1,False
+Q113293710,2.315974108812667e-05,1,1,Sergio Gor,1,0,0,Legislative,Legislators,1,False
+Q125911661,2.315974108812667e-05,1,1,Doug Stafford,1,0,0,Legislative,Legislators,0,False
+Q112838318,2.2666421111236386e-05,1,1,Yohannes Abraham,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q7346186,2.0772531176702975e-05,1,1,Robert Joseph,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q5535976,2.0772531176702975e-05,1,1,George A. Krol,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q88392460,1.9098877107350477e-05,1,1,James Liddle,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q19957770,1.8963953369896342e-05,1,1,Fernandez Ponds,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q15823352,1.8740394671023514e-05,1,1,Kenneth E. Tovo,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1246923,1.8543216705125014e-05,1,1,Kenneth W. Dam,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q769921,1.822834290421415e-05,1,1,Michael McFaul,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q108709308,1.8115301208371605e-05,1,1,Joyce Pierson,1,0,0,Defense,Family of officials,0,False
+Q28109275,1.8115301208371605e-05,1,1,Carolyn B. Shelton,3,1,0,Defense,Cabinet level and above,0,True
+Q48874305,1.8115301208371605e-05,1,1,Kathryn L. Wheelbarger,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q134761502,1.8115301208371605e-05,1,1,Michael W. Callan,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q102370956,1.712468670642557e-05,1,1,Jeffrey Tse-wei Fong,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q74499827,1.712468670642557e-05,1,1,Robert D. McMichael,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q510127,1.712468670642557e-05,1,1,Rebecca Blank,1,1,0,Other executive,Cabinet level and above,1,False
+Q6217967,1.694068048236598e-05,1,1,John A. Toolan,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q78897587,1.6829209646745213e-05,1,1,Konrad W. Lehnert,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q5346638,1.6636558915175705e-05,1,1,Edwin M. Truman,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q30028790,1.6524592362564693e-05,1,1,Robert S. Karem,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q104587353,1.6039670620710927e-05,1,1,Kathleen Hicks,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q471517,1.6039670620710927e-05,1,1,Joseph Ralston,1,1,0,Defense,Cabinet level and above,1,False
+Q57190287,1.5814354201491913e-05,1,1,René Peralta,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q7329560,1.5788799801715073e-05,1,1,Q7329560,2,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q14948721,1.5788799801715073e-05,1,1,Blake Gottesman,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q26924369,1.559218900540683e-05,1,1,Gregory Touhill,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q135443495,1.5587373496741695e-05,1,1,Allison Hooker,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q1235731,1.5587373496741695e-05,1,1,Mick Mulvaney,1,1,0,White House,Cabinet level and above,1,False
+Q374762,1.5582857867534836e-05,1,1,John Hoeven,2,0,0,Legislative,Legislators,1,False
+Q970272,1.5582857867534836e-05,1,1,Ron Johnson,1,0,0,Legislative,Legislators,1,False
+Q1135767,1.5582857867534836e-05,1,1,Cory Booker,1,0,0,Legislative,Legislators,1,False
+Q454970,1.367254619394558e-05,1,1,Samantha Power,1,1,0,White House,Cabinet level and above,1,False
+Q649898,1.2494438558765717e-05,1,1,Ron Klain,2,1,0,White House,Cabinet level and above,1,False
+Q2972732,1.1926856043175027e-05,1,1,Cindy Courville,2,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q102157533,1.1070609489866994e-05,1,1,Carlos Elizondo,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q7925412,9.07039921816283e-06,1,1,Vicki J. Huddleston,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q2262244,8.514413276825453e-06,1,1,Sean Patrick Maloney,1,0,0,White House,Legislators,1,False
+Q18209402,8.514413276825453e-06,1,1,Jennifer Palmieri,1,0,0,White House,"Agency, military, diplomatic staff",1,False
+Q6112244,8.514413276825453e-06,1,1,"Jack Dyer Crouch, II",1,1,0,White House,Cabinet level and above,0,False
+Q16214512,6.4748207382988306e-06,1,1,Brett H. McGurk,1,0,0,White House,"Agency, military, diplomatic staff",0,False
+Q455698,0.0,1,0,Porter Goss,2,1,0,Intelligence,Cabinet level and above,1,False
+Q1707784,0.0,1,0,Joe Kennedy III,1,0,0,Legislative,Legislators,1,False
+Q16727387,0.0,1,0,Michael D. Barbero,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q440885,0.0,1,0,Jan Schakowsky,1,0,0,Legislative,Legislators,1,False
+Q65201082,0.0,1,0,Joseph Pennington,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q945077,0.0,1,0,David M. Rodriguez,2,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q938498,0.0,1,0,David Cicilline,1,0,0,Legislative,Legislators,1,False
+Q102229010,0.0,1,0,Leonid Kopylev,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q16513104,0.0,1,0,Sara Terry,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q39791512,0.0,1,0,Andrea Salinas,1,0,0,Legislative,Legislators,1,False
+Q66107,0.0,1,0,Henry Kissinger,1,1,0,Diplomatic,Cabinet level and above,1,False
+Q15688765,0.0,1,0,Michael S. Rogers,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q6830857,0.0,1,0,Michael H. Corbin,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q43000300,0.0,1,0,Jason M Fritz,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q112445617,0.0,1,0,Ralph David Simpson,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q89464647,0.0,1,0,Chris Corton,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q89654398,0.0,1,0,Jane Caldwell,3,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q224481,0.0,1,0,John E. McLaughlin,1,0,0,Intelligence,"Agency, military, diplomatic staff",0,False
+Q1444483,0.0,1,0,Frank Wolf,1,0,0,Legislative,Legislators,1,False
+Q110126939,0.0,1,0,Robert Kavlock,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q19661820,0.0,1,0,Sara Kyle,1,0,0,Legislative,Legislators,1,False
+Q57319773,0.0,1,0,Mary Ross,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q5724802,0.0,1,0,Henry Lee II,1,0,0,Other executive,"Agency, military, diplomatic staff",0,True
+Q56980500,0.0,1,0,William E. Sonntag,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q7348106,0.0,1,0,Robert O. Blake,1,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q131825659,0.0,1,0,James Free,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q201430,0.0,1,0,George Tenet,60,1,1,Intelligence,Cabinet level and above,1,False
+Q6143411,0.0,1,0,James Spann,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q61163824,0.0,1,0,Sang Don Lee,2,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q6181356,0.0,1,0,Jeremy Fogel,1,0,0,Judicial,"Agency, military, diplomatic staff",1,False
+Q47211705,0.0,1,0,Weihsueh A Chiu,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q1368405,0.0,1,0,Jeff Merkley,1,0,0,Legislative,Legislators,1,False
+Q319084,0.0,1,0,Al Franken,1,0,0,Legislative,Legislators,1,False
+Q7183483,0.0,1,0,Philip E. Berger,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q30527434,0.0,1,0,Michael Erik Kurilla,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q1928651,0.0,1,0,Michael Morell,32,1,0,Intelligence,Cabinet level and above,1,False
+Q107596096,0.0,1,0,Allan Mendelowitz,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q55396361,0.0,1,0,David M. DeMarini,4,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q5217634,0.0,1,0,Daniel J. Murphy,1,0,0,Defense,"Agency, military, diplomatic staff",1,False
+Q5218359,0.0,1,0,Daniel P. Bolger,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q5213218,0.0,1,0,Dan Butler,1,0,0,Defense,"Agency, military, diplomatic staff",0,False
+Q7609259,0.0,1,0,Stephen Funk,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q2895240,0.0,1,0,James Rubin,1,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False
+Q117860946,0.0,1,0,Ron Crossland,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q28606502,0.0,1,0,Gina Haspel,11,1,0,Intelligence,Cabinet level and above,1,False
+Q56222657,0.0,1,0,Vaughn Bishop,1,1,0,Intelligence,Cabinet level and above,1,False
+Q124642969,0.0,1,0,Neil Chernoff,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q84607046,0.0,1,0,Kenneth C. Brill,2,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False
+Q88201125,0.0,1,0,Timothy J Wade,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False
+Q2344854,0.0,1,0,Stephen Kappes,4,1,0,Intelligence,Cabinet level and above,0,False
+Q89069919,0.0,1,0,Keith A Houck,2,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q105946924,0.0,1,0,Patricia S. Hu,1,0,0,Other executive,"Agency, military, diplomatic staff",1,False
+Q104489560,0.0,1,0,Rogelio Tornero-Velez,1,0,0,Other executive,"Agency, military, diplomatic staff",0,False

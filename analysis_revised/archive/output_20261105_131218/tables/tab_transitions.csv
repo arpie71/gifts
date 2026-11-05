@@ -1,0 +1,12 @@
+From \ To,Ceremonial,Diplom.,IO,Nat. exec.,Military,Judic.,Subnat.,Legis.,Party,Academic,Private
+Ceremonial,2,0,0,1,0,0,0,1,0,1,0
+Diplom.,0,37,0,25,0,0,2,1,0,4,0
+IO,0,0,0,2,0,0,0,1,0,0,0
+Nat. exec.,3,25,5,154,2,4,15,34,0,11,13
+Military,0,0,0,7,17,0,1,0,0,1,2
+Judic.,0,0,0,3,1,7,4,3,0,2,1
+Subnat.,0,5,0,21,0,0,81,138,0,5,1
+Legis.,0,7,0,26,0,0,15,80,0,3,3
+Party,0,0,0,0,0,0,0,2,0,0,0
+Academic,3,2,0,15,0,1,4,8,0,16,5
+Private,0,0,0,20,0,1,4,4,0,5,16

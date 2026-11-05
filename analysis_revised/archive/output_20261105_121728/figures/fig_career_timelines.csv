@@ -1,0 +1,305 @@
+qid,label,sector,start,end
+Q359442,"Mayor of Burlington, Vermont",Subnational,1981.0,1989.0
+Q359442,John F. Kennedy School of Government,Academic/research,1989.0,1990.0
+Q359442,Hamilton College,Academic/research,1990.0,1990.0
+Q359442,United States representative,Legislature,1991.0,1993.0
+Q359442,United States representative,Legislature,1993.0,1995.0
+Q359442,United States representative,Legislature,1995.0,1997.0
+Q359442,United States representative,Legislature,1997.0,1999.0
+Q359442,United States representative,Legislature,1999.0,2001.0
+Q359442,United States representative,Legislature,2001.0,2003.0
+Q359442,United States representative,Legislature,2003.0,2005.0
+Q359442,United States representative,Legislature,2005.0,2007.0
+Q359442,United States senator,Legislature,2007.0,2009.0
+Q359442,United States senator,Legislature,2009.0,2011.0
+Q359442,United States senator,Legislature,2011.0,2013.0
+Q359442,United States senator,Legislature,2013.0,2015.0
+Q359442,United States senator,Legislature,2015.0,2017.0
+Q359442,United States senator,Legislature,2017.0,2019.0
+Q359442,United States senator,Legislature,2019.0,2021.0
+Q359442,United States senator,Legislature,2021.0,2023.0
+Q359442,United States senator,Legislature,2023.0,2025.0
+Q529294,member of the Iowa House of Representatives,Subnational,1959.0,1975.0
+Q529294,Charles City College,Academic/research,1967.0,1968.0
+Q529294,United States representative,Legislature,1973.0,1975.0
+Q529294,United States representative,Legislature,1975.0,1977.0
+Q529294,United States representative,Legislature,1977.0,1979.0
+Q529294,United States representative,Legislature,1979.0,1981.0
+Q529294,United States senator,Legislature,1981.0,1983.0
+Q529294,United States senator,Legislature,1983.0,1985.0
+Q529294,United States senator,Legislature,1985.0,1987.0
+Q529294,United States senator,Legislature,1987.0,1989.0
+Q529294,United States senator,Legislature,1989.0,1991.0
+Q529294,United States senator,Legislature,1991.0,1993.0
+Q529294,United States senator,Legislature,1993.0,1995.0
+Q529294,United States senator,Legislature,1995.0,1997.0
+Q529294,United States senator,Legislature,1997.0,1999.0
+Q529294,United States senator,Legislature,1999.0,2001.0
+Q529294,United States senator,Legislature,2001.0,2003.0
+Q529294,United States senator,Legislature,2003.0,2005.0
+Q529294,United States senator,Legislature,2005.0,2007.0
+Q529294,United States senator,Legislature,2007.0,2009.0
+Q529294,United States senator,Legislature,2009.0,2011.0
+Q529294,United States senator,Legislature,2011.0,2013.0
+Q529294,United States senator,Legislature,2013.0,2015.0
+Q529294,United States senator,Legislature,2015.0,2017.0
+Q529294,United States senator,Legislature,2017.0,2019.0
+Q529294,President pro tempore of the United States Senate,Legislature,2019.0,2021.0
+Q529294,United States senator,Legislature,2019.0,2021.0
+Q529294,United States senator,Legislature,2021.0,2023.0
+Q529294,United States senator,Legislature,2023.0,2025.0
+Q358437,member of the Florida House of Representatives,Subnational,1972.0,1978.0
+Q358437,United States representative,Legislature,1979.0,1981.0
+Q358437,United States representative,Legislature,1979.0,1991.0
+Q358437,United States representative,Legislature,1981.0,1983.0
+Q358437,United States representative,Legislature,1983.0,1985.0
+Q358437,United States representative,Legislature,1985.0,1987.0
+Q358437,United States representative,Legislature,1987.0,1989.0
+Q358437,United States representative,Legislature,1989.0,1991.0
+Q358437,Florida State Treasurer/Insurance Commissioner/Fire Marshal,Subnational,1995.0,2001.0
+Q358437,United States senator,Legislature,2001.0,2003.0
+Q358437,United States senator,Legislature,2003.0,2005.0
+Q358437,United States senator,Legislature,2005.0,2007.0
+Q358437,United States senator,Legislature,2007.0,2009.0
+Q358437,United States senator,Legislature,2009.0,2011.0
+Q358437,United States senator,Legislature,2011.0,2013.0
+Q358437,United States senator,Legislature,2013.0,2015.0
+Q358437,United States senator,Legislature,2015.0,2017.0
+Q358437,United States senator,Legislature,2017.0,2019.0
+Q358437,Administrator of NASA,National executive,2021.0,2025.0
+Q285102,AmeriCorps VISTA,National executive,1964.0,1966.0
+Q285102,Member of the West Virginia House of Delegates,Subnational,1966.0,1968.0
+Q285102,Secretary of State of West Virginia,National executive,1969.0,1973.0
+Q285102,chancellor,National executive,1973.0,1976.0
+Q285102,Governor of West Virginia,Subnational,1977.0,1985.0
+Q285102,United States senator,Legislature,1985.0,1987.0
+Q285102,United States senator,Legislature,1987.0,1989.0
+Q285102,United States senator,Legislature,1989.0,1991.0
+Q285102,United States senator,Legislature,1991.0,1993.0
+Q285102,United States senator,Legislature,1993.0,1995.0
+Q285102,United States senator,Legislature,1995.0,1997.0
+Q285102,United States senator,Legislature,1997.0,1999.0
+Q285102,United States senator,Legislature,1999.0,2001.0
+Q285102,United States senator,Legislature,2001.0,2003.0
+Q285102,United States senator,Legislature,2003.0,2005.0
+Q285102,United States senator,Legislature,2005.0,2007.0
+Q285102,United States senator,Legislature,2007.0,2009.0
+Q285102,United States senator,Legislature,2009.0,2011.0
+Q285102,United States senator,Legislature,2011.0,2013.0
+Q285102,United States senator,Legislature,2013.0,2015.0
+Q160157,member of the State Senate of Connecticut,Subnational,1970.0,1980.0
+Q160157,Connecticut Attorney General,Subnational,1983.0,1989.0
+Q160157,United States senator,Legislature,1989.0,1991.0
+Q160157,United States senator,Legislature,1991.0,1993.0
+Q160157,United States senator,Legislature,1993.0,1995.0
+Q160157,United States senator,Legislature,1995.0,1997.0
+Q160157,United States senator,Legislature,1997.0,1999.0
+Q160157,United States senator,Legislature,1999.0,2001.0
+Q160157,United States senator,Legislature,2001.0,2003.0
+Q160157,United States senator,Legislature,2003.0,2005.0
+Q160157,United States senator,Legislature,2005.0,2007.0
+Q160157,United States senator,Legislature,2007.0,2009.0
+Q160157,United States senator,Legislature,2009.0,2011.0
+Q160157,United States senator,Legislature,2011.0,2013.0
+Q160157,Kasowitz Benson Torres,Private,2013.0,2024.0
+Q160157,American Enterprise Institute,Academic/research,2013.0,2024.0
+Q160157,National Bureau of Asian Research,Academic/research,2014.0,2024.0
+Q160157,Yeshiva University,Academic/research,2014.0,2024.0
+Q160157,Muslim-Jewish Advisory Council,National executive,2016.0,2024.0
+Q160157,Counter Extremism Project,National executive,2016.0,2024.0
+Q219861,Director of Policy Planning,National executive,1981.0,1982.0
+Q219861,Assistant Secretary of State for East Asian and Pacific Affairs,National executive,1982.0,1986.0
+Q219861,United States Ambassador to Indonesia,Diplomatic,1986.0,1989.0
+Q219861,Under Secretary of Defense for Policy,National executive,1989.0,1993.0
+Q219861,United States Deputy Secretary of Defense,National executive,2001.0,2005.0
+Q219861,President of the World Bank Group,Intl organization,2005.0,2007.0
+Q470748,member of the Montana House of Representatives,Subnational,1973.0,1974.0
+Q470748,United States representative,Legislature,1975.0,1977.0
+Q470748,United States representative,Legislature,1975.0,1978.0
+Q470748,United States representative,Legislature,1977.0,1978.0
+Q470748,United States senator,Legislature,1978.0,1979.0
+Q470748,United States senator,Legislature,1979.0,1981.0
+Q470748,United States senator,Legislature,1981.0,1983.0
+Q470748,United States senator,Legislature,1983.0,1985.0
+Q470748,United States senator,Legislature,1985.0,1987.0
+Q470748,United States senator,Legislature,1987.0,1989.0
+Q470748,United States senator,Legislature,1989.0,1991.0
+Q470748,United States senator,Legislature,1991.0,1993.0
+Q470748,United States senator,Legislature,1993.0,1995.0
+Q470748,United States senator,Legislature,1995.0,1997.0
+Q470748,United States senator,Legislature,1997.0,1999.0
+Q470748,United States senator,Legislature,1999.0,2001.0
+Q470748,United States senator,Legislature,2001.0,2003.0
+Q470748,United States senator,Legislature,2003.0,2005.0
+Q470748,United States senator,Legislature,2005.0,2007.0
+Q470748,United States senator,Legislature,2007.0,2009.0
+Q470748,United States senator,Legislature,2009.0,2011.0
+Q470748,United States senator,Legislature,2011.0,2013.0
+Q470748,United States senator,Legislature,2013.0,2014.0
+Q470748,United States Ambassador to China,Diplomatic,2014.0,2017.0
+Q528979,associate professor,Academic/research,1977.0,1979.0
+Q528979,Rhode Island state senator,Subnational,1985.0,1991.0
+Q528979,United States representative,Legislature,1991.0,1993.0
+Q528979,United States representative,Legislature,1991.0,1997.0
+Q528979,United States representative,Legislature,1993.0,1995.0
+Q528979,United States representative,Legislature,1995.0,1997.0
+Q528979,United States senator,Legislature,1997.0,1999.0
+Q528979,United States senator,Legislature,1999.0,2001.0
+Q528979,United States senator,Legislature,2001.0,2003.0
+Q528979,United States senator,Legislature,2003.0,2005.0
+Q528979,United States senator,Legislature,2005.0,2007.0
+Q528979,United States senator,Legislature,2007.0,2009.0
+Q528979,United States senator,Legislature,2009.0,2011.0
+Q528979,United States senator,Legislature,2011.0,2013.0
+Q528979,United States senator,Legislature,2013.0,2015.0
+Q528979,United States senator,Legislature,2015.0,2017.0
+Q528979,United States senator,Legislature,2017.0,2019.0
+Q528979,United States senator,Legislature,2019.0,2021.0
+Q528979,United States senator,Legislature,2021.0,2023.0
+Q528979,United States senator,Legislature,2023.0,2025.0
+Q317618,secretary of state,National executive,1986.0,1993.0
+Q317618,United States representative,Legislature,1995.0,1996.0
+Q317618,United States senator,Legislature,1996.0,1997.0
+Q317618,United States senator,Legislature,1997.0,1999.0
+Q317618,United States senator,Legislature,1999.0,2001.0
+Q317618,United States senator,Legislature,2001.0,2003.0
+Q317618,United States senator,Legislature,2003.0,2005.0
+Q317618,United States senator,Legislature,2005.0,2007.0
+Q317618,United States senator,Legislature,2007.0,2009.0
+Q317618,United States senator,Legislature,2009.0,2011.0
+Q317618,Governor of Kansas,Subnational,2011.0,2018.0
+Q317618,United States Ambassador-at-Large for International Religious Freedom,Diplomatic,2018.0,2025.0
+Q355522,United States Assistant Attorney General,National executive,1974.0,1975.0
+Q355522,Jefferson County Judge/Executive,Judiciary,1977.0,1984.0
+Q355522,United States senator,Legislature,1985.0,1987.0
+Q355522,United States senator,Legislature,1987.0,1989.0
+Q355522,United States senator,Legislature,1989.0,1991.0
+Q355522,United States senator,Legislature,1991.0,1993.0
+Q355522,United States senator,Legislature,1993.0,1995.0
+Q355522,United States senator,Legislature,1995.0,1997.0
+Q355522,United States senator,Legislature,1997.0,1999.0
+Q355522,United States senator,Legislature,1999.0,2001.0
+Q355522,United States senator,Legislature,2001.0,2003.0
+Q355522,United States senator,Legislature,2003.0,2005.0
+Q355522,United States senator,Legislature,2005.0,2007.0
+Q355522,United States senator,Legislature,2007.0,2009.0
+Q355522,United States senator,Legislature,2009.0,2011.0
+Q355522,United States senator,Legislature,2011.0,2013.0
+Q355522,United States senator,Legislature,2013.0,2015.0
+Q355522,United States senator,Legislature,2015.0,2017.0
+Q355522,United States senator,Legislature,2017.0,2019.0
+Q355522,United States senator,Legislature,2019.0,2021.0
+Q355522,United States senator,Legislature,2021.0,2023.0
+Q355522,United States senator,Legislature,2023.0,2025.0
+Q355522,United States senator,Legislature,2025.0,2025.0
+Q1188501,Council on Foreign Relations,Academic/research,1999.0,2000.0
+Q1188501,United States Permanent Representative to NATO,Diplomatic,2005.0,2008.0
+Q1188501,Spokesperson for the United States Department of State,National executive,2011.0,2013.0
+Q1188501,Assistant Secretary of State for European and Eurasian Affairs,National executive,2013.0,2017.0
+Q1188501,Center for a New American Security,Academic/research,2018.0,2019.0
+Q1188501,Under Secretary of State for Political Affairs,National executive,2021.0,2025.0
+Q359888,University of Richmond School of Law,Academic/research,1987.0,1994.0
+Q359888,council member,Subnational,1994.0,2001.0
+Q359888,"Mayor of Richmond, Virginia",Subnational,1998.0,2001.0
+Q359888,Lieutenant Governor of Virginia,Subnational,2002.0,2006.0
+Q359888,Governor of Virginia,Subnational,2006.0,2010.0
+Q359888,United States senator,Legislature,2013.0,2015.0
+Q359888,United States senator,Legislature,2015.0,2017.0
+Q359888,United States senator,Legislature,2017.0,2019.0
+Q359888,United States senator,Legislature,2019.0,2021.0
+Q359888,United States senator,Legislature,2021.0,2023.0
+Q359888,United States senator,Legislature,2023.0,2025.0
+Q344930,secretary of state,National executive,1986.0,1989.0
+Q344930,Governor of Indiana,Subnational,1989.0,1997.0
+Q344930,United States senator,Legislature,1999.0,2001.0
+Q344930,United States senator,Legislature,2001.0,2003.0
+Q344930,United States senator,Legislature,2003.0,2005.0
+Q344930,United States senator,Legislature,2005.0,2007.0
+Q344930,United States senator,Legislature,2007.0,2009.0
+Q344930,United States senator,Legislature,2009.0,2011.0
+Q22360,lawyer,Judiciary,1987.0,1989.0
+Q22360,member of the Alaska House of Representatives,Subnational,1999.0,2002.0
+Q22360,United States senator,Legislature,2002.0,2003.0
+Q22360,United States senator,Legislature,2003.0,2005.0
+Q22360,United States senator,Legislature,2005.0,2007.0
+Q22360,United States senator,Legislature,2007.0,2009.0
+Q22360,United States senator,Legislature,2009.0,2011.0
+Q22360,United States senator,Legislature,2011.0,2013.0
+Q22360,United States senator,Legislature,2013.0,2015.0
+Q22360,United States senator,Legislature,2015.0,2017.0
+Q22360,United States senator,Legislature,2017.0,2019.0
+Q22360,United States senator,Legislature,2019.0,2021.0
+Q22360,United States senator,Legislature,2021.0,2023.0
+Q22360,United States senator,Legislature,2023.0,2025.0
+Q261147,United States representative,Legislature,1977.0,1979.0
+Q261147,United States representative,Legislature,1977.0,1987.0
+Q261147,United States representative,Legislature,1979.0,1981.0
+Q261147,United States representative,Legislature,1981.0,1983.0
+Q261147,United States representative,Legislature,1983.0,1985.0
+Q261147,United States representative,Legislature,1985.0,1987.0
+Q261147,United States senator,Legislature,1987.0,1989.0
+Q261147,United States senator,Legislature,1989.0,1991.0
+Q261147,United States senator,Legislature,1991.0,1993.0
+Q261147,United States senator,Legislature,1993.0,1995.0
+Q261147,United States senator,Legislature,1995.0,1997.0
+Q261147,United States Senate Democratic Conference Secretary,National executive,1995.0,2005.0
+Q261147,United States senator,Legislature,1997.0,1999.0
+Q261147,United States senator,Legislature,1999.0,2001.0
+Q261147,United States senator,Legislature,2001.0,2003.0
+Q261147,United States senator,Legislature,2003.0,2005.0
+Q261147,United States senator,Legislature,2005.0,2007.0
+Q261147,United States senator,Legislature,2007.0,2009.0
+Q261147,United States senator,Legislature,2009.0,2011.0
+Q261147,United States senator,Legislature,2011.0,2013.0
+Q261147,United States senator,Legislature,2013.0,2015.0
+Q261147,United States senator,Legislature,2015.0,2017.0
+Q261147,Johns Hopkins University,Academic/research,2017.0,2025.0
+Q721871,prosecutor,National executive,1970.0,1974.0
+Q721871,member of the State Senate of Idaho,Subnational,1974.0,1989.0
+Q721871,majority leader,Subnational,1976.0,1982.0
+Q721871,president pro tempore,Legislature,1982.0,1989.0
+Q721871,member of the State Senate of Idaho,Subnational,1995.0,2002.0
+Q721871,Lieutenant Governor of Idaho,Subnational,2003.0,2006.0
+Q721871,Governor of Idaho,Subnational,2006.0,2007.0
+Q721871,Lieutenant Governor of Idaho,Subnational,2007.0,2009.0
+Q721871,United States senator,Legislature,2009.0,2011.0
+Q721871,United States senator,Legislature,2011.0,2013.0
+Q721871,United States senator,Legislature,2013.0,2015.0
+Q721871,United States senator,Legislature,2015.0,2017.0
+Q721871,United States senator,Legislature,2017.0,2019.0
+Q721871,United States senator,Legislature,2019.0,2021.0
+Q721871,United States senator,Legislature,2021.0,2023.0
+Q721871,United States senator,Legislature,2023.0,2025.0
+Q888132,member of a board of education,Subnational,1974.0,1978.0
+Q888132,chief financial officer,Private,1978.0,1982.0
+Q888132,"Mayor of Union City, New Jersey",Subnational,1986.0,1992.0
+Q888132,Member of the New Jersey General Assembly,Subnational,1988.0,1991.0
+Q888132,Member of the State Senate of New Jersey,Subnational,1991.0,1993.0
+Q888132,United States representative,Legislature,1993.0,1995.0
+Q888132,United States representative,Legislature,1995.0,1997.0
+Q888132,United States representative,Legislature,1997.0,1999.0
+Q888132,United States representative,Legislature,1999.0,2001.0
+Q888132,Democratic Caucus Vice Chairman of the United States House of Representatives,Legislature,1999.0,2003.0
+Q888132,United States representative,Legislature,2001.0,2003.0
+Q888132,United States representative,Legislature,2003.0,2005.0
+Q888132,Democratic Caucus Chairman of the United States House of Representatives,Legislature,2003.0,2006.0
+Q888132,United States representative,Legislature,2005.0,2006.0
+Q888132,United States senator,Legislature,2006.0,2007.0
+Q888132,United States senator,Legislature,2007.0,2009.0
+Q888132,United States senator,Legislature,2009.0,2011.0
+Q888132,United States senator,Legislature,2011.0,2013.0
+Q888132,United States senator,Legislature,2013.0,2015.0
+Q888132,United States senator,Legislature,2015.0,2017.0
+Q888132,United States senator,Legislature,2017.0,2019.0
+Q888132,United States senator,Legislature,2019.0,2021.0
+Q888132,United States senator,Legislature,2021.0,2023.0
+Q888132,United States senator,Legislature,2023.0,2024.0
+Q5218668,Perkins Coie,Private,2000.0,2002.0
+Q5218668,Assistant Secretary of State for Economic and Business Affairs,National executive,2006.0,2009.0
+Q5218668,Alaska Attorney General,Subnational,2009.0,2010.0
+Q5218668,Alaska Department of Natural Resources,National executive,2010.0,2013.0
+Q5218668,United States senator,Legislature,2015.0,2017.0
+Q5218668,United States senator,Legislature,2017.0,2019.0
+Q5218668,United States senator,Legislature,2019.0,2021.0
+Q5218668,United States senator,Legislature,2021.0,2023.0
+Q5218668,United States senator,Legislature,2023.0,2025.0

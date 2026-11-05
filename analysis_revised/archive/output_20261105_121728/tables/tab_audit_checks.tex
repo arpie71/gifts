@@ -1,0 +1,28 @@
+% Identifier linkage checks
+\begin{tabular}{lr}
+\toprule
+Check & Count \\
+\midrule
+Lookup keys (name strings) in masterwiki\_new.csv & 4662 \\
+  keys mapped to two different QIDs (first kept) & 1 \\
+  exact duplicate key rows (dropped by parser) & 34 \\
+Recipient QIDs with more than one name form & 195 \\
+  ... with no name token in common (name change or mislink) & 7 \\
+Giver QIDs with more than one name form & 393 \\
+  ... with no name token in common & 67 \\
+Same normalized name linked to different QIDs: recipients & 1 \\
+Same normalized name linked to different QIDs: givers & 3 \\
+Distinct QIDs sharing one Wikidata label (possible duplicates): recipients & 1 \\
+Distinct QIDs sharing one Wikidata label: givers & 1 \\
+QIDs appearing as both recipient and giver & 0 \\
+Recipient records resolved from a bare office (President, VP, First Lady) & 1614 \\
+Implausible links (dates), recipients: people / records & 8 / 12 \\
+Implausible links (dates), givers: people / records & 15 / 24 \\
+Non-person QIDs, givers, organization: QIDs / records & 307 / 651 \\
+Non-person QIDs, givers, state: QIDs / records & 64 / 408 \\
+Non-person QIDs, givers, suspect link: QIDs / records & 7 / 49 \\
+Non-person QIDs, recips, organization: QIDs / records & 3 / 3 \\
+Non-person QIDs, recips, suspect link: QIDs / records & 1 / 2 \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize Item-level lists are in analysis\_revised/data/audit\_*.csv. Evidence type: data quality.}

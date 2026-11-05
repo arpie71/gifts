@@ -1,0 +1,29 @@
+% Event-history models: organizational exit and career transitions
+\begin{tabular}{lrrr}
+\toprule
+ & Leaves organization at t & Moves to new org. at t+1 & Moves (non-cabinet) \\
+\midrule
+log(1 + countries), t-3..t-1 & 0.594*** & -0.166 & -0.128 \\
+ & (0.137) & (0.214) & (0.248) \\
+Betweenness x100, t-3..t-1 & -0.052** & -0.029 & -0.086 \\
+ & (0.019) & (0.032) & (0.204) \\
+Participation coef., t-3..t-1 & -0.574 & 0.808 & 1.542* \\
+ & (0.424) & (0.688) & (0.725) \\
+log(1 + tenure in org.) & -0.666*** & -0.401*** & -0.371*** \\
+ & (0.066) & (0.094) & (0.108) \\
+log(1 + career length) & 0.214** & -0.219 & -0.323* \\
+ & (0.071) & (0.118) & (0.136) \\
+Prior organizations & 0.068 & 0.138 & 0.166 \\
+ & (0.051) & (0.094) & (0.096) \\
+Prior cross-sector moves & -0.252*** & -0.006 & -0.060 \\
+ & (0.066) & (0.131) & (0.144) \\
+Holds cabinet-level office now & 0.767*** & 0.184 &  \\
+ & (0.130) & (0.232) &  \\
+Observations & 5,549 & 5,041 & 4,538 \\
+Clusters & 508 & 501 & 438 \\
+Mean of outcome & 0.11 & 0.05 & 0.05 \\
+Estimator & Logit & Logit & Logit \\
+Fixed effects & t dummies & t dummies & t dummies \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize Discrete-time logit hazards with year dummies; SEs clustered by person. Sample: person-years in a dated U.S. public position (Wikidata). Network measures are lagged (t-3..t-1) so they precede the event. Evidence type: does prior network position predict later career events (selection into mobility)?}

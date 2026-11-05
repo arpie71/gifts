@@ -1,0 +1,185 @@
+{
+  "audit": {
+    "lookup_keys": 4662,
+    "lookup_keys_conflicting": 1,
+    "lookup_exact_duplicate_rows": 34,
+    "qids_with_name_variants": {
+      "recip": 195,
+      "giver": 393
+    },
+    "qids_variants_no_common_token": {
+      "recip": 7,
+      "giver": 67
+    },
+    "names_linked_to_multiple_qids": {
+      "recip": 1,
+      "giver": 3
+    },
+    "qid_pairs_same_label": {
+      "recip": 1,
+      "giver": 1
+    },
+    "qids_on_both_sides": 0,
+    "nonhuman_qids": [
+      {
+        "side": "giver",
+        "entity_type": "organization",
+        "qids": 307,
+        "records": 651
+      },
+      {
+        "side": "giver",
+        "entity_type": "state",
+        "qids": 64,
+        "records": 408
+      },
+      {
+        "side": "giver",
+        "entity_type": "suspect link",
+        "qids": 7,
+        "records": 49
+      },
+      {
+        "side": "recip",
+        "entity_type": "organization",
+        "qids": 3,
+        "records": 3
+      },
+      {
+        "side": "recip",
+        "entity_type": "suspect link",
+        "qids": 1,
+        "records": 2
+      }
+    ],
+    "bare_office_records": 1614,
+    "bare_offices": [
+      "President",
+      "Vice President",
+      "First Lady"
+    ],
+    "career_coverage": [
+      {
+        "side": "recip",
+        "measure": "has any Wikidata claims",
+        "people": 1022,
+        "people_share": 1.0,
+        "records_share_of_all": 0.7096279248177982,
+        "records_share_of_linked": 1.0
+      },
+      {
+        "side": "recip",
+        "measure": "has a P39 or P108 spell",
+        "people": 701,
+        "people_share": 0.6859099804305284,
+        "records_share_of_all": 0.6436517069428462,
+        "records_share_of_linked": 0.907027027027027
+      },
+      {
+        "side": "recip",
+        "measure": "has a dated spell",
+        "people": 593,
+        "people_share": 0.5802348336594912,
+        "records_share_of_all": 0.6205408515535098,
+        "records_share_of_linked": 0.8744594594594595
+      },
+      {
+        "side": "recip",
+        "measure": "has a dated, classified spell",
+        "people": 591,
+        "people_share": 0.5782778864970646,
+        "records_share_of_all": 0.620253164556962,
+        "records_share_of_linked": 0.874054054054054
+      },
+      {
+        "side": "giver",
+        "measure": "has any Wikidata claims",
+        "people": 1983,
+        "people_share": 1.0,
+        "records_share_of_all": 0.6565017261219793,
+        "records_share_of_linked": 1.0
+      },
+      {
+        "side": "giver",
+        "measure": "has a P39 or P108 spell",
+        "people": 1704,
+        "people_share": 0.859304084720121,
+        "records_share_of_all": 0.6028960490985807,
+        "records_share_of_linked": 0.918346479696173
+      },
+      {
+        "side": "giver",
+        "measure": "has a dated spell",
+        "people": 1567,
+        "people_share": 0.7902168431669188,
+        "records_share_of_all": 0.5807441503644035,
+        "records_share_of_linked": 0.8846041484078294
+      },
+      {
+        "side": "giver",
+        "measure": "has a dated, classified spell",
+        "people": 1536,
+        "people_share": 0.7745839636913767,
+        "records_share_of_all": 0.5739355581127733,
+        "records_share_of_linked": 0.8742331288343558
+      }
+    ],
+    "implausible_links": {
+      "giver": {
+        "qids": 15,
+        "records": 24
+      },
+      "recip": {
+        "qids": 8,
+        "records": 12
+      }
+    }
+  },
+  "sizes": {
+    "interactions": 10428,
+    "interactions_in_panel_years": 10381,
+    "spells": 12038,
+    "spells_dated": 10235,
+    "spells_unclassified": 852,
+    "person_year_recip_rows": 26390,
+    "risk_main_rows": 6395,
+    "risk_wd_rows": 5549,
+    "recipients": 1022,
+    "givers": 1983,
+    "org_year_rows": 690,
+    "tie_rows": 3091,
+    "mover_episodes": 76,
+    "elite_recipients": 180,
+    "top1pct_recipients": 10
+  },
+  "sector_counts": {
+    "giver": {
+      "Academic/research": 334,
+      "Diplomatic": 233,
+      "Intl organization": 306,
+      "Judiciary": 42,
+      "Legislature": 1604,
+      "Military": 182,
+      "Monarchy/ceremonial": 242,
+      "National executive": 3242,
+      "Party": 237,
+      "Private": 110,
+      "Subnational": 268,
+      "Unclassified": 618
+    },
+    "recip": {
+      "Academic/research": 316,
+      "Diplomatic": 176,
+      "Intl organization": 12,
+      "Judiciary": 35,
+      "Legislature": 2696,
+      "Military": 76,
+      "Monarchy/ceremonial": 16,
+      "National executive": 642,
+      "Party": 3,
+      "Private": 118,
+      "Subnational": 296,
+      "Unclassified": 234
+    }
+  }
+}

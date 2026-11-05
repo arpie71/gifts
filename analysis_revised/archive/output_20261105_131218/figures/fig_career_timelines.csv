@@ -1,0 +1,73 @@
+qid,label,sector,start,end
+Q1110029,judge of a United States district court,Judiciary,1991.0,1993.0
+Q1110029,Director of the Federal Bureau of Investigation,National executive,1993.0,2001.0
+Q219861,Director of Policy Planning,National executive,1981.0,1982.0
+Q219861,Assistant Secretary of State for East Asian and Pacific Affairs,National executive,1982.0,1986.0
+Q219861,United States Ambassador to Indonesia,Diplomatic,1986.0,1989.0
+Q219861,Under Secretary of Defense for Policy,National executive,1989.0,1993.0
+Q219861,United States Deputy Secretary of Defense,National executive,2001.0,2005.0
+Q219861,President of the World Bank Group,Intl organization,2005.0,2007.0
+Q6447103,Central Intelligence Agency,National executive,1986.0,1988.0
+Q6447103,United States Department of State,National executive,1988.0,2008.0
+Q6447103,United States Permanent Representative to NATO,Diplomatic,2008.0,2009.0
+Q1188501,Council on Foreign Relations,Academic/research,1999.0,2000.0
+Q1188501,United States Permanent Representative to NATO,Diplomatic,2005.0,2008.0
+Q1188501,Spokesperson for the United States Department of State,National executive,2011.0,2013.0
+Q1188501,Assistant Secretary of State for European and Eurasian Affairs,National executive,2013.0,2017.0
+Q1188501,Center for a New American Security,Academic/research,2018.0,2019.0
+Q1188501,Under Secretary of State for Political Affairs,National executive,2021.0,2025.0
+Q17792597,United States Navy,Military,1979.0,2012.0
+Q17792597,Chief of Naval Research,Military,2008.0,2011.0
+Q17792597,McKinsey & Company,Private,2012.0,2013.0
+Q17792597,URS Corporation,Private,2013.0,2015.0
+Q17792597,Leidos,Private,2015.0,2025.0
+Q519825,United States Permanent Representative to NATO,Diplomatic,2001.0,2005.0
+Q519825,Under Secretary of State for Political Affairs,National executive,2005.0,2008.0
+Q519825,United States Ambassador to China,Diplomatic,2022.0,2025.0
+Q382314,United States Foreign Service,National executive,1977.0,2002.0
+Q382314,United States Ambassador to Albania,Diplomatic,2002.0,2004.0
+Q382314,Deputy National Security Advisor,National executive,2007.0,2008.0
+Q382314,Deputy National Security Advisor,National executive,2007.0,2008.0
+Q382314,United States Ambassador to Turkey,Diplomatic,2008.0,2010.0
+Q382314,United States Ambassador to Turkey,Diplomatic,2008.0,2010.0
+Q382314,United States Ambassador to Iraq,Diplomatic,2010.0,2012.0
+Q11607,United States Ambassador to Singapore,Diplomatic,1992.0,1993.0
+Q11607,Governor of Utah,Subnational,2005.0,2009.0
+Q11607,United States Ambassador to China,Diplomatic,2009.0,2011.0
+Q11607,United States Ambassador to the Russian Federation,Diplomatic,2017.0,2019.0
+Q1702273,United States Ambassador to Uganda,Diplomatic,1991.0,1994.0
+Q1702273,United States Ambassador to Zimbabwe,Diplomatic,1995.0,1997.0
+Q1702273,United States Ambassador to Kenya,Diplomatic,1999.0,2003.0
+Q1702273,Assistant Secretary of State for African Affairs,National executive,2009.0,2013.0
+Q229671,McKinsey & Company,Private,2003.0,2006.0
+Q229671,Avenue Capital Group,Private,2006.0,2010.0
+Q229671,New York University,Academic/research,2010.0,2011.0
+Q229671,Clinton Foundation,Academic/research,2011.0,2012.0
+Q229671,NBC,Private,2011.0,2014.0
+Q229671,Columbia University Mailman School of Public Health,Academic/research,2012.0,2017.0
+Q229671,Expedia Group,Private,2017.0,2025.0
+Q114235908,counselor,Diplomatic,2004.0,2005.0
+Q114235908,section chief,Academic/research,2006.0,2025.0
+Q5216534,The Wall Street Journal,Private,1993.0,1994.0
+Q5216534,National Security Advisor,National executive,1994.0,1997.0
+Q5216534,United States National Security Council,National executive,1998.0,1999.0
+Q5216534,United States Institute of Peace,Academic/research,2000.0,2000.0
+Q5216534,Center for Strategic and International Studies,Academic/research,2001.0,2006.0
+Q5216534,Brookings Institution,Academic/research,2006.0,2009.0
+Q5216534,United States Department of State,National executive,2009.0,2012.0
+Q5359190,United States Ambassador to Hungary,Diplomatic,2010.0,2013.0
+Q5359190,Lieutenant Governor of California,Subnational,2019.0,2025.0
+Q1569513,United States Ambassador to Turkey,Diplomatic,1995.0,1997.0
+Q1569513,Assistant Secretary of State for European and Eurasian Affairs,National executive,1997.0,2000.0
+Q1569513,Under Secretary of State for Political Affairs,National executive,2001.0,2005.0
+Q96065274,United States Ambassador to the United Arab Emirates,Diplomatic,2015.0,2018.0
+Q96065274,Assistant Secretary of State for Near Eastern Affairs,National executive,2022.0,2025.0
+Q239411,Forest City Realty Trust,Private,2004.0,2005.0
+Q239411,The Trump Organization,Private,2005.0,2017.0
+Q239411,Senior Advisor to the President of the United States,National executive,2017.0,2021.0
+Q239411,Federal Government of the United States,National executive,2017.0,2025.0
+Q27986907,White House Press Secretary,National executive,2017.0,2019.0
+Q27986907,Governor of Arkansas,Subnational,2023.0,2025.0
+Q110141811,United States Commodity Futures Trading Commission,National executive,2022.0,2025.0
+Q110141811,United States Commodity Futures Trading Commission,National executive,2025.0,2025.0
+Q110141811,MoonPay,Private,2025.0,2025.0

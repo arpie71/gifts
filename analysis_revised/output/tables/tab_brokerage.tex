@@ -1,0 +1,26 @@
+% Career mobility and brokerage in the recipient-country network (person-year)
+\begin{tabular}{lrrrrr}
+\toprule
+ & Particip. & Particip. & Betweenness x100 & Betweenness x100 & Bridges >1 comm. \\
+\midrule
+Prior cross-sector moves & -0.002 & -0.017 & 0.138 & 3.148* & 0.002 \\
+ & (0.006) & (0.020) & (0.311) & (1.226) & (0.012) \\
+Prior organizations & -0.004 & 0.009 & 0.168 & 0.322 & -0.012 \\
+ & (0.005) & (0.016) & (0.195) & (0.536) & (0.009) \\
+Observed under >1 U.S. agency before t & 0.008 & 0.003 & 1.082 & -0.123 & -0.001 \\
+ & (0.024) & (0.031) & (1.209) & (1.353) & (0.047) \\
+log(1 + career length) & 0.005 &  & -0.109 &  & 0.006 \\
+ & (0.005) &  & (0.228) &  & (0.010) \\
+Participation coef., t-3..t-1 & -0.018 & -0.096** & -1.362* & 0.127 & -0.039 \\
+ & (0.022) & (0.030) & (0.539) & (0.684) & (0.041) \\
+log countries at t & 0.226*** & 0.270*** & 5.872*** & 4.587*** & 0.389*** \\
+ & (0.013) & (0.015) & (0.834) & (0.653) & (0.025) \\
+Observations & 1,208 & 899 & 1,208 & 899 & 1,208 \\
+Clusters & 560 & 251 & 560 & 251 & 560 \\
+Mean of outcome & 0.14 & 0.18 & 1.98 & 2.62 & 0.25 \\
+Estimator & OLS & OLS & OLS & OLS & OLS \\
+Fixed effects & t, cur\_sector & qid, t & t, cur\_sector & qid, t & t, cur\_sector \\
+Evidence type & between & within & between & within & between \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize OLS; SEs clustered by person. Network: bipartite U.S. recipient x giving-country graph for year t; participation coefficient across Louvain communities; normalized betweenness. Degree (log countries) is controlled so that brokerage is not simply volume. Sample: person-years with at least one gift with a known country and a dated career. Evidence type: (1),(3),(5) between people; (2),(4) within person.}

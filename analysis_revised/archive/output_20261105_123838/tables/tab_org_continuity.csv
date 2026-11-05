@@ -1,0 +1,16 @@
+,Country retention,Country retention,Country Jaccard,Giver retention,Country retention
+Share of last year's recipients gone,-0.015,,0.017,0.027,
+,(0.075),,(0.034),(0.072),
+Top recipient changed,,-0.042,,,
+,,(0.025),,,
+Exit share (all identifiable names),,,,,-0.025
+,,,,,(0.103)
+log(1 + gifts) at t,0.140***,0.135***,0.040**,0.059*,0.139***
+,(0.026),(0.025),(0.014),(0.028),(0.024)
+log(1 + gifts) at t-1,-0.017,-0.021,0.061***,-0.019,-0.023
+,(0.020),(0.018),(0.013),(0.026),(0.021)
+Observations,205,207,205,186,208
+Clusters,15,15,15,13,15
+Mean of outcome,0.36,0.36,0.21,0.17,0.36
+Estimator,OLS,OLS,OLS,OLS,OLS
+Fixed effects,"agency, t","agency, t","agency, t","agency, t","agency, t"

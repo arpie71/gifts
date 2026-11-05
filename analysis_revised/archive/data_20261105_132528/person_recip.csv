@@ -1,0 +1,1016 @@
+qid,first_year,last_year,total_gifts,active_years,total_countries,total_agencies,entry_branch,entry_gifts,entry_countries,entry_career_len,entry_prior_orgs,entry_trans_sector,entry_trans_domain,entry_ever_private,entry_ever_academic,entry_ever_io,entry_ever_military,entry_ever_legis,entry_elite_now,entry_c1_betweenness,entry_c1_participation,elite_person,top25,has_career_data,group,staff,name
+Q100167384,2013,2014,3,2,3,1,Defense,2,2,0.0,0,0,0,0,0,0,0,0,0,0.002714750419630134,0.5,0,0,1,"Agency, military, diplomatic staff",1,David F. Helvey
+Q100451814,2009,2009,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James R. Hall
+Q100542125,2003,2003,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Lauren K. Moriarty
+Q100598223,2009,2011,3,2,3,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Kathleen Biden
+Q100605126,2022,2023,2,2,2,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Naomi Biden
+Q101423348,2020,2020,2,1,2,1,Defense,2,2,33.0,1,0,0,0,0,0,1,0,1,0.06252419667053814,0.5,1,0,1,Cabinet level and above,0,Christopher C. Miller
+Q102157533,2013,2013,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Carlos Elizondo
+Q102164874,2013,2013,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Brandon Wales
+Q102229010,2018,2018,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Leonid Kopylev
+Q102370956,2011,2011,2,1,1,1,Other executive,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jeffrey Tse-wei Fong
+Q1027026,2011,2011,1,1,1,1,Legislative,1,1,8.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Jeff Duncan
+Q103166651,2011,2011,2,1,2,1,Other executive,2,2,,0,0,0,0,0,0,0,0,0,0.001983896512779003,0.0,0,0,0,"Agency, military, diplomatic staff",1,Q103166651
+Q10390,2002,2017,35,14,15,1,Legislative,2,2,19.0,2,0,0,0,0,0,0,1,0,0.0007546182364574157,0.5,0,0,1,Legislators,0,John McCain
+Q104224064,2010,2010,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Frank Lowenstein
+Q104489560,2018,2018,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Rogelio Tornero-Velez
+Q104587353,2012,2012,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kathleen Hicks
+Q104760886,2008,2008,2,1,2,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.012617449664429532,0.0,0,0,0,"Agency, military, diplomatic staff",1,Peter Coneway
+Q104784118,2014,2015,4,2,2,1,Diplomatic,3,2,,0,0,0,0,0,0,0,0,0,0.00894415357766143,0.0,0,0,0,"Agency, military, diplomatic staff",1,Greta Holtz
+Q1048182,2002,2002,1,1,1,1,Legislative,1,1,28.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Cass Ballenger
+Q104856400,2000,2000,2,1,1,1,Legislative,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Brian P. McKeon
+Q104887666,2021,2021,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jewel H. Bronaugh
+Q104923417,2009,2022,2,2,1,1,Other executive,1,0,0.0,0,0,0,0,0,0,0,0,0,,,1,0,1,Cabinet level and above,0,Andy Baukol
+Q105083028,2012,2013,3,2,2,1,Other executive,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Marisa Lago
+Q105306790,2014,2014,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Tim Lenderking
+Q105771992,2011,2011,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Boualem Hammouda
+Q105946924,2014,2014,1,1,0,1,Other executive,1,0,32.0,2,1,1,0,1,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Patricia S. Hu
+Q106178516,2022,2022,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Yael Lempert
+Q106355213,2021,2023,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Ronald Moultrie
+Q106512571,2022,2022,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Steven C. Bondy
+Q106519761,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James Rainey
+Q106555050,2010,2022,8,6,5,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Asel Roberts
+Q106605441,2008,2008,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Sarah Margon
+Q106679027,2021,2021,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paul T. Calvert
+Q106684221,2017,2017,6,1,1,1,Defense,6,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Charles Cooper II
+Q107174153,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Antonio Aguto
+Q107284504,2008,2008,1,1,1,1,Diplomatic,1,1,23.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jess L. Baily
+Q107311847,2018,2018,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Charles Costanza
+Q107333412,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Timothy McGuire
+Q107405357,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John B. Richardson
+Q107419955,2017,2017,2,1,2,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.003420800480931195,0.5,0,0,0,"Agency, military, diplomatic staff",1,Terrence McKenrick
+Q107474595,2019,2019,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Dan Caine
+Q107596096,2008,2008,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Allan Mendelowitz
+Q107708308,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Francisco O. Mora
+Q1077594,2014,2014,1,1,1,1,Legislative,1,1,15.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Chris Murphy
+Q1077819,2022,2022,1,1,1,1,Legislative,1,1,32.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Chris Van Hollen
+Q107987241,2023,2023,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Melissa Dalton
+Q108028910,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Q108028910
+Q108032919,2010,2010,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Susan Sher
+Q108165579,2018,2018,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Steven Fagin
+Q10853588,2021,2023,29,3,17,1,White House,9,7,31.0,5,5,0,0,0,0,0,1,1,0.05369714730812111,0.37037037037037035,1,0,1,Cabinet level and above,0,Kamala Harris
+Q108709308,2001,2001,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Joyce Pierson
+Q108901083,2013,2013,1,1,1,1,Other executive,1,1,64.0,1,0,0,1,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,William Davis Jones
+Q109918758,2016,2016,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Thomas M. Henderschedt
+Q110126939,2012,2012,2,1,0,1,Other executive,2,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Robert Kavlock
+Q110141811,2023,2023,2,1,1,1,Other executive,2,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Caroline Pham
+Q110442546,2023,2023,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Nicholas Berliner
+Q110515281,2009,2013,9,4,4,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.012179565413035368,0.5,0,0,0,"Agency, military, diplomatic staff",1,David S. Sedney
+Q110560451,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paolo Tripodi
+Q11059791,2012,2013,5,2,4,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.00018484454830555686,0.0,0,0,0,"Agency, military, diplomatic staff",1,Bruce W. Clingan
+Q110931587,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Heidi V. Brown
+Q110940327,1999,1999,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,James D. Ford
+Q110950633,2021,2021,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Chidi Blyden
+Q1110029,2000,2000,22,1,2,1,Defense,22,2,9.0,2,1,0,0,0,0,0,0,0,0.0013417331599149779,0.0,0,0,1,"Agency, military, diplomatic staff",1,Louis Freeh
+Q11105,2023,2023,1,1,1,1,Judicial,1,1,14.0,2,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Elena Kagan
+Q111081541,2013,2013,1,1,1,1,Legislative,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Jamie Fly
+Q11116,2015,2015,1,1,1,1,Judicial,1,1,35.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ruth Bader Ginsburg
+Q111176345,2017,2017,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eli R. Miller
+Q111230829,2018,2018,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John D. Sullivan
+Q11124,2023,2023,1,1,1,1,Judicial,1,1,43.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Stephen Breyer
+Q111319150,2009,2009,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James W. Miller
+Q11138,2016,2016,1,1,1,1,Judicial,1,1,29.0,5,4,3,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Samuel Alito
+Q11153,2009,2023,7,6,4,1,Other executive,1,1,6.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John Roberts
+Q112035793,2011,2011,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Beatrice Welters
+Q112356599,2011,2011,3,1,2,1,Other executive,3,2,,0,0,0,0,0,0,0,0,0,0.002645362672429479,0.4444444444444444,0,0,0,"Agency, military, diplomatic staff",1,Dietrich Leibfried
+Q112364441,2019,2019,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Christopher L. Hill
+Q1124,1998,2010,151,5,56,2,White House,3,2,21.0,4,1,0,0,0,0,0,0,1,0.007352941176470588,0.0,1,1,1,Cabinet level and above,0,Bill Clinton
+Q112445617,2011,2012,2,2,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Ralph David Simpson
+Q112838318,2022,2022,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Yohannes Abraham
+Q11288727,2010,2010,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Wallace Gregson
+Q11317219,2012,2012,1,1,1,1,White House,1,1,4.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel R. Russel
+Q113293710,2014,2014,1,1,1,1,Legislative,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Sergio Gor
+Q11339644,2009,2012,3,2,3,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.010192123789745594,0.5,0,0,0,"Agency, military, diplomatic staff",1,Michael Schiffer
+Q1135767,2017,2017,1,1,1,1,Legislative,1,1,19.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Cory Booker
+Q114235908,2011,2011,3,1,1,1,Other executive,3,1,7.0,2,1,1,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Gregory M. Wong
+Q114322,2008,2008,3,1,2,1,White House,3,2,3.0,1,0,0,0,0,0,0,0,0,0.0006186021232215544,0.0,0,0,1,"Agency, military, diplomatic staff",1,Dana Perino
+Q1145362,2004,2004,1,1,1,1,Legislative,1,1,27.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Curt Weldon
+Q115558890,2006,2023,8,4,6,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Bruce Swartz
+Q11607,2009,2010,3,2,1,1,Diplomatic,2,1,17.0,2,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,"Jon Huntsman, Jr."
+Q116215246,2018,2018,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kirsten Madison
+Q116464,1999,2012,7,5,6,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,James Stavridis
+Q116797817,2012,2012,3,1,2,1,Legislative,3,2,,0,0,0,0,0,0,0,0,0,0.0023752776633803826,0.0,0,0,0,Legislators,0,William C. Danvers
+Q116857993,2019,2019,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Brent McIntosh
+Q11702,2013,2015,3,2,3,1,Legislative,1,1,28.0,3,1,0,0,0,0,0,1,1,0.0,0.0,1,0,1,Cabinet level and above,0,John Boehner
+Q1174271,2001,2001,1,1,1,1,Legislative,1,1,28.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,David E. Bonior
+Q1174836,2017,2017,2,1,1,1,Other executive,2,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David J. Skorton
+Q1175392,2000,2000,1,1,1,1,Legislative,1,1,5.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,David M. McIntosh
+Q1176154,2011,2011,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David Plouffe
+Q1176453,2006,2008,4,2,3,1,White House,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David Addington
+Q117860946,2012,2012,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Ron Crossland
+Q1188501,2006,2022,7,4,5,1,Diplomatic,1,0,7.0,2,1,1,0,1,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Victoria Nuland
+Q119149337,2022,2022,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Edgard Kagan
+Q12053177,2005,2005,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John W. Blaney
+Q12057770,2008,2010,7,2,6,1,Defense,6,6,,0,0,0,0,0,0,0,0,0,0.026719876927628557,0.6666666666666667,0,0,0,"Agency, military, diplomatic staff",1,Mark P. Fitzgerald
+Q12061906,2007,2008,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Benjamin R. Mixon
+Q1209677,2001,2001,1,1,1,1,Legislative,1,1,30.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Dick Gephardt
+Q121032633,1999,2000,2,2,1,1,Legislative,1,0,3.0,1,0,0,0,0,0,0,0,0,,,0,0,1,Legislators,0,Gary Lee Sisco
+Q1215367,2008,2008,3,1,2,1,Diplomatic,3,2,7.0,2,0,0,0,0,0,0,0,0,0.0006186021232215544,0.0,0,0,1,"Agency, military, diplomatic staff",1,Nancy Brinker
+Q122294312,2016,2016,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Angela Ellard
+Q12297962,2006,2006,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Henry G. Ulrich III
+Q1234572,2004,2004,1,1,1,1,Legislative,1,1,21.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Family of officials,0,Alan Mollohan
+Q1235731,2019,2019,1,1,1,1,White House,1,1,12.0,4,2,0,0,0,0,0,1,1,0.0,0.0,1,0,1,Cabinet level and above,0,Mick Mulvaney
+Q1239753,2006,2008,3,2,2,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Donald C. Winter
+Q1240095,2000,2004,34,5,14,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Donald Evans
+Q124293594,2000,2000,2,1,2,1,Other executive,2,2,,0,0,0,0,0,0,0,0,0,0.04471744471744472,0.0,0,0,0,"Agency, military, diplomatic staff",1,J. Michael Rowe
+Q124642969,2016,2016,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Neil Chernoff
+Q1246923,2003,2003,1,1,1,1,Other executive,1,1,21.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kenneth W. Dam
+Q124880026,2021,2021,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Duke Pirak
+Q125179676,2015,2015,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Matthew Spence
+Q1252235,2007,2008,3,2,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Douglas Lute
+Q125510670,2011,2011,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Bernard S. Champoux
+Q125856406,2015,2016,3,2,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,David S. Doyle
+Q125911661,2014,2014,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Doug Stafford
+Q126267750,2011,2012,3,2,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James L. Huggins
+Q1263846,2005,2008,7,3,4,1,White House,1,1,26.0,4,1,1,1,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Elliott Abrams
+Q1265104,2005,2005,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,T. Michael Moseley
+Q1275851,2003,2006,4,3,3,1,White House,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Scott McClellan
+Q1276376,2002,2006,25,5,16,2,Other executive,3,2,1.0,1,0,0,0,0,0,0,0,0,0.003317313135672302,0.4444444444444444,1,0,1,Cabinet level and above,0,Samuel Bodman
+Q1276563,2004,2023,36,10,13,2,Diplomatic,1,1,6.0,2,1,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,William Joseph Burns
+Q127929950,2020,2020,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Joshua Rudd
+Q1282411,2015,2018,2,2,2,1,Legislative,1,1,42.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ed Markey
+Q1285613,2001,2003,9,3,4,1,Other executive,2,1,6.0,1,0,0,0,0,0,0,1,1,0.0,0.0,1,0,1,Cabinet level and above,0,Spencer Abraham
+Q1286705,2006,2007,2,2,2,1,Defense,1,1,3.0,2,0,0,0,0,0,1,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Edmund Giambastiani
+Q130024,2008,2016,4,3,3,1,Legislative,2,1,31.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Johnny Isakson
+Q1302611,2009,2012,3,2,3,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Neal S. Wolin
+Q131319276,2006,2007,2,2,2,1,White House,1,1,1.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Anita McBride
+Q13133,2009,2016,154,8,65,1,White House,28,16,13.0,1,0,0,0,1,0,0,0,1,0.05621762062961935,0.7160493827160495,1,1,1,Cabinet level and above,0,Michelle Obama
+Q131731745,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Q131731745
+Q131825659,2012,2012,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,James Free
+Q132200812,2019,2019,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Trevor J. Bredenkamp
+Q133454387,2018,2018,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Anny Vu
+Q1337459,2021,2021,2,1,1,1,Legislative,2,1,24.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jim McGovern
+Q134022671,2007,2007,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark Solo
+Q1344707,2014,2014,1,1,1,1,Legislative,1,1,13.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,John Boozman
+Q134549,2000,2007,8,5,6,1,Legislative,3,3,39.0,2,1,0,0,0,0,0,1,0,0.07415328716036311,0.6666666666666667,0,0,1,Legislators,0,Ted Kennedy
+Q1345855,1999,1999,1,1,1,1,Legislative,1,1,16.0,3,3,1,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Campbell
+Q13475242,2018,2018,1,1,1,1,Legislative,1,1,7.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Joni Ernst
+Q134761502,2000,2000,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael W. Callan
+Q1347744,2008,2008,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Frederic Mishkin
+Q135267690,2008,2008,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kevin Cosgriff
+Q135443495,2019,2019,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Allison Hooker
+Q1355634,2011,2011,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gregory T. Linteris
+Q1358112,2000,2001,12,2,6,1,Defense,6,5,3.0,1,0,0,0,0,0,1,0,1,0.009865362818781847,0.72,1,0,1,Cabinet level and above,0,Hugh Shelton
+Q1362004,2006,2006,1,1,1,1,Defense,1,1,3.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Peter Schoomaker
+Q13628723,2017,2020,15,4,9,1,White House,6,3,0.0,0,0,0,0,0,0,0,0,0,0.0056495913445686495,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jared Kushner
+Q1363468,2000,2005,2,2,2,1,Legislative,1,1,27.0,6,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike DeWine
+Q1368405,2015,2015,1,1,0,1,Legislative,1,0,16.0,2,1,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,Jeff Merkley
+Q1370400,1999,2000,4,2,4,1,Other executive,3,3,2.0,1,0,0,0,0,0,0,0,1,0.07163234503135979,0.4444444444444444,1,0,1,Cabinet level and above,0,William M. Daley
+Q137297281,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Sinclair M. Harris
+Q137708989,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark R. Stammer
+Q138048087,2009,2009,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John M. Bird
+Q1381742,2011,2015,26,5,18,1,Defense,9,7,2.0,1,0,0,0,0,0,1,0,0,0.02347314714789794,0.6172839506172839,0,0,1,"Agency, military, diplomatic staff",1,Jonathan W. Greenert
+Q138191827,2010,2013,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert Lee Thomas
+Q1391865,1999,1999,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John F. Sattler
+Q139310346,2019,2019,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Natalie A. Baker
+Q139996244,2004,2004,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Thomas J. Romig
+Q1400609,2000,2000,1,1,1,1,Legislative,1,1,33.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,William V. Roth
+Q1444483,1999,1999,1,1,0,1,Legislative,1,0,25.0,2,1,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,Frank Wolf
+Q14541026,2020,2020,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Randal Quarles
+Q14545676,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Nisha Biswal
+Q14604898,2012,2012,3,1,1,1,Diplomatic,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James B. Smith
+Q1464697,2019,2019,1,1,1,1,Legislative,1,1,30.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Richard Neal
+Q1489004,2006,2006,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Philip D. Zelikow
+Q14946807,2014,2014,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Dennis L. Via
+Q14948721,2003,2003,2,1,1,1,White House,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Blake Gottesman
+Q150851,2001,2004,150,4,66,1,Diplomatic,41,28,15.0,3,1,0,0,0,0,1,0,1,0.22006456313601444,0.6300000000000001,1,1,1,Cabinet level and above,0,Colin Powell
+Q152019,2001,2008,445,8,81,1,White House,46,21,0.0,0,0,0,0,0,0,0,0,1,0.07493693402853455,0.6208677685950412,1,1,1,Cabinet level and above,0,Laura Bush
+Q1525924,2012,2015,3,3,3,1,Legislative,1,1,27.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Roy Blunt
+Q153481,2001,2002,4,2,4,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Jenna Bush Hager
+Q15453080,2001,2002,2,2,1,1,Diplomatic,1,1,12.0,3,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Johnny Young
+Q15490728,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Sarah Chayes
+Q155649,2009,2009,1,1,1,1,Diplomatic,1,1,32.0,4,3,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Richard Holbrooke
+Q15688765,2016,2016,1,1,0,1,Defense,1,0,2.0,1,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Michael S. Rogers
+Q1569513,2011,2011,3,1,1,1,Diplomatic,3,1,16.0,3,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Marc Grossman
+Q15823352,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kenneth E. Tovo
+Q15919803,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Duane C. Butcher
+Q160157,2002,2012,8,3,6,1,Legislative,4,3,32.0,3,1,0,0,0,0,0,1,0,0.0022363484628311952,0.375,0,0,1,Legislators,0,Joe Lieberman
+Q160717,2005,2005,1,1,1,1,Legislative,1,1,24.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Lantos
+Q16107293,2001,2006,8,5,6,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Donald Ensenat
+Q1617137,2006,2006,1,1,1,1,Legislative,1,1,16.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Feeney
+Q16186345,2005,2013,3,3,2,1,Diplomatic,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Hugo Llorens
+Q16186981,2002,2016,6,5,6,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Randy Baumgardner
+Q16189325,2014,2017,3,3,2,1,Defense,1,1,21.0,2,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Deborah Lee James
+Q16192221,2022,2022,1,1,1,1,Legislative,1,1,7.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ben Sasse
+Q16204936,2014,2014,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Rufus Gifford
+Q16210573,2013,2013,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Nancy Erickson
+Q16214089,2012,2012,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Nicholas Merrill
+Q16214512,2022,2022,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Brett H. McGurk
+Q16216012,2022,2022,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,"Kenneth Allen Polite, Jr."
+Q16218923,2007,2007,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jared Weinstein
+Q16231847,2014,2014,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Elizabeth O'Bagy
+Q16241519,2001,2005,2,2,2,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,John Francis Eisold
+Q16476,2013,2014,5,2,3,1,Legislative,2,1,32.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mazie Hirono
+Q16499817,2013,2013,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Clay Pell
+Q16513104,2011,2011,3,1,0,1,Other executive,3,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Sara Terry
+Q16727387,2008,2008,1,1,0,1,Defense,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Michael D. Barbero
+Q16728453,2009,2015,5,3,5,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Deborah K. Jones
+Q16728974,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael Ferriter
+Q16730065,2019,2019,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Paul D. Irving
+Q16730147,2012,2023,11,4,10,3,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Jake Sullivan
+Q16731149,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paul LaCamera
+Q1677579,2013,2014,4,2,4,1,Other executive,2,2,15.0,3,0,0,0,0,0,0,0,1,0.00084663132090215,0.0,1,0,1,Cabinet level and above,0,Jack Lew
+Q16776319,2016,2017,3,2,3,1,Defense,2,2,1.0,1,0,0,0,0,0,1,0,0,0.0006056201550387597,0.0,1,0,1,Cabinet level and above,0,Paul J. Selva
+Q16886217,2005,2005,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Matthew H. Tueller
+Q16890597,2009,2016,4,4,3,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Natalie Jones
+Q1691395,2016,2016,1,1,1,1,Legislative,1,1,9.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Joe Donnelly
+Q16933945,2015,2016,5,2,4,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.0006222463184278868,0.5,0,0,0,"Agency, military, diplomatic staff",1,Peter A. Selfridge
+Q1699908,2001,2001,1,1,1,1,Legislative,1,1,4.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,John E. Sununu
+Q1702273,2009,2010,2,2,1,1,Diplomatic,1,1,18.0,3,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Johnnie Carson
+Q170581,2007,2019,10,5,8,1,Other executive,1,1,26.0,2,1,0,0,0,0,0,1,1,0.0,0.0,1,0,1,Cabinet level and above,0,Nancy Pelosi
+Q1707784,2015,2015,1,1,0,1,Legislative,1,0,2.0,1,0,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,Joe Kennedy III
+Q1708182,2014,2014,1,1,1,1,Diplomatic,1,1,13.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Joseph W. Westphal
+Q17109089,2016,2016,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James F. Entwistle
+Q17318953,1999,2014,2,2,2,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Gayle E. Smith
+Q17386285,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Stephen R. Lyons
+Q174438,1998,2000,29,3,16,1,Diplomatic,2,1,5.0,2,1,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Madeleine Albright
+Q17466083,2011,2017,10,5,4,1,Defense,3,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David L. Goldfein
+Q1758631,2010,2010,1,1,1,1,Legislative,1,1,33.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Alcee Hastings
+Q17792597,2007,2008,2,2,2,1,Defense,1,1,28.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Nevin Carr
+Q1803180,2008,2008,1,1,1,1,Defense,1,1,3.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Michael Wynne
+Q18045052,2021,2021,1,1,1,1,Legislative,1,1,6.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Seth Moulton
+Q18209402,1999,1999,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jennifer Palmieri
+Q184650,2001,2006,88,6,36,1,Defense,10,8,38.0,5,4,1,1,0,0,0,1,1,0.029908238528880703,0.33999999999999986,1,1,1,Cabinet level and above,0,Donald Rumsfeld
+Q1852641,2008,2012,12,4,3,1,Defense,1,1,19.0,3,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Michael B. Donley
+Q18601108,2011,2011,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,John Kirby
+Q18684027,2019,2023,2,2,2,1,Legislative,1,1,18.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Amata Coleman Radewagen
+Q18684137,2015,2015,1,1,1,1,Defense,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Christine Wormuth
+Q18685149,2023,2023,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"James F. Caldwell, Jr."
+Q18686434,2013,2013,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ferial Govashiri
+Q1895804,2000,2000,1,1,1,1,Legislative,1,1,33.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Paul Sarbanes
+Q190628,2001,2002,4,2,4,1,White House,1,1,20.0,2,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Barbara Bush
+Q190756,2011,2011,1,1,1,1,Other executive,1,1,22.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,William Daniel Phillips
+Q1922011,2022,2022,1,1,1,1,Other executive,1,1,43.0,5,4,2,1,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Merrick Garland
+Q1928651,2010,2013,32,4,0,1,Intelligence,5,0,0.0,0,0,0,0,0,0,0,0,0,,,1,0,1,Cabinet level and above,0,Michael Morell
+Q193635,1999,2005,5,3,5,1,Other executive,1,1,25.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Alan Greenspan
+Q1937025,2002,2005,21,4,11,1,Defense,3,2,2.0,2,0,0,0,0,0,1,0,1,0.012286510979435344,0.0,1,0,1,Cabinet level and above,0,Richard Bowman Myers
+Q19520020,1998,2002,14,5,3,1,Defense,4,2,,0,0,0,0,0,0,0,0,0,0.022058823529411763,0.0,0,0,0,"Agency, military, diplomatic staff",1,Charles W. Moore Jr.
+Q19661820,2009,2009,1,1,0,1,Legislative,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,Legislators,0,Sara Kyle
+Q19673,1999,2000,4,2,4,2,White House,3,3,22.0,2,1,0,0,0,0,0,1,1,0.01597608740465883,0.0,1,0,1,Cabinet level and above,0,Al Gore
+Q19798487,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ben Hodges
+Q19920980,2012,2023,5,4,5,1,Diplomatic,1,1,4.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Linda Thomas-Greenfield
+Q19956466,2008,2009,9,2,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert Brooks Brown
+Q19957029,2013,2014,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Charles T. Cleveland
+Q19957544,2009,2013,3,3,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Patrick J. Donahue II
+Q19957770,2014,2014,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Fernandez Ponds
+Q20067627,2010,2022,23,6,2,2,Other executive,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,David S. Cohen
+Q201430,1999,2005,60,7,0,1,Intelligence,12,0,4.0,1,0,0,0,0,0,0,0,0,,,1,1,1,Cabinet level and above,0,George Tenet
+Q20171066,2013,2013,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Caroline Atkinson
+Q20176971,2009,2009,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Hong Le Webb
+Q201795,2004,2010,5,4,4,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ben Bernanke
+Q202350,2001,2006,2,2,2,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Alberto Gonzales
+Q20313177,2013,2013,1,1,1,1,Intelligence,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paul Brian Becker
+Q2036942,2013,2013,1,1,1,1,Legislative,1,1,10.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Ted Cruz
+Q203966,2017,2018,3,2,3,1,Legislative,2,2,18.0,1,0,0,0,0,0,0,1,1,0.0002127376917332108,0.5,1,0,1,Cabinet level and above,0,Paul Ryan
+Q20406422,2012,2012,2,1,2,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.0008147849977862666,0.0,0,0,0,"Agency, military, diplomatic staff",1,Frank Craig Pandolfe
+Q205954,2011,2011,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eric Allin Cornell
+Q20645208,2016,2016,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kin W. Moy
+Q207,2001,2008,888,8,115,1,White House,138,49,6.0,2,1,0,0,0,0,0,0,1,0.49773511977647295,0.59521484375,1,1,1,Cabinet level and above,0,George W. Bush
+Q20707064,2018,2018,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"John W. Nicholson, Jr."
+Q20707342,2009,2009,3,1,1,1,Defense,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kevin W. Mangum
+Q20707727,2009,2009,2,1,1,1,Defense,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,James C. McConville
+Q20735785,2014,2014,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Dana Shell Smith
+Q20749485,2015,2017,11,3,7,2,Defense,2,2,0.0,0,0,0,0,0,0,0,0,0,0.000455343278238094,0.5,0,0,1,"Agency, military, diplomatic staff",1,Vincent R. Stewart
+Q2091892,2019,2019,1,1,1,1,Legislative,1,1,7.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Suzan DelBene
+Q20972170,2015,2016,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Scott H. Swift
+Q21015950,2008,2008,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Thomas A. Cropper
+Q21032393,2012,2013,2,2,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ralph Jodice II
+Q21061985,2011,2023,4,4,4,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Elizabeth Sherwood-Randall
+Q21063040,2015,2015,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Philip S. Davidson
+Q2129564,2001,2001,1,1,1,1,Defense,1,1,4.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ralph Eberhart
+Q212979,2006,2020,79,7,27,1,Defense,2,1,20.0,3,1,1,0,1,0,0,0,1,0.0,0.0,1,1,1,Cabinet level and above,0,Robert Gates
+Q215057,2009,2009,1,1,1,1,Legislative,1,1,24.0,3,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Rick Perry
+Q21552245,2002,2004,4,2,2,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.00511630327768355,0.0,0,0,0,"Agency, military, diplomatic staff",1,Marcelle M. Wahba
+Q21663103,2002,2002,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Atul Keshap
+Q21716302,2009,2009,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,David Thorne
+Q217314,2002,2002,1,1,1,1,Legislative,1,1,3.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,John Edwards
+Q21934040,2016,2017,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John W. Troxell
+Q219861,2002,2004,10,3,5,1,Defense,6,3,21.0,5,2,0,0,0,0,0,0,0,0.012611250267909909,0.0,0,0,1,"Agency, military, diplomatic staff",1,Paul Wolfowitz
+Q22003782,2015,2015,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Bathsheba Nell Crocker
+Q22004989,2021,2021,1,1,1,1,Defense,1,1,1.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel R. Hokanson
+Q22005647,2011,2011,1,1,1,1,Other executive,1,1,12.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jun Ye
+Q22095822,2011,2011,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Brian Mosteller
+Q22095846,2017,2017,5,1,2,1,Defense,5,2,,0,0,0,0,0,0,0,0,0,0.0024781239272409147,0.31999999999999984,0,0,0,"Agency, military, diplomatic staff",1,Kevin M. Donegan
+Q2218423,2010,2011,4,2,3,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.010650887573964497,0.0,0,0,0,"Agency, military, diplomatic staff",1,Samuel J. Locklear
+Q22212,2005,2023,20,14,9,1,Legislative,1,1,13.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Lindsey Graham
+Q22222,2022,2022,1,1,1,1,Legislative,1,1,31.0,4,1,1,1,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Kirsten Gillibrand
+Q22237,2007,2007,1,1,1,1,Legislative,1,1,8.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Amy Klobuchar
+Q22260,2012,2012,1,1,1,1,Legislative,1,1,30.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Claire McCaskill
+Q22279,2002,2011,4,3,4,1,Legislative,2,2,9.0,2,1,0,0,0,0,0,1,0,0.0007546182364574157,0.5,0,0,1,Legislators,0,Susan Collins
+Q22290,2008,2008,1,1,1,1,Legislative,1,1,33.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Olympia Snowe
+Q223151,2003,2003,2,1,2,1,Diplomatic,2,2,22.0,3,0,0,0,0,0,0,0,0,0.0004209788389056419,0.0,1,0,1,Cabinet level and above,0,James Baker
+Q22316,2001,2023,165,12,62,2,Legislative,1,1,24.0,3,1,0,0,0,0,0,1,0,0.0,0.0,1,1,1,Cabinet level and above,0,John Kerry
+Q22360,2009,2012,3,2,2,1,Legislative,1,1,22.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Lisa Murkowski
+Q224481,2002,2002,1,1,0,1,Intelligence,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,John E. McLaughlin
+Q2262244,1999,1999,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Sean Patrick Maloney
+Q22686,2017,2019,82,3,47,1,White House,42,29,49.0,2,1,1,1,0,0,0,0,1,0.3309688411637001,0.7915844838921762,1,1,1,Cabinet level and above,0,Donald Trump
+Q229032,2009,2013,17,5,12,1,Other executive,2,2,10.0,2,0,0,0,0,0,0,0,1,0.008909147415311302,0.0,1,0,1,Cabinet level and above,0,Janet Napolitano
+Q22947718,2010,2010,2,1,2,1,Other executive,2,2,,0,0,0,0,0,0,0,0,0,0.00017523033168225175,0.0,0,0,0,"Agency, military, diplomatic staff",1,Sara J. Bloomfield
+Q229671,2010,2010,2,1,2,1,Diplomatic,2,2,7.0,2,0,0,1,0,0,0,0,0,0.010650887573964497,0.0,0,0,1,Family of officials,0,Chelsea Clinton
+Q23013776,2022,2022,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Julieta Valls Noyes
+Q23050162,2018,2018,1,1,1,1,Diplomatic,1,1,4.0,2,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Alice Wells
+Q230733,2002,2012,5,3,3,1,Legislative,1,1,24.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Dianne Feinstein
+Q23198593,2012,2012,1,1,1,1,Intelligence,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Elizabeth L. Train
+Q23302985,2014,2023,5,4,4,2,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Jonathan Finer
+Q2344854,2007,2008,4,2,0,1,Intelligence,3,0,,0,0,0,0,0,0,0,0,0,,,1,0,0,Cabinet level and above,0,Stephen Kappes
+Q234992,2001,2008,33,7,17,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Lynne Cheney
+Q235349,2010,2023,51,8,37,2,White House,1,1,17.0,3,2,2,0,1,0,0,0,1,0.0,0.0,1,1,1,Cabinet level and above,0,Jill Biden
+Q237290,2000,2000,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Keeley Hawes
+Q237560,2005,2009,2,2,2,1,Legislative,1,1,22.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Barbara Boxer
+Q23762532,2011,2011,2,1,2,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.0009506622582371835,0.5,0,0,0,"Agency, military, diplomatic staff",1,James M. Holmes
+Q237681,2000,2000,1,1,1,1,Legislative,1,1,7.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Blanche Lincoln
+Q23770504,2011,2011,2,1,2,1,Other executive,2,2,14.0,1,0,0,0,1,0,0,0,0,0.016384573769224822,0.0,0,0,1,"Agency, military, diplomatic staff",1,Steven Cundiff
+Q23772332,2013,2013,1,1,1,1,White House,1,1,22.0,3,3,3,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Karen Donfried
+Q23772372,2009,2009,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Joan A. Polaschik
+Q23888396,2011,2011,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Mary Catherine Phee
+Q239411,2017,2018,12,2,6,1,White House,11,6,13.0,2,0,0,1,0,0,0,0,0,0.056340788766279085,0.4600000000000001,0,0,1,Family of officials,0,Ivanka Trump
+Q24053,2019,2019,1,1,1,1,Legislative,1,1,15.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Maggie Hassan
+Q24053649,2015,2015,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Deborah R. Malac
+Q24053675,2006,2006,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Elisabeth I. Millard
+Q241092,2012,2014,2,2,2,1,Legislative,1,1,37.0,6,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Debbie Stabenow
+Q24204565,2017,2017,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Lisa J. Peterson
+Q24248265,2018,2021,8,3,4,1,Other executive,1,1,1.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Steven Mnuchin
+Q24313,2017,2019,31,3,21,1,White House,13,10,16.0,3,1,0,0,0,0,0,1,1,0.04985288688157697,0.5798816568047337,1,0,1,Cabinet level and above,0,Mike Pence
+Q2434181,2013,2013,1,1,1,1,Legislative,1,1,17.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Timothy F. Murphy
+Q244631,2009,2012,49,4,15,2,Intelligence,9,0,32.0,3,1,0,0,0,0,0,1,1,,,1,1,1,Cabinet level and above,0,Leon Panetta
+Q25011,2010,2010,1,1,1,1,Other executive,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Charles Bolden
+Q2526622,2007,2013,3,3,3,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Vincent K. Brooks
+Q258825,2013,2013,1,1,1,1,Other executive,1,1,24.0,3,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Patty Murray
+Q25894869,2017,2019,8,3,8,1,White House,2,2,4.0,1,0,0,0,0,0,0,0,1,0.000552495945238554,0.5,1,0,1,Cabinet level and above,0,Karen Pence
+Q259514,2009,2011,2,2,2,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Valerie Jarrett
+Q26093,2006,2015,58,6,33,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,1,1,Cabinet level and above,0,Martin Dempsey
+Q261147,2009,2012,3,2,3,1,Legislative,1,1,32.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Barbara Mikulski
+Q262534,2001,2001,2,1,2,1,Legislative,2,2,24.0,1,0,0,0,0,0,0,1,0,0.009414589489283774,0.0,0,0,1,Legislators,0,Nick Rahall
+Q262554,2001,2008,4,3,2,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Margaret Spellings
+Q26260746,2003,2003,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Brad Blakeman
+Q263725,2014,2023,5,4,5,2,Other executive,1,1,43.0,3,1,1,0,1,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Janet Yellen
+Q266040,1999,2001,20,3,11,1,Defense,7,4,2.0,1,0,0,0,0,0,1,0,0,0.0822534517115798,0.2777777777777777,0,0,1,"Agency, military, diplomatic staff",1,Michael E. Ryan
+Q2668691,2005,2005,1,1,1,1,Diplomatic,1,1,4.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Paula Dobriansky
+Q26702611,2010,2010,2,1,2,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.0003564304398269195,0.5,0,0,0,"Agency, military, diplomatic staff",1,Dennis Cheng
+Q267902,2009,2018,46,7,24,4,Defense,1,1,2.0,1,0,0,0,0,0,1,0,0,0.0,0.0,1,1,1,Cabinet level and above,0,James Mattis
+Q26924369,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gregory Touhill
+Q270316,2012,2012,1,1,1,1,Legislative,1,1,20.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jeanne Shaheen
+Q27662422,2016,2016,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Paul Folmsbee
+Q27986907,2019,2019,2,1,2,1,White House,2,2,2.0,1,0,0,0,0,0,0,0,0,0.001471097265489789,0.5,0,0,1,"Agency, military, diplomatic staff",1,Sarah Sanders
+Q27996060,2019,2019,1,1,1,1,White House,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Stephen Miller
+Q28076289,2019,2019,1,1,1,1,White House,1,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Dan Scavino
+Q28086194,2000,2011,4,2,4,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Willie E. May
+Q28109275,2000,2000,3,1,1,1,Defense,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Carolyn B. Shelton
+Q28131687,2007,2016,3,2,3,2,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Marcel Lettre
+Q28169559,2012,2012,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert Cekuta
+Q285102,2001,2013,3,3,3,1,Legislative,1,1,37.0,6,4,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jay Rockefeller
+Q28514306,2014,2014,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Adam Szubin
+Q28591,2009,2012,49,4,1,2,Defense,1,1,35.0,1,0,0,0,0,0,1,0,0,0.0,0.0,1,1,1,Cabinet level and above,0,David Petraeus
+Q28606502,2017,2020,11,4,0,1,Intelligence,1,0,32.0,2,0,0,0,0,0,0,0,0,,,1,0,1,Cabinet level and above,0,Gina Haspel
+Q286514,2004,2004,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Harriet Miers
+Q28701112,2019,2019,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Lindsay Reynolds
+Q28794141,2008,2008,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Nicholas Rasmussen
+Q28839755,2012,2012,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark E. Walsh
+Q288503,2013,2015,8,3,5,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.0015838074552588888,0.5,0,0,0,Family of officials,0,Teresa Heinz Kerry
+Q289257,2002,2002,1,1,1,1,White House,1,1,1.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Karen Hughes
+Q2895240,1999,1999,1,1,0,1,Diplomatic,1,0,2.0,1,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,James Rubin
+Q28976604,2011,2011,2,1,1,2,Other executive,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert J. Fenton
+Q29057614,2010,2013,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Thomas S. Vandal
+Q291193,2022,2022,1,1,1,1,Legislative,1,1,41.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Anna Eshoo
+Q2913577,2002,2002,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Matthew Bryza
+Q29169549,2019,2019,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kristine Svinicki
+Q292936,2001,2004,9,4,7,1,Other executive,2,2,10.0,1,0,0,0,0,0,0,0,1,0.013266998341625208,0.0,1,0,1,Cabinet level and above,0,Ann Veneman
+Q293365,2014,2014,2,1,2,1,Other executive,2,2,1.0,1,0,0,0,0,0,0,0,1,0.001978147360902387,0.5,1,0,1,Cabinet level and above,0,Penny Pritzker
+Q29402380,2018,2018,2,1,2,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.050883898709985664,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paul E. Funk II
+Q29555373,2009,2009,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jeffrey Buchanan
+Q2960128,2014,2014,1,1,1,1,Diplomatic,1,1,5.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Charles Rivkin
+Q29604456,2011,2015,2,2,2,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Kenneth F. McKenzie, Jr."
+Q29634719,2019,2019,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Darryl A. Williams
+Q29643099,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,David Trachtenberg
+Q29648126,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Carl E. Mundy, III"
+Q2972732,2005,2005,2,1,1,1,White House,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Cindy Courville
+Q298016,2002,2002,2,1,2,1,Legislative,2,2,33.0,2,1,0,0,0,0,0,1,0,0.0007546182364574157,0.5,0,0,1,Legislators,0,Fred Thompson
+Q298443,2009,2010,4,2,4,1,White House,2,2,16.0,3,1,0,0,0,0,0,1,1,0.0014627012848909336,0.5,1,0,1,Cabinet level and above,0,Rahm Emanuel
+Q29876186,2003,2005,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mira Ricardel
+Q29882759,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Sean S. Buck
+Q29883209,2022,2022,2,1,2,1,Other executive,2,2,,0,0,0,0,0,0,0,0,0,0.0015428642528306584,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael M. Gilday
+Q29885412,2019,2021,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Charles A. Flynn
+Q29890787,2012,2012,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ricky L. Waddell
+Q29913307,2019,2019,2,1,2,1,White House,2,2,0.0,0,0,0,0,0,0,0,0,0,0.00435656945262345,0.5,0,0,1,"Agency, military, diplomatic staff",1,Matthew Pottinger
+Q29947977,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Robert P. Ashley, Jr."
+Q29959907,2019,2019,2,1,1,1,Other executive,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Marshall Billingslea
+Q2997321,2016,2016,2,1,1,1,Defense,2,1,1.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John M. Richardson
+Q30007938,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Scott L. Efflandt
+Q30015089,2019,2019,1,1,1,1,White House,1,1,2.0,2,1,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Stephanie Grisham
+Q30028790,2008,2008,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert S. Karem
+Q30039417,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kari Bingen
+Q30225834,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Jerry D. Harris, Jr."
+Q30253190,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James G. Foggo
+Q30323721,2015,2016,2,2,2,1,Defense,1,1,12.0,6,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Elissa Slotkin
+Q3036410,2019,2019,3,1,2,1,Legislative,3,2,10.0,3,1,0,0,0,0,0,1,0,0.0006922810661128419,0.0,0,0,1,Legislators,0,Tammy Duckworth
+Q3048561,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Edward J. Erickson
+Q30502291,2012,2013,2,2,2,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jeffrey Eggers
+Q30527434,2023,2023,1,1,0,1,Defense,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Michael Erik Kurilla
+Q3068781,2011,2012,8,2,4,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Vincent C. Gray
+Q3090307,2018,2018,1,1,1,1,Legislative,1,1,16.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Cotton
+Q311025,2006,2008,4,3,3,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Henry Paulson
+Q31112,2004,2006,12,3,11,1,Legislative,2,2,9.0,1,0,0,0,0,0,0,1,0,0.0013609458354276577,0.0,0,0,1,Legislators,0,Bill Frist
+Q311135,2001,2004,2,2,2,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Karl Rove
+Q311211,2009,2011,4,3,3,1,Other executive,2,2,24.0,5,3,3,1,0,1,0,0,1,0.008119952597329684,0.5,1,0,1,Cabinet level and above,0,Timothy Geithner
+Q311269,2003,2019,4,2,3,2,Diplomatic,2,1,29.0,3,1,1,1,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,John R. Bolton
+Q312644,2009,2015,18,7,8,1,Other executive,4,2,16.0,3,0,0,0,0,0,0,0,1,0.0030162933639832734,0.375,1,0,1,Cabinet level and above,0,Eric Holder
+Q312724,2003,2005,3,2,3,2,White House,2,2,2.0,1,0,0,0,0,0,0,0,1,0.01526610644257703,0.0,1,0,1,Cabinet level and above,0,Robert Zoellick
+Q312845,2008,2012,2,2,2,1,Legislative,1,1,49.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Daniel Inouye
+Q314459,2000,2011,13,7,11,1,Legislative,1,1,32.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Harry Reid
+Q31487683,2010,2013,3,3,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Joseph W. Rixey
+Q31558741,2014,2014,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John C. Thomson III
+Q3161915,2010,2010,1,1,1,1,Diplomatic,1,1,10.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Janet A. Sanderson
+Q317618,2002,2019,3,2,1,2,Legislative,2,1,16.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Sam Brownback
+Q3176689,2007,2012,3,3,3,1,Diplomatic,1,1,5.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jeffrey D. Feltman
+Q3177637,2000,2000,1,1,1,1,Other executive,1,1,25.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jesse White
+Q317953,2000,2010,5,2,4,2,Other executive,4,3,9.0,2,1,1,0,0,1,0,0,1,0.0006242132165053059,0.0,1,0,1,Cabinet level and above,0,Lawrence Summers
+Q319084,2015,2015,1,1,0,1,Legislative,1,0,6.0,1,0,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,Al Franken
+Q319111,2000,2004,2,2,1,1,Legislative,1,1,25.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Chris Dodd
+Q3200900,2021,2021,1,1,1,1,Legislative,1,1,8.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Steve Daines
+Q321457,2015,2015,1,1,1,1,Legislative,1,1,44.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jim McDermott
+Q322655,2001,2003,5,3,4,1,Defense,1,1,1.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Vern Clark
+Q323508,2005,2007,4,3,4,1,Defense,2,2,4.0,2,0,0,0,0,0,0,0,1,0.00029117820314347465,0.5,1,0,1,Cabinet level and above,0,Gordon R. England
+Q324546,2012,2023,5,5,5,1,Legislative,1,1,12.0,4,2,2,0,1,0,0,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,Marco Rubio
+Q325960,2001,2001,1,1,1,1,Legislative,1,1,32.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Phil Crane
+Q326836,2009,2011,7,3,6,1,Defense,4,4,2.0,1,0,0,0,0,0,1,0,0,0.015485564124790033,0.625,1,0,1,Cabinet level and above,0,James Cartwright
+Q328696,2009,2011,4,3,2,1,Defense,1,1,1.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Norton A. Schwartz
+Q3291020,2011,2011,1,1,1,1,Diplomatic,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Maria Otero
+Q331278,1999,1999,1,1,1,1,Legislative,1,1,4.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Richard Burr
+Q331401,2017,2017,20,1,15,1,Diplomatic,20,15,11.0,1,0,0,1,0,0,0,0,1,0.16174777069379337,0.7749999999999999,1,0,1,Cabinet level and above,0,Rex Tillerson
+Q331719,2009,2013,4,2,2,1,Legislative,2,1,8.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Bob Corker
+Q33190271,2002,2020,12,4,9,2,Legislative,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Mark T. Esper
+Q339046,1999,2011,5,4,3,2,Legislative,1,1,7.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Mark Kirk
+Q342586,2005,2008,3,3,3,1,Legislative,1,1,6.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Ken Salazar
+Q3430687,2006,2006,4,1,3,1,Other executive,4,3,7.0,1,0,0,0,0,0,0,0,0,0.00451514319017932,0.375,0,0,1,"Agency, military, diplomatic staff",1,Anthony A. Williams
+Q343740,2007,2011,28,5,14,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Gary Roughead
+Q344930,2007,2010,6,3,6,1,Legislative,2,2,21.0,3,2,0,0,0,0,0,1,0,0.005114321813493424,0.5,0,0,1,Legislators,0,Evan Bayh
+Q3467171,1999,1999,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Tony Garza
+Q34677188,2017,2019,3,2,2,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ellen Lord
+Q3476754,2006,2008,3,3,2,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Sean McCormack
+Q3500791,2021,2021,1,1,1,1,Defense,1,1,8.0,2,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Barbara Barrett
+Q350378,2009,2011,10,3,5,1,Other executive,2,2,12.0,1,0,0,0,0,0,0,0,1,0.0014232805098942048,0.5,1,0,1,Cabinet level and above,0,Gary Locke
+Q350843,2001,2001,1,1,1,1,Legislative,1,1,14.0,2,1,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Adam Schiff
+Q3514907,2019,2019,1,1,1,1,Legislative,1,1,15.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Steven Horsford
+Q3528567,2018,2018,1,1,1,1,Legislative,1,1,8.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,David Valadao
+Q353826,2009,2021,7,4,7,1,Other executive,2,2,16.0,2,0,0,0,0,0,0,0,1,0.000568725249546151,0.0,1,0,1,Cabinet level and above,0,Tom Vilsack
+Q355522,2004,2023,31,16,18,1,Legislative,1,1,30.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mitch McConnell
+Q356475,2005,2014,9,4,7,2,Legislative,4,4,22.0,2,1,0,0,0,0,0,1,0,0.023033460147640097,0.375,0,0,1,Legislators,0,Russ Feingold
+Q357510,2022,2023,3,2,2,1,Legislative,1,1,2.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mark Kelly
+Q357832,2009,2019,2,2,2,1,Legislative,1,1,32.0,6,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,John B. Larson
+Q358437,2001,2016,15,7,12,1,Legislative,2,2,29.0,3,2,0,0,0,0,0,1,0,0.0030870984579356112,0.5,0,0,1,Legislators,0,Bill Nelson
+Q358443,2006,2018,6,4,5,2,Legislative,1,1,25.0,3,2,0,0,0,0,0,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,Jeff Sessions
+Q359366,2000,2000,1,1,1,1,Legislative,1,1,23.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Daniel Akaka
+Q359442,1999,2016,2,2,2,2,Legislative,1,1,18.0,4,2,2,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Bernie Sanders
+Q359888,2007,2015,6,4,5,1,Legislative,1,1,20.0,5,1,1,0,1,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Tim Kaine
+Q363055,2002,2010,2,2,2,1,Legislative,1,1,43.0,4,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Arlen Specter
+Q363079,2003,2007,19,5,17,1,Legislative,6,6,35.0,2,1,0,0,0,0,0,1,0,0.05079289459918327,0.6111111111111112,0,0,1,Legislators,0,Richard Lugar
+Q3657872,2009,2013,12,5,12,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Capricia Marshall
+Q368920,2009,2009,1,1,1,1,Diplomatic,1,1,29.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,George John Mitchell Jr.
+Q3701614,2015,2016,3,2,2,1,Other executive,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Daniel Glaser
+Q3702047,2001,2015,7,5,6,2,Legislative,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Denis McDonough
+Q374762,2014,2014,2,1,1,1,Legislative,2,1,14.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,John Hoeven
+Q380900,2006,2023,10,7,7,1,Legislative,2,1,31.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Chuck Schumer
+Q381157,2011,2016,5,3,5,1,Legislative,1,1,34.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Orrin Hatch
+Q381610,1999,2000,5,2,3,2,Defense,4,2,1.0,1,0,0,0,0,0,0,0,1,0.02980722069392019,0.0,1,0,1,Cabinet level and above,0,Richard Danzig
+Q381670,2000,2015,36,9,19,2,Legislative,1,1,23.0,3,2,1,1,0,0,0,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,Chuck Hagel
+Q381880,2009,2013,3,2,3,1,Legislative,2,2,34.0,4,1,0,0,0,0,0,1,0,0.0003866315846983332,0.0,0,0,1,Legislators,0,Sherrod Brown
+Q382314,2008,2012,3,3,3,2,White House,1,1,31.0,3,2,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,James Franklin Jeffrey
+Q3854074,2001,2001,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mel Sembler
+Q3880272,2019,2019,1,1,1,1,Legislative,1,1,22.0,2,1,1,1,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Dan Kildee
+Q388356,1999,1999,1,1,1,1,Legislative,1,1,29.0,5,2,1,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Bob Filner
+Q38858352,2017,2018,6,2,4,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Kirstjen Nielsen
+Q390491,2009,2012,3,2,3,1,Legislative,1,1,21.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Roger Wicker
+Q39791512,2001,2001,1,1,0,1,Legislative,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,Legislators,0,Andrea Salinas
+Q399593,2017,2017,1,1,1,1,Legislative,1,1,27.0,2,1,1,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mark Takano
+Q399621,2001,2005,2,2,2,1,Legislative,1,1,5.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Mike Honda
+Q3997121,2004,2015,3,2,2,1,Diplomatic,2,2,0.0,0,0,0,0,0,0,0,0,0,0.0002348796241926013,0.0,0,0,1,"Agency, military, diplomatic staff",1,Tracey Ann Jacobson
+Q4110970,2009,2015,24,5,13,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael G. Vickers
+Q4126786,2016,2019,25,4,8,2,Defense,4,3,,0,0,0,0,0,0,0,0,0,0.02462668112403852,0.5,0,0,0,"Agency, military, diplomatic staff",1,Joseph Votel
+Q4169153,2011,2021,11,5,8,1,Diplomatic,1,1,18.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Wendy Sherman
+Q41694283,2003,2004,2,2,2,2,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Christopher Campbell
+Q41803725,2022,2022,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jay C. Shambaugh
+Q419976,2005,2013,2,2,2,1,Legislative,1,1,26.0,4,3,2,0,1,0,0,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,Lamar Alexander
+Q42316397,2020,2021,2,2,2,1,Defense,1,1,2.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Kenneth Braithwaite
+Q4278519,2005,2005,3,1,1,1,Defense,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"John F. Mulholland, Jr."
+Q4285526,2010,2010,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Vladimir Aleksandrovich Mau
+Q43000300,2018,2018,1,1,0,1,Other executive,1,0,7.0,1,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Jason M Fritz
+Q432431,2000,2000,1,1,1,1,Legislative,1,1,25.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike Enzi
+Q432473,2017,2019,41,3,28,1,White House,21,14,0.0,0,0,0,0,0,0,0,0,1,0.11261399160205139,0.5096952908587258,1,0,1,Cabinet level and above,0,Melania Trump
+Q4335852,2005,2011,4,3,2,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John Ordway
+Q433742,2014,2014,1,1,1,1,Diplomatic,1,1,9.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Anne W. Patterson
+Q433857,2013,2013,1,1,1,1,Legislative,1,1,34.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Rob Bishop
+Q434270,2007,2007,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eliot A. Cohen
+Q434458,2002,2002,1,1,1,1,Legislative,1,1,25.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Collin Peterson
+Q434470,2019,2019,1,1,1,1,Legislative,1,1,32.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Joe Courtney
+Q434706,2014,2014,1,1,1,1,Legislative,1,1,4.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Elizabeth Warren
+Q434804,1999,2005,2,2,2,1,Legislative,1,1,30.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Dick Durbin
+Q434952,2009,2023,2,2,2,1,Legislative,1,1,18.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Rosa DeLauro
+Q43549478,2010,2010,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Bijan R. Kian
+Q437159,2013,2013,1,1,1,1,Legislative,1,1,21.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Diana DeGette
+Q4391764,2014,2016,5,3,4,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Mark Welsh
+Q440885,2006,2006,1,1,0,1,Legislative,1,0,16.0,2,1,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,Jan Schakowsky
+Q443640,1999,2002,6,4,5,1,Legislative,1,1,20.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Daschle
+Q444652,2002,2013,16,9,7,1,Legislative,1,1,33.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Carl Levin
+Q446778,1998,1998,1,1,1,1,Diplomatic,1,1,21.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Wyche Fowler
+Q44690,2004,2004,1,1,1,1,Legislative,1,1,18.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Lincoln Chafee
+Q448619,2002,2002,1,1,1,1,Legislative,1,1,1.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jean Carnahan
+Q448880,2007,2013,2,2,2,2,Other executive,1,1,24.0,5,2,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Mike Johanns
+Q4496,2019,2019,2,1,1,1,Legislative,2,1,42.0,3,1,1,1,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Mitt Romney
+Q449604,2005,2008,16,4,0,2,Intelligence,1,0,0.0,0,0,0,0,0,0,0,0,0,,,1,0,1,Cabinet level and above,0,Michael Hayden
+Q449689,2003,2005,3,2,3,1,Other executive,2,2,0.0,0,0,0,0,0,0,0,0,1,0.0007740709391896185,0.5,1,0,1,Cabinet level and above,0,John W. Snow
+Q453868,2005,2007,7,2,2,2,Intelligence,6,1,24.0,7,2,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,John Negroponte
+Q453893,2023,2023,1,1,1,1,Legislative,1,1,21.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mark Warner
+Q45390804,2014,2014,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Ernest W. DuBester
+Q454133,2009,2009,1,1,1,1,Legislative,1,1,21.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Mark Begich
+Q454970,2012,2012,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Samantha Power
+Q455698,2005,2005,2,1,0,1,Intelligence,2,0,43.0,2,1,0,0,0,0,0,1,1,,,1,0,1,Cabinet level and above,0,Porter Goss
+Q456921,2001,2002,13,2,8,1,Other executive,4,3,0.0,0,0,0,0,0,0,0,0,1,0.0005866033637802813,0.0,1,0,1,Cabinet level and above,0,Paul H. O'Neill
+Q457432,2009,2015,3,3,2,1,Legislative,1,1,33.0,4,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Carper
+Q45780715,2018,2020,5,3,4,1,Diplomatic,3,2,,0,0,0,0,0,0,0,0,0,0.0033087311819492947,0.0,0,0,0,"Agency, military, diplomatic staff",1,Sean Lawler
+Q45940,2023,2023,1,1,1,1,Legislative,1,1,12.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,James Lankford
+Q45951,2011,2011,1,1,1,1,Legislative,1,1,16.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike Fitzpatrick
+Q460675,2004,2004,1,1,1,1,Legislative,1,1,10.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Susan Davis
+Q46089,1999,2000,7,2,5,1,White House,4,3,6.0,2,0,0,0,0,0,0,0,1,0.06163677592249021,0.0,1,0,1,Cabinet level and above,0,Sandy Berger
+Q461497,2005,2005,1,1,1,1,Legislative,1,1,27.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Diane Watson
+Q461526,1999,1999,1,1,1,1,Legislative,1,1,27.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Eddie Bernice Johnson
+Q461754,1999,1999,1,1,1,1,Legislative,1,1,26.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Julia Carson
+Q462981,2006,2013,4,3,3,1,Legislative,2,2,17.0,3,1,0,0,0,0,0,1,0,0.0011239570616985582,0.5,0,0,1,Legislators,0,John Thune
+Q463557,2014,2014,1,1,1,1,Legislative,1,1,3.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Rand Paul
+Q463641,2009,2011,4,3,4,1,Diplomatic,2,2,0.0,0,0,0,0,0,0,0,0,0,0.0013975820045213335,0.5,0,0,1,"Agency, military, diplomatic staff",1,James Steinberg
+Q4647742,2002,2002,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,A. Elizabeth Jones
+Q464810,2002,2007,16,5,10,1,Legislative,1,1,57.0,5,2,0,0,0,0,1,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,John Warner
+Q465617,2000,2012,2,2,2,1,Legislative,1,1,25.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Harkin
+Q46586126,2016,2016,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Everett Eissenstat
+Q466085,2014,2015,2,2,1,1,Legislative,1,1,19.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Erik Paulsen
+Q4662392,2010,2010,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Aaron S. Williams
+Q467308,2007,2007,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ann E. Dunwoody
+Q467891,2001,2001,1,1,1,1,Legislative,1,1,19.0,2,1,0,0,0,0,0,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,Ray LaHood
+Q469094,2001,2014,2,2,2,1,Legislative,1,1,4.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Loretta Sanchez
+Q469222,2005,2005,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Huma Abedin
+Q4699790,2014,2014,1,1,1,1,Other executive,1,1,16.0,5,3,3,1,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ajit Pai
+Q4706175,2013,2014,5,2,2,1,Other executive,2,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Alan Bersin
+Q470748,2002,2012,4,4,4,1,Legislative,1,1,29.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Max Baucus
+Q470755,2006,2010,2,2,2,1,Legislative,1,1,15.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mark Pryor
+Q471222,1999,1999,1,1,1,1,Legislative,1,1,25.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Earl F. Hilliard
+Q471517,1998,1998,1,1,1,1,Defense,1,1,2.0,1,0,0,0,0,0,1,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Joseph Ralston
+Q4720675,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Alexandra Kerry
+Q47211705,2010,2012,2,2,0,1,Other executive,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Weihsueh A Chiu
+Q47216,2001,2008,246,8,72,2,White House,11,9,0.0,0,0,0,0,0,0,0,0,1,0.05974701259085268,0.6776859504132231,1,1,1,Cabinet level and above,0,Condoleezza Rice
+Q472254,2002,2019,2,2,2,1,Legislative,1,1,39.0,4,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Richard Shelby
+Q473239,2017,2020,47,4,21,2,Intelligence,3,0,6.0,1,0,0,0,0,0,0,1,1,,,1,1,1,Cabinet level and above,0,Mike Pompeo
+Q4733589,2001,2002,7,2,4,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.00022374360027181193,0.5,0,0,0,Family of officials,0,Alma Powell
+Q47492974,2012,2013,3,2,3,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Peter Lavoy
+Q4756509,2012,2014,3,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Andrew C. Weber
+Q4756913,2015,2015,2,1,2,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.02537209070022975,0.0,0,0,0,"Agency, military, diplomatic staff",1,Andrew Exum
+Q4758104,2002,2005,3,2,2,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.012286510979435344,0.0,0,0,0,"Agency, military, diplomatic staff",1,Andrew Natsios
+Q4761114,2003,2003,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Andy Olson
+Q4766690,2011,2011,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ann Stock
+Q4768202,2015,2015,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Anne C. Richard
+Q4801814,2000,2011,2,2,2,2,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Arturo Valenzuela
+Q4806029,2009,2016,22,5,13,1,Defense,1,1,16.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Ashton Carter
+Q48259,2004,2008,101,5,37,1,White House,20,12,29.0,4,2,0,0,0,0,0,1,1,0.08950263498468655,0.6975308641975309,1,1,1,Cabinet level and above,0,Dick Cheney
+Q484005,2009,2011,2,2,2,1,Defense,1,1,11.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Alexander Vershbow
+Q4859276,2016,2016,1,1,1,1,Diplomatic,1,1,21.0,2,1,1,1,0,0,0,0,0,0.0,0.0,0,0,1,Family of officials,0,Barbara S. Jones
+Q48814846,2019,2019,2,1,1,1,White House,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Lisa Curtis
+Q4886347,2014,2014,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ben Rhodes
+Q48874305,2019,2019,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kathryn L. Wheelbarger
+Q4888163,1999,1999,1,1,1,1,Legislative,1,1,33.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Benjamin A. Gilman
+Q490511,2014,2014,1,1,1,1,Legislative,1,1,42.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ander Crenshaw
+Q494953,2005,2005,1,1,1,1,Diplomatic,1,1,14.0,4,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Christopher R. Hill
+Q4960876,2019,2019,1,1,1,1,Legislative,1,1,11.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Brendan F. Boyle
+Q4962244,2006,2006,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Brett Kavanaugh
+Q4964793,2009,2019,2,2,1,2,Legislative,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,Legislators,0,Q4964793
+Q497271,2001,2001,1,1,1,1,Legislative,1,1,9.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Eric Cantor
+Q4977945,2014,2014,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Bruce Mann
+Q5001041,2006,2006,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Burwell B. Bell III
+Q500486,2013,2013,1,1,1,1,Diplomatic,1,1,41.0,6,4,2,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John F. Tefft
+Q5019270,2002,2002,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Caleb McCarry
+Q50281264,2010,2022,2,2,2,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Christopher W. Grady
+Q50300023,2003,2003,1,1,1,1,Legislative,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Stephen Biegun
+Q503161,2006,2011,78,5,34,2,Defense,1,1,3.0,2,0,0,0,0,0,1,0,0,0.0,0.0,1,1,1,Cabinet level and above,0,Michael Mullen
+Q503529,2006,2006,1,1,1,1,Legislative,1,1,5.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Rick Larsen
+Q503548,2010,2010,1,1,1,1,Legislative,1,1,24.0,2,1,1,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Brian Baird
+Q504029,2001,2006,18,6,11,1,White House,3,2,22.0,3,1,0,0,0,0,0,0,1,0.0006729818918873643,0.4444444444444444,1,0,1,Cabinet level and above,0,Andrew Card
+Q5042478,1999,2012,3,3,3,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Carlos Pascual
+Q50506116,2016,2016,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Bruce Wharton
+Q5052604,2018,2018,1,1,1,1,Legislative,1,1,11.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Catherine Cortez Masto
+Q505581,2019,2019,1,1,1,1,Legislative,1,1,31.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Brian Higgins
+Q5056036,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Cecil D. Haney
+Q5057841,2009,2023,3,3,3,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Celeste A. Wallander
+Q50591851,2016,2016,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,William Roebuck
+Q50599,2004,2007,7,4,5,1,Legislative,4,3,48.0,2,1,0,0,0,0,0,1,0,0.005011260069243385,0.375,0,0,1,Legislators,0,Ted Stevens
+Q50608,2007,2007,1,1,1,1,Legislative,1,1,44.0,3,1,1,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Trent Lott
+Q50612,2011,2015,16,4,12,2,Diplomatic,1,1,14.0,2,1,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Susan Rice
+Q5077567,2000,2000,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Charles F. Wald
+Q5081790,2015,2015,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Charles Q. Brown Jr.
+Q5087207,2005,2007,3,2,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Chase Untermeyer
+Q5092756,2009,2009,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Cheryl Mills
+Q510127,2013,2013,1,1,1,1,Other executive,1,1,4.0,3,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Rebecca Blank
+Q510988,2014,2014,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Julissa Reynoso PantaleÃƒÂ³n
+Q5110742,2002,2005,4,2,2,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Christina B. Rocca
+Q5112611,2010,2010,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Christopher J. King
+Q5126976,2006,2006,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Clarine Nardi Riddle
+Q512705,2016,2016,1,1,1,1,Diplomatic,1,1,4.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Rose Gottemoeller
+Q5127395,2006,2011,12,5,3,1,Diplomatic,3,2,5.0,1,0,0,0,0,0,0,0,0,0.004670358156612834,0.0,0,0,1,"Agency, military, diplomatic staff",1,"Clark T. Randt, Jr."
+Q513091,2005,2005,2,1,1,1,Legislative,2,1,4.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mark Dayton
+Q5132762,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Cliff Sloan
+Q513960,2013,2013,1,1,1,1,Legislative,1,1,13.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tim Ryan
+Q51420370,2011,2011,1,1,1,1,Other executive,1,1,6.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jeffrey Fagan
+Q51535967,2021,2021,1,1,1,1,Other executive,1,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Justin Muzinich
+Q5195882,2011,2013,2,2,2,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Curtis Scaparrotti
+Q519825,2007,2012,4,2,4,1,Diplomatic,3,3,6.0,2,1,0,0,0,0,0,0,0,0.014196718401966329,0.4444444444444444,0,0,1,"Agency, military, diplomatic staff",1,R. Nicholas Burns
+Q519838,2009,2009,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David Axelrod
+Q52114340,2004,2004,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kenneth D. Ward
+Q5213218,2005,2005,1,1,0,1,Defense,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Dan Butler
+Q5213608,2005,2005,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Dan Gregory Blair
+Q5214066,2013,2013,1,1,1,1,Diplomatic,1,1,6.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Dan Mozena
+Q5216534,2011,2012,2,2,2,1,Diplomatic,1,1,18.0,7,3,3,1,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel Benjamin
+Q5217207,2004,2004,1,1,1,1,White House,1,1,7.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel Fried
+Q5217634,1999,1999,1,1,0,1,Defense,1,0,18.0,1,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Daniel J. Murphy
+Q5218359,2007,2007,1,1,0,1,Defense,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Daniel P. Bolger
+Q5218373,2007,2007,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Daniel P. Woodward
+Q5218446,2009,2009,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel Pfeiffer
+Q5218668,2018,2023,3,3,3,1,Legislative,1,1,18.0,5,4,1,1,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Dan Sullivan
+Q5218956,2010,2010,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Daniel V. Speckhard
+Q5220892,2017,2017,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Danny Tidwell
+Q5231001,2002,2015,5,3,4,2,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,David B. Shear
+Q5233946,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,David G. Perkins
+Q5234531,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,David H. Huntoon
+Q5234629,2008,2019,5,3,4,1,Diplomatic,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David Hale
+Q5235490,2003,2003,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,David J. Schiappa
+Q5238702,2010,2010,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,David Pressman
+Q5240945,1998,2008,5,4,1,1,Diplomatic,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,David Welch
+Q525362,2018,2018,1,1,1,1,Other executive,1,1,27.0,3,1,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Sonny Perdue
+Q527553,2005,2005,2,1,1,1,Legislative,2,1,14.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,George Allen
+Q528979,2002,2023,19,12,8,1,Legislative,2,2,25.0,4,2,1,0,1,0,0,1,0,0.0007546182364574157,0.5,0,0,1,Legislators,0,Jack Reed
+Q529090,2009,2009,1,1,1,1,Legislative,1,1,21.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Bill Pascrell
+Q529294,2000,2020,4,4,4,1,Legislative,1,1,41.0,4,2,2,0,1,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Chuck Grassley
+Q529351,2011,2011,1,1,1,1,Legislative,1,1,28.0,5,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jon Tester
+Q529873,2000,2002,4,3,3,1,Legislative,1,1,33.0,6,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,George Voinovich
+Q5301642,2003,2004,2,2,2,1,Defense,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Douglas J. Feith
+Q5302363,2002,2002,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Dov S. Zakheim
+Q531247,2011,2013,6,3,6,1,Defense,1,1,23.0,3,2,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Ray Mabus
+Q532279,2009,2009,1,1,1,1,Legislative,1,1,22.0,2,1,0,0,0,0,0,1,0,0.0,0.0,1,0,1,Cabinet level and above,0,Jim Webb
+Q5325710,2013,2013,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Earl Anthony Wayne
+Q5334860,2008,2008,4,1,4,1,White House,4,4,1.0,1,0,0,0,0,0,0,0,0,0.007673982893414612,0.5,0,0,1,"Agency, military, diplomatic staff",1,Ed Gillespie
+Q5343604,2009,2012,3,2,2,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Edward Isaac Ezra
+Q5345189,2000,2000,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Edward S. Walker, Jr."
+Q5346638,2000,2000,2,1,1,1,Other executive,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Edwin M. Truman
+Q535254,2006,2006,1,1,1,1,Legislative,1,1,29.0,2,1,1,1,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Pete Hoekstra
+Q535887,2012,2012,1,1,1,1,Legislative,1,1,30.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom McClintock
+Q5359190,2011,2013,2,2,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Eleni Tsakopoulos Kounalakis
+Q5362573,2005,2008,12,3,4,2,Diplomatic,7,2,16.0,3,1,1,0,0,1,0,0,0,0.0004962541111099084,0.5,1,0,1,Cabinet level and above,0,Elizabeth Cheney
+Q537287,2001,2001,1,1,1,1,Legislative,1,1,28.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Barney Frank
+Q538375,2005,2005,1,1,1,1,Legislative,1,1,24.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Pat Roberts
+Q5387414,2006,2009,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eric S. Edelman
+Q5389119,2004,2004,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Erin C. Conaton
+Q539509,2011,2011,1,1,1,1,Legislative,1,1,6.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Michael McCaul
+Q539562,2011,2011,1,1,1,1,Legislative,1,1,24.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Henry Cuellar
+Q539587,2011,2013,2,2,2,1,Legislative,1,1,38.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Gene Green
+Q540453,2002,2007,16,4,10,1,Defense,2,2,1.0,1,0,0,0,0,0,1,0,0,0.012286510979435344,0.0,1,0,1,Cabinet level and above,0,Peter Pace
+Q540544,2001,2001,1,1,1,1,Legislative,1,1,31.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Bob Barr
+Q5407458,2023,2023,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Eugene Louis Dodaro
+Q54187798,2009,2009,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Colin Kahl
+Q542676,2002,2002,1,1,1,1,Legislative,1,1,23.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Elton Gallegly
+Q544464,2014,2015,3,2,2,1,Legislative,2,1,19.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Angus King
+Q5467831,2007,2008,4,2,1,1,Diplomatic,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ford M. Fraker
+Q546874,2004,2004,1,1,1,1,Legislative,1,1,39.0,3,2,0,0,0,0,1,1,0,0.0,0.0,0,0,1,Legislators,0,Solomon P. Ortiz
+Q5478983,2007,2007,5,1,4,1,White House,5,4,3.0,1,0,0,0,0,0,0,0,0,0.017374718693993117,0.48,0,0,1,"Agency, military, diplomatic staff",1,Frances Townsend
+Q5481447,2007,2013,8,4,3,1,Defense,5,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Francis J. Wiercinski
+Q5482879,2001,2004,3,3,3,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Francis X. Taylor
+Q54866594,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Scott H. Stalker
+Q5486915,2012,2013,2,2,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Frank Gorenc
+Q5487663,2015,2015,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Frank Kendall III
+Q5487954,2001,2001,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Frank Libutti
+Q551578,2009,2009,1,1,1,1,Legislative,1,1,32.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike Capuano
+Q5519560,2009,2009,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gamal Helal
+Q5524568,2006,2009,10,3,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gary A. Grappo
+Q5525015,2001,2001,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Q5525015
+Q5525412,2006,2015,8,4,2,1,Defense,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gary L. North
+Q5529960,2007,2007,2,1,1,1,Diplomatic,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Geeta Pasi
+Q5535976,2009,2009,1,1,1,1,Diplomatic,1,1,6.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,George A. Krol
+Q553626,1999,2006,17,6,11,1,Legislative,3,3,34.0,3,2,1,0,1,0,0,1,1,0.001030715316429602,0.4444444444444444,1,0,1,Cabinet level and above,0,Dennis Hastert
+Q55396361,2011,2012,4,2,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,David M. DeMarini
+Q555735,1999,2008,2,2,2,1,Legislative,1,1,18.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Byron Dorgan
+Q556034,2013,2013,1,1,1,1,Legislative,1,1,22.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Charlie Dent
+Q5560545,2011,2013,2,2,2,2,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gil Kerlikowske
+Q5562495,2011,2013,4,2,1,1,Defense,3,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Gilmary M. Hostage III
+Q5580698,2008,2008,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Goli Ameri
+Q558460,2014,2014,1,1,1,1,Legislative,1,1,9.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ann Kirkpatrick
+Q559822,2004,2004,2,1,2,1,Other executive,2,2,21.0,4,2,0,0,0,0,0,1,1,0.00011743981209630065,0.0,1,0,1,Cabinet level and above,0,Tom Ridge
+Q56222198,2019,2019,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Geoffrey Okamoto
+Q56222657,2019,2019,1,1,0,1,Intelligence,1,0,1.0,1,0,0,0,0,0,0,0,0,,,1,0,1,Cabinet level and above,0,Vaughn Bishop
+Q5628492,2017,2020,6,2,6,1,White House,3,3,0.0,0,0,0,0,0,0,0,0,1,0.0991411501120239,0.4444444444444444,1,0,1,Cabinet level and above,0,H. R. McMaster
+Q56299151,2012,2012,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eric P. Wendt
+Q565374,2023,2023,1,1,1,1,Legislative,1,1,19.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Martin Heinrich
+Q5667054,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Harry B. Harris Jr.
+Q56809205,2023,2023,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jonathan Henick
+Q56871224,2011,2011,5,1,4,1,Other executive,5,4,,0,0,0,0,0,0,0,0,0,0.011143755244695608,0.31999999999999984,0,0,0,"Agency, military, diplomatic staff",1,David J. Nesbitt
+Q56980500,2013,2013,1,1,0,1,Other executive,1,0,28.0,2,0,0,0,1,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,William E. Sonntag
+Q5698964,2023,2023,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Heidi Shyu
+Q57190287,2011,2011,1,1,1,1,Other executive,1,1,6.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,René Peralta
+Q5724802,2011,2011,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Henry Lee II
+Q572954,1998,2000,10,3,6,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Anthony Zinni
+Q57319773,2012,2012,1,1,0,1,Other executive,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Mary Ross
+Q573246,2004,2004,1,1,1,1,Other executive,1,1,38.0,4,1,1,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Anthony Fauci
+Q5744191,2010,2022,2,2,2,2,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Herro Mustafa
+Q58040717,2013,2013,1,1,1,1,Other executive,1,1,18.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel E. Campbell
+Q58323073,2003,2003,2,1,2,1,Defense,2,2,0.0,0,0,0,0,0,0,0,0,0,0.0003918354382131395,0.0,0,0,1,Legislators,0,Elaine Luria
+Q58822141,2023,2023,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eileen H. Laubacher
+Q58880887,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kelly E. Magsamen
+Q59315,2007,2022,6,5,4,1,Legislative,2,1,32.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Patrick Leahy
+Q5968865,2009,2011,3,3,2,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,William J. Lynn III
+Q5981051,2000,2001,2,2,2,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Ian Brzezinski
+Q5982486,1999,1999,1,1,1,1,Legislative,1,1,22.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Michael R. McNulty
+Q60010240,2015,2015,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Daniel L. Feldman
+Q60048512,2010,2010,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Alexander M. Laskaris
+Q60215404,2004,2004,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Brian Pomper
+Q60287019,2018,2018,1,1,1,1,Diplomatic,1,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Craig B. Allen
+Q607069,2001,2001,1,1,1,1,Legislative,1,1,22.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Gordon H. Smith
+Q6104556,2010,2010,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,J. Adam Ereli
+Q6112244,2007,2007,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,"Jack Dyer Crouch, II"
+Q61163824,2016,2016,2,1,0,1,Other executive,2,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Sang Don Lee
+Q6128328,2011,2013,3,3,3,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,"James A. Winnefeld, Jr."
+Q6130715,1999,1999,1,1,1,1,Legislative,1,1,18.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,James C. Greenwood
+Q6130781,2004,2007,6,4,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James C. Oberwetter
+Q6133646,2010,2010,5,1,1,1,Judicial,5,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James F. Holderman
+Q6140254,2009,2009,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James N. Miller
+Q6143411,2022,2022,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,James Spann
+Q6144872,2004,2004,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James W. Pardew
+Q6152386,2009,2009,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jane Holl Lute
+Q615356,2008,2012,6,4,3,2,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.01137207029553231,0.5,0,0,0,"Agency, military, diplomatic staff",1,John R. Allen
+Q61630179,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Eric Rosenbach
+Q61679509,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kevin Schneider
+Q61755194,2017,2019,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,B. Edwin Wilson
+Q6176202,2017,2017,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jeffrey P. Minear
+Q6176439,2014,2015,9,2,3,1,Other executive,7,3,30.0,5,3,1,1,0,0,1,0,1,0.013776334049715025,0.24489795918367352,1,0,1,Cabinet level and above,0,Jeh Johnson
+Q6177419,2004,2005,2,2,2,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jendayi Frazer
+Q6181356,2017,2017,1,1,0,1,Judicial,1,0,14.0,1,0,0,0,1,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Jeremy Fogel
+Q618727,2012,2013,5,2,4,1,White House,4,3,2.0,1,0,0,0,0,0,0,0,1,0.0017560136595122745,0.625,1,0,1,Cabinet level and above,0,Thomas E. Donilon
+Q6204212,2006,2006,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jo Ellen Powell
+Q6210158,2006,2008,6,2,4,1,White House,2,2,5.0,1,0,0,0,0,0,0,0,0,0.0034975333893279177,0.5,0,0,1,"Agency, military, diplomatic staff",1,Joe Hagin
+Q6217731,2013,2013,1,1,1,1,Diplomatic,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John A. Heffern
+Q6217967,2014,2014,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John A. Toolan
+Q6219904,2000,2001,2,2,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John B. Craig
+Q622219,2009,2012,8,4,6,1,Defense,4,4,0.0,0,0,0,0,0,0,0,0,0,0.0052027600927031644,0.625,0,0,1,"Agency, military, diplomatic staff",1,MichÃƒÂ¨le Flournoy
+Q6226385,2015,2015,4,1,4,1,Judicial,4,4,,0,0,0,0,0,0,0,0,0,0.038058136050344624,0.0,0,0,0,"Agency, military, diplomatic staff",1,John Clifford Wallace
+Q6226407,2007,2007,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John Cloud
+Q6230778,2003,2003,1,1,1,1,Diplomatic,1,1,5.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John E. Herbst
+Q6232197,2016,2016,1,1,1,1,Defense,1,1,3.0,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John F. Campbell
+Q6232322,2008,2018,3,3,3,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,John F. Kelly
+Q62391677,2010,2020,10,3,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James J. Malloy
+Q6241291,2017,2017,2,1,1,1,Diplomatic,2,1,10.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,John J. Sullivan
+Q6245944,2013,2013,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John M. Rogers
+Q6250067,2011,2011,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John N. Christenson
+Q6251594,2008,2008,4,1,3,1,White House,4,3,,0,0,0,0,0,0,0,0,0,0.00599984591004523,0.625,0,0,0,"Agency, military, diplomatic staff",1,John P. Hannah
+Q62569386,2014,2023,3,3,3,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Scott D. Berrier
+Q6260103,2001,2001,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John T. Sheridan
+Q6262024,2006,2006,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John Vines
+Q6262421,2012,2015,16,4,9,1,Defense,5,4,,0,0,0,0,0,0,0,0,0,0.02042022402820085,0.56,0,0,0,"Agency, military, diplomatic staff",1,John W. Miller
+Q627098,2011,2011,1,1,1,1,Legislative,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Mike Lee
+Q6271781,2011,2011,2,1,1,2,Legislative,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Q6271781
+Q6271858,2002,2010,4,3,2,1,Legislative,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Jonah Blank
+Q6279,2000,2023,229,14,80,3,Legislative,1,1,30.0,3,3,2,0,1,0,0,1,0,0.0,0.0,1,1,1,Cabinet level and above,0,Joe Biden
+Q6279598,2012,2012,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Jose W. Fernandez
+Q6280836,1998,1998,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Joseph A. Mussomeli
+Q6282969,2010,2017,22,4,16,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,"Joseph F. Dunford, Jr."
+Q6284856,2009,2010,6,2,1,1,Diplomatic,5,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Joseph LeBaron
+Q6294,1998,2013,298,14,93,3,White House,1,1,20.0,3,3,2,1,0,0,0,0,1,0.0,0.0,1,1,1,Cabinet level and above,0,Hillary Clinton
+Q6301172,2002,2002,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Juan Zarate
+Q631195,2012,2012,2,1,2,1,Legislative,2,2,16.0,3,1,0,0,0,0,0,1,0,0.0225259287370582,0.5,0,0,1,Legislators,0,Mark Udall
+Q6376452,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Katherine L. Gregory
+Q6376616,2003,2003,1,1,1,1,White House,1,1,4.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kathie L. Olsen
+Q6384538,2002,2002,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Keith J. Stalder
+Q6386365,2019,2019,1,1,1,1,White House,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kellyanne Conway
+Q6389788,2006,2006,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Kenneth A. Myers III
+Q6390231,2019,2019,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kenneth I. Juster
+Q6390354,2008,2008,2,1,2,1,White House,2,2,,0,0,0,0,0,0,0,0,0,0.005006388648052222,0.5,0,0,0,"Agency, military, diplomatic staff",1,Kenneth L. Wainstein
+Q6394354,2012,2013,3,2,3,1,Diplomatic,2,2,,0,0,0,0,0,0,0,0,0,0.008234452604960144,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kerri-Ann Jones
+Q6418973,2016,2016,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Kiyo A. Matsumoto
+Q6446882,2010,2023,4,4,4,2,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kurt M. Campbell
+Q6447103,2004,2005,2,2,1,1,White House,1,1,18.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kurt Volker
+Q6451136,2004,2004,1,1,1,1,Other executive,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Kyle E. McSlarrow
+Q6470875,2010,2012,5,3,3,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Lael Brainard
+Q64740945,2015,2016,2,2,1,1,Other executive,1,1,15.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ruth A Etzel
+Q64748638,2023,2023,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Philip Jefferson
+Q64853113,2017,2017,2,1,1,1,White House,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Avi Berkowitz
+Q649653,2007,2008,11,2,6,1,White House,4,2,6.0,3,0,0,0,0,0,0,0,1,0.013272543059777101,0.0,1,0,1,Cabinet level and above,0,Joshua Bolten
+Q649898,2021,2022,2,2,1,1,White House,1,1,26.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Ron Klain
+Q65029113,2021,2022,4,2,3,1,White House,3,2,0.0,0,0,0,0,0,0,0,0,1,0.007152181728306295,0.4444444444444444,1,0,1,Cabinet level and above,0,Doug Emhoff
+Q65030127,2019,2019,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Matthew Duss
+Q6503830,2001,2001,2,1,1,1,White House,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Lawrence B. Lindsey
+Q65201082,2015,2015,1,1,0,1,Diplomatic,1,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Joseph Pennington
+Q652066,2008,2009,3,2,3,1,Legislative,1,1,9.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Sheldon Whitehouse
+Q6525608,2019,2019,2,1,2,1,Judicial,2,2,,0,0,0,0,0,0,0,0,0,0.004962658778858159,0.0,0,0,0,"Agency, military, diplomatic staff",1,Leonard P. Stark
+Q652815,2018,2018,1,1,1,1,White House,1,1,44.0,4,2,2,1,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Larry Kudlow
+Q6558280,2013,2015,5,3,3,1,White House,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Lisa Monaco
+Q66107,2016,2016,1,1,0,1,Diplomatic,1,0,60.0,4,2,2,0,1,0,0,0,0,,,1,0,1,Cabinet level and above,0,Henry Kissinger
+Q665919,2009,2010,8,2,3,1,Legislative,4,2,0.0,0,0,0,0,0,0,0,0,0,0.0003866315846983332,0.0,0,0,1,Legislators,0,Ted Kaufman
+Q6693196,2021,2021,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Lowell E. Jacoby
+Q66973646,2013,2014,2,2,2,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Bridget Brink
+Q67172217,2013,2013,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Wilda Logan
+Q675869,2013,2016,2,2,2,1,Legislative,1,1,35.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jim Costa
+Q6759123,2010,2017,3,3,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Margaret Murphy
+Q6766465,2017,2023,17,6,11,2,Defense,1,1,2.0,1,0,0,0,0,0,1,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Mark A. Milley
+Q6766955,2009,2009,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark C. Minton
+Q6767236,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark D. Clookie
+Q6767454,2011,2011,1,1,1,1,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Mark E. Ferguson III
+Q6768014,2007,2008,4,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark Hertling
+Q6768160,2006,2015,10,5,6,3,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark I. Fox
+Q6768514,2019,2019,2,1,1,1,Judicial,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mark Lawrence Wolf
+Q6768611,2009,2013,2,2,2,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Mark Lippert
+Q6779064,2007,2009,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mary Beth Long
+Q6779133,2011,2011,1,1,1,1,Diplomatic,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Mary Burce Warlick
+Q6790153,2018,2018,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Matthew Berry
+Q6792602,2013,2013,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Maura Connelly
+Q6792754,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Maureen Reagan
+Q6807999,2009,2009,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Meg Lundsager
+Q6809043,2003,2005,6,3,2,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Meghan O'Sullivan
+Q6829639,2012,2012,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael D. Leinbach
+Q6829642,2014,2014,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Michael D. Lumpkin
+Q6830434,2010,2015,3,3,3,2,White House,1,1,17.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Michael Froman
+Q6830857,2014,2014,1,1,0,1,Diplomatic,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Michael H. Corbin
+Q6830870,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael H. Miller
+Q6835143,2011,2011,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michael W. Michalak
+Q68366723,2006,2006,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James Dubik
+Q6836725,2002,2002,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Michele Davis
+Q6836763,2008,2008,1,1,1,1,Diplomatic,1,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Michele J. Sison
+Q6899924,2019,2019,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Monica Crowley
+Q693238,2014,2014,2,1,1,1,Legislative,2,1,27.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike D. Rogers
+Q6938597,2015,2015,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Muriel Bowser
+Q698907,2003,2008,53,5,21,1,White House,6,2,0.0,0,0,0,0,0,0,0,0,0,0.0002640500644702326,0.2777777777777777,1,1,1,Cabinet level and above,0,Stephen Hadley
+Q706661,2005,2005,2,1,1,1,Legislative,2,1,12.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Norm Coleman
+Q70709513,2022,2022,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Anne Neuberger
+Q70996214,2019,2019,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,George P. Kent
+Q71005458,2011,2011,1,1,1,1,Other executive,1,1,16.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Angela R. Hight Walker
+Q710721,1999,2000,63,2,16,1,Defense,3,3,28.0,4,2,0,0,0,0,0,1,1,0.06163677592249021,0.4444444444444444,1,1,1,Cabinet level and above,0,William Cohen
+Q7117418,2016,2016,1,1,1,1,Diplomatic,1,1,9.0,3,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,P. Michael McKinley
+Q71371916,2017,2017,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,W. Patrick Murphy
+Q7145428,2007,2007,1,1,1,1,Diplomatic,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Patricia A. Butenis
+Q7146458,2013,2013,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Patrick F. Kennedy
+Q7146887,1999,1999,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Patrick K. Gamble
+Q7151890,2002,2002,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Paul L. Oostburg Sanz
+Q7152365,2006,2006,1,1,1,1,Defense,1,1,23.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Paul McHale
+Q7152671,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paul N. Stockton
+Q715362,2004,2004,1,1,1,1,Legislative,1,1,19.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike Ross
+Q715399,2008,2008,1,1,1,1,Legislative,1,1,11.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Robert Marion Berry
+Q7154188,2013,2013,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Paul W. Jones
+Q715787,2005,2005,2,1,2,1,Legislative,2,2,12.0,1,0,0,0,0,0,0,1,0,0.0017642766960681768,0.0,0,0,1,Legislators,0,Bob Bennett
+Q71620658,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Laura Cooper
+Q71725344,2019,2019,3,1,3,1,Diplomatic,3,3,,0,0,0,0,0,0,0,0,0,0.027667205107495853,0.0,0,0,0,Family of officials,0,Susan Pompeo
+Q7174980,2014,2017,3,2,1,1,Judicial,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Peter Jo Messitte
+Q7176641,2002,2006,7,2,5,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0,Cabinet level and above,0,Peter Rodman
+Q7177852,2002,2002,2,1,1,1,Legislative,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Peter Zimmerman
+Q7183483,2007,2007,1,1,0,1,Other executive,1,0,6.0,1,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Philip E. Berger
+Q7183630,2012,2014,2,2,2,2,Diplomatic,1,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Philip H. Gordon
+Q7184879,2012,2012,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Philippe Reines
+Q718542,2004,2012,5,4,3,1,Legislative,2,1,13.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ben Nelson
+Q7188594,2005,2005,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Phyllis M. Powers
+Q719568,2023,2023,1,1,1,1,Legislative,1,1,39.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,John Cornyn
+Q719911,2003,2003,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jeffrey A. Hoffman
+Q720521,2010,2014,5,3,5,1,Legislative,2,2,7.0,2,1,0,0,0,0,0,1,0,0.0003459357564076374,0.5,0,0,1,Legislators,0,John Barrasso
+Q721871,2009,2018,6,3,4,1,Legislative,4,2,39.0,6,3,0,0,0,0,0,1,0,0.017714700093235263,0.0,0,0,1,Legislators,0,Jim Risch
+Q723134,2001,2014,2,2,2,1,Legislative,1,1,35.0,5,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jim Inhofe
+Q723295,1999,2009,2,2,2,2,Legislative,1,1,32.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ben Cardin
+Q723896,2004,2004,3,1,1,1,Legislative,3,1,31.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Thad Cochran
+Q723917,2019,2019,1,1,1,1,Other executive,1,1,46.0,6,1,1,1,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,William Barr
+Q7274014,2006,2010,11,4,5,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,R. Steven Whitcomb
+Q7291417,2013,2013,1,1,1,1,Other executive,1,1,0.0,0,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Rand Beers
+Q7294428,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Raquel C. Bono
+Q73152989,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James H. Thessin
+Q7323557,2002,2002,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Richard A. Falkenrath
+Q7324271,2002,2002,4,1,1,1,Diplomatic,4,1,10.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Richard Boucher
+Q7325834,2010,2015,7,4,2,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Richard G. Olson
+Q7327164,2004,2004,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Richard L. Baltimore
+Q7327395,2014,2014,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Richard Linn
+Q7327901,1999,2013,5,2,2,1,Diplomatic,3,2,0.0,0,0,0,0,0,0,0,0,0,0.015873015873015872,0.0,0,0,1,"Agency, military, diplomatic staff",1,Richard Morningstar
+Q732804,2004,2004,6,1,4,1,Other executive,6,4,17.0,2,1,0,0,0,0,0,0,1,0.025863688591842453,0.0,1,0,1,Cabinet level and above,0,Tommy Thompson
+Q7328082,2013,2021,3,3,3,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Richard Norland
+Q7328923,2011,2012,3,2,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Richard Schmierer
+Q7329560,2003,2003,2,1,1,1,White House,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Q7329560
+Q733612,2008,2008,3,1,2,1,Other executive,3,2,3.0,1,0,0,0,0,0,0,0,1,0.012617449664429532,0.0,1,0,1,Cabinet level and above,0,Michael Chertoff
+Q7341680,2012,2013,2,2,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert B. Abrams
+Q7342304,2001,2001,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert Bradtke
+Q7342642,2019,2019,1,1,1,1,White House,1,1,1.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Robert C. O'Brien
+Q734319,2014,2014,1,1,1,1,Legislative,1,1,37.0,5,3,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike Crapo
+Q734330,2009,2013,2,2,1,1,Legislative,1,0,14.0,2,0,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,Saxby Chambliss
+Q7344228,2003,2004,5,2,3,1,Defense,3,3,0.0,0,0,0,0,0,0,0,0,0,0.0009237268988352427,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert F. Willard
+Q7345617,2011,2011,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert Hormats
+Q7346186,2005,2005,1,1,1,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert Joseph
+Q7346529,2009,2016,9,3,2,1,Defense,7,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert L. Caslen
+Q7347302,2014,2014,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert Malley
+Q7347656,2023,2023,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert Michael Dow Jr.
+Q7348106,2014,2014,1,1,0,1,Diplomatic,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Robert O. Blake
+Q7348126,1999,2017,3,3,2,2,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert O. Work
+Q7349450,2011,2011,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert S. Beecroft
+Q7350690,2001,2002,2,2,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert W. Jordan
+Q7351064,2020,2020,1,1,1,1,Other executive,1,1,2.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Robert Wilkie
+Q7364818,2001,2007,2,2,2,1,Diplomatic,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ronald E. Neumann
+Q7365034,2009,2009,1,1,1,1,Intelligence,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Ronald L. Burgess, Jr."
+Q737493,2007,2007,1,1,1,1,Other executive,1,1,21.0,4,3,0,0,0,0,0,1,1,0.0,0.0,1,0,1,Cabinet level and above,0,Dirk Kempthorne
+Q740636,2005,2005,1,1,1,1,Legislative,1,1,17.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jerry Weller
+Q741648,2005,2007,4,3,4,1,Other executive,2,2,0.0,0,0,0,0,0,0,0,0,1,0.00011043157671830578,0.0,1,0,1,Cabinet level and above,0,Carlos Gutierrez
+Q7441178,2016,2016,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Sean MacFarland
+Q74499827,2011,2011,1,1,1,1,Other executive,1,1,21.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert D. McMichael
+Q7490183,2015,2015,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Q7490183
+Q749710,2005,2005,1,1,1,1,Legislative,1,1,8.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Steve King
+Q76,2005,2016,482,10,110,2,Legislative,1,1,20.0,3,2,2,1,1,0,0,0,0,0.0,0.0,1,1,1,Cabinet level and above,0,Barack Obama
+Q7608849,2005,2005,1,1,1,1,Defense,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Stephen Cambone
+Q7609259,2010,2010,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Stephen Funk
+Q7610170,2016,2016,1,1,1,1,Judicial,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Stephen P. Friot
+Q7610773,2013,2015,4,3,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Stephen W. Preston
+Q7612486,2001,2001,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Steve Elmendorf
+Q76166532,2013,2013,1,1,1,1,Diplomatic,1,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Christopher McMullen
+Q7626496,2015,2016,5,2,2,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Stuart E. Jones
+Q76365184,2011,2011,1,1,1,1,Other executive,1,1,8.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,John E. Kitching
+Q7645756,2011,2012,2,2,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Suresh Kumar
+Q769921,2011,2011,2,1,1,1,White House,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Michael McFaul
+Q77010995,2011,2011,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Susan L. Ziadeh
+Q7703280,2003,2003,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Terrance W. Gainer
+Q77205764,2012,2020,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Robert P. White
+Q7781809,1999,2002,4,2,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Theodore H. Kattouf
+Q7786914,2017,2018,2,2,2,1,Diplomatic,1,1,12.0,4,2,0,0,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,"Thomas A. Shannon, Jr."
+Q7787239,2001,2001,2,1,2,1,Defense,2,2,,0,0,0,0,0,0,0,0,0,0.0008589826058201238,0.0,0,0,0,"Agency, military, diplomatic staff",1,Thomas B. Fargo
+Q7788143,1999,1999,2,1,1,1,Diplomatic,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Thomas C. Krajeski
+Q778922,1999,1999,1,1,1,1,Legislative,1,1,30.0,3,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike Oxley
+Q7793367,2011,2011,2,1,1,1,Diplomatic,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Thomas R. Nides
+Q7818775,2004,2004,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Tome H. Walters Jr.
+Q7821917,2002,2023,38,10,27,3,Legislative,2,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Antony Blinken
+Q7822142,2010,2010,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Tony Cucolo
+Q78897587,2011,2011,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Konrad W. Lehnert
+Q7925412,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Vicki J. Huddleston
+Q79484036,2020,2021,5,2,5,1,Diplomatic,4,4,2.0,2,0,0,0,0,0,0,0,0,0.16473093302361594,0.0,0,0,1,"Agency, military, diplomatic staff",1,Adam S. Boehler
+Q7964712,2012,2016,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Walter E. Carter Jr.
+Q8000233,2017,2020,4,3,2,1,Other executive,1,1,41.0,1,0,0,1,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Wilbur Ross
+Q8004790,2010,2010,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,William B. Garrett III
+Q8004870,2008,2008,1,1,1,1,Diplomatic,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,William B. Taylor Jr.
+Q8008244,2008,2012,2,2,2,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,William E. Gortney
+Q8008321,2010,2010,3,1,1,1,Diplomatic,3,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,William E. Todd
+Q8013276,2002,2003,2,2,2,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,William J. Luti
+Q8016923,2004,2004,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,William Piper
+Q80836931,2014,2014,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Thomas P. Kelly III
+Q81254315,1998,2009,4,3,3,2,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Alina Romanowski
+Q822657,2006,2009,5,4,4,1,Other executive,1,1,17.0,2,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert M. Kimmitt
+Q82632453,2022,2022,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Daniel N. Rosenblum
+Q82822778,2013,2021,2,2,2,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Stephanie T. Williams
+Q83796873,2010,2010,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Janet E. Garvey
+Q83802155,2005,2005,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Ralph Frank
+Q84598853,2009,2009,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Richard W. Erdman
+Q84607046,1999,1999,2,1,0,1,Diplomatic,2,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Kenneth C. Brill
+Q84766140,2021,2023,8,2,1,1,Diplomatic,2,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Leslie Tsou
+Q85795031,2002,2013,9,4,3,2,Legislative,5,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Puneet Talwar
+Q88021078,2013,2013,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,James J Jetter
+Q88156379,2011,2011,2,1,2,1,Other executive,2,2,24.0,1,0,0,0,1,0,0,0,0,0.0001517852100720122,0.0,0,0,1,"Agency, military, diplomatic staff",1,Joseph A. Stroscio
+Q88201125,2013,2019,3,3,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Timothy J Wade
+Q88216451,2013,2013,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Stephanie Johanns
+Q88392460,2011,2011,1,1,1,1,Other executive,1,1,5.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,James Liddle
+Q88771289,2011,2011,2,1,2,1,Other executive,2,2,,0,0,0,0,0,0,0,0,0,0.0007070036395833712,0.0,0,0,0,"Agency, military, diplomatic staff",1,Jack F Douglas
+Q887841,2007,2007,1,1,1,1,Legislative,1,1,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Bob Casey Jr.
+Q888132,2012,2023,11,6,9,1,Legislative,1,1,38.0,9,3,2,1,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Robert Menendez
+Q888270,2002,2002,1,1,1,1,Legislative,1,1,43.0,3,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Bob Stump
+Q88915010,2013,2013,1,1,1,1,Other executive,1,1,18.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Diane Nacci
+Q89069919,2016,2018,2,2,0,1,Other executive,1,0,12.0,2,1,1,1,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Keith A Houck
+Q89197302,2011,2011,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Brett Elliott Crozier
+Q89233115,2011,2011,2,1,2,1,Other executive,2,2,12.0,2,0,0,0,1,0,0,0,0,0.008230929747275677,0.0,0,0,1,"Agency, military, diplomatic staff",1,Marcus T Cicerone
+Q89464647,2011,2011,1,1,0,1,Other executive,1,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,Chris Corton
+Q89654398,2012,2012,3,1,0,1,Other executive,3,0,0.0,0,0,0,0,0,0,0,0,0,,,0,0,1,"Agency, military, diplomatic staff",1,Jane Caldwell
+Q89825693,2013,2013,1,1,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Ilan Goldenberg
+Q9029185,1999,1999,2,1,1,1,Diplomatic,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,J. Stapleton Roy
+Q90348666,2011,2011,1,1,1,1,Other executive,1,1,8.0,2,0,0,0,1,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,James K Thompson
+Q907764,2006,2006,1,1,1,1,Legislative,1,1,23.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Lane Evans
+Q907913,2012,2012,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Harold Hongju Koh
+Q911264,2005,2005,2,1,2,1,Defense,2,2,4.0,1,0,0,0,0,0,1,0,0,0.00047628979993920225,0.5,0,0,1,"Agency, military, diplomatic staff",1,John P. Jumper
+Q91712778,2013,2013,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Mike Dumont
+Q923242,2011,2023,14,8,10,1,Legislative,1,1,6.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Chris Coons
+Q92345257,2011,2011,1,1,1,1,Other executive,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Daniel S Hussey
+Q926069,2011,2011,2,1,2,1,Legislative,2,2,22.0,3,2,0,0,0,0,0,1,0,0.016384573769224822,0.0,1,0,1,Cabinet level and above,0,Robert Jones Portman
+Q9295090,2009,2009,2,1,1,1,Defense,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,"Charles H. Jacoby, Jr."
+Q935034,2009,2013,7,3,5,2,White House,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,John Holdren
+Q935136,2009,2009,1,1,1,1,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Robert Gibbs
+Q938498,2015,2015,1,1,0,1,Legislative,1,0,20.0,3,1,0,0,0,0,0,1,0,,,0,0,1,Legislators,0,David Cicilline
+Q941013,2009,2023,34,7,19,3,Defense,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,1,Cabinet level and above,0,Lloyd Austin
+Q945077,2006,2006,2,1,0,1,Defense,2,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,"Agency, military, diplomatic staff",1,David M. Rodriguez
+Q94665432,2000,2001,2,2,2,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Linda Hall Daschle
+Q952268,2013,2013,1,1,1,1,Legislative,1,1,44.0,4,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jim Sensenbrenner
+Q95571597,2012,2012,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Terry R. Ferrell
+Q957690,2012,2015,2,2,2,1,Legislative,1,1,34.0,4,2,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Tom Udall
+Q96013988,2013,2013,1,1,1,1,Diplomatic,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Christopher W. Murray
+Q96051981,2011,2016,4,4,1,1,Legislative,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,James A. Wolfe
+Q96065274,2013,2018,6,3,3,1,Diplomatic,2,2,0.0,0,0,0,0,0,0,0,0,0,0.001068702895511714,0.0,0,0,1,"Agency, military, diplomatic staff",1,Barbara A. Leaf
+Q96101326,2022,2022,1,1,1,1,Other executive,1,1,1.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Wally Adeyemo
+Q96419165,2021,2021,1,1,1,1,Legislative,1,1,3.0,1,0,0,1,0,0,0,0,0,0.0,0.0,0,0,1,Legislators,0,Peter Meijer
+Q966208,2004,2004,1,1,1,1,Legislative,1,1,35.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Silvestre Reyes
+Q966352,2009,2009,1,1,1,1,Legislative,1,1,34.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,George Miller
+Q967329,2005,2005,3,1,1,1,Diplomatic,3,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Ryan Crocker
+Q970272,2014,2014,1,1,1,1,Legislative,1,1,3.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Ron Johnson
+Q970720,2014,2014,1,1,1,1,Other executive,1,1,14.0,3,1,1,1,0,0,0,0,1,0.0,0.0,1,0,1,Cabinet level and above,0,Julián Castro
+Q971308,2016,2016,1,1,1,1,Legislative,1,1,17.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Patrick Joseph Toomey
+Q973737,2013,2013,1,1,1,1,Legislative,1,1,30.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Jim Cooper
+Q97588420,2023,2023,1,1,1,1,White House,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Family of officials,0,Ashley Biden
+Q976487,2002,2002,1,1,1,1,Legislative,1,1,5.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Mike McIntyre
+Q977920,2004,2004,1,1,1,1,Legislative,1,1,6.0,2,1,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Thaddeus McCotter
+Q983055,2013,2015,2,2,2,1,Legislative,1,1,24.0,1,0,0,0,0,0,0,1,0,0.0,0.0,0,0,1,Legislators,0,Dana Rohrabacher
+Q984191,2009,2017,83,8,6,2,White House,1,1,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,1,1,1,Cabinet level and above,0,John Owen Brennan
+Q98641285,2014,2014,2,1,1,1,Diplomatic,2,1,3.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0,1,"Agency, military, diplomatic staff",1,Daniel L. Shields
+Q98701466,1999,1999,2,1,1,1,Legislative,2,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,Legislators,0,Q98701466
+Q99264237,2017,2017,1,1,1,1,Defense,1,1,,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,"Agency, military, diplomatic staff",1,Q99264237

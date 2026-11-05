@@ -1,0 +1,21 @@
+career panels ...
+gift panels ...
+networks ...
+organization panels ...
+{
+  "interactions": 10428,
+  "interactions_in_panel_years": 10381,
+  "spells": 12038,
+  "spells_dated": 10235,
+  "spells_unclassified": 852,
+  "person_year_recip_rows": 26390,
+  "risk_main_rows": 6395,
+  "risk_wd_rows": 5549,
+  "recipients": 1022,
+  "givers": 1983,
+  "org_year_rows": 690,
+  "tie_rows": 3091,
+  "mover_episodes": 76,
+  "elite_recipients": 180,
+  "top1pct_recipients": 10
+}
