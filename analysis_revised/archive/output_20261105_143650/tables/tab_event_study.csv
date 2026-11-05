@@ -1,0 +1,15 @@
+Event,Outcome,Events,Post (t>=0),SE post,"Pre (t-3,t-2)",SE pre,N,Event-time cells with no interactions
+Any change of organization,Gifts,104,1.370***,(0.209),0.203,(0.187),10877,none
+Any change of organization,Countries,104,1.231***,(0.182),0.234,(0.159),10382,none
+Lateral/non-cabinet move,Gifts,78,0.321,(0.510),0.268,(0.198),10737,none
+Lateral/non-cabinet move,Countries,78,0.318,(0.511),0.040,(0.161),10252,none
+Move into cabinet-level office,Gifts,26,1.790***,(0.498),0.273,(0.274),4546,none
+Move into cabinet-level office,Countries,26,1.822***,(0.537),0.565**,(0.186),4353,none
+Cross-sector move,Gifts,37,1.441***,(0.163),-0.033,(0.144),8704,none
+Cross-sector move,Countries,37,1.200***,(0.195),0.044,(0.117),8352,none
+"Cross-sector, non-cabinet",Gifts,26,-1.769***,(0.263),0.572*,(0.287),8273,0
+"Cross-sector, non-cabinet",Countries,26,-1.793***,(0.290),0.174,(0.174),7954,0
+Moves by agency/military/diplomatic staff,Gifts,26,1.447*,(0.731),0.948,(0.484),7630,none
+Moves by agency/military/diplomatic staff,Countries,26,1.195,(0.770),0.674,(0.531),7321,none
+Public / non-public move,Gifts,12,-0.803,(0.882),0.205,(0.238),5366,"0, 1, 2"
+Public / non-public move,Countries,12,-0.935,(0.919),0.052,(0.228),5157,"0, 1, 2"

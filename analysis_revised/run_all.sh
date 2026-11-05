@@ -24,5 +24,14 @@ fi
 "$PY" -u analysis_revised/03_models.py      > analysis_revised/logs/03_models.log 2>&1
 "$PY" -u analysis_revised/04_figures.py     > analysis_revised/logs/04_figures.log 2>&1
 "$PY" -u analysis_revised/05_codebook.py    > analysis_revised/logs/05_codebook.log 2>&1
-sha256sum analysis_revised/data/*.csv analysis_revised/output/tables/*.csv > analysis_revised/logs/checksums.txt
+"$PY" -u analysis_revised/06_paper_outputs.py > analysis_revised/logs/06_paper_outputs.log 2>&1
+# Optional: rebuild the paper (Windows MiKTeX under WSL); skipped when the binaries are absent.
+TEX=/mnt/c/Users/arpie/AppData/Local/Programs/MiKTeX/miktex/bin/x64
+if [[ -x "$TEX/pdflatex.exe" ]]; then
+  (cd paper && "$TEX/pdflatex.exe" -interaction=nonstopmode gifts_living_data.tex > /dev/null \
+     && "$TEX/bibtex.exe" gifts_living_data > /dev/null \
+     && "$TEX/pdflatex.exe" -interaction=nonstopmode gifts_living_data.tex > /dev/null \
+     && "$TEX/pdflatex.exe" -interaction=nonstopmode gifts_living_data.tex > ../analysis_revised/logs/paper_build.log) || true
+fi
+sha256sum analysis_revised/data/*.csv analysis_revised/output/tables/*.csv analysis_revised/output/paper/*.csv > analysis_revised/logs/checksums.txt
 echo "done; see analysis_revised/logs/"

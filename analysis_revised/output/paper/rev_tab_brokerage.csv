@@ -1,0 +1,13 @@
+,(1) Betw.,(2) Betw.,(3) Particip.,(4) Particip.,(5) Particip.
+Prior cross-sector moves,1.214***,0.141,0.040***,-0.003,-0.015
+,(0.353),(0.318),(0.009),(0.006),(0.021)
+Prior organizations,0.137,0.102,-0.001,-0.002,-0.003
+,(0.210),(0.143),(0.007),(0.004),(0.015)
+Observed under $>$1 agency before $t$,5.808***,0.832,0.202***,0.005,-0.017
+,(1.633),(1.207),(0.030),(0.023),(0.030)
+log countries at $t$ (degree),,5.688***,,0.225***,0.268***
+,,(0.804),,(0.013),(0.015)
+Evidence type,B,B,B,B,W
+Fixed effects,"year, sector","year, sector","year, sector","year, sector","person, year"
+People,562,562,562,562,251
+Person-years,"1,210","1,210","1,210","1,210",899

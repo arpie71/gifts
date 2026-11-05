@@ -1,4 +1,4 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{39}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -236,12 +236,6 @@ Manuel~P. Teodoro.
 \newblock \emph{Bureaucratic Ambition: Careers, Motives, and the Innovative
   Administrator}.
 \newblock Johns Hopkins University Press, Baltimore, 2011.
-
-\bibitem[{U.S. Code}()]{usc7342}
-{U.S. Code}.
-\newblock {5 U.S.C. \S\ 7342}. {Receipt and Disposition of Foreign Gifts and
-  Decorations}.
-\newblock Foreign Gifts and Decorations Act of 1966, as amended.
 
 \bibitem[Vrande{\v{c}}i{\'c} and Kr{\"o}tzsch(2014)]{vrandecic2014wikidata}
 Denny Vrande{\v{c}}i{\'c} and Markus Kr{\"o}tzsch.

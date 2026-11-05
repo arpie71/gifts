@@ -1,0 +1,13 @@
+Step,N,Note
+Gift records (all report years),"10,428",
+\quad with receipt year 1998--2023,"10,381",47 backlogged earlier receipts dropped
+\quad recipient linked to a human Wikidata item,"7,389",QIDs that are organizations or link errors excluded
+Linked U.S. recipients,"1,015",
+"\quad with a usable (dated, classified) Wikidata career",590,23 implausible links excluded
+"Recipient-year panel, all rows","26,390","1,015 people $\times$ 26 years"
+\quad risk set (dated U.S. public office or a gift that year),"6,395",
+\quad in a dated position that year,"5,614","5,610 in Table~\ref{tab:rev_position} col.~1 after singletons"
+Agency-country ties observed through linked carriers,"3,091",three later years observable
+\quad agencies,27,
+"Mover episodes (agency A, later agency B)",76,
+Career spells (P39/P108) of linked people,"12,038","10,235 dated; 852 unclassified"

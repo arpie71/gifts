@@ -1,0 +1,235 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(gifts_living_data.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+)))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def) (gifts_living_data.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg)) (gifts_living_data.out) (gifts_living_data.out)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd)
+
+Package natbib Warning: Citation `barnett2004rules' on page 1 undefined on inpu
+t line 76.
+
+
+Package natbib Warning: Citation `heinzel2022' on page 1 undefined on input lin
+e 76.
+
+
+Package natbib Warning: Citation `lang2025' on page 1 undefined on input line 7
+6.
+
+
+Package natbib Warning: Citation `clark2026bureaucratic' on page 1 undefined on
+ input line 76.
+
+
+Package natbib Warning: Citation `weaver2026bringing' on page 1 undefined on in
+put line 78.
+
+[1{C:/Users/arpie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ar
+pie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/arpie/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [2] [3]
+
+Package natbib Warning: Citation `clark2026bureaucratic' on page 4 undefined on
+ input line 112.
+
+
+Package natbib Warning: Citation `weaver2026bringing' on page 4 undefined on in
+put line 112.
+
+
+Package natbib Warning: Citation `heinzel2025bureaucratic' on page 4 undefined 
+on input line 112.
+
+[4] [5]
+
+Package natbib Warning: Citation `barnett2004rules' on page 6 undefined on inpu
+t line 132.
+
+
+Package natbib Warning: Citation `weaver2016' on page 6 undefined on input line
+ 132.
+
+
+Package natbib Warning: Citation `murdoch2019' on page 6 undefined on input lin
+e 132.
+
+
+Package natbib Warning: Citation `heinzel2022' on page 6 undefined on input lin
+e 132.
+
+
+Package natbib Warning: Citation `heinzel2025bureaucratic' on page 6 undefined 
+on input line 132.
+
+
+Package natbib Warning: Citation `weaver2026bringing' on page 6 undefined on in
+put line 140.
+
+[6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]|\T1/lmtt/m/n/10 wikifind.py\T1/lmr/m/n/10 (+20) ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+\T1/lmtt/m/n/10 masterwiki_new.csv\T1/lmr/m/n/10 (+20) ,
+
+Overfull \hbox (16.99812pt too wide) in paragraph at lines 210--210
+[]|\T1/lmtt/m/n/10 scripts/wiki_properties.py| 
+
+Overfull \hbox (43.24805pt too wide) in paragraph at lines 211--211
+[]|\T1/lmtt/m/n/10 analysis/build_analysis_data.py| 
+
+Overfull \hbox (6.23566pt too wide) in paragraph at lines 212--212
+[]|\T1/lmtt/m/n/10 analysis/descriptives.py
+[9] [10] (tables/tab_overview.tex) [11] (tables/tab_branch.tex) [12 <./figures/
+fig_gifts_by_year.pdf>] [13 <./figures/fig_branch_multiples.pdf>]
+(tables/tab_top_recips.tex) (tables/tab_top_givers.tex)
+(tables/tab_top_countries.tex) [14 <./figures/fig_role_branch.pdf>] [15]
+[16] [17{C:/Users/arpie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mat
+hit.enc} <./figures/fig_country_heatmap.pdf>] (tables/rev_tab_position.tex)
+[18{C:/Users/arpie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+[19{C:/Users/arpie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.e
+nc}] (tables/rev_tab_events.tex) (tables/rev_tab_continuity.tex) [20 <./figures
+/rev_fig_position_events.pdf>] (tables/rev_tab_movers.tex) [21]
+(tables/rev_tab_brokers.tex) [22] (tables/rev_tab_brokerage.tex)
+(tables/rev_tab_network.tex) [23] [24 <./figures/rev_fig_null.pdf>]
+(tables/tab_wikidata_coverage.tex) (tables/tab_cld_link.tex) [25]
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty)
+(C:\Users\arpie\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty)
+[26 <./figures/rev_fig_network_change.pdf>] [27] [28] [29]
+Overfull \hbox (32.89685pt too wide) in paragraph at lines 604--605
+\T1/lmr/m/n/10.95 (-20) choro-pleth with a year slider (a pro-to-type is gen-er
+-ated as \T1/lmtt/m/n/10.95 analysis/output/map_gifts_by_country.html\T1/lmr/m/
+n/10.95 (-20) ).
+[30] [31] (gifts_living_data.bbl [32] [33] [34]) [35]
+(tables/rev_tab_sample.tex) [36] [37{C:/Users/arpie/AppData/Local/Programs/MiKT
+eX/fonts/enc/dvips/lm/lm-mathex.enc}] [38]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 741.
+See the caption package documentation for explanation.
+
+(tables/tab_recip_profile.tex) [39] (tables/tab_shared.tex) [40] [41] [42 <./fi
+gures/fig_shared.pdf>] [43] (tables/tab_bg_profile.tex)
+(tables/tab_bg_matrix.tex) (tables/tab_office_matrix.tex) [44]
+(tables/tab_bg_gifts.tex) (tables/tab_bg_value.tex) [45]
+(tables/tab_careers.tex) [46] [47 <./figures/fig_careers.pdf>]
+
+Package natbib Warning: There were undefined citations.
+
+[48] (gifts_living_data.aux) )
+(see the transcript file for additional information)<C:/Users/arpie/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/arpie/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/arpie/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/arpie/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/arpie/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/arpie/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/arpie/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/arpie/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/arpie/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/arpie/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/arpie/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/arpie/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/arpie/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/arpie/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Users/arpie/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/arpie/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/arpie/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/arpie/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/lm/lmsy9.pfb><C:/Users/arpie/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/arpie/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/arpie/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/arpie/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/lm/lmtti10.pfb>
+Output written on gifts_living_data.pdf (48 pages, 864304 bytes).
+Transcript written on gifts_living_data.log.

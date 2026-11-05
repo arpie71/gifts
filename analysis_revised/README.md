@@ -16,7 +16,7 @@ reproduces exactly (see `REPLICATION_LOG.md`).
 | `CODEBOOK.md` | Every variable in every dataset (generated; fails if a column is undocumented) |
 | `REPLICATION_LOG.md` | Software, packages, seeds, inputs, caches, commands, run times |
 
-## Scripts (run in order; `run_all.sh` does 02-05)
+## Scripts (run in order; `run_all.sh` does 02-06 and rebuilds the paper)
 
 | Script | Does |
 |---|---|
@@ -27,6 +27,7 @@ reproduces exactly (see `REPLICATION_LOG.md`).
 | `03_models.py` | All tables and models -> `output/tables/`, `output/numbers.json` |
 | `04_figures.py` | Figures -> `output/figures/` |
 | `05_codebook.py` | `CODEBOOK.md` |
+| `06_paper_outputs.py` | Paper tables/figures for the revised empirical section -> `output/paper/`, copied to `paper/tables/rev_*.tex` and `paper/figures/rev_*.pdf` (new names only), plus `output/paper/paper_numbers_revised.json` |
 | `common.py` | Paths, sector rules, prominence rules, FE estimators, table writer |
 
 ## Outputs
@@ -84,3 +85,13 @@ Additions only; no original variable, table, or figure was removed or altered.
    military, and diplomatic staff, used to show results without world leaders and senior officials.
 8. **Archive.** `run_all.sh` renames earlier `data/` and `output/` folders into `archive/` instead of
    overwriting them.
+
+## The paper (revised empirical section, 2026-11-05)
+
+`paper/gifts_living_data.tex`:
+* **Section 7, "Empirical Analysis: Position, Organization, and Brokerage"**, has five parts: data and measures; position versus career; organizational continuity after turnover; positional brokerage; network change over time. It ends with the evidentiary status of each claim.
+* **Appendix A** covers variables and sample construction. **Appendix B** is the claim-to-evidence map.
+* **Appendix C** holds the former sections "Who Receives Foreign Gifts?", "What Do Givers and Recipients Share?", "Technical, Business, and Political Backgrounds", and "Office Versus Officeholder", moved unchanged and demoted to subsections. Their labels still resolve.
+* The subsection "Wikidata Updates What the Gift Record Cannot" moved to the end of Section 8 ("The Wikidata Identifier as a Linking Key").
+* The pre-revision draft and PDF are kept as `paper/gifts_living_data_pre_empirical_revision.{tex,pdf}`.
+* One preamble fix was needed to compile: the `\title{...}` brace was unclosed (a trailing `\\` with the subtitle removed), already so in the committed version.

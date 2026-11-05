@@ -48,7 +48,7 @@
 \newcommand{\ngifts}{10,428}
 \newcommand{\qid}[1]{\texttt{#1}}
 
-\title{\textbf{A Living Dataset of International Influence}\\
+\title{\textbf{A Living Dataset of International Influence}}
 \author{Raymond Hicks\thanks{Corresponding author: \href{mailto:arpie71@gmail.com}{arpie71@gmail.com}. Working paper; comments welcome. Code and data: the \texttt{gifts} repository. [Co-author names and affiliations to be added.]}}
 \date{Working paper --- October 2026}
 
@@ -73,11 +73,19 @@ A Living Dataset of International Influence
 
 
 
-%How does influence travel through and across bureaucracies? Research on international politics often focuses on formal institutions and policy outcomes, while research on bureaucratic politics examines agencies and officeholders within national governments. Yet many relationships operate between these levels: foreign officials cultivate contacts with American personnel, bureaucrats move across offices and agencies, and diplomats, military officers, intelligence officials, legislators, and technical experts encounter one another repeatedly. This paper introduces a living dataset of reported contacts between foreign officials and U.S. government personnel from 1999 to 2023. The underlying records come from annual Foreign Gifts and Decorations Act reports, but we treat individual exchanges as observable traces of broader relationships among people, agencies, and bureaucracies. Each official is linked to a persistent Wikidata identifier, allowing the dataset to distinguish individuals from offices, follow officials across careers, connect them to external sources, and refresh information as those sources change. The current release contains 10,428 reported contacts involving 1,026 U.S. recipients, 2,361 foreign officials, 169 countries, and 107 agency units. Drawing on the literature on bureaucratic careers, elite circulation, and revolving doors \citep{carnes2023economic,lewis2008politics,teodoro2011bureaucratic}, we use these data to examine how professional roles, institutional affiliations, education, military service, and career mobility structure international contact over time. The dataset provides a platform for studying how networks of influence form, persist, and change.
+Who carries influence across bureaucratic networks: the person, the career, or the office? Research on international politics increasingly shows that individual bureaucrats matter. International staff, diplomats, experts, and policy entrepreneurs shape agenda-setting, implementation, knowledge production, and institutional change \citep{barnett2004rules,heinzel2022,lang2025,clark2026bureaucratic}. Yet the growing emphasis on individual agency leaves open a basic question: does influence follow individuals as they move across institutions, or does it attach primarily to the formal positions they occupy?
 
+Recent work conceptualizes individuals as structurally embedded actors. Their decisions reflect overlapping pressures associated with formal authority, organizational culture, professional networks, national affiliations, and career incentives \citep{weaver2026bringing}. This framework challenges accounts that treat bureaucratic influence as either a simple consequence of organizational position or an attribute of individual expertise. It also directs attention to a central empirical problem: people who occupy similar offices may face different pressures, while the same person may behave differently after moving across institutions.
 
+This article examines that problem through a longitudinal dataset of bureaucratic interactions. We use diplomatic gifts not as an object of substantive interest in themselves, but as systematic records of encounters among individuals, agencies, governments, and organizations. By linking these records to individual identifiers, organizational affiliations, offices, and career histories, we ask whether interaction networks travel with people or remain attached to the organizations and positions they occupy.
 
-How does influence travel through the state? Political scientists increasingly study politicians and bureaucrats as individuals, focusing on their backgrounds, networks, and trajectories (CITE alexiadou clark dolan zucker thrall malis).  Research on revolving doors and elite circulation shows how movement among legislatures, agencies, private organizations, and international institutions can transfer expertise, preferences, information, and access. Yet we know much less about how these networks operate across national bureaucracies, how they connect agencies to foreign counterparts, or how they change as officials move between offices.
+The analysis advances three claims. First, position dominates career. Interaction counts are strongly associated with formal office, especially cabinet-level status, but not with career length, prior mobility, or accumulated professional history. This pattern holds both across individuals and within individuals as they move between positions. The finding qualifies the view that accumulated experience or extensive career networks necessarily generate greater influence. In this setting, bureaucratic influence appears to derive primarily from the authority, visibility, and access attached to the current office.
+
+Second, organizations retain foreign relationships when the personnel who carried them leave. When all observed personnel associated with an agency-country relationship depart, the relationship itself becomes less likely to recur. Yet its recurrence through other personnel does not decline appreciably. The departing individual’s own contact is lost, but the organization’s broader relationship persists through successors. This suggests that institutional continuity depends less on the permanent presence of particular individuals than on organizational routines, records, expectations, and positional access.
+
+Third, brokerage is concentrated and positional. Individuals who connect otherwise separate agencies, countries, or professional communities are overwhelmingly senior officials. Apparent links between career mobility and brokerage largely disappear when compared with degree-preserving null networks, indicating that mobility may appear to generate brokerage because mobile or prominent individuals simply have more ties. Below the cabinet level, brokerage is concentrated among military service chiefs, protocol officers, defense officials, and senior legislators serving on foreign-affairs and armed-services committees. These are not random career generalists; they occupy offices that structurally connect domestic authority to international interaction.
+
+Together, these findings qualify both leader-centered and career-centered accounts of bureaucratic influence. The relevant contrast is not between individuals and institutions, but between person-carried and position-carried influence. Individuals can matter, particularly when they connect organizations or retain relationships after moving. However, the empirical pattern suggests that most observed interaction is generated by formal office and organizational location. The organization does not simply aggregate the preferences and networks of its personnel; it provides the institutional platform that makes particular forms of access possible.
 
 This paper develops a new data infrastructure for studying those questions. We transform annual reports published under the Foreign Gifts and Decorations Act into a longitudinal record of international contact involving U.S. officials and foreign representatives. The reports identify individuals, offices, agencies, countries, dates, and circumstances associated with reported exchanges. We do not treat any particular exchange as a direct measure of influence. Instead, we use each observation as an observable trace of contact that can be linked to information about the people and institutions involved. Aggregated over time, these traces reveal networks of interaction across agencies, bureaucracies, countries, and professional communities.
 
@@ -99,54 +107,53 @@ The broader aim is to make international influence more observable. By combining
 
 \section{Theory: Careers, Structural Embedding, and Bureaucratic Influence}
 
-International relations research has increasingly demonstrated that individuals can shape outcomes traditionally attributed to states, institutions, or systemic forces. Research on international organizations has shown how bureaucracies influence agenda-setting, implementation, enforcement, norm diffusion, and policy interpretation \citep{barnett2004rules,finnemore1993,keck1998,barnett2020}. Recent work has extended this insight beyond organizational autonomy to examine how individual bureaucrats, experts, diplomats, and executive heads exercise influence within formally constrained institutions \citep{hall2018,heinzel2022,lang2025,clark2026bureaucratic}.
+Theory: Position, Career, and Organizational Continuity
 
-Yet this literature remains fragmented. Studies of international bureaucracies often focus on organizational culture, delegation, or the discretion created by information asymmetries \citep{pollack1997,nielson2003,weaver2016}. Research on individual influence, by contrast, has frequently centered on prominent leaders, exceptional entrepreneurs, or particular episodes of institutional change. Weaver, Morrison, and Heinzel argue that these approaches should be connected through a framework that treats individuals as structurally embedded actors whose behavior reflects multiple, overlapping, and sometimes conflicting pressures \citep{weaver2026bringing}. Clark, Dolan, and Jost similarly emphasize that bureaucratic influence depends on decision-making structures and on the processes through which political leaders select and empower bureaucratic actors \citep{clark2026bureaucratic}.
+The contemporary literature on bureaucratic influence emphasizes that international outcomes are shaped by actors embedded within formal organizations and overlapping professional structures. Clark, Dolan, and Jost identify bureaucratic selection and decision-making centralization as key conditions governing influence \citep{clark2026bureaucratic}. Weaver, Morrison, and Heinzel similarly argue that individuals face different combinations of structural pressures depending on their affiliations, identities, institutional settings, and professional histories \citep{weaver2026bringing}. Heinzel, Weaver, and Jorgensen show how the composition and representation of international bureaucracies can affect organizational priorities, illustrating that staff characteristics matter through their interaction with institutional roles and organizational processes \citep{heinzel2025bureaucratic}.
 
-This perspective raises a central empirical problem. Individuals who occupy similar formal positions may nonetheless behave differently because they have different professional histories, institutional affiliations, networks, and career incentives. A foreign ministry official, international organization staff member, or regulatory expert does not enter a position without a past. Prior employment, education, organizational membership, and repeated interaction with other officials shape the pressures and opportunities that person encounters. The relevant unit of analysis is therefore not simply the office or organization, but the person-in-career: an individual embedded in a sequence of institutional settings.
+These arguments generate two competing expectations. A career-centered account predicts that influence accumulates through experience, mobility, and repeated interaction. Individuals who have worked in many organizations should possess more extensive networks, greater institutional knowledge, and more opportunities to broker across organizational boundaries. Their prior relationships should follow them as they move, allowing them to carry connections from one agency to another.
 
-The revolving door provides a particularly important mechanism linking individual careers to institutional influence. Movement between government agencies, international organizations, research institutions, private firms, and advocacy organizations can transfer expertise, preferences, professional norms, and relationships across institutional boundaries. Such movement may strengthen coordination by preserving institutional memory and creating channels of trust. It may also generate conflicts of interest, reinforce narrow professional communities, or allow particular organizations and sectors to gain privileged access. The same career movement can therefore produce both integration and capture.
+A position-centered account predicts that influence attaches primarily to formal office. Cabinet officials, agency heads, military chiefs, protocol officers, and senior legislators receive more interaction because their offices confer authority, visibility, access, and symbolic importance. From this perspective, personnel movement should matter less than the institutional position a person occupies at a given moment. The same individual should receive more interaction when holding a prominent office and less when holding a less visible position, even if the person’s accumulated career history remains constant.
 
-This argument extends the bureaucratic influence literature in two ways. First, it treats professional mobility as a source of influence rather than merely as an individual attribute or institutional background condition. Second, it emphasizes that bureaucratic influence unfolds across careers rather than within isolated appointments. Clark, Dolan, and Jost identify bureaucratic selection as a central pathway of influence: who enters a position affects what the organization can see, know, and do \citep{clark2026bureaucratic}. The career histories of those individuals may also shape what they bring into the position and which external constituencies they remain connected to.
+The distinction is consequential because the two accounts imply different mechanisms of institutional influence. If career dominates, organizations are partly containers for person-specific networks. When an official moves, relationships, expertise, and influence should move with them. If position dominates, organizations are more than containers: they structure access independently of the individual who occupies the role. Personnel may change while the organization’s external relationships persist because successors inherit the office, the organizational mandate, and the routines through which contact occurs.
 
-The key theoretical object is therefore the bureaucratic career. Careers unfold across time, and their effects may become visible only after individuals have moved between positions. A person who works first in a national ministry, later in an international organization, and subsequently in a research institute or private firm may connect communities that otherwise rarely interact. Such transitions can facilitate information exchange and policy coordination, but they can also generate conflicts of interest, overlapping loyalties, and unequal access. The project asks when professional mobility produces institutional integration and when it instead fragments authority.
+The first hypothesis is therefore:
 
-This emphasis responds directly to a limitation identified by Weaver, Morrison, and Heinzel. Research on international cooperation has increasingly recognized the importance of bureaucratic actors, norm entrepreneurs, experts, and organizational staff, but individuals often disappear from the analysis once a policy script, organizational culture, or institutional routine has been established \citep{steffek2016,fleischer2021,weaver2016,murdoch2019}. The project instead asks whether later personnel continue to interpret and modify those routines differently depending on their careers, affiliations, and professional networks.
+H1: Interaction volume is more strongly associated with formal position than with career length, prior mobility, or accumulated professional history.
 
-This approach shifts attention from isolated acts of influence to patterned relationships. Meetings, official visits, appointments, advisory roles, institutional affiliations, and repeated interactions can reveal how influence is built and maintained. A single encounter may have little lasting significance; a sequence of interactions involving the same individuals and organizations may create durable channels of communication. The project therefore studies influence as a dynamic network process rather than as a one-time transfer of resources.
+This hypothesis has both between-person and within-person implications. Between people, cabinet-level officials should receive more interactions than legislators, agency staff, military personnel, or diplomats, even after accounting for career length and prior appearances. Within people, an individual’s interaction rate should change when the person enters or leaves a prominent office. Evidence of both patterns would suggest that formal position, rather than stable individual characteristics, drives the observed interaction volume.
 
-This generates a puzzle that static datasets cannot answer. If two officials occupy the same office at the same time, why might they interpret the office’s responsibilities differently? One may have spent a decade in a national ministry before joining an international organization; another may have moved through a research institute, a development bank, and a diplomatic mission. Both face the same formal mandate, but they are embedded in different professional networks and carry different institutional experiences into the role. A cross-sectional dataset can observe their position, nationality, or organization. It cannot reconstruct the career pathways through which their preferences, relationships, and forms of discretion developed.
+The second hypothesis concerns institutional continuity:
 
-A second puzzle concerns duration. Influence may accumulate gradually through repeated interactions rather than appear in a single observable decision. An official who attends one meeting may have little effect, while an official who participates repeatedly over many years may become a broker, source of institutional memory, or trusted intermediary. Static data that record whether a person held a position cannot distinguish between a short appointment and a long career, nor can they show whether the person returned to the same organization, moved between connected institutions, or maintained relationships after leaving office.
+H2: When personnel associated with an agency-country relationship leave, the relationship will continue through other personnel at approximately the same rate.
 
-A third puzzle concerns change within individuals. Bureaucrats do not necessarily behave as fixed types. Their priorities may change after they move organizations, experience a crisis, acquire new expertise, or develop new professional relationships. A person may occupy similar formal roles at different points in a career while facing different structural pressures. Conversely, two individuals with different titles may perform similar functions because they occupy comparable positions in a broader network of expertise and influence.
+This hypothesis does not imply that individuals are irrelevant. A departing person’s own contacts may disappear, and some relationships may be partially person-carried. But if organizations retain foreign relationships through routines, records, successor access, and institutional expectations, then other personnel should continue the relationship after the original carrier departs. The relevant comparison is therefore not whether the relationship recurs at all, but whether it recurs through the same individual or through the organization’s other personnel.
 
-The framework developed by Weaver, Morrison, and Heinzel helps explain why these differences matter. Individuals are simultaneously embedded in multiple structures, including formal authority, organizational culture, professional networks, national affiliations, educational backgrounds, and career incentives \citep{weaver2026bringing}. These structures may be aligned, pushing an individual toward a common course of action; orthogonal, permitting multiple interpretations; or conflicting, forcing the individual to prioritize one obligation over another. Career movement matters because it changes the combination of structures in which an individual is embedded.
+This distinction follows from the broader literature’s emphasis on organizational processes. International bureaucracies develop cultures, routines, and forms of expertise that can outlast individual staff members \citep{barnett2004rules,weaver2016,murdoch2019}. Heinzel and colleagues likewise show that bureaucratic characteristics matter through organizational processes rather than through individual attributes alone \citep{heinzel2022,heinzel2025bureaucratic}. If institutional relationships are embedded in organizational practice, turnover should not necessarily dissolve them.
 
-A transition from a national agency to an international organization, for example, may place a person between domestic political expectations and transnational professional norms. A later move into a research institute or private firm may preserve access to former colleagues while introducing new incentives and constituencies. These transitions can alter how individuals interpret technical information, respond to organizational leadership, and understand the boundaries of appropriate action. They may also reshape the organization itself by introducing new professional norms and external relationships.
+The third hypothesis concerns brokerage:
 
-This perspective also highlights selection into bureaucratic roles. Individuals are not randomly assigned to organizations or positions. Governments and organizations select people based on expertise, political loyalty, professional reputation, nationality, networks, or perceived compatibility with institutional priorities. Observed influence may therefore reflect both what individuals do after appointment and the selection processes that placed them in particular positions. Weaver, Morrison, and Heinzel identify selection into roles as an important but understudied structural process \citep{weaver2026bringing}. Clark, Dolan, and Jost likewise place selection criteria at the center of theories of bureaucratic influence \citep{clark2026bureaucratic}.
+H3: Brokerage is concentrated among individuals occupying positions that structurally connect organizations, countries, or domestic and international authority.
 
-A longitudinal career dataset makes it possible to study these processes directly. It can examine who moves into which organizations, from which prior positions, through which professional networks, and with what subsequent effects. This makes it possible to distinguish selection from socialization, career experience from organizational position, and durable influence from short-term access.
+A career-centered account predicts that mobility itself produces brokerage. Officials who have moved across agencies and sectors should connect otherwise separate communities. A positional account predicts that apparent mobility effects will largely disappear once the number of ties is held constant and observed networks are compared with appropriate null graphs. Brokerage should instead be concentrated among offices that routinely connect institutional domains: cabinet positions, military commands, protocol offices, foreign-affairs committees, and senior diplomatic posts.
 
-The project distinguishes three forms of bureaucratic influence. First, individuals may exercise positional influence through the formal authority attached to their office. Second, they may exercise relational influence through connections to other officials, agencies, and organizations. Third, they may exercise temporal influence through accumulated experience, institutional memory, and career continuity. These forms of influence can reinforce one another, but they need not coincide. A person may hold a powerful office without occupying a central network position, while a less senior official may become influential through repeated interactions and long-term institutional knowledge.
+This expectation also follows from the embedded-agent framework. Individuals do not encounter structural pressures independently of their offices. Their professional histories may shape how they interpret those pressures, but formal roles determine which interactions are available in the first place \citep{weaver2026bringing}. A military service chief or protocol officer may become a broker not because of unusually extensive prior mobility, but because the office itself sits at the intersection of domestic authority, diplomacy, and foreign representation.
 
-These distinctions build on the Annual Review’s emphasis on the multiple pathways through which bureaucrats shape international outcomes \citep{clark2026bureaucratic}. They also extend the embedded-agent framework by specifying how professional trajectories alter the structural pressures that individuals face \citep{weaver2026bringing}. A person’s influence may derive not only from authority delegated by a principal, but also from the accumulated relationships and interpretive resources generated through a career.
+The theory therefore distinguishes three mechanisms:
 
-The project’s living dataset addresses these gaps by linking individuals to organizations, positions, meetings, and interactions across time. Wikidata-based identifiers make it possible to follow individuals across changing institutional records and distinguish people with similar names \citep{vrandecic2014wikidata}. The dataset records when individuals enter and leave organizations, how long they remain in particular roles, whether they move through revolving-door pathways, and which organizations are connected through shared personnel. It also links career histories to official interactions, allowing the analysis to distinguish between one-time contact and sustained relational influence.
+Person-carried influence: relationships, expertise, or access that follow an individual across institutional transitions.
 
-This design makes it possible to investigate questions that static datasets cannot answer:
-1. Do officials with longer and more varied careers exercise greater influence across institutional boundaries?
-2. Do revolving-door transitions increase coordination between organizations, or do they concentrate influence within particular professional networks?
-3. When officials move between national governments, international organizations, research institutions, and private firms, which ideas, relationships, and practices travel with them?
-4. Do organizations become more adaptable when they retain experienced personnel, or when they recruit individuals with connections to external networks?
-5. How do bureaucratic networks change after crises, leadership turnover, organizational reform, or shifts in the international distribution of power?
-6. Does the influence of an individual persist after that person leaves office through continuing relationships, institutional routines, or successors recruited from the same professional network?
-The central theoretical claim is that institutional change often occurs through career-based mechanisms that remain invisible in organizational-level data. Organizations may appear stable even as their personnel networks change substantially. Conversely, an organization may formally change little while acquiring new capacities through the arrival of officials with different expertise and connections. Personnel circulation can preserve institutional routines, introduce new policy ideas, alter internal coalitions, and change how organizations interpret their mandates.
+Position-carried influence: interactions generated by the authority, visibility, and institutional access attached to a formal office.
 
-The broader implication is that international institutions should be understood as changing communities of people rather than as static legal or organizational structures. Their capacity depends not only on mandates, resources, and formal delegation, but also on the careers, connections, and accumulated experiences of the people who work within and across them. By following individuals through time, the project makes visible the mechanisms through which bureaucratic influence travels, accumulates, and changes.
+Organization-carried influence: relationships that persist because agencies retain routines, records, mandates, and successor personnel capable of maintaining them.
 
+These mechanisms are not mutually exclusive. The empirical question is their relative importance. A modest person-carried component may coexist with strong organizational continuity. Likewise, a mobile individual may become a broker, but only because the new position provides the authority and access necessary to activate prior relationships.
 
+This framework also clarifies what static datasets cannot observe. A cross-sectional dataset can show that cabinet officials receive more interactions than agency staff, but it cannot establish whether this difference reflects individual reputation, career history, or the formal office. A dataset organized only around organizations can show that an agency maintains foreign relationships, but it cannot reveal whether those relationships persist through the same people or through successors. A static network can identify central actors, but it cannot determine whether brokerage reflects genuine mobility, accumulated ties, or simply degree and prominence.
+
+The longitudinal data allow these mechanisms to be separated. Person-level comparisons identify differences across career types. Within-person transitions show whether interaction changes when the same individual enters a different office. Organization-level turnover tests whether foreign ties persist after personnel change. Tie-level analyses distinguish recurrence through the original carrier from recurrence through other personnel. Finally, degree-preserving permutation tests assess whether the association between career mobility and brokerage exceeds what would be expected from the number of connections alone.
+
+The resulting argument is deliberately narrower than a general claim that bureaucrats do not matter. Individuals matter, but their influence is structured by formal position and organizational context. Career history and mobility may create a modest person-carried component, particularly for selected relationships and brokerage positions. Yet the dominant empirical pattern is that interaction follows the office, while organizations preserve their external ties through personnel change. This suggests that bureaucratic influence is neither wholly individual nor wholly institutional: it is positional in its concentration, organizational in its continuity, and only selectively personal in its transmission.
 
 
 \section{What Is a Living Dataset?}\label{sec:living}
@@ -307,94 +314,208 @@ Tables~\ref{tab:recips} and~\ref{tab:givers} list the most frequent recipients a
 
 Table~\ref{tab:countries} and Figure~\ref{fig:heatmap} aggregate gifts to the country level. Saudi Arabia (477 gifts, \$8.6 million), Qatar, Afghanistan, Jordan, China, and the United Arab Emirates lead. Gulf states are heavily overrepresented relative to their population or economic size, consistent with a gift-giving diplomatic culture and close security ties. The heatmap shows that country-level gift flows carry the imprint of events: Afghanistan and Iraq rise and fall with U.S.\ deployments, Qatar's gifts climb through the 2010s as Al Udeid became the hub of U.S.\ air operations, and Russia's are concentrated in the early 2000s and nearly vanish after 2016. Only Saudi Arabia, Jordan, China, the UAE, Pakistan, Bahrain, and South Korea give in every one of the 25 years.
 
-\section{Who Receives Foreign Gifts?}\label{sec:recips}
+% --- Empirical section revised 2026-11-05 (analysis_revised/06_paper_outputs.py builds tables/rev_* and figures/rev_*).
+% --- The former sections sec:recips, sec:shared, sec:backgrounds, and sec:office are moved unchanged to Appendix C;
+% --- the subsection "Wikidata Updates What the Gift Record Cannot" moved from sec:office to the end of sec:link.
+\section{Empirical Analysis: Position, Organization, and Brokerage}\label{sec:empirics}
+
+This section tests the three hypotheses in the theory section. It is descriptive. No design here isolates variation in careers, appointments, or personnel turnover that is unrelated to what an office does, so none of the estimates below are causal effects. Each result is labeled by the comparison it makes:
+\begin{itemize}
+\item \textbf{B}, between people;
+\item \textbf{W}, within the same person over time;
+\item \textbf{O}, within an organization over time;
+\item \textbf{N}, change in the network as a whole;
+\item \textbf{X}, a cross-sectional association.
+\end{itemize}
+Appendix~\ref{app:vars} defines every measure and documents sample construction. Appendix~\ref{app:map} maps each claim to its evidence. The analysis code is in \texttt{analysis\_revised/} and is described in its replication log.
+
+\subsection{Data and Measures}\label{sec:measures}
+
+\paragraph{Interactions.} A gift record is the trace of an encounter between a U.S. official, the agency that reports the gift, a foreign official, and a foreign government. The gift itself is not the outcome of interest. We count interactions; their value is not used.
+
+\paragraph{Recipient-year panel.} The person-level analysis covers the 1,015 U.S. recipients linked to a human Wikidata item, in receipt years 1998--2023. Career information comes from dated Wikidata positions (P39) and employers (P108). Each spell is assigned to a sector (legislature, national executive, diplomatic, military, subnational, judiciary, international organization, academic or research, private) and to an organization.
+
+A person is in the risk set in years when they hold a dated U.S. public position or receive a gift, so years with no gifts are meaningful zeros. Career measures are available for 590 recipients, and the coverage is uneven: 93\% of cabinet-level officials have a dated career, against 36\% of agency, military, and diplomatic staff. The comparisons below are therefore weighted toward visible offices.
+
+Recipients fall into four prominence groups:
+\begin{itemize}
+\item cabinet level and above (170 people);
+\item family members of presidents and vice presidents (13);
+\item legislators (264);
+\item agency, military, and diplomatic staff (568).
+\end{itemize}
+
+\paragraph{Career measures.} All career and history measures use only information from before year $t$.
+\begin{itemize}
+\item \emph{Career length}: years since the first dated spell.
+\item \emph{Tenure}: years in the current organization, merging consecutive spells there.
+\item \emph{Prior appearances}: gifts received before $t$.
+\item \emph{Prior organizations}: distinct organizations in earlier spells.
+\item \emph{Mobility}: changes of sector between consecutive spells, and moves between the public, private, academic, and international-organization domains.
+\item \emph{Cabinet-level office}: whether the person holds a cabinet-level or higher U.S. office in $t$.
+\end{itemize}
+
+\paragraph{Network measures.} The person-level network is the bipartite graph of linked recipients and giving countries. Built from one year's gifts it is contemporaneous; built from earlier years it is lagged. For each recipient we compute:
+\begin{itemize}
+\item \emph{degree}: the number of countries;
+\item \emph{betweenness}: normalized shortest-path betweenness;
+\item \emph{participation}: the participation coefficient of the person's ties across Louvain communities, so 0 means all ties fall in one community;
+\item \emph{brokerage}: whether the person reaches two or more communities.
+\end{itemize}
+For the whole-period broker rankings, a tripartite graph adds the reporting agencies, so a person scores high by connecting agencies and governments that are otherwise far apart.
+
+\paragraph{Turnover and tie recurrence.} An agency-country-year tie exists when a country gives to linked recipients of an agency in year $t$; those recipients are the tie's \emph{carriers}. A carrier has left if they never again receive gifts under that agency. The tie recurs if the country gives to the agency in any of the next three years. Recurrence is split by who receives the later gift: the original carriers, other personnel of the agency, or anyone. At the agency-year level, \emph{turnover} is the share of last year's linked recipients not observed this year.
+
+\subsection{Position Versus Career}\label{sec:position}
 
 \begin{table}[t]
-\centering\footnotesize\setlength{\tabcolsep}{4pt}
-\caption{Wikidata-linked recipients by branch of the reporting agency. A person who received gifts under several branches is counted in each. ``Female'' is the share of people with a recorded gender. ``Military'' means a recorded military rank (P410) or military occupation (P106). ``Diplomat'' and ``Law'' are occupation groups. ``Party member'' means any recorded party membership (P102). ``Studied abroad'' is the share of people with at least one school of known country who attended a school outside the United States. Missing statements count as absent, so shares other than ``Female'' and ``Studied abroad'' are lower bounds.}\label{tab:recipprofile}
-\input{tables/tab_recip_profile}
+\centering\footnotesize\setlength{\tabcolsep}{5pt}
+\caption{Formal position, career, and interaction counts (person-year). Poisson pseudo-maximum likelihood; standard errors clustered by person in parentheses. The outcome is the number of gifts received in year $t$. Columns 1 and 3 compare people (B), with year and current-sector fixed effects. Columns 2 and 4 compare the same person over time (W), with person and year fixed effects. Career length drops out of the within-person models because it is collinear with person and year fixed effects. Columns 3--4 exclude everyone who ever held a cabinet-level office. * $p<0.05$, ** $p<0.01$, *** $p<0.001$.}\label{tab:rev_position}
+\input{tables/rev_tab_position}
 \end{table}
 
-The QIDs turn the gift record into a roster of the officials whom foreign governments cultivate. Table~\ref{tab:recipprofile} describes the 1,026 linked recipients using Wikidata statements (coverage is reported in Table~\ref{tab:wdcov}). The branches draw on distinct populations. Seventy-four percent of Defense recipients have a military career, and only 12\% are women. Seventy-one percent of Diplomatic recipients are recorded as diplomats, and 32\% are women, the highest share outside the White House. Legislative recipients are older (median birth year 1951), and 42\% are lawyers, as one would expect of members of Congress. The White House group is the youngest (median birth year 1961) and the most often female, because it includes first ladies, presidential children, and National Security Council staff.
+Table~\ref{tab:rev_position} estimates interaction counts from formal position, career length, tenure, prior appearances, and mobility. Four findings stand out.
 
-Two columns speak directly to the study of bureaucracy. Party membership, recorded for 87\% of legislators, is recorded for only 30\% of Diplomatic and 17\% of Defense recipients. Absence of a party statement is not proof of a career appointment, but the gradient is consistent with the distinction between political appointees and career officials \citep{lewis2008politics}. The share who studied outside the United States is also low and varies by branch: 17\% at State and 7\% in Defense. As a result, a foreign official who wants a counterpart with shared educational experience will usually find one only by having studied in the United States. We return to this point below.
+\emph{Formal position is the strongest correlate of interaction.} Between people, holding a cabinet-level office is associated with about 4.3 times as many gifts in a year (coefficient 1.46, SE 0.15). The within-person association is larger: the same person receives about nine times as many gifts in years in cabinet-level office as in other years (2.20, SE 0.30).
 
-These profiles describe the \emph{linked} recipients, who are more prominent than the officials whose names could not be resolved. Assistant secretaries, deputy chiefs of mission, and colonels are less likely to have Wikidata items than secretaries and four-star officers, so the table is a portrait of the upper bureaucracy. Because the profile is rebuilt from the claims at each release, it will extend down the hierarchy as more officials are linked and as Wikidata adds items for them.
+The event-time estimates in Table~\ref{tab:rev_events} and Figure~\ref{fig:rev_events} tell the same story (W). Gifts rise sharply in the year a person enters a cabinet-level office (1.79 log points, 26 moves), with no clear rise in gifts beforehand. The number of countries, however, is already higher two to three years before entry (0.57, SE 0.19), so anticipation cannot be ruled out for that outcome. Lateral or non-cabinet moves show no comparable change (0.32, SE 0.51; 78 moves). Among agency, military, and diplomatic staff the post-move coefficient is 1.45 (SE 0.73), but the pre-period coefficient is 0.95 (SE 0.48), so differential trends cannot be ruled out. Assigning the same move years to randomly chosen non-movers 200 times gives a mean post-move coefficient of $-0.01$ (SD 0.25), against an observed 1.23 for all moves. The pattern is therefore not an artifact of the stacked design. It is a change of office, which is what the positional account predicts.
 
-\section{What Do Givers and Recipients Share?}\label{sec:shared}
+\emph{Career length is not positively associated with interaction.} Across all people it is unrelated to interaction counts (0.02, SE 0.09). Among people who never held cabinet office it is \emph{negatively} associated with gifts ($-0.35$, SE 0.13). Long-serving legislators account for much of that group: they have the longest recorded careers and receive comparatively few gifts per year. Neither result supports the career-centered expectation that accumulated experience brings more interaction.
+
+\emph{Tenure is negatively associated with interaction, but the association depends on cabinet officials.} Between people, longer tenure in the current organization goes with fewer gifts ($-0.41$, SE 0.09), and the within-person association is weaker ($-0.17$, SE 0.08). Without cabinet officials both are near zero (0.07 and 0.04). The coefficient should not be read as interaction declining over a career. Cabinet terms are short and their gift-intensive first years weigh heavily, and long-tenured officeholders such as legislators sit in less gift-intensive offices.
+
+\emph{Repeated appearances differ across people but do not accumulate within people.} People with more earlier appearances receive more gifts (B: 0.61, SE 0.04). Within the same person the sign reverses ($-0.22$, and $-0.74$ without cabinet officials). That reversal reflects mean reversion and the known bias of lagged outcomes in fixed-effects models, not evidence that interaction decays. The defensible conclusion is that repeated appearance marks persistent differences between people, not a within-person stock that grows.
+
+Two further results complete the picture:
+\begin{itemize}
+\item \emph{Mobility.} Prior cross-sector and domain moves are unrelated to interaction counts in every column.
+\item \emph{Prior organizations.} The within-person coefficient is positive (0.56, and 0.60 without cabinet officials). This count rises only when a person moves, so it captures the same contrast as the event study. Among staff alone it loses significance once the ten most-observed staff are dropped (Appendix~\ref{app:vars}).
+\end{itemize}
 
 \begin{table}[t]
 \centering\footnotesize\setlength{\tabcolsep}{4pt}
-\caption{Characteristics shared by the giver and the recipient of each gift, compared with random pairings. The unit is a gift whose giver and recipient both have QIDs. ``Gifts'' counts those for which the characteristic is recorded for both people. The two baselines shuffle givers among gifts reported in the same year, or in the same branch and year, and average 500 permutations. ``Ratio'' is observed over the branch-year baseline. $p$ is the share of branch-year permutations at least as large as the observed value. ``Professional career'' groups occupations into military, diplomat, law, economics/business, academic, and civil servant (``politician'' is excluded). Panel B drops gifts reported by the White House and Congress.}\label{tab:shared}
-\input{tables/tab_shared}
+\caption{Interactions before and after a change of organization (stacked event study, W). Poisson PML with stack-by-person and stack-by-year fixed effects; standard errors clustered by person. Treated: linked recipients in a dated U.S. public position in $g-1$ who start a spell in a new organization in $g$, with no other move within three years. Controls: people in office in $g-1$ with no move within three years. ``After'' pools $t \geq g$; ``before'' pools $g-3$ and $g-2$; the reference year is $g-1$.}\label{tab:rev_events}
+\resizebox{\linewidth}{!}{\input{tables/rev_tab_events}}
 \end{table}
 
 \begin{figure}[t]
 \centering
-\includegraphics[width=\linewidth]{figures/fig_shared.pdf}
-\caption{Giver--recipient similarity relative to random pairing (the ratios in Table~\ref{tab:shared}). Diamonds compare the observed rate with random pairing within the same year; circles compare it with random pairing within the same branch and year. The distance between them is the part of the similarity explained by the office. Gray bars show the middle 95\% of the 500 branch-year permutations, so a circle outside its bar is unlikely to arise by chance. For a shared employer in the executive agencies, the bar extends below the axis because many permutations produce no matches.}\label{fig:shared}
+\includegraphics[width=\linewidth]{figures/rev_fig_position_events.pdf}
+\caption{Gifts before and after a change of organization, by type of move (event-time coefficients with 95\% confidence intervals; reference year $-1$). Specification as in Table~\ref{tab:rev_events}.}\label{fig:rev_events}
 \end{figure}
 
-Because both parties to a gift carry QIDs, every gift is also a \emph{dyad} of two people whose characteristics can be compared. We compare each giver with the recipient on seven characteristics: gender, professional career, military service, birth cohort, the country and the specific institution where each was educated, and employer. Similarity alone is not evidence of anything, since the people who meet American officials are not a random draw from the world's elites. We therefore compare the observed rate of similarity with two random-pairing baselines (Table~\ref{tab:shared} and Figure~\ref{fig:shared}). The first shuffles givers among all gifts reported in the same year, which preserves the overall mix of givers and recipients. The second shuffles givers only within the same branch \emph{and} year, which also preserves the kind of foreign official each branch receives. The gap between the observed rate and the first baseline measures the total excess similarity. The gap between the observed rate and the second measures how much of it remains once the office is held fixed. That remainder is the part attributable to the sorting of \emph{people}.
-
-\paragraph{Most similarity is institutional.} Givers and recipients share a professional career in 51.6\% of gifts, against 36.8\% under random pairing within the year. But pairing at random within branch and year already yields 48.7\%, so about four-fifths of the excess comes from the office. The same holds for military service: 13.6\% of gifts pass between two people with military careers, against 9.2\% at random and 13.0\% within branch. In Figure~\ref{fig:shared}, this appears as the wide gap between the diamonds and the circles for career and military service. This is the protocol matching of Section~\ref{sec:desc} (Figure~\ref{fig:rolebranch}) seen at the level of individuals. A foreign general gives to an American admiral because the admiral holds the office that receives foreign generals, not because of any personal affinity between the two.
-
-\paragraph{Person-level similarity is real but modest.} Even against the branch-year baseline, observed similarity in gender, career, military service, and birth cohort is higher, by ratios of 1.02 to 1.08, and in all but one case fewer than 1\% of permutations match it. In the executive agencies (Panel~B), the excess is clearest for professional careers (62.3\% against 57.4\%) and for birth cohort (35.1\% against 32.9\%). Within the same office and year, foreign officials are slightly more likely to give to an American of the same profession and generation. Gender is a partial exception. Across all branches, same-gender pairs exceed the branch-year baseline by about five points, but in the executive agencies the excess is only one point. Gender matching is concentrated in the White House: 162 of the 233 woman-to-woman gifts went to White House recipients, most of them to first ladies and many from the spouses of foreign leaders.
-
-\paragraph{Shared schooling is rare but striking.} Givers and recipients attended the same institution in fewer than 1\% of gifts. That share is still 1.65 times the branch-year baseline in the executive agencies ($p=0.01$). The cases are concentrated in elite American schools and in military education. Admiral Gary Roughead, Chief of Naval Operations, received four gifts in 2009--2011 from a Saudi naval officer, Prince Fahd bin Abdullah bin Mohammed Al Saud, who, like Roughead, attended the U.S.\ Naval Academy. Colin Powell (2001) and Joseph Ralston (1999) received gifts from foreign officers who had attended the Army Command and General Staff College: Bahrain's Hamad bin Isa Al Khalifa and Georgia's David Tevzadze. Ambassador David Hale and King Abdullah II of Jordan are both graduates of Georgetown's School of Foreign Service. The giver side shows the size of this pool. Of the 1,526 linked givers whose schools are recorded, 288 (19\%) studied at an American institution, and they account for 22\% of gifts from givers with recorded schools. Twenty-seven attended an American service academy or staff or war college, among them Bahrain's Hamad bin Isa Al Khalifa, Egypt's Abdel Fattah el-Sisi, Rwanda's Paul Kagame, and Indonesia's Susilo Bambang Yudhoyono. Such alumni are the people that research on educational exchange and professional military education expects to carry American ties into foreign governments \citep{atkinson2010soft,ruby2010pme,gift2017who}. The gift record shows some of them maintaining those ties with specific American counterparts.
-
-\paragraph{Caveats.} The unit is the gift, so a pair that exchanges many gifts weighs more than a pair that exchanges one. Gifts are not independent, so the permutation $p$-values are descriptive. All seven comparisons depend on what Wikidata records. Coverage of education and employment is thinner for givers from some regions, and missing statements bias every match rate downward. This is also where the living design matters: the rates in Table~\ref{tab:shared} are recomputed from the claims at each release, so they will sharpen as Wikidata's coverage of foreign officials grows. The design extends naturally to richer measures of similarity, such as overlapping assignments, common postings, or shared membership in international bodies, all of which can be read from dated Wikidata positions.
-
-\section{Technical, Business, and Political Backgrounds}\label{sec:backgrounds}
-
-The officials on both sides of a gift arrive in office by different routes. Some are career politicians. Others are technocrats, such as economists, central bankers, civil servants, and officials of international organizations, and others come from the private sector. The background of an officeholder shapes policy \citep{adolph2013bankers,alexiadou2016ideologues,hallerberg2020economists}, and it may also shape whom an official deals with and how. This section classifies givers and recipients by background and by the office they held when the gift was exchanged, then asks whether technocrats, business people, and politicians exchange gifts with different counterparts and exchange different gifts.
-
-\paragraph{Coding background and office.} We classify each person by the kind of work that fills most of their recorded career. From the dated positions (P39) and employers (P108) in Wikidata, we count the calendar years each person spent in four kinds of work:
-\begin{itemize}
-\item \emph{Political:} elected office, heads of state and government, cabinet posts, and royalty.
-\item \emph{Technical:} central banks, finance ministries, international organizations, sub-cabinet and diplomatic posts, the judiciary, and employment by a government agency, university, or research institute.
-\item \emph{Business:} employment by a firm, or posts such as chief executive.
-\item \emph{Military:} commands and ranks.
-\end{itemize}
-Overlapping jobs are counted once, an undated job counts as four years, and a general or flag rank counts as a full military career. The primary background is the kind of work with the most years. Under this rule, a lawyer who spent most of a career in elected office is political (Barack Obama, Joe Biden, Mike Pompeo). A politician whose career was mainly in business is business (Donald Trump, Silvio Berlusconi, Rex Tillerson, Steven Mnuchin), and a central banker or international civil servant who entered politics is technical (Mario Draghi, Ban Ki-moon). Spouses and children of leaders form a separate category, because they receive and give gifts through family rather than career. People with no classifiable job fall back on occupation and education codes. Table~\ref{tab:bgprofile} also reports three overlapping indicators, which flag any technical occupation, education, or position, any business occupation, and any political career.
-
-The office is coded at the time of the gift. For recipients it follows the reporting agency: the White House and Congress are political offices, State and USAID diplomatic, Defense, the intelligence community, and Homeland Security security offices, and the remaining executive agencies and the courts technical. For givers it follows the title in the gift report. Finance ministers, central bankers, directors-general, commissioners, and officials of international organizations hold technical offices. Executives of firms hold business offices. Heads of state, ministers, and legislators hold political offices, and officers and diplomats hold security and diplomatic offices.
+\subsection{Organizational Continuity After Turnover}\label{sec:continuity}
 
 \begin{table}[t]
-\centering\footnotesize
-\caption{Backgrounds of Wikidata-linked recipients and givers. The indicators overlap; the primary background is the kind of work that fills most of a person's recorded career (see text). ``Unknown'' means Wikidata records no classifiable job or occupation.}\label{tab:bgprofile}
-\input{tables/tab_bg_profile}
+\centering\footnotesize\setlength{\tabcolsep}{5pt}
+\caption{Recurrence of agency-country ties after the original carriers leave (O). Unit: an agency-country tie observed in year $t$ through linked recipients. Recurrence: the country gives to the agency again in $t+1$ to $t+3$. Panel A shows shares; Panel B shows linear probability models with agency-by-year and country-by-year fixed effects and log number of carriers, with standard errors clustered by agency. When all carriers leave, recurrence through the original carrier is zero by construction. The ties come from 27 agencies, 21 of which remain after singleton groups are dropped.}\label{tab:rev_continuity}
+\input{tables/rev_tab_continuity}
 \end{table}
 
-\paragraph{Who has which background.} The recipient and giver populations differ (Table~\ref{tab:bgprofile}). A third of linked American recipients are technocrats by career, about the same share as politicians, and a fifth are military officers. Foreign givers are much more often politicians (48\%), reflecting the heads of state, ministers, and legislators who dominate summit diplomacy, and only 11\% are technocrats. Business careers are rare on both sides: 4\% of recipients and 2\% of givers.
+Hypothesis 2 concerns what happens to an agency's foreign tie when the people who carried it leave. Table~\ref{tab:rev_continuity} separates three kinds of recurrence (O):
+\begin{itemize}
+\item through the original carrier;
+\item through other personnel of the same agency;
+\item total recurrence, through anyone at the agency.
+\end{itemize}
+
+\emph{Total recurrence falls when all original carriers leave.} When at least one carrier stays, 64\% of ties recur within three years. When all carriers leave, 47\% do: a difference of 11 percentage points with agency-year and country-year fixed effects (SE 2.2).
+
+\emph{Recurrence through other personnel is essentially unchanged.} The share recurring through other personnel is 47.9\% when a carrier stays and 47.4\% when all leave. The adjusted difference is 1.9 points (SE 2.9). The fall in total recurrence comes entirely from the departing carriers' own repeat contact. The agency's relationship with the country continues through other personnel at the same rate.
 
 \begin{table}[t]
 \centering\footnotesize\setlength{\tabcolsep}{4pt}
-\caption{Who gives to whom, by primary background. Gifts whose giver and recipient both have a known background. Each cell shows the percentage of the row's gifts going to each recipient background, with the ratio to the share expected if givers and recipients were matched independently in parentheses. Ratios above 1 mean more gifts than expected.}\label{tab:bgmatrix}
-\input{tables/tab_bg_matrix}
-
-\bigskip
-\caption{Who gives to whom, by office at the time of the gift. All gifts with a classifiable giver office. Cells as in Table~\ref{tab:bgmatrix}.}\label{tab:officematrix}
-\input{tables/tab_office_matrix}
+\caption{Do foreign contacts follow the person? Episodes in which a linked recipient is observed under agency A and later under agency B. Row 1: the share of the mover's gifts at B that come from countries that gave to them at A, against the same share among B's other recipients in the same years. Row 2: the same for specific foreign individuals. Row 3: at A, the share of other recipients' gifts from the mover's countries in the three years after the move against the three years before. $p$-values from 5,000 sign-flip permutations.}\label{tab:rev_movers}
+\input{tables/rev_tab_movers}
 \end{table}
 
-\paragraph{Who exchanges gifts with whom.} Gifts pass between like backgrounds more often than independent matching would predict (Table~\ref{tab:bgmatrix}). The pattern is strongest for spouses and family, who give to their American counterparts at 5.4 times the expected rate, and for military officers (2.7). It is weaker but present for business (1.7) and technical (1.2) careers. Givers with business careers are also overrepresented among gifts to American technocrats (1.4) and underrepresented among gifts to military officers (0.4). Political givers spread their gifts across recipient types almost in proportion. Sorting by office is far sharper than sorting by background (Table~\ref{tab:officematrix}). Foreign officials in technical offices direct 38\% of their gifts to American technical agencies, 5.8 times the expected share, whereas political officeholders direct only 3\% of theirs there. Security offices give 87\% of their gifts to American security agencies. The few givers in business offices give mostly to technical agencies and to the State Department. As in Section~\ref{sec:shared}, the office does most of the sorting. Background adds a weaker, person-level layer on top of it.
+\emph{Movers show only modest, imprecise evidence of carrying ties to new agencies} (Table~\ref{tab:rev_movers}):
+\begin{itemize}
+\item At their new agency, 13.9\% of movers' gifts come from countries that gave to them before, against 9.4\% for colleagues there. The difference is 4.5 points ($p=0.11$; 68 episodes).
+\item For specific foreign individuals the difference is one point ($p=0.65$).
+\item At the old agency, the mover's countries account for somewhat less of colleagues' gifts after the move: 9.4\% against 12.6\% before ($p=0.02$).
+\end{itemize}
+
+Agency-year models point the same way with very little power. Across 205 agency-years in 15 agencies, the share of last year's recipients who are gone is unrelated to the share of last year's countries that give again ($-0.02$, SE 0.07). A change in the agency's most frequent recipient is not associated with retention at conventional levels ($-0.04$, SE 0.03).
+
+We read these results as evidence of organizational continuity with a limited person-carried component. The design has clear limits:
+\begin{itemize}
+\item Departure is observed only through the gift record, so it partly reflects how active a person is.
+\item Agencies with more ties may differ in ways the fixed effects do not absorb.
+\item Only 21 agencies contribute to the tie-level estimates, and 15 to the agency-year estimates.
+\end{itemize}
+The results show that ties recur through successors. They do not show that organizational routines cause the recurrence.
+
+\subsection{Positional Brokerage}\label{sec:brokerage}
 
 \begin{table}[t]
 \centering\scriptsize\setlength{\tabcolsep}{3pt}
-\caption{The nature and value of gifts by the background of the giver and of the recipient. Median value and the share over \$5,000 exclude travel. Gift types are coded from the item description by keyword; the remaining 12\% of gifts (pens, desk sets, and miscellany) are not shown.}\label{tab:bggifts}
-\input{tables/tab_bg_gifts}
+\caption{Top brokers by position (X). Recipients with at least three gifts and a plausible identifier link ($N=311$), ranked by betweenness in the 1998--2023 graph of recipients, reporting agencies, and giving countries. ``Position held in gift years'' is the Wikidata position covering the years of the person's gifts (weighted by gifts), else the title in the gift record. ``Rank'' is the overall rank. Participation and number of communities (``Comm.'') come from the recipient-country graph, with Louvain communities (seeded).}\label{tab:rev_brokers}
+\resizebox{\linewidth}{!}{\input{tables/rev_tab_brokers}}
 \end{table}
+
+Table~\ref{tab:rev_brokers} identifies brokers by betweenness and reports their degree (countries and agencies), participation coefficient, and the number of communities they reach (X).
+
+\emph{Most top brokers are cabinet-level or above.} Of the top decile of brokers (31 of 311 people), 29 held a cabinet-level office or above: presidents, vice presidents, and secretaries of state and defense. Every one of the top 20 is in this group. Cabinet officials also span communities most evenly (median participation 0.72, against 0.63 for legislators and 0.44 for staff).
+
+\emph{Below cabinet level, brokers hold boundary-spanning offices.} Among staff they are:
+\begin{itemize}
+\item military chiefs (the Chiefs of Naval Operations Roughead and Greenert, and Supreme Allied Commander Europe Stavridis);
+\item a protocol officer (Chief of Protocol Capricia Marshall);
+\item defense officials (the Under Secretary of Defense for Intelligence, the Director of the Defense Intelligence Agency, and an Assistant Secretary of Defense for Asian and Pacific Affairs).
+\end{itemize}
+Among legislators they are senior senators on foreign-relations and armed-services committees (McConnell, McCain, Lugar, Frist, Graham). Each appears under only one or two reporting agencies. They connect many governments from a single office, not by moving between agencies.
 
 \begin{table}[t]
-\centering\footnotesize
-\caption{Log estimated value of a gift regressed on giver and recipient backgrounds and giver office, with branch and year fixed effects. Gifts with both parties linked and a known background, excluding travel. The reference category is political for each set of indicators. Standard errors are clustered by giver. ``Value ratio'' is $\exp(\beta)$, the multiplicative difference in value relative to the reference.}\label{tab:bgvalue}
-\input{tables/tab_bg_value}
+\centering\footnotesize\setlength{\tabcolsep}{4pt}
+\caption{Career mobility and brokerage, with and without degree (person-year). OLS; standard errors clustered by person. Outcomes: betweenness ($\times 100$) and participation coefficient in the year-$t$ recipient-country network. Sample: person-years with at least one gift from a known country and a dated career. Mobility measures use spells and gifts before $t$.}\label{tab:rev_brokerage}
+\input{tables/rev_tab_brokerage}
 \end{table}
 
-\paragraph{The nature and value of gifts.} What is given differs more by background than how much (Tables~\ref{tab:bggifts} and~\ref{tab:bgvalue}). Givers with business careers give the most valuable gifts at the median (\$728) and most often give gifts worth more than \$5,000 (10\%), and they give textiles and clothing far more often than other givers (19\%). Military givers favor weapons and ceremonial items such as swords, daggers, and medals (16\%). Spouses and family give jewelry (26\%) and receive it (31\%). Watches go disproportionately to American military officers (14\% of their gifts). Once the branch and year are held fixed, however, most differences in value are small and imprecise. Gifts from business givers are about 20\% more valuable than gifts from political givers, but the estimate is not distinguishable from zero. Gifts from military givers are about a third less valuable, and gifts from foreign diplomats about 30\% less valuable, than gifts from political officeholders. The recipient's background makes little difference to value once the branch is known. Foreign governments appear to scale the value of a gift to the office and the occasion, and to tailor its form to the person.
+\emph{Mobility is generally unrelated to brokerage once degree is controlled.} Without a degree control, people with more prior cross-sector moves, or who have served under more than one agency, have markedly higher betweenness and participation (Table~\ref{tab:rev_brokerage}, columns 1 and 3, B). Once the number of countries a person deals with is held fixed, those associations fall to near zero (columns 2 and 4). They are also absent within persons (column 5, W).
 
-\paragraph{Caveats.} Business careers are rare, so the business estimates rest on a few hundred gifts. The classification depends on Wikidata's dated positions and employers. These are fuller for prominent people and for Western countries, and a fifth of givers have no classifiable career. The office codes for givers rely on titles in the gift reports, and a quarter of giver offices cannot be classified. Gift types are coded by keyword. All of these codes are stored in the analysis script, and the classification is recomputed at each release, so it will improve as Wikidata records more of each official's career.
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/rev_fig_null.pdf}
+\caption{Observed versus null brokerage. For each administration, the Spearman correlation between a recipient's betweenness and their prior cross-sector moves (black dots), against 200 degree-preserving rewirings of the recipient-country graph. Every rewiring keeps each recipient's and each country's number of ties. Bars show the middle 95\% of the null distribution; $p$ is two-sided.}\label{fig:rev_null}
+\end{figure}
+
+\emph{Degree-preserving permutation tests show that the apparent mobility--brokerage association mostly reflects network size.} Figure~\ref{fig:rev_null} compares each administration's observed correlation between betweenness and prior mobility with graphs rewired to preserve every node's degree. In six of seven administrations the observed correlation lies within the null range. The exception is Obama's first term: observed 0.12 against a null mean of 0.08 ($p<0.005$). Permuting mobility across people, holding the network fixed, gives the same answer ($p=0.40$). Mobile and prominent officials look like brokers mainly because they have more ties.
+
+\subsection{Network Change Over Time}\label{sec:netchange}
+
+\begin{table}[t]
+\centering\footnotesize\setlength{\tabcolsep}{4pt}
+\caption{The agency-country interaction network by administration (N). ``Kept from prev.'' is the share of the previous administration's agency-country ties observed again. Modularity uses Louvain communities on the agency-country graph. ``Top-10 share'' is the share of linked recipients' gifts that go to the ten most frequent recipients.}\label{tab:rev_network}
+\resizebox{\linewidth}{!}{\input{tables/rev_tab_network}}
+\end{table}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/rev_fig_network_change.pdf}
+\caption{Change in the recipient-country network across years (N), 1999--2023. Dashed lines mark major events.}\label{fig:rev_netchange}
+\end{figure}
+
+The network changes over time (Table~\ref{tab:rev_network}, Figure~\ref{fig:rev_netchange}; N):
+\begin{itemize}
+\item \emph{Carryover.} Between 55\% and 61\% of one administration's agency-country ties carry over to the next through Obama's second term. Carryover falls to 31\% under Trump and 40\% under Biden.
+\item \emph{Segmentation.} Modularity rises from 0.25--0.32 in the Bush and Obama years to 0.39--0.42 under Trump and Biden, so the network becomes more segmented.
+\item \emph{Concentration.} The ten most frequent recipients' share of linked recipients' gifts falls from 77\% under Clinton to about 53\% in Obama's second term, then rises to 69\% under Biden.
+\item \emph{COVID.} The sharpest single break comes in 2020: recipient-country ties fall from 115 to 38, and only 9\% of 2019's agency-country ties recur in 2020.
+\end{itemize}
+These shifts coincide with the post-2016 decline in reported gifts (Section~\ref{sec:desc}). Changes in reporting cannot be separated from changes in behavior. None of the institutional reforms in the period (the creation of DHS in 2003 and of ODNI in 2005) produces a visible discontinuity at this resolution.
+
+\subsection{What the Evidence Supports}\label{sec:evidence}
+
+The three claims rest on evidence of different strength (Appendix~\ref{app:map}):
+\begin{enumerate}
+\item \textbf{Position versus career: strongest support.} The pattern appears between people (B) and within people (W): cabinet office goes with far more interaction in both, entry into it is followed by a sharp rise, and career length and mobility are not positively associated with interaction. Interaction follows the office. The estimates do not identify why: visibility, protocol obligations, and authority are bundled in the office.
+\item \textbf{Organizational continuity: descriptive support, limited power.} When carriers leave, agency-country ties recur through other personnel at the same rate, and movers carry only a modest, imprecise share of their contacts (O). The tests rest on 21 agencies. Departure is measured from the gift record itself.
+\item \textbf{Positional brokerage: descriptive support, reinforced by null comparisons.} Brokerage is concentrated in cabinet offices and in boundary-spanning offices below them (X). The apparent link between mobility and brokerage disappears when degree is controlled and against degree-preserving null graphs.
+\end{enumerate}
+
+Two questions the theory raises are beyond these data. The revolving door into the private sector cannot be tested: the gift record ends when public office ends, and Wikidata records few private-sector spells. Career effects on behavior after appointment cannot be tested either, because the data contain no measures of behavior or decisions.
+
 
 \section{The Wikidata Identifier as a Linking Key}\label{sec:link}
 
@@ -432,31 +553,6 @@ The same logic extends beyond the CLD. Any dataset that carries QIDs, or that ca
 \subsection{Why the Key Matters for Living Data}
 
 Persistent identifiers also make the link durable. If our data and the CLD both update, the join still works, because neither project's internal row numbers or name spellings matter. By contrast, a crosswalk built between two static files on names breaks as soon as either file is revised. The QID moves the work of maintaining identity out of individual research projects and into a shared, openly edited resource. When a Wikidata editor merges two duplicate items for the same person, every project keyed to that person benefits.
-
-\section{Office Versus Officeholder}\label{sec:office}
-
-\begin{table}[t]
-\centering\footnotesize
-\caption{Recipients who received gifts under more than one branch, with the sequence of branches and the years in which gifts were received. Fifty-three recipients meet this criterion; the fifteen with the most gifts are shown.}\label{tab:careers}
-\input{tables/tab_careers}
-\end{table}
-
-\begin{figure}[t]
-\centering
-\includegraphics[width=\linewidth]{figures/fig_careers.pdf}
-\caption{Careers traced through the gift record. Each row is one person (one Wikidata QID). Segments span consecutive years in which that person received gifts reported by a given branch; gaps of more than two years break a segment. Colors and marker shapes both identify the branch.}\label{fig:careers}
-\end{figure}
-
-The study of bureaucracy has long distinguished the office, with its authority, its agenda, and its foreign counterparts, from the person who occupies it, with their ambition, expertise, and networks \citep{gailmard2007slackers,lewis2008politics,teodoro2011bureaucratic}. Many administrative datasets record only the office. The gift reports record both, and the QID lets us separate them.
-
-Table~\ref{tab:careers} and Figure~\ref{fig:careers} show what this looks like. Fifty-three recipients received gifts under more than one branch. Hillary Clinton appears as First Lady (White House, 1998--2000), as a senator (2002--2007), and as Secretary of State (2009--2013). Mike Pompeo moves from the CIA to State; Leon Panetta from the CIA to Defense; David Petraeus from Central Command to the CIA; William Burns from the State Department to the CIA; John Brennan from the White House to the CIA. Antony Blinken appears as a Senate Foreign Relations Committee staffer, as a White House national security official, and as Deputy Secretary and then Secretary of State. The office-level record (``the intelligence community reported 947 gifts'') and the person-level record (``Pompeo received 47 gifts, under two branches'') answer different questions, and the QID lets a researcher move between them.
-
-The design supports several kinds of analysis:
-\begin{itemize}
-\item \textbf{Within-person comparisons across offices.} Does the same individual receive more, or more valuable, gifts after moving to a more senior or more externally facing office? Holding the person fixed isolates the effect of the office.
-\item \textbf{Within-office comparisons across holders.} Do successive holders of the same post (Secretaries of State, CENTCOM commanders) attract similar gift portfolios, or do some holders carry their foreign relationships with them? A giver who presents gifts to the same American across several of that person's posts is evidence of a \emph{personal}, not institutional, tie.
-\item \textbf{Revolving doors and career paths.} Movements between Congress, the executive, and the intelligence community, and on to the private sector, are central to research on capture and influence \citep{dalbo2006regulatory,blanes2012revolving}. The gift record observes the public-sector legs of these paths with exact dates.
-\end{itemize}
 
 \subsection{Wikidata Updates What the Gift Record Cannot}
 
@@ -552,5 +648,235 @@ The authors are not aware of any affiliations, memberships, funding, or financia
 
 \bibliographystyle{plainnat}
 \bibliography{references}
+
+
+\clearpage
+\appendix
+\renewcommand{\thetable}{\thesection\arabic{table}}
+\renewcommand{\thefigure}{\thesection\arabic{figure}}
+
+\section{Variables and Sample Construction}\label{app:vars}
+\setcounter{table}{0}\setcounter{figure}{0}
+
+All variables are built by \texttt{analysis\_revised/02\_build\_data.py}. Every column of every dataset is documented in \texttt{analysis\_revised/CODEBOOK.md}, which is generated from the data and fails if a column is undocumented. Table~\ref{tab:rev_sample} traces the samples from the gift records to the estimation samples, and Table~\ref{tab:rev_vars} defines the measures used in Section~\ref{sec:empirics}.
+
+\begin{table}[ht]
+\centering\footnotesize
+\caption{Sample construction.}\label{tab:rev_sample}
+\resizebox{\linewidth}{!}{\input{tables/rev_tab_sample}}
+\end{table}
+
+\paragraph{Identifier linkage.} The person-level samples are smaller than the linkage counts in Section~\ref{sec:desc} for three reasons.
+\begin{enumerate}
+\item Some linked QIDs are not people. 378 linked giver QIDs (1,108 records) and 4 recipient QIDs are states, ministries, international organizations, or link errors (Wikimedia category pages, a flag design). Linkage to a human item is 71.0\% of records for recipients and 65.7\% for givers.
+\item Two heavily observed people had no Wikidata claims: George W.\ Bush (888 records) and Laura Bush (445). Their QIDs are assigned by the bare-office rule, which the enrichment step did not cover. Their claims were added from a supplementary download.
+\item Twenty-three links have dates that cannot match the gift record, for example a person who died before the gift. Their gift records are kept, but their career measures are not used.
+\end{enumerate}
+Linkage is far from random. It ranges from 84\% of White House records to 35\% of intelligence records, and from 96\% for gifts from heads of state to 22\% for unclassified givers. Item-level audit lists are in \texttt{analysis\_revised/data/audit\_*.csv}.
+
+\paragraph{Career spells.} A spell is a Wikidata position held (P39) or employer (P108) with a start date. Its organization is the position's ``organization directed'' (P2389), else ``part of'' (P361), else the position item itself; employers are their own organization. Its sector comes from ordered keyword rules on the position label, the organization label, and the item's types. Generic labels without an organization (``member'', ``board member'') are left unclassified and do not count as organizations or moves. A spell with no end date is closed at the start of the person's next spell in another organization, else at death, else in 2025.
+
+\paragraph{Prominence groups.} The groups are assigned in this order:
+\begin{enumerate}
+\item \emph{Cabinet level and above}: ever held the presidency, vice presidency, a cabinet secretaryship, or an office of equivalent rank (White House chief of staff, national security advisor, CIA director, DNI, chairman of the Joint Chiefs, UN ambassador, OMB director, U.S. trade representative, EPA administrator), or was First or Second Lady. Identified from Wikidata or from the title in the gift record.
+\item \emph{Family of officials}: spouses and children of presidents and vice presidents in Wikidata, or people listed as a spouse or family member in most of their own records.
+\item \emph{Legislators}: ever in a legislature, or receiving gifts reported by Congress.
+\item \emph{Agency, military, and diplomatic staff}: everyone else.
+\end{enumerate}
+
+\begin{table}[ht]
+\centering\footnotesize
+\caption{Measures used in Section~\ref{sec:empirics}. ``Prior'' measures use only spells and gifts dated before year $t$.}\label{tab:rev_vars}
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.25\linewidth}>{\raggedright\arraybackslash}p{0.69\linewidth}}
+\toprule
+Measure & Definition \\
+\midrule
+Interactions (gifts) & Gift records received by the person in receipt year $t$ (count). \\
+Countries & Distinct giving countries in $t$. \\
+Risk set & Years in a dated U.S. public position (legislature, national executive, diplomatic, military, judiciary, or ceremonial office), plus any year with a gift. \\
+Cabinet-level office & Holds a cabinet-level or higher U.S. office in $t$ (Wikidata). \\
+Career length & $t$ minus the start year of the first dated, classified spell; 0 if the first spell starts later. \\
+Tenure & $t$ minus the start of the continuous run of spells in the current organization (gaps of up to one year merged). The current organization is that of the most recently started spell covering $t$. \\
+Prior appearances & Gifts received before $t$. \\
+Prior organizations & Distinct organizations of spells started by $t-1$. \\
+Cross-sector moves & Changes of sector between consecutive prior spells. Alternatives: sequential spells only; changes of domain (public, private, academic, international); changes of organization. \\
+Change of organization (event) & Starts a spell in $t$ in an organization not held in $t-1$, having had an earlier spell. \\
+Degree & Number of giving countries tied to the recipient in the network window. \\
+Betweenness & Normalized betweenness centrality in the recipient-country graph (year $t$) or in the recipient-agency-country graph (1998--2023). \\
+Participation & $1-\sum_s (k_{is}/k_i)^2$, where $k_{is}$ is the number of the person's gifts from countries in community $s$ (Louvain, seeded). \\
+Brokerage (bridging) & Reaches two or more communities. \\
+Carrier of a tie & A linked recipient through whom the agency-country tie is observed in $t$. \\
+Carrier left & Never again receives gifts under that agency after $t$. \\
+Tie recurrence & The country gives to the agency in $t+1$ to $t+3$: through anyone, through other personnel, or through an original carrier. \\
+Turnover (agency-year) & Share of the agency's linked recipients in $t-1$ who receive nothing from it in $t$. \\
+Country retention & Share of the agency's giving countries in $t-1$ that give again in $t$. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Estimators.} Poisson pseudo-maximum likelihood and OLS with fixed effects are estimated by iteratively reweighted least squares with alternating-projection demeaning, following \texttt{ppmlhdfe} and \texttt{reghdfe}. Singleton groups, and groups whose outcome is always zero, are dropped. All randomness (community detection, rewiring, permutations, placebo assignments) uses seed 20261105.
+
+\paragraph{Robustness.} The tables in \texttt{analysis\_revised/output/tables/} re-estimate the main within-person models on several samples:
+\begin{itemize}
+\item excluding cabinet officials, the top 25 or top 1\% of recipients, or the White House branch;
+\item staff only, and staff without the ten most-observed staff;
+\item Wikidata tenure years only;
+\item four definitions of a career transition and three network windows.
+\end{itemize}
+The results vary across these checks as follows:
+\begin{itemize}
+\item \emph{Tenure.} The within-person tenure association ($-0.17$) is not significant whenever cabinet officials, the top 25, or the top 1\% of recipients are excluded. It holds without the White House branch.
+\item \emph{Cross-sector moves.} Within person, prior cross-sector moves are unrelated to interactions in the main sample. They become negative and significant once cabinet officials are excluded ($-0.75$ for gifts, $-0.68$ for countries).
+\item \emph{Transition definitions.} When prior organizations are left out of the model, cumulative transitions are positively associated with interactions within person under all four definitions (0.50--0.58; significant except domain changes for gifts), because they then pick up the same moves.
+\item \emph{Prior organizations.} The within-person coefficient survives most exclusions. It is not significant for countries without the top 25 recipients. Among staff ($0.57$, $p<0.05$) it loses significance once the ten most-observed staff are dropped ($0.52$).
+\item \emph{Network windows.} The brokerage results are the same with network windows of three years, five years, and all prior years.
+\end{itemize}
+
+\clearpage
+\section{Claim-to-Evidence Map}\label{app:map}
+\setcounter{table}{0}\setcounter{figure}{0}
+
+\begin{center}
+\scriptsize\setlength{\tabcolsep}{3pt}
+\captionof{table}{Claims, evidence, and evidentiary status. Evidence types: B between people; W within person; O within organization; N network change; X cross-sectional.}\label{tab:rev_map}
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.17\linewidth}>{\raggedright\arraybackslash}p{0.36\linewidth}>{\raggedright\arraybackslash}p{0.06\linewidth}>{\raggedright\arraybackslash}p{0.15\linewidth}>{\raggedright\arraybackslash}p{0.18\linewidth}}
+\toprule
+Claim & Evidence & Type & Where & Status \\
+\midrule
+H1: Position dominates career & Cabinet office: $\times$4.3 gifts between people, $\times$9.0 within person & B, W & Table~\ref{tab:rev_position} & Strongest support \\
+ & Entry into cabinet office followed by +1.79 log gifts; lateral moves +0.32 (n.s.); placebo mean $-0.01$ & W & Table~\ref{tab:rev_events}, Fig.~\ref{fig:rev_events} & \\
+ & Career length unrelated (0.02); negative without cabinet ($-0.35$) & B & Table~\ref{tab:rev_position} & \\
+ & Tenure $-0.41$ (B), $-0.17$ (W); near zero without cabinet & B, W & Table~\ref{tab:rev_position} & Qualified: composition \\
+ & Prior appearances $+0.61$ (B), $-0.22$ (W) & B, W & Table~\ref{tab:rev_position} & Within-person sign biased \\
+H2: Organizations retain ties & All carriers leave: total recurrence $-11$ pts; through others $+1.9$ (n.s.) & O & Table~\ref{tab:rev_continuity} & Descriptive; 21 agencies \\
+ & Movers' old countries at new agency $+4.5$ pts ($p=0.11$) & O & Table~\ref{tab:rev_movers} & Limited person-carried component \\
+ & Agency turnover and country retention: $-0.02$ (n.s.) & O & Sec.~\ref{sec:continuity} & Low power; 15 agencies \\
+H3: Brokerage is positional & 29 of the top 31 brokers cabinet-level; below cabinet, military chiefs, protocol, defense officials, senior senators & X & Table~\ref{tab:rev_brokers} & Descriptive \\
+ & Mobility predicts brokerage only without degree control & B, W & Table~\ref{tab:rev_brokerage} & Descriptive \\
+ & Observed vs.\ degree-preserving null: inside null in 6 of 7 administrations & X & Fig.~\ref{fig:rev_null} & Reinforced by null \\
+Network change & Tie carryover 55--61\% to 31--40\%; modularity up; 2020 break & N & Table~\ref{tab:rev_network}, Fig.~\ref{fig:rev_netchange} & Confounded by reporting \\
+Not testable & Private-sector revolving door; behavior after appointment; causal effects of careers or turnover & --- & Sec.~\ref{sec:evidence} & Data required \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section{Additional Descriptive Analyses}\label{app:descr}
+
+The sections that follow appeared in the main text of earlier drafts. They are kept unchanged here because Section~\ref{sec:empirics} now carries the argument. They describe recipients' backgrounds, giver--recipient similarity against random-pairing baselines, the technical, business, and political backgrounds of givers and recipients, and careers traced across branches.
+
+
+\subsection{Who Receives Foreign Gifts?}\label{sec:recips}
+
+\begin{table}[t]
+\centering\footnotesize\setlength{\tabcolsep}{4pt}
+\caption{Wikidata-linked recipients by branch of the reporting agency. A person who received gifts under several branches is counted in each. ``Female'' is the share of people with a recorded gender. ``Military'' means a recorded military rank (P410) or military occupation (P106). ``Diplomat'' and ``Law'' are occupation groups. ``Party member'' means any recorded party membership (P102). ``Studied abroad'' is the share of people with at least one school of known country who attended a school outside the United States. Missing statements count as absent, so shares other than ``Female'' and ``Studied abroad'' are lower bounds.}\label{tab:recipprofile}
+\input{tables/tab_recip_profile}
+\end{table}
+
+The QIDs turn the gift record into a roster of the officials whom foreign governments cultivate. Table~\ref{tab:recipprofile} describes the 1,026 linked recipients using Wikidata statements (coverage is reported in Table~\ref{tab:wdcov}). The branches draw on distinct populations. Seventy-four percent of Defense recipients have a military career, and only 12\% are women. Seventy-one percent of Diplomatic recipients are recorded as diplomats, and 32\% are women, the highest share outside the White House. Legislative recipients are older (median birth year 1951), and 42\% are lawyers, as one would expect of members of Congress. The White House group is the youngest (median birth year 1961) and the most often female, because it includes first ladies, presidential children, and National Security Council staff.
+
+Two columns speak directly to the study of bureaucracy. Party membership, recorded for 87\% of legislators, is recorded for only 30\% of Diplomatic and 17\% of Defense recipients. Absence of a party statement is not proof of a career appointment, but the gradient is consistent with the distinction between political appointees and career officials \citep{lewis2008politics}. The share who studied outside the United States is also low and varies by branch: 17\% at State and 7\% in Defense. As a result, a foreign official who wants a counterpart with shared educational experience will usually find one only by having studied in the United States. We return to this point below.
+
+These profiles describe the \emph{linked} recipients, who are more prominent than the officials whose names could not be resolved. Assistant secretaries, deputy chiefs of mission, and colonels are less likely to have Wikidata items than secretaries and four-star officers, so the table is a portrait of the upper bureaucracy. Because the profile is rebuilt from the claims at each release, it will extend down the hierarchy as more officials are linked and as Wikidata adds items for them.
+
+\subsection{What Do Givers and Recipients Share?}\label{sec:shared}
+
+\begin{table}[t]
+\centering\footnotesize\setlength{\tabcolsep}{4pt}
+\caption{Characteristics shared by the giver and the recipient of each gift, compared with random pairings. The unit is a gift whose giver and recipient both have QIDs. ``Gifts'' counts those for which the characteristic is recorded for both people. The two baselines shuffle givers among gifts reported in the same year, or in the same branch and year, and average 500 permutations. ``Ratio'' is observed over the branch-year baseline. $p$ is the share of branch-year permutations at least as large as the observed value. ``Professional career'' groups occupations into military, diplomat, law, economics/business, academic, and civil servant (``politician'' is excluded). Panel B drops gifts reported by the White House and Congress.}\label{tab:shared}
+\input{tables/tab_shared}
+\end{table}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/fig_shared.pdf}
+\caption{Giver--recipient similarity relative to random pairing (the ratios in Table~\ref{tab:shared}). Diamonds compare the observed rate with random pairing within the same year; circles compare it with random pairing within the same branch and year. The distance between them is the part of the similarity explained by the office. Gray bars show the middle 95\% of the 500 branch-year permutations, so a circle outside its bar is unlikely to arise by chance. For a shared employer in the executive agencies, the bar extends below the axis because many permutations produce no matches.}\label{fig:shared}
+\end{figure}
+
+Because both parties to a gift carry QIDs, every gift is also a \emph{dyad} of two people whose characteristics can be compared. We compare each giver with the recipient on seven characteristics: gender, professional career, military service, birth cohort, the country and the specific institution where each was educated, and employer. Similarity alone is not evidence of anything, since the people who meet American officials are not a random draw from the world's elites. We therefore compare the observed rate of similarity with two random-pairing baselines (Table~\ref{tab:shared} and Figure~\ref{fig:shared}). The first shuffles givers among all gifts reported in the same year, which preserves the overall mix of givers and recipients. The second shuffles givers only within the same branch \emph{and} year, which also preserves the kind of foreign official each branch receives. The gap between the observed rate and the first baseline measures the total excess similarity. The gap between the observed rate and the second measures how much of it remains once the office is held fixed. That remainder is the part attributable to the sorting of \emph{people}.
+
+\paragraph{Most similarity is institutional.} Givers and recipients share a professional career in 51.6\% of gifts, against 36.8\% under random pairing within the year. But pairing at random within branch and year already yields 48.7\%, so about four-fifths of the excess comes from the office. The same holds for military service: 13.6\% of gifts pass between two people with military careers, against 9.2\% at random and 13.0\% within branch. In Figure~\ref{fig:shared}, this appears as the wide gap between the diamonds and the circles for career and military service. This is the protocol matching of Section~\ref{sec:desc} (Figure~\ref{fig:rolebranch}) seen at the level of individuals. A foreign general gives to an American admiral because the admiral holds the office that receives foreign generals, not because of any personal affinity between the two.
+
+\paragraph{Person-level similarity is real but modest.} Even against the branch-year baseline, observed similarity in gender, career, military service, and birth cohort is higher, by ratios of 1.02 to 1.08, and in all but one case fewer than 1\% of permutations match it. In the executive agencies (Panel~B), the excess is clearest for professional careers (62.3\% against 57.4\%) and for birth cohort (35.1\% against 32.9\%). Within the same office and year, foreign officials are slightly more likely to give to an American of the same profession and generation. Gender is a partial exception. Across all branches, same-gender pairs exceed the branch-year baseline by about five points, but in the executive agencies the excess is only one point. Gender matching is concentrated in the White House: 162 of the 233 woman-to-woman gifts went to White House recipients, most of them to first ladies and many from the spouses of foreign leaders.
+
+\paragraph{Shared schooling is rare but striking.} Givers and recipients attended the same institution in fewer than 1\% of gifts. That share is still 1.65 times the branch-year baseline in the executive agencies ($p=0.01$). The cases are concentrated in elite American schools and in military education. Admiral Gary Roughead, Chief of Naval Operations, received four gifts in 2009--2011 from a Saudi naval officer, Prince Fahd bin Abdullah bin Mohammed Al Saud, who, like Roughead, attended the U.S.\ Naval Academy. Colin Powell (2001) and Joseph Ralston (1999) received gifts from foreign officers who had attended the Army Command and General Staff College: Bahrain's Hamad bin Isa Al Khalifa and Georgia's David Tevzadze. Ambassador David Hale and King Abdullah II of Jordan are both graduates of Georgetown's School of Foreign Service. The giver side shows the size of this pool. Of the 1,526 linked givers whose schools are recorded, 288 (19\%) studied at an American institution, and they account for 22\% of gifts from givers with recorded schools. Twenty-seven attended an American service academy or staff or war college, among them Bahrain's Hamad bin Isa Al Khalifa, Egypt's Abdel Fattah el-Sisi, Rwanda's Paul Kagame, and Indonesia's Susilo Bambang Yudhoyono. Such alumni are the people that research on educational exchange and professional military education expects to carry American ties into foreign governments \citep{atkinson2010soft,ruby2010pme,gift2017who}. The gift record shows some of them maintaining those ties with specific American counterparts.
+
+\paragraph{Caveats.} The unit is the gift, so a pair that exchanges many gifts weighs more than a pair that exchanges one. Gifts are not independent, so the permutation $p$-values are descriptive. All seven comparisons depend on what Wikidata records. Coverage of education and employment is thinner for givers from some regions, and missing statements bias every match rate downward. This is also where the living design matters: the rates in Table~\ref{tab:shared} are recomputed from the claims at each release, so they will sharpen as Wikidata's coverage of foreign officials grows. The design extends naturally to richer measures of similarity, such as overlapping assignments, common postings, or shared membership in international bodies, all of which can be read from dated Wikidata positions.
+
+\subsection{Technical, Business, and Political Backgrounds}\label{sec:backgrounds}
+
+The officials on both sides of a gift arrive in office by different routes. Some are career politicians. Others are technocrats, such as economists, central bankers, civil servants, and officials of international organizations, and others come from the private sector. The background of an officeholder shapes policy \citep{adolph2013bankers,alexiadou2016ideologues,hallerberg2020economists}, and it may also shape whom an official deals with and how. This section classifies givers and recipients by background and by the office they held when the gift was exchanged, then asks whether technocrats, business people, and politicians exchange gifts with different counterparts and exchange different gifts.
+
+\paragraph{Coding background and office.} We classify each person by the kind of work that fills most of their recorded career. From the dated positions (P39) and employers (P108) in Wikidata, we count the calendar years each person spent in four kinds of work:
+\begin{itemize}
+\item \emph{Political:} elected office, heads of state and government, cabinet posts, and royalty.
+\item \emph{Technical:} central banks, finance ministries, international organizations, sub-cabinet and diplomatic posts, the judiciary, and employment by a government agency, university, or research institute.
+\item \emph{Business:} employment by a firm, or posts such as chief executive.
+\item \emph{Military:} commands and ranks.
+\end{itemize}
+Overlapping jobs are counted once, an undated job counts as four years, and a general or flag rank counts as a full military career. The primary background is the kind of work with the most years. Under this rule, a lawyer who spent most of a career in elected office is political (Barack Obama, Joe Biden, Mike Pompeo). A politician whose career was mainly in business is business (Donald Trump, Silvio Berlusconi, Rex Tillerson, Steven Mnuchin), and a central banker or international civil servant who entered politics is technical (Mario Draghi, Ban Ki-moon). Spouses and children of leaders form a separate category, because they receive and give gifts through family rather than career. People with no classifiable job fall back on occupation and education codes. Table~\ref{tab:bgprofile} also reports three overlapping indicators, which flag any technical occupation, education, or position, any business occupation, and any political career.
+
+The office is coded at the time of the gift. For recipients it follows the reporting agency: the White House and Congress are political offices, State and USAID diplomatic, Defense, the intelligence community, and Homeland Security security offices, and the remaining executive agencies and the courts technical. For givers it follows the title in the gift report. Finance ministers, central bankers, directors-general, commissioners, and officials of international organizations hold technical offices. Executives of firms hold business offices. Heads of state, ministers, and legislators hold political offices, and officers and diplomats hold security and diplomatic offices.
+
+\begin{table}[t]
+\centering\footnotesize
+\caption{Backgrounds of Wikidata-linked recipients and givers. The indicators overlap; the primary background is the kind of work that fills most of a person's recorded career (see text). ``Unknown'' means Wikidata records no classifiable job or occupation.}\label{tab:bgprofile}
+\input{tables/tab_bg_profile}
+\end{table}
+
+\paragraph{Who has which background.} The recipient and giver populations differ (Table~\ref{tab:bgprofile}). A third of linked American recipients are technocrats by career, about the same share as politicians, and a fifth are military officers. Foreign givers are much more often politicians (48\%), reflecting the heads of state, ministers, and legislators who dominate summit diplomacy, and only 11\% are technocrats. Business careers are rare on both sides: 4\% of recipients and 2\% of givers.
+
+\begin{table}[t]
+\centering\footnotesize\setlength{\tabcolsep}{4pt}
+\caption{Who gives to whom, by primary background. Gifts whose giver and recipient both have a known background. Each cell shows the percentage of the row's gifts going to each recipient background, with the ratio to the share expected if givers and recipients were matched independently in parentheses. Ratios above 1 mean more gifts than expected.}\label{tab:bgmatrix}
+\input{tables/tab_bg_matrix}
+
+\bigskip
+\caption{Who gives to whom, by office at the time of the gift. All gifts with a classifiable giver office. Cells as in Table~\ref{tab:bgmatrix}.}\label{tab:officematrix}
+\input{tables/tab_office_matrix}
+\end{table}
+
+\paragraph{Who exchanges gifts with whom.} Gifts pass between like backgrounds more often than independent matching would predict (Table~\ref{tab:bgmatrix}). The pattern is strongest for spouses and family, who give to their American counterparts at 5.4 times the expected rate, and for military officers (2.7). It is weaker but present for business (1.7) and technical (1.2) careers. Givers with business careers are also overrepresented among gifts to American technocrats (1.4) and underrepresented among gifts to military officers (0.4). Political givers spread their gifts across recipient types almost in proportion. Sorting by office is far sharper than sorting by background (Table~\ref{tab:officematrix}). Foreign officials in technical offices direct 38\% of their gifts to American technical agencies, 5.8 times the expected share, whereas political officeholders direct only 3\% of theirs there. Security offices give 87\% of their gifts to American security agencies. The few givers in business offices give mostly to technical agencies and to the State Department. As in Section~\ref{sec:shared}, the office does most of the sorting. Background adds a weaker, person-level layer on top of it.
+
+\begin{table}[t]
+\centering\scriptsize\setlength{\tabcolsep}{3pt}
+\caption{The nature and value of gifts by the background of the giver and of the recipient. Median value and the share over \$5,000 exclude travel. Gift types are coded from the item description by keyword; the remaining 12\% of gifts (pens, desk sets, and miscellany) are not shown.}\label{tab:bggifts}
+\input{tables/tab_bg_gifts}
+\end{table}
+
+\begin{table}[t]
+\centering\footnotesize
+\caption{Log estimated value of a gift regressed on giver and recipient backgrounds and giver office, with branch and year fixed effects. Gifts with both parties linked and a known background, excluding travel. The reference category is political for each set of indicators. Standard errors are clustered by giver. ``Value ratio'' is $\exp(\beta)$, the multiplicative difference in value relative to the reference.}\label{tab:bgvalue}
+\input{tables/tab_bg_value}
+\end{table}
+
+\paragraph{The nature and value of gifts.} What is given differs more by background than how much (Tables~\ref{tab:bggifts} and~\ref{tab:bgvalue}). Givers with business careers give the most valuable gifts at the median (\$728) and most often give gifts worth more than \$5,000 (10\%), and they give textiles and clothing far more often than other givers (19\%). Military givers favor weapons and ceremonial items such as swords, daggers, and medals (16\%). Spouses and family give jewelry (26\%) and receive it (31\%). Watches go disproportionately to American military officers (14\% of their gifts). Once the branch and year are held fixed, however, most differences in value are small and imprecise. Gifts from business givers are about 20\% more valuable than gifts from political givers, but the estimate is not distinguishable from zero. Gifts from military givers are about a third less valuable, and gifts from foreign diplomats about 30\% less valuable, than gifts from political officeholders. The recipient's background makes little difference to value once the branch is known. Foreign governments appear to scale the value of a gift to the office and the occasion, and to tailor its form to the person.
+
+\paragraph{Caveats.} Business careers are rare, so the business estimates rest on a few hundred gifts. The classification depends on Wikidata's dated positions and employers. These are fuller for prominent people and for Western countries, and a fifth of givers have no classifiable career. The office codes for givers rely on titles in the gift reports, and a quarter of giver offices cannot be classified. Gift types are coded by keyword. All of these codes are stored in the analysis script, and the classification is recomputed at each release, so it will improve as Wikidata records more of each official's career.
+
+\subsection{Office Versus Officeholder}\label{sec:office}
+
+\begin{table}[t]
+\centering\footnotesize
+\caption{Recipients who received gifts under more than one branch, with the sequence of branches and the years in which gifts were received. Fifty-three recipients meet this criterion; the fifteen with the most gifts are shown.}\label{tab:careers}
+\input{tables/tab_careers}
+\end{table}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/fig_careers.pdf}
+\caption{Careers traced through the gift record. Each row is one person (one Wikidata QID). Segments span consecutive years in which that person received gifts reported by a given branch; gaps of more than two years break a segment. Colors and marker shapes both identify the branch.}\label{fig:careers}
+\end{figure}
+
+The study of bureaucracy has long distinguished the office, with its authority, its agenda, and its foreign counterparts, from the person who occupies it, with their ambition, expertise, and networks \citep{gailmard2007slackers,lewis2008politics,teodoro2011bureaucratic}. Many administrative datasets record only the office. The gift reports record both, and the QID lets us separate them.
+
+Table~\ref{tab:careers} and Figure~\ref{fig:careers} show what this looks like. Fifty-three recipients received gifts under more than one branch. Hillary Clinton appears as First Lady (White House, 1998--2000), as a senator (2002--2007), and as Secretary of State (2009--2013). Mike Pompeo moves from the CIA to State; Leon Panetta from the CIA to Defense; David Petraeus from Central Command to the CIA; William Burns from the State Department to the CIA; John Brennan from the White House to the CIA. Antony Blinken appears as a Senate Foreign Relations Committee staffer, as a White House national security official, and as Deputy Secretary and then Secretary of State. The office-level record (``the intelligence community reported 947 gifts'') and the person-level record (``Pompeo received 47 gifts, under two branches'') answer different questions, and the QID lets a researcher move between them.
+
+The design supports several kinds of analysis:
+\begin{itemize}
+\item \textbf{Within-person comparisons across offices.} Does the same individual receive more, or more valuable, gifts after moving to a more senior or more externally facing office? Holding the person fixed isolates the effect of the office.
+\item \textbf{Within-office comparisons across holders.} Do successive holders of the same post (Secretaries of State, CENTCOM commanders) attract similar gift portfolios, or do some holders carry their foreign relationships with them? A giver who presents gifts to the same American across several of that person's posts is evidence of a \emph{personal}, not institutional, tie.
+\item \textbf{Revolving doors and career paths.} Movements between Congress, the executive, and the intelligence community, and on to the private sector, are central to research on capture and influence \citep{dalbo2006regulatory,blanes2012revolving}. The gift record observes the public-sector legs of these paths with exact dates.
+\end{itemize}
 
 \end{document}

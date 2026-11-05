@@ -1,0 +1,312 @@
+qid,betweenness,agencies,countries,name,total_gifts,elite_person,top25,entry_branch,group,has_career_data,suspect_link,participation,n_communities,title,rank
+Q76,0.0668507227699616,2,110,Barack Obama,482,1,1,Legislative,Cabinet level and above,1,False,0.7839565414214577,11.0,President of the United States,1
+Q207,0.0596361701131236,1,115,George W. Bush,888,1,1,White House,Cabinet level and above,1,False,0.6779843009978133,10.0,President of the United States,2
+Q6294,0.0596009863641812,3,93,Hillary Clinton,298,1,1,White House,Cabinet level and above,1,False,0.8337895607403697,10.0,United States Secretary of State,3
+Q6279,0.042705312671333,3,80,Joe Biden,229,1,1,Legislative,Cabinet level and above,1,False,0.8670993632399009,10.0,Vice President of the United States,4
+Q47216,0.0378016575044669,2,72,Condoleezza Rice,246,1,1,White House,Cabinet level and above,1,False,0.8281711905401774,11.0,United States Secretary of State,5
+Q22316,0.033611090763592,2,62,John Kerry,165,1,1,Legislative,Cabinet level and above,1,False,0.8561857804207912,10.0,United States Secretary of State,6
+Q152019,0.0324637098359004,1,81,Laura Bush,445,1,1,White House,Cabinet level and above,1,False,0.6620334731186848,11.0,First Lady of the United States,7
+Q150851,0.0266295292549647,1,66,Colin Powell,150,1,1,Diplomatic,Cabinet level and above,1,False,0.8366884168633439,10.0,United States Secretary of State,8
+Q13133,0.022983706372632,1,65,Michelle Obama,154,1,1,White House,Cabinet level and above,1,False,0.7534696859021184,9.0,First Lady of the United States,9
+Q1124,0.0219237283235015,2,56,Bill Clinton,151,1,1,White House,Cabinet level and above,1,False,0.760500365230095,9.0,President of the United States,10
+Q22686,0.0183756271401514,1,47,Donald Trump,82,1,1,White House,Cabinet level and above,1,False,0.8501842653420926,10.0,President of the United States,11
+Q7821917,0.0153172088228886,3,27,Antony Blinken,38,1,0,Legislative,Cabinet level and above,1,False,0.8611111111111112,10.0,United States Secretary of State,12
+Q26093,0.0141428554807144,2,33,Martin Dempsey,58,1,1,Defense,Cabinet level and above,1,False,0.8531510107015458,10.0,Chairman of the Joint Chiefs of Staff,13
+Q473239,0.0121556854436932,2,21,Mike Pompeo,47,1,1,Intelligence,Cabinet level and above,1,False,0.8074792243767313,9.0,United States Secretary of State,14
+Q503161,0.011522703923897,2,34,Michael Mullen,78,1,1,Defense,Cabinet level and above,1,False,0.8661333333333333,10.0,Chairman of the Joint Chiefs of Staff,15
+Q235349,0.010567291351415,2,37,Jill Biden,51,1,1,White House,Cabinet level and above,1,False,0.8271999999999999,10.0,First Lady of the United States,16
+Q267902,0.009837132719838,4,24,James Mattis,46,1,1,Defense,Cabinet level and above,1,False,0.834593572778828,10.0,United States Secretary of Defense,17
+Q184650,0.008991891180732,1,36,Donald Rumsfeld,88,1,1,Defense,Cabinet level and above,1,False,0.8392125776192364,10.0,United States Secretary of Defense,18
+Q48259,0.0084406224683263,1,37,Dick Cheney,101,1,1,White House,Cabinet level and above,1,False,0.798694010815223,10.0,Vice President of the United States,19
+Q212979,0.0075830437703086,1,27,Robert Gates,79,1,1,Defense,Cabinet level and above,1,False,0.8722961063932062,10.0,United States Secretary of Defense,20
+Q432473,0.0070681823094063,1,28,Melania Trump,41,1,0,White House,Cabinet level and above,1,False,0.8113083497698882,9.0,First Lady of the United States,21
+Q355522,0.0070384526507325,1,18,Mitch McConnell,31,0,0,Legislative,Legislators,1,False,0.8511111111111112,10.0,United States senator,22
+Q244631,0.0064478180680562,2,15,Leon Panetta,49,1,1,Intelligence,Cabinet level and above,1,False,0.8344671201814059,8.0,United States Secretary of Defense,23
+Q1276563,0.0063856910157038,2,13,William Joseph Burns,36,1,0,Diplomatic,Cabinet level and above,1,False,0.7755102040816326,6.0,Director of the Central Intelligence Agency,24
+Q941013,0.0058022000837709,3,19,Lloyd Austin,34,1,0,Defense,Cabinet level and above,1,False,0.814878892733564,10.0,United States Secretary of Defense,25
+Q381670,0.0053374571393971,2,19,Chuck Hagel,36,1,0,Legislative,Cabinet level and above,1,False,0.7477551020408163,7.0,United States Secretary of Defense,26
+Q698907,0.0053032801369082,1,21,Stephen Hadley,53,1,1,White House,Cabinet level and above,1,False,0.8280526877892489,9.0,United States National Security Advisor,27
+Q6282969,0.0047068603976894,2,16,"Joseph F. Dunford, Jr.",22,1,0,Defense,Cabinet level and above,1,False,0.859504132231405,8.0,Chairman of the Joint Chiefs of Staff,28
+Q343740,0.0043336307082937,2,14,Gary Roughead,28,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.772189349112426,9.0,Chief of Naval Operations,29
+Q331401,0.0040258710582139,1,15,Rex Tillerson,20,1,0,Diplomatic,Cabinet level and above,1,False,0.8049999999999999,7.0,United States Secretary of State,30
+Q234992,0.0038954939442815,2,17,Lynne Cheney,33,1,0,White House,Cabinet level and above,1,False,0.7327823691460056,8.0,Second Lady or Gentleman of the United States,31
+Q1381742,0.0037225289310538,1,18,Jonathan W. Greenert,26,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.8448,9.0,Chief of Naval Operations,32
+Q553626,0.0035841719142512,1,11,Dennis Hastert,17,1,0,Legislative,Cabinet level and above,1,False,0.754325259515571,6.0,United States representative,33
+Q170581,0.0034985521281271,1,8,Nancy Pelosi,10,1,0,Other executive,Cabinet level and above,1,False,0.76,5.0,United States representative,34
+Q50612,0.0034735387594581,2,12,Susan Rice,16,1,0,Diplomatic,Cabinet level and above,1,False,0.75,5.0,United States National Security Advisor,35
+Q10390,0.0034126182232935,1,15,John McCain,35,0,0,Legislative,Legislators,1,False,0.5779591836734694,7.0,United States senator,36
+Q1276376,0.0033698699342905,2,16,Samuel Bodman,25,1,0,Other executive,Cabinet level and above,1,False,0.7395833333333333,6.0,United States Secretary of Energy,37
+Q3657872,0.0033372876996782,1,12,Capricia Marshall,12,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.8055555555555556,7.0,Chief of Protocol,38
+Q363079,0.0031935520468216,1,17,Richard Lugar,19,0,0,Legislative,Legislators,1,False,0.8310249307479225,8.0,United States senator,39
+Q24313,0.0031106077275714,1,21,Mike Pence,31,1,0,White House,Cabinet level and above,1,False,0.8782518210197711,9.0,Vice President of the United States,40
+Q358443,0.0031049343451297,2,5,Jeff Sessions,6,1,0,Legislative,Cabinet level and above,1,False,0.6111111111111112,3.0,United States senator,41
+Q31112,0.003073739915727,1,11,Bill Frist,12,0,0,Legislative,Legislators,1,False,0.8611111111111112,8.0,United States senator,42
+Q174438,0.0030350640563223,1,16,Madeleine Albright,29,1,0,Diplomatic,Cabinet level and above,1,False,0.7776,6.0,United States Secretary of State,43
+Q6766465,0.0028961662270625,2,11,Mark A. Milley,17,1,0,Defense,Cabinet level and above,1,False,0.8203125,8.0,Chairman of the Joint Chiefs of Staff,44
+Q22212,0.0028208650286758,1,9,Lindsey Graham,20,0,0,Legislative,Legislators,1,False,0.74,6.0,United States senator,45
+Q356475,0.0026277542479528,2,7,Russ Feingold,9,0,0,Legislative,Legislators,1,False,0.691358024691358,4.0,United States senator,46
+Q4806029,0.0025774813425788,1,13,Ashton Carter,22,1,0,Defense,Cabinet level and above,1,False,0.8264462809917356,9.0,United States Secretary of Defense,47
+Q339046,0.0025485925611456,2,3,Mark Kirk,5,0,0,Legislative,Legislators,1,False,0.625,3.0,United States representative,48
+Q314459,0.0025236895234612,1,11,Harry Reid,13,0,0,Legislative,Legislators,1,False,0.8333333333333334,7.0,United States senator,49
+Q1240095,0.002366757041594,1,14,Donald Evans,34,1,0,Other executive,Cabinet level and above,1,False,0.7890625,6.0,United States Secretary of Commerce,50
+Q710721,0.0023541888075563,1,16,William Cohen,63,1,1,Defense,Cabinet level and above,1,False,0.7744,7.0,United States Secretary of Defense,51
+Q358437,0.0023470163594071,1,12,Bill Nelson,15,0,0,Legislative,Legislators,1,False,0.8444444444444444,8.0,United States senator,52
+Q4110970,0.0023417045415781,1,13,Michael G. Vickers,24,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.8368055555555556,8.0,Under Secretary of Defense for Intelligence of the United States,53
+Q464810,0.0021255076449772,1,10,John Warner,16,1,0,Legislative,Cabinet level and above,1,False,0.7733333333333333,7.0,United States senator,54
+Q453868,0.0021052665048947,2,2,John Negroponte,7,1,0,Intelligence,Cabinet level and above,1,False,0.5,2.0,Director of National Intelligence,55
+Q20749485,0.0021034607272787,2,7,Vincent R. Stewart,11,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.7603305785123967,5.0,Director of the Defense Intelligence Agency,56
+Q5231001,0.0020978705616171,2,4,David B. Shear,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.72,4.0,Assistant Secretary of Defense for Asian & Pacific Affairs of the United States,57
+Q935034,0.0020640491576771,2,5,John Holdren,7,0,0,White House,"Agency, military, diplomatic staff",0,False,0.7346938775510204,4.0,Assistant to the President for Science and Technology Policy,58
+Q116464,0.0020632296238757,2,6,James Stavridis,7,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.7222222222222222,4.0,Supreme Allied Commander Europe,59
+Q33190271,0.0020025670620041,2,9,Mark T. Esper,12,1,0,Legislative,Cabinet level and above,1,False,0.8194444444444444,7.0,United States Secretary of Defense,60
+Q23302985,0.0019319920578394,2,4,Jonathan Finer,5,1,0,Diplomatic,Cabinet level and above,1,False,0.56,3.0,Deputy National Security Advisor,61
+Q229032,0.0018934332224027,1,12,Janet Napolitano,17,1,0,Other executive,Cabinet level and above,1,False,0.7681660899653979,6.0,United States Secretary of Homeland Security,62
+Q504029,0.0018681254073791,1,11,Andrew Card,18,1,0,White House,Cabinet level and above,1,False,0.7345679012345678,6.0,White House Chief of Staff,63
+Q3702047,0.0018447777502792,2,6,Denis McDonough,7,1,0,Legislative,Cabinet level and above,1,False,0.7346938775510204,5.0,Deputy National Security Advisor,64
+Q16730147,0.0018336504713759,3,10,Jake Sullivan,11,1,0,Diplomatic,Cabinet level and above,1,False,0.743801652892562,5.0,United States National Security Advisor,65
+Q380900,0.0018274101230162,1,7,Chuck Schumer,10,0,0,Legislative,Legislators,1,False,0.82,7.0,United States senator,66
+Q344930,0.0017775667978662,1,6,Evan Bayh,6,0,0,Legislative,Legislators,1,False,0.7222222222222222,4.0,United States senator,67
+Q201795,0.0016856524734203,1,4,Ben Bernanke,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.48,2.0,Chair of the Federal Reserve,68
+Q79484036,0.0016797224310002,1,5,Adam S. Boehler,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.72,4.0,adviser,69
+Q4126786,0.0016699297657263,2,8,Joseph Votel,25,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.595,5.0,Commanding General,70
+Q262554,0.0016354377697101,2,2,Margaret Spellings,4,1,0,White House,Cabinet level and above,1,False,0.375,2.0,United States Secretary of Education,71
+Q4758104,0.0016343636328072,1,2,Andrew Natsios,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.5,2.0,USAID Administrator,72
+Q312724,0.0015828562853085,2,3,Robert Zoellick,3,1,0,White House,Cabinet level and above,1,False,0.6666666666666667,3.0,United States Trade Representative,73
+Q266040,0.0015773007975668,1,11,Michael E. Ryan,20,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.7160493827160495,6.0,Chief of Staff of the United States Air Force,74
+Q1937025,0.0015380166060199,1,11,Richard Bowman Myers,21,1,0,Defense,Cabinet level and above,1,False,0.8027210884353742,7.0,Chairman of the Joint Chiefs of Staff,75
+Q984191,0.0015007948017631,2,6,John Owen Brennan,83,1,1,White House,Cabinet level and above,1,False,0.5714285714285714,3.0,Director of the Central Intelligence Agency,76
+Q16186981,0.001477243639884,1,6,Randy Baumgardner,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.7777777777777778,5.0,Assistant Chief of Protocol and General Manager for Blair House,77
+Q4391764,0.0014405830674453,2,4,Mark Welsh,5,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.72,4.0,Chief of Staff of the United States Air Force,78
+Q6768160,0.0014210343227686,3,6,Mark I. Fox,10,0,0,White House,"Agency, military, diplomatic staff",0,False,0.54,3.0,Deputy Commander,79
+Q444652,0.0014167581557057,1,7,Carl Levin,16,0,0,Legislative,Legislators,1,False,0.5244444444444445,5.0,United States senator,80
+Q81254315,0.0013624884122903,2,3,Alina Romanowski,4,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,Deputy Assistant Secretary,81
+Q923242,0.0013569428802752,1,10,Chris Coons,14,0,0,Legislative,Legislators,1,False,0.7916666666666667,6.0,United States senator,82
+Q4169153,0.0013539038750092,1,8,Wendy Sherman,11,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.6799999999999999,5.0,United States Deputy Secretary of State,83
+Q193635,0.0013379321843868,1,5,Alan Greenspan,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.72,4.0,Chair of the Federal Reserve,84
+Q888132,0.0013236503039018,1,9,Robert Menendez,11,0,0,Legislative,Legislators,1,False,0.7272727272727273,6.0,United States senator,85
+Q317618,0.0012795614143135,2,1,Sam Brownback,3,0,0,Legislative,Legislators,1,False,0.0,1.0,United States senator,86
+Q28131687,0.001263105039732,2,3,Marcel Lettre,3,0,0,Legislative,Legislators,0,False,0.6666666666666667,3.0,Under Secretary of Defense for Intelligence,87
+Q353826,0.0012535698565198,1,7,Tom Vilsack,7,1,0,Other executive,Cabinet level and above,1,False,0.7755102040816326,5.0,United States Secretary of Agriculture,88
+Q5482879,0.001251543491429,2,3,Francis X. Taylor,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.6666666666666667,3.0,Commander,89
+Q288503,0.0012463300996773,1,5,Teresa Heinz Kerry,8,0,0,Diplomatic,Family of officials,0,False,0.53125,3.0,Spouse of the Secretary of State of the United States,90
+Q85795031,0.0012334562173102,2,3,Puneet Talwar,9,0,0,Legislative,Legislators,1,False,0.2777777777777777,2.0,(U.S. Senate),91
+Q6262421,0.001220935565035,1,9,John W. Miller,16,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.5390625,4.0,U.S. Navy; Commander,92
+Q622219,0.0012086507302048,1,6,MichÃƒÂ¨le Flournoy,8,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.78125,5.0,Under Secretary of Defense for Policy,93
+Q13628723,0.0011984141458331,1,9,Jared Kushner,15,0,0,White House,"Agency, military, diplomatic staff",1,False,0.7822222222222222,6.0,Office of American Innovation,94
+Q732804,0.001191495402546,1,4,Tommy Thompson,6,1,0,Other executive,Cabinet level and above,1,False,0.5,3.0,United States Secretary of Health and Human Services,95
+Q16728453,0.0011681001568292,1,5,Deborah K. Jones,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.72,4.0,Ambassador of the United States to the State of Libya,96
+Q5057841,0.0011490201739486,2,3,Celeste A. Wallander,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.6666666666666667,3.0,Deputy Assistant Secretary of Defense (Policy) of the United States,97
+Q115558890,0.0011410479732719,1,6,Bruce Swartz,8,1,0,Other executive,Cabinet level and above,0,False,0.78125,5.0,Deputy Assistant Attorney General and DOJ Counselor for International Affairs,98
+Q263725,0.0011229822881864,2,5,Janet Yellen,5,1,0,Other executive,Cabinet level and above,1,False,0.72,4.0,United States Secretary of the Treasury,99
+Q160157,0.0011212480478942,1,6,Joe Lieberman,8,0,0,Legislative,Legislators,1,False,0.5625,4.0,United States senator,100
+Q312644,0.0011122024726268,1,8,Eric Holder,18,1,0,Other executive,Cabinet level and above,1,False,0.6481481481481481,6.0,United States Attorney General,101
+Q649653,0.0011118069720291,1,6,Joshua Bolten,11,1,0,White House,Cabinet level and above,1,False,0.6115702479338844,4.0,White House Chief of Staff,102
+Q528979,0.0010798669478382,1,8,Jack Reed,19,0,0,Legislative,Legislators,1,False,0.5650969529085873,6.0,United States senator,103
+Q6446882,0.0010155875848745,2,4,Kurt M. Campbell,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.75,4.0,Assistant Secretary of State for East Asian and Pacific Affairs,104
+Q572954,0.0010130698197608,2,6,Anthony Zinni,10,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.6666666666666667,4.0,Commander in Chief,105
+Q10853588,0.0009786667382307,1,17,Kamala Harris,29,1,0,White House,Cabinet level and above,1,False,0.6825208085612366,8.0,Vice President of the United States,106
+Q3068781,0.0009549991931562,1,4,Vincent C. Gray,8,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.59375,3.0,Mayor of the District of Columbia,107
+Q134549,0.0009533575242167,1,6,Ted Kennedy,8,0,0,Legislative,Legislators,1,False,0.6875,5.0,United States senator,108
+Q5127395,0.0009090880502977,1,3,"Clark T. Randt, Jr.",12,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.44897959183673464,3.0,United States Ambassador to China,109
+Q11702,0.0008959271810953,1,3,John Boehner,3,1,0,Legislative,Cabinet level and above,1,False,0.6666666666666667,3.0,United States representative,110
+Q16107293,0.0008813385286045,1,6,Donald Ensenat,8,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.71875,4.0,Chief of Protocol,111
+Q11153,0.0008786932993771,1,4,John Roberts,7,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.653061224489796,3.0,Chief Justice of the United States,112
+Q324546,0.0008715451633715,1,5,Marco Rubio,5,1,0,Legislative,Cabinet level and above,1,False,0.72,4.0,United States senator,113
+Q382314,0.000859524172682,2,3,James Franklin Jeffrey,3,0,0,White House,"Agency, military, diplomatic staff",1,False,0.6666666666666667,3.0,United States Ambassador to Turkey,114
+Q5042478,0.0008419925386672,2,3,Carlos Pascual,3,0,0,White House,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,Director,115
+Q615356,0.0008277849736634,2,3,John R. Allen,6,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.5,3.0,Aide to the Commander of the U.S. Central Command for the U.S. Marine Corps,116
+Q28591,0.0008263272671553,2,1,David Petraeus,49,1,1,Defense,Cabinet level and above,1,False,0.0,1.0,Director of the Central Intelligence Agency,117
+Q540453,0.0008111013737184,1,10,Peter Pace,16,1,0,Defense,Cabinet level and above,1,False,0.6875,6.0,Chairman of the Joint Chiefs of Staff,118
+Q1525924,0.000795671903459,1,3,Roy Blunt,3,0,0,Legislative,Legislators,1,False,0.6666666666666667,3.0,United States senator,119
+Q311269,0.0007906118524327,2,3,John R. Bolton,4,1,0,Diplomatic,Cabinet level and above,1,False,0.625,3.0,Under Secretary of State for Arms Control and International Security Affairs,120
+Q463641,0.0007873937156267,1,4,James Steinberg,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.75,4.0,United States Deputy Secretary of State,121
+Q5362573,0.0007808433848993,2,4,Elizabeth Cheney,12,1,0,Diplomatic,Cabinet level and above,1,False,0.49382716049382713,3.0,Assistant Secretary of State,122
+Q16933945,0.0007804241836322,1,4,Peter A. Selfridge,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.72,4.0,Chief of Protocol,123
+Q203966,0.000778537526837,1,3,Paul Ryan,3,1,0,Legislative,Cabinet level and above,1,False,0.4444444444444444,2.0,United States representative,124
+Q6830434,0.0007712679676061,2,3,Michael Froman,3,1,0,White House,Cabinet level and above,1,False,0.6666666666666667,3.0,United States Trade Representative,125
+Q470748,0.0007687425290996,1,4,Max Baucus,4,0,0,Legislative,Legislators,1,False,0.625,3.0,United States senator,126
+Q5628492,0.0007465443646592,1,6,H. R. McMaster,6,1,0,White House,Cabinet level and above,1,False,0.6666666666666667,4.0,United States National Security Advisor,127
+Q106555050,0.0007227280299308,1,5,Asel Roberts,8,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.75,5.0,Senior Protocol Officer,128
+Q239411,0.0007141163690205,1,6,Ivanka Trump,12,0,0,White House,Family of officials,1,False,0.7933884297520661,6.0,Federal Government of the United States,129
+Q531247,0.0007126216563313,1,6,Ray Mabus,6,1,0,Defense,Cabinet level and above,1,False,0.6666666666666667,4.0,United States Secretary of the Navy,130
+Q456921,0.0007099794623844,1,8,Paul H. O'Neill,13,1,0,Other executive,Cabinet level and above,1,False,0.7777777777777778,6.0,United States Secretary of the Treasury,131
+Q443640,0.0007046101638635,1,5,Tom Daschle,6,0,0,Legislative,Legislators,1,False,0.72,4.0,United States senator,132
+Q7274014,0.0007013684969843,1,5,R. Steven Whitcomb,11,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.2975206611570247,2.0,Commander,133
+Q50599,0.0006895134577549,1,5,Ted Stevens,7,0,0,Legislative,Legislators,1,False,0.6938775510204083,4.0,President pro tempore of the United States Senate,134
+Q17466083,0.0006867920408884,1,4,David L. Goldfein,10,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.33999999999999986,3.0,Chief of Staff of the United States Air Force,135
+Q350378,0.0006856958044747,1,5,Gary Locke,10,1,0,Other executive,Cabinet level and above,1,False,0.4600000000000001,3.0,United States Ambassador to China,136
+Q5334860,0.0006495579306617,1,4,Ed Gillespie,4,0,0,White House,"Agency, military, diplomatic staff",1,False,0.625,3.0,Counselor to the President,137
+Q326836,0.0006469348602105,1,6,James Cartwright,7,1,0,Defense,Cabinet level and above,1,False,0.6938775510204083,4.0,Vice Chairman of the Joint Chiefs of Staff,138
+Q230733,0.0006291947764725,1,3,Dianne Feinstein,5,0,0,Legislative,Legislators,1,False,0.375,2.0,United States senator,139
+Q96065274,0.0006277076139615,1,3,Barbara A. Leaf,6,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.2777777777777777,2.0,United States Ambassador to the United Arab Emirates,140
+Q359888,0.0006238347844339,1,5,Tim Kaine,6,0,0,Legislative,Legislators,1,False,0.6666666666666667,4.0,United States senator,141
+Q59315,0.0006238156845408,1,4,Patrick Leahy,6,0,0,Legislative,Legislators,1,False,0.7222222222222222,4.0,United States senator,142
+Q822657,0.0006229471561224,1,4,Robert M. Kimmitt,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.6399999999999999,3.0,United States Deputy Secretary of the Treasury,143
+Q20067627,0.0006225877664567,2,2,David S. Cohen,23,1,0,Other executive,Cabinet level and above,1,False,0.4444444444444444,2.0,Deputy Director of the Central Intelligence Agency,144
+Q1852641,0.0006221182684742,1,3,Michael B. Donley,12,1,0,Defense,Cabinet level and above,1,False,0.1527777777777779,2.0,United States Secretary of the Air Force,145
+Q381157,0.0006058371085736,1,5,Orrin Hatch,5,0,0,Legislative,Legislators,1,False,0.6399999999999999,3.0,President pro tempore of the United States Senate,146
+Q618727,0.0006049655419638,1,4,Thomas E. Donilon,5,1,0,White House,Cabinet level and above,1,False,0.72,4.0,United States National Security Advisor,147
+Q19920980,0.0005915282748561,1,5,Linda Thomas-Greenfield,5,1,0,Diplomatic,Cabinet level and above,1,False,0.72,4.0,Assistant Secretary of State for African Affairs,148
+Q1285613,0.0005804327520216,1,4,Spencer Abraham,9,1,0,Other executive,Cabinet level and above,1,False,0.6419753086419753,3.0,United States Secretary of Energy,149
+Q62569386,0.0005758483075298,2,3,Scott D. Berrier,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.6666666666666667,3.0,Director,150
+Q130024,0.000572673663165,1,3,Johnny Isakson,4,0,0,Legislative,Legislators,1,False,0.375,2.0,United States senator,151
+Q652066,0.0005630270539665,1,3,Sheldon Whitehouse,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,152
+Q25894869,0.0005621370727453,1,8,Karen Pence,8,1,0,White House,Cabinet level and above,1,False,0.71875,4.0,Second Lady or Gentleman of the United States,153
+Q16476,0.0005618131672888,1,3,Mazie Hirono,5,0,0,Legislative,Legislators,1,False,0.5,2.0,United States senator,154
+Q3430687,0.0005584778624227,1,3,Anthony A. Williams,4,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.625,3.0,Mayor of the District of Columbia,155
+Q3176689,0.0005557658222131,1,3,Jeffrey D. Feltman,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,Assistant Secretary for Near Eastern Affairs,156
+Q22279,0.0005404670580964,1,4,Susan Collins,4,0,0,Legislative,Legislators,1,False,0.375,2.0,United States senator,157
+Q298443,0.0005404049356321,1,4,Rahm Emanuel,4,1,0,White House,Cabinet level and above,1,False,0.625,3.0,White House Chief of Staff,158
+Q462981,0.000539597834264,1,3,John Thune,4,0,0,Legislative,Legislators,1,False,0.625,3.0,United States senator,159
+Q317953,0.0005320924364826,2,4,Lawrence Summers,5,1,0,Other executive,Cabinet level and above,1,False,0.31999999999999984,2.0,United States Secretary of the Treasury,160
+Q381610,0.0005240578340768,2,3,Richard Danzig,5,1,0,Defense,Cabinet level and above,1,False,0.56,3.0,United States Secretary of the Navy,161
+Q110515281,0.0005089787356139,1,4,David S. Sedney,9,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.19753086419753085,2.0,Deputy Assistant Secretary of Defense,162
+Q21552245,0.0005022353463201,1,2,Marcelle M. Wahba,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.375,2.0,U.S. Ambassador to United Arab Emirates,163
+Q1358112,0.0005004377336157,1,6,Hugh Shelton,12,1,0,Defense,Cabinet level and above,1,False,0.5925925925925926,3.0,Chairman of the Joint Chiefs of Staff,164
+Q292936,0.0005002646432013,1,7,Ann Veneman,9,1,0,Other executive,Cabinet level and above,1,False,0.49382716049382713,3.0,United States Secretary of Agriculture,165
+Q219861,0.0004975456347934,1,5,Paul Wolfowitz,10,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.75,5.0,United States Deputy Secretary of Defense,166
+Q71725344,0.0004810870583694,1,3,Susan Pompeo,3,0,0,Diplomatic,Family of officials,0,False,0.6666666666666667,3.0,Spouse of the Secretary of State of the United States,167
+Q56871224,0.0004796224120147,1,4,David J. Nesbitt,5,0,0,Other executive,"Agency, military, diplomatic staff",0,False,0.56,3.0,(Department of Commerce),168
+Q6809043,0.0004795045114006,1,2,Meghan O'Sullivan,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.2777777777777777,2.0,Special Assistant to the President and Senior Director,169
+Q4733589,0.0004792959444599,1,4,Alma Powell,7,0,0,Diplomatic,Family of officials,0,False,0.44897959183673464,3.0,Spouse of the Secretary of State,170
+Q1677579,0.0004767491169915,1,4,Jack Lew,4,1,0,Other executive,Cabinet level and above,1,False,0.625,3.0,United States Secretary of the Treasury,171
+Q519825,0.0004689320166352,1,4,R. Nicholas Burns,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.625,3.0,Under Secretary of State for Political Affairs,172
+Q1370400,0.0004669939260996,1,4,William M. Daley,4,1,0,Other executive,Cabinet level and above,1,False,0.5,2.0,United States Secretary of Commerce,173
+Q720521,0.0004585845288309,1,5,John Barrasso,5,0,0,Legislative,Legislators,1,False,0.72,4.0,United States senator,174
+Q38858352,0.0004567277042318,1,4,Kirstjen Nielsen,6,1,0,Other executive,Cabinet level and above,1,False,0.5,3.0,United States Secretary of Homeland Security,175
+Q529294,0.0004566795933643,1,4,Chuck Grassley,4,0,0,Legislative,Legislators,1,False,0.75,4.0,United States senator,176
+Q6210158,0.0004557608155426,1,4,Joe Hagin,6,0,0,White House,"Agency, military, diplomatic staff",1,False,0.5,3.0,White House Deputy Chief of Staff,177
+Q6232322,0.0004548985866566,2,3,John F. Kelly,3,1,0,Defense,Cabinet level and above,1,False,0.6666666666666667,3.0,White House Chief of Staff,178
+Q16186345,0.0004485067422904,1,2,Hugo Llorens,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.5,2.0,Deputy Chief of Mission,179
+Q7626496,0.0004437333631306,1,2,Stuart E. Jones,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.31999999999999984,2.0,Ambassador of the United States to the Republic of Iraq,180
+Q665919,0.0004412283577898,1,3,Ted Kaufman,8,0,0,Legislative,Legislators,1,False,0.21875,2.0,United States senator,181
+Q381880,0.0004412283577898,1,3,Sherrod Brown,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,182
+Q285102,0.000439120535683,1,3,Jay Rockefeller,3,0,0,Legislative,Legislators,1,False,0.6666666666666667,3.0,United States senator,183
+Q16890597,0.0004373557156692,1,3,Natalie Jones,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.625,3.0,Deputy Chief of Protocol,184
+Q24248265,0.0004339398970115,1,4,Steven Mnuchin,8,1,0,Other executive,Cabinet level and above,1,False,0.375,2.0,United States Secretary of the Treasury,185
+Q7325834,0.0004314300594958,1,2,Richard G. Olson,7,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.48979591836734704,2.0,U.S. Ambassador to the United Arab Emirates,186
+Q6226385,0.0004249270192371,1,4,John Clifford Wallace,4,0,0,Judicial,"Agency, military, diplomatic staff",0,False,0.375,2.0,(Administrative Office of the U.S. Courts),187
+Q311211,0.0004235937470877,1,3,Timothy Geithner,4,1,0,Other executive,Cabinet level and above,1,False,0.625,3.0,United States Secretary of the Treasury,188
+Q1215367,0.000416430850152,1,2,Nancy Brinker,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,Chief of Protocol of the United States,189
+Q311025,0.0004035988493048,1,3,Henry Paulson,4,1,0,Other executive,Cabinet level and above,1,False,0.375,2.0,United States Secretary of the Treasury,190
+Q342586,0.0004001834273554,1,3,Ken Salazar,3,1,0,Legislative,Cabinet level and above,1,False,0.6666666666666667,3.0,United States senator,191
+Q5478983,0.0003978597192682,1,4,Frances Townsend,5,0,0,White House,"Agency, military, diplomatic staff",1,False,0.56,3.0,Homeland Security Advisor,192
+Q741648,0.0003957155514048,1,4,Carlos Gutierrez,4,1,0,Other executive,Cabinet level and above,1,False,0.75,4.0,United States Secretary of Commerce,193
+Q3476754,0.0003889755489824,1,2,Sean McCormack,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Assistant Secretary for Public Affairs and Spokesman,194
+Q1263846,0.0003728845748741,1,4,Elliott Abrams,7,1,0,White House,Cabinet level and above,1,False,0.24489795918367352,2.0,Deputy Assistant to the President and Deputy National Security Advisor for Global Democracy Strategy,195
+Q47492974,0.0003699864482221,1,3,Peter Lavoy,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.6666666666666667,3.0,(Department of Defense),196
+Q5218668,0.0003655769000136,1,3,Dan Sullivan,3,0,0,Legislative,Legislators,1,False,0.6666666666666667,3.0,United States senator,197
+Q1188501,0.0003624119017606,1,5,Victoria Nuland,7,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.2777777777777777,2.0,Spokesperson for the United States Department of State,198
+Q529873,0.0003533850172808,1,3,George Voinovich,4,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,199
+Q28086194,0.0003522978670227,1,4,Willie E. May,4,0,0,Other executive,"Agency, military, diplomatic staff",0,False,0.5,2.0,Director of Laboratory Programs,200
+Q6176439,0.000351679070397,1,3,Jeh Johnson,9,1,0,Other executive,Cabinet level and above,1,False,0.37037037037037035,3.0,United States Secretary of Homeland Security,201
+Q45780715,0.0003507056104879,1,4,Sean Lawler,5,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.72,4.0,Chief of Protocol,202
+Q718542,0.0003428669766501,1,3,Ben Nelson,5,0,0,Legislative,Legislators,1,False,0.6399999999999999,3.0,United States senator,203
+Q357510,0.0003381713888403,1,2,Mark Kelly,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,204
+Q7176641,0.0003327978265152,1,5,Peter Rodman,7,1,0,Defense,Cabinet level and above,0,False,0.72,4.0,Secretary of Defense International Security Affairs,205
+Q100167384,0.0003308893374771,1,3,David F. Helvey,3,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,Deputy Assistant Secretary of Defense for East Asia,206
+Q11339644,0.0003308893374771,1,3,Michael Schiffer,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Deputy Assistant Secretary of Defense (Policy) of the United States,207
+Q5234629,0.0003161592853599,1,4,David Hale,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.6399999999999999,3.0,Under Secretary of State for Political Affairs,208
+Q22360,0.0003134230738784,1,2,Lisa Murkowski,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,209
+Q4335852,0.0003048324719825,1,2,John Ordway,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.375,2.0,U.S. Ambassador to Kazakhstan,210
+Q2526622,0.0002997431396501,1,3,Vincent K. Brooks,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.6666666666666667,3.0,Deputy Commanding General (Support),211
+Q6271858,0.0002819005704137,1,2,Jonah Blank,4,0,0,Legislative,Legislators,0,False,0.4444444444444444,2.0,Policy Director of the Committtee on Foreign Relations,212
+Q721871,0.0002777124536592,1,4,Jim Risch,6,0,0,Legislative,Legislators,1,False,0.72,4.0,United States senator,213
+Q449689,0.0002760636700049,1,3,John W. Snow,3,1,0,Other executive,Cabinet level and above,1,False,0.6666666666666667,3.0,United States Secretary of the Treasury,214
+Q7328082,0.0002691784010158,1,3,Richard Norland,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.6666666666666667,3.0,United States Ambassador to Libya,215
+Q12057770,0.000258443264898,1,6,Mark P. Fitzgerald,7,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.5,3.0,(Department of the Navy),216
+Q7344228,0.0002574542825005,1,3,Robert F. Willard,5,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.31999999999999984,2.0,spouse of Vice Admiral R.F. Willard,217
+Q11607,0.0002548618120454,1,1,"Jon Huntsman, Jr.",3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,United States Ambassador to China,218
+Q7324271,0.0002548618120454,1,1,Richard Boucher,4,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,Spokesperson for the United States Department of State,219
+Q323508,0.0002530892671815,1,4,Gordon R. England,4,1,0,Defense,Cabinet level and above,1,False,0.75,4.0,United States Secretary of the Navy,220
+Q7346529,0.0002489089205018,1,2,Robert L. Caslen,9,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.19753086419753085,2.0,Commanding General,221
+Q6558280,0.0002488659989791,1,3,Lisa Monaco,5,0,0,White House,"Agency, military, diplomatic staff",1,False,0.31999999999999984,2.0,Homeland Security Advisor,222
+Q153481,0.0002460951463313,1,4,Jenna Bush Hager,4,0,0,White House,Family of officials,0,False,0.75,4.0,(White House / Executive Office of the President),223
+Q190628,0.0002460951463313,1,4,Barbara Bush,4,1,0,White House,Cabinet level and above,1,False,0.75,4.0,(White House / Executive Office of the President),224
+Q3997121,0.0002379143469235,1,2,Tracey Ann Jacobson,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,U.S. Ambassador to Turkmenistan,225
+Q1569513,0.0002365668698594,1,1,Marc Grossman,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,(Department of State),226
+Q6284856,0.0002365668698594,1,1,Joseph LeBaron,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,U.S. Ambassador to Qatar,227
+Q5087207,0.0002365668698594,1,1,Chase Untermeyer,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,US Ambassador to Qatar,228
+Q5525412,0.0002345425804211,1,2,Gary L. North,8,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.40816326530612246,2.0,Lieutenant General,229
+Q114322,0.000232254207471,1,2,Dana Perino,3,0,0,White House,"Agency, military, diplomatic staff",1,False,0.0,1.0,White House Press Secretary,230
+Q322655,0.0002320401437059,1,4,Vern Clark,5,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.6399999999999999,3.0,Chief of Naval Operations,231
+Q7348126,0.0002317670083552,2,2,Robert O. Work,3,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.5,2.0,United States Deputy Secretary of Defense,232
+Q5110742,0.0002301024584896,1,2,Christina B. Rocca,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.375,2.0,Assistant Secretary for South Asia Affairs,233
+Q2218423,0.0002238558691065,1,3,Samuel J. Locklear,4,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.375,2.0,(Department of the Navy),234
+Q5968865,0.000219231964423,1,2,William J. Lynn III,3,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,United States Deputy Secretary of Defense,235
+Q6251594,0.0002074809265186,1,3,John P. Hannah,4,0,0,White House,"Agency, military, diplomatic staff",0,False,0.625,3.0,Assistant to the Vice President for National Security Affairs,236
+Q1275851,0.0002056479717859,1,3,Scott McClellan,4,0,0,White House,"Agency, military, diplomatic staff",1,False,0.625,3.0,White House Press Secretary,237
+Q7781809,0.0002037536473023,1,1,Theodore H. Kattouf,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of State),238
+Q21061985,0.0001999291795594,1,4,Elizabeth Sherwood-Randall,4,0,0,White House,"Agency, military, diplomatic staff",1,False,0.625,3.0,Assistant to the President and Homeland Security Advisor,239
+Q116797817,0.0001965909169727,1,2,William C. Danvers,3,0,0,Legislative,Legislators,0,False,0.4444444444444444,2.0,Staff Director,240
+Q19673,0.0001918596388983,2,4,Al Gore,4,1,0,White House,Cabinet level and above,1,False,0.625,3.0,Vice President of the United States,241
+Q261147,0.0001895241339343,1,3,Barbara Mikulski,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,242
+Q328696,0.0001854791341217,1,2,Norton A. Schwartz,4,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,Chief of Staff of the United States Air Force,243
+Q967329,0.0001848727965532,1,1,Ryan Crocker,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,Ambassador to Iraq,244
+Q331719,0.0001824059058541,1,2,Bob Corker,4,0,0,Legislative,Legislators,1,False,0.375,2.0,United States senator,245
+Q6394354,0.0001814024443517,1,3,Kerri-Ann Jones,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs,246
+Q16189325,0.000179335589215,1,2,Deborah Lee James,3,1,0,Defense,Cabinet level and above,1,False,0.0,1.0,United States Secretary of the Air Force,247
+Q4706175,0.0001792304204022,1,2,Alan Bersin,5,0,0,Other executive,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Assistant Secretary for International Affairs,248
+Q19520020,0.0001777118014514,1,3,Charles W. Moore Jr.,14,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.2603550295857988,2.0,Commander,249
+Q34677188,0.0001764683691653,1,2,Ellen Lord,3,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,Under Secretary of Defense for Acquisition and Sustainment,250
+Q457432,0.0001725264200195,1,2,Tom Carper,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,251
+Q390491,0.0001604788727104,1,3,Roger Wicker,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,252
+Q14604898,0.0001600831054372,1,1,James B. Smith,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,Ambassador of the United States to the Kingdom of Saudi Arabia,253
+Q6130781,0.0001600831054372,1,1,James C. Oberwetter,6,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,U.S. Ambassador to Saudi Arabia,254
+Q5240945,0.0001600831054372,1,1,David Welch,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,Assistant Secretary of State for International Organization Affairs,255
+Q5467831,0.0001600831054372,1,1,Ford M. Fraker,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,Ambassador,256
+Q62391677,0.0001516440443841,1,2,James J. Malloy,10,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of the Navy),257
+Q16776319,0.0001499578027051,1,3,Paul J. Selva,3,1,0,Defense,Cabinet level and above,1,False,0.6666666666666667,3.0,Vice Chairman of the Joint Chiefs of Staff,258
+Q6128328,0.0001338607888433,1,3,"James A. Winnefeld, Jr.",3,1,0,Defense,Cabinet level and above,1,False,0.4444444444444444,2.0,Vice Chairman of the Joint Chiefs of Staff,259
+Q1176453,0.000129267559824,1,3,David Addington,4,0,0,White House,"Agency, military, diplomatic staff",1,False,0.375,2.0,Chief of Staff to the Vice President of the United States,260
+Q5481447,0.000128017870758,1,3,Francis J. Wiercinski,8,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.56,3.0,Deputy Commanding General,261
+Q6470875,0.0001249196968852,1,3,Lael Brainard,5,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.31999999999999984,2.0,Under Secretary for International Affairs,262
+Q6133646,0.000122535889561,1,1,James F. Holderman,5,0,0,Judicial,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Administrative Office of the U.S. Courts),263
+Q19957544,0.0001220258070292,1,2,Patrick J. Donahue II,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Commanding General of the U.S. Army Africa/Southern European Task Force,264
+Q8000233,0.0001205307836751,1,2,Wilbur Ross,4,1,0,Other executive,Cabinet level and above,1,False,0.375,2.0,United States Secretary of Commerce,265
+Q22095846,0.0001164903564253,1,2,Kevin M. Donegan,5,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of the Navy),266
+Q1110029,0.0001160904122973,1,2,Louis Freeh,22,0,0,Defense,"Agency, military, diplomatic staff",1,False,0.4628099173553719,2.0,Director of the Federal Bureau of Investigation,267
+Q46089,0.0001128117688048,1,5,Sandy Berger,7,1,0,White House,Cabinet level and above,1,False,0.44897959183673464,3.0,United States National Security Advisor,268
+Q105083028,0.0001119543026622,1,2,Marisa Lago,3,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.4444444444444444,2.0,Assistant Secretary of the Treasury for International Markets,269
+Q3036410,0.0001103041964102,1,2,Tammy Duckworth,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,270
+Q11059791,0.0001062386858016,1,4,Bruce W. Clingan,5,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.48,2.0,U.S. Navy; Commander,271
+Q7174980,0.0001056637064552,1,1,Peter Jo Messitte,3,0,0,Judicial,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Administrative Office of the U.S. Courts),272
+Q1252235,0.0001050420271809,1,1,Douglas Lute,3,1,0,White House,Cabinet level and above,1,False,0.0,1.0,Assistant to the President and Deputy National Security Advisor for Iraq and Afghanistan,273
+Q104784118,0.0001022512426934,1,2,Greta Holtz,4,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.375,2.0,Ambassador of the United States to the Sultanate of Oman,274
+Q7610773,0.0001014984319565,1,1,Stephen W. Preston,4,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,General Counsel of the Department of Defense,275
+Q65029113,9.502764997674618e-05,1,3,Doug Emhoff,4,1,0,White House,Cabinet level and above,1,False,0.375,2.0,Second Lady or Gentleman of the United States,276
+Q544464,9.144641032274048e-05,1,2,Angus King,3,0,0,Legislative,Legislators,1,False,0.4444444444444444,2.0,United States senator,277
+Q6759123,8.551041960374036e-05,1,1,Margaret Murphy,3,0,0,Legislative,Legislators,0,False,0.0,1.0,Chief of Protocol and Foreign Travel,278
+Q96051981,8.551041960374036e-05,1,1,James A. Wolfe,4,0,0,Legislative,Legislators,0,False,0.0,1.0,Director of Security,279
+Q5562495,8.24898031572993e-05,1,1,Gilmary M. Hostage III,4,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,ACC Commander,280
+Q7327901,8.175288660817938e-05,1,2,Richard Morningstar,5,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.48,2.0,United States Ambassador to the European Union,281
+Q114235908,8.133586781039041e-05,1,1,Gregory M. Wong,3,0,0,Other executive,"Agency, military, diplomatic staff",1,False,0.0,1.0,section chief,282
+Q31487683,7.418842827606246e-05,1,2,Joseph W. Rixey,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,U.S. Navy; Deputy Assistant Secretary of the Navy (International Programs)/Director,283
+Q6768014,6.960095111721455e-05,1,2,Mark Hertling,4,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.375,2.0,Commanding General,284
+Q125856406,6.905596431157418e-05,1,1,David S. Doyle,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,Deputy Commander,285
+Q126267750,6.905596431157418e-05,1,1,James L. Huggins,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,Commanding General,286
+Q4756509,6.190046579482224e-05,1,2,Andrew C. Weber,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Assistant Secretary of Defense for Nuclear,287
+Q112356599,6.096526403825053e-05,1,2,Dietrich Leibfried,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of Commerce),288
+Q3701614,5.7977402362916176e-05,1,2,Daniel Glaser,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False,0.4444444444444444,2.0,Assistant Secretary of Treasury,289
+Q1239753,5.512068147801368e-05,1,2,Donald C. Winter,3,1,0,Defense,Cabinet level and above,1,False,0.4444444444444444,2.0,United States Secretary of the Navy,290
+Q1302611,5.305974015328772e-05,1,3,Neal S. Wolin,3,1,0,Other executive,Cabinet level and above,1,False,0.4444444444444444,2.0,United States Deputy Secretary of the Treasury,291
+Q100598223,5.259068778642725e-05,1,3,Kathleen Biden,3,0,0,White House,Family of officials,0,False,0.4444444444444444,2.0,(Office of the Vice President),292
+Q4278519,5.246352831698836e-05,1,1,"John F. Mulholland, Jr.",3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,General Chief,293
+Q7328923,4.6193425717085705e-05,1,1,Richard Schmierer,3,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,U.S. Ambassador to Oman,294
+Q5524568,4.6193425717085705e-05,1,1,Gary A. Grappo,10,0,0,Diplomatic,"Agency, military, diplomatic staff",0,False,0.0,1.0,Ambassador to the Sultanate of Oman,295
+Q84766140,4.6193425717085705e-05,1,1,Leslie Tsou,8,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,United States Ambassador to Oman,296
+Q449604,4.025462402721879e-05,2,0,Michael Hayden,16,1,0,Intelligence,Cabinet level and above,1,False,,,Director of the Central Intelligence Agency,297
+Q733612,3.914024468627544e-05,1,2,Michael Chertoff,3,1,0,Other executive,Cabinet level and above,1,False,0.0,1.0,United States Secretary of Homeland Security,298
+Q8008321,3.611320695316159e-05,1,1,William E. Todd,3,0,0,Diplomatic,"Agency, military, diplomatic staff",1,False,0.0,1.0,United States Ambassador to Brunei,299
+Q19956466,3.167684320456076e-05,1,1,Robert Brooks Brown,9,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of the Army),300
+Q20707342,3.167684320456076e-05,1,1,Kevin W. Mangum,3,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of the Army),301
+Q106684221,2.9763971948081063e-05,1,1,Charles Cooper II,6,0,0,Defense,"Agency, military, diplomatic staff",0,False,0.0,1.0,(Department of the Navy),302
+Q723896,2.41487635642364e-05,1,1,Thad Cochran,3,0,0,Legislative,Legislators,1,False,0.0,1.0,United States senator,303
+Q16513104,0.0,1,0,Sara Terry,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False,,,Senior Policy Advisor,304
+Q89654398,0.0,1,0,Jane Caldwell,3,0,0,Other executive,"Agency, military, diplomatic staff",1,False,,,(Environmental Protection Agency),305
+Q201430,0.0,1,0,George Tenet,60,1,1,Intelligence,Cabinet level and above,1,False,,,Director of Central Intelligence,306
+Q1928651,0.0,1,0,Michael Morell,32,1,0,Intelligence,Cabinet level and above,1,False,,,Director of the Central Intelligence Agency,307
+Q55396361,0.0,1,0,David M. DeMarini,4,0,0,Other executive,"Agency, military, diplomatic staff",0,False,,,(Environmental Protection Agency),308
+Q28606502,0.0,1,0,Gina Haspel,11,1,0,Intelligence,Cabinet level and above,1,False,,,Director of the Central Intelligence Agency,309
+Q88201125,0.0,1,0,Timothy J Wade,3,0,0,Other executive,"Agency, military, diplomatic staff",0,False,,,Chief,310
+Q2344854,0.0,1,0,Stephen Kappes,4,1,0,Intelligence,Cabinet level and above,0,False,,,Deputy Director,311

@@ -64,8 +64,13 @@ bash analysis_revised/00_reproduce_original.sh
 /home/arpie/envs/revised/bin/python analysis_revised/01b_fetch_missing_claims.py
 /home/arpie/envs/revised/bin/python analysis_revised/01_fetch_position_metadata.py
 
-# 2-5. Build data, estimate models, draw figures, write codebook
+# 2-6. Build data, estimate models, draw figures, write codebook, build paper tables/figures,
+#      and (if MiKTeX is present) compile the paper
 bash analysis_revised/run_all.sh            # add --fetch to run step 1 as well
+
+# Paper only (after 02-03): tables/figures for Section 7 and Appendices A-B, then LaTeX
+/home/arpie/envs/revised/bin/python analysis_revised/06_paper_outputs.py
+cd paper && pdflatex gifts_living_data && bibtex gifts_living_data && pdflatex gifts_living_data && pdflatex gifts_living_data
 ```
 
 From raw data, run the original pipeline first: `download_data.py` (only for new report years) ->
@@ -105,3 +110,27 @@ The original analysis therefore reproduces exactly. Its scripts need `requests`,
   convention).
 * Singleton groups and groups whose outcome is always zero are dropped before PPML estimation.
 * Discrete-time hazards: statsmodels `Logit` with year dummies, SEs clustered by person.
+
+## Paper build (revised empirical section, 2026-11-05)
+
+* `06_paper_outputs.py` reads `data/` and `output/numbers.json` and re-estimates only the compact specifications the
+  paper reports, using the same estimators, samples, and seed as `03_models.py`:
+  * Table 7, columns 3-4: the between-person model without cabinet officials is new; the within-person version
+    matches `tab_robust_samples`;
+  * Table 9: the tie-level LPM for recurrence through the original carrier is new;
+  * Table 12: brokerage models with and without the degree control.
+* Its outputs:
+  * `output/paper/rev_tab_{position,events,continuity,movers,brokers,brokerage,network,sample}.{tex,csv}`;
+  * `rev_fig_{position_events,null}.{pdf,png,csv}`;
+  * `paper_numbers_revised.json`, with every number quoted in Section 7 and Appendices A-B.
+* Copies go to `paper/tables/rev_*.tex` and `paper/figures/rev_*.pdf` (plus `rev_fig_network_change.pdf` from
+  `output/figures/fig_network_change.pdf`). No existing paper table or figure was overwritten.
+* The numbers quoted in the prose were checked against `paper_numbers_revised.json` after the final build.
+* LaTeX: MiKTeX (Windows) `pdflatex.exe`/`bibtex.exe` at `/mnt/c/Users/arpie/AppData/Local/Programs/MiKTeX/miktex/bin/x64`;
+  output is 48 pages.
+* Remaining warnings come from the introduction and theory, not Section 7:
+  * 8 citation keys are not in `references.bib`: `barnett2004rules`, `clark2026bureaucratic`, `heinzel2022`,
+    `heinzel2025bureaucratic`, `lang2025`, `murdoch2019`, `weaver2016`, `weaver2026bringing`;
+  * pre-existing overfull boxes in the pipeline table (lines ~210-212) and Applications (~604).
+* `pymupdf` was added to the environment only to render PDF pages for visual checks. It is not used by the
+  analysis.

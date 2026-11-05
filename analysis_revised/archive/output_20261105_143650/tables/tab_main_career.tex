@@ -1,0 +1,28 @@
+% Career duration, mobility, and the extent of interaction (person-year)
+\begin{tabular}{lrrrrr}
+\toprule
+ & Gifts & Gifts & Countries & Countries & New countries \\
+\midrule
+log(1 + career length) & 0.023 &  & 0.008 &  &  \\
+ & (0.093) &  & (0.105) &  &  \\
+log(1 + tenure in current org.) & -0.411*** & -0.169* & -0.316*** & -0.161* & -0.165 \\
+ & (0.094) & (0.081) & (0.084) & (0.075) & (0.085) \\
+Prior organizations & 0.005 & 0.557*** & 0.017 & 0.497*** & 0.561*** \\
+ & (0.065) & (0.162) & (0.059) & (0.149) & (0.154) \\
+Prior cross-sector moves & 0.114 & 0.135 & 0.135* & 0.092 & 0.054 \\
+ & (0.065) & (0.303) & (0.060) & (0.254) & (0.265) \\
+Prior public/private/academic/IO moves & -0.035 & -0.034 & 0.050 & 0.054 & 0.075 \\
+ & (0.099) & (0.380) & (0.092) & (0.319) & (0.340) \\
+log(1 + prior gifts) & 0.607*** & -0.217*** & 0.532*** & -0.179*** & -0.421*** \\
+ & (0.043) & (0.054) & (0.037) & (0.052) & (0.047) \\
+Holds cabinet-level office now & 1.455*** & 2.197*** & 1.447*** & 1.825*** & 1.995*** \\
+ & (0.147) & (0.297) & (0.125) & (0.266) & (0.310) \\
+Observations & 5,610 & 5,361 & 5,610 & 5,159 & 5,150 \\
+Clusters & 548 & 465 & 548 & 447 & 446 \\
+Mean of outcome & 1.11 & 1.15 & 0.68 & 0.74 & 0.48 \\
+Estimator & Poisson PML & Poisson PML & Poisson PML & Poisson PML & Poisson PML \\
+Fixed effects & t, cur\_sector & qid, t & t, cur\_sector & qid, t & qid, t \\
+Evidence type & between & within & between & within & within \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize Poisson PML; SEs clustered by person. Sample: linked recipients with a dated Wikidata career, in years they hold a dated U.S. public position or receive a gift. All career and history measures use spells and gifts before year t. Columns 1 and 3 compare people (year and current-sector FE); columns 2, 4, 5 compare the same person over time (person and year FE); career length is omitted there because it is collinear with person and year FE. Evidence type: (1),(3) between people; (2),(4),(5) within person.}

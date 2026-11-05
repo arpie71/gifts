@@ -1,0 +1,77 @@
+qid,name,from_agency,to_agency,from_branch,to_branch,move_year,n_countries_A,gifts_B,share_B_from_CA,others_B_share_from_CA,share_B_from_GA,others_B_share_from_GA,A_after_share_from_CA,A_before_others_share_from_CA,cross_branch
+Q1124,Bill Clinton,White House / Executive Office of the President,Department of State,White House,Diplomatic,2009,56,3,1.0,0.5737704918032787,0.6666666666666666,0.04371584699453552,0.6068111455108359,0.5056360708534622,1
+Q116464,James Stavridis,Department of the Navy,U.S. European Command,Defense,Other executive,2011,3,1,0.0,,0.0,,0.0945945945945946,0.14583333333333334,1
+Q1276376,Samuel Bodman,Department of Commerce,Department of Energy,Other executive,Other executive,2005,8,13,0.07142857142857142,,0.0,,0.0,0.04,0
+Q16730147,Jake Sullivan,Department of State,Office of the Vice President,Diplomatic,White House,2013,1,1,0.0,0.0,0.0,0.0,0.037037037037037035,0.05,1
+Q19673,Al Gore,Office of the Vice President,White House / Executive Office of the President,White House,White House,2000,3,1,0.0,0.034782608695652174,0.0,0.02608695652173913,0.0,,0
+Q202350,Alberto Gonzales,White House / Executive Office of the President,Department of Justice,White House,Other executive,2006,1,1,0.0,0.0,0.0,0.0,0.02254428341384863,0.0037313432835820895,1
+Q22316,John Kerry,U.S. Senate,Department of State,Legislative,Diplomatic,2013,12,131,0.23308270676691728,0.3103448275862069,0.05263157894736842,0.0896551724137931,0.2916666666666667,0.5876288659793815,1
+Q23302985,Jonathan Finer,Department of State,White House / Executive Office of the President,Diplomatic,White House,2021,1,4,0.0,0.005917159763313609,0.0,0.0,0.02040816326530612,0.06153846153846154,1
+Q234992,Lynne Cheney,Office of the Vice President,White House / Executive Office of the President,White House,White House,2002,1,5,0.0,0.0,0.0,0.0,0.0,0.0,0
+Q235349,Jill Biden,Office of the Vice President,White House / Executive Office of the President,White House,White House,2021,11,38,0.05128205128205128,0.05970149253731343,0.02564102564102564,0.007462686567164179,0.15151515151515152,0.25,0
+Q26093,Martin Dempsey,Department of the Army,Department of Defense,Defense,Defense,2011,1,57,0.017543859649122806,0.0273224043715847,0.0,0.0,0.14705882352941177,0.7631578947368421,0
+Q262554,Margaret Spellings,White House / Executive Office of the President,Department of Education,White House,Other executive,2007,1,3,0.0,,0.0,,0.025540275049115914,0.009174311926605505,1
+Q263725,Janet Yellen,Federal Reserve Board,Department of the Treasury,Other executive,Other executive,2022,2,3,0.0,0.0,0.0,0.0,0.0,0.0,0
+Q267902,James Mattis,Department of Defense,Department of the Navy,Defense,Defense,2010,1,8,0.25,0.12941176470588237,0.125,0.07058823529411765,0.0472972972972973,0.008928571428571428,0
+Q267902,James Mattis,Department of the Navy,Department of the Army,Defense,Defense,2012,3,1,1.0,0.0,0.0,0.0,0.09090909090909091,0.15789473684210525,0
+Q267902,James Mattis,Department of the Army,U.S. Central Command,Defense,Defense,2013,1,1,0.0,0.5,0.0,0.0,0.23529411764705882,0.08,0
+Q28131687,Marcel Lettre,U.S. Senate,Department of Defense,Legislative,Defense,2016,1,2,0.0,0.0,,,0.027777777777777776,0.0,1
+Q29604456,"Kenneth F. McKenzie, Jr.",Department of the Navy,U.S. Marine Corps,Defense,Defense,2015,1,1,0.0,,0.0,,0.08,0.08333333333333333,0
+Q311269,John R. Bolton,Department of State,White House / Executive Office of the President,Diplomatic,White House,2019,1,2,0.0,0.0,0.0,0.0,0.0,0.0,1
+Q312724,Robert Zoellick,Office of the U.S. Trade Representative,Department of State,White House,Diplomatic,2005,2,1,0.0,0.05128205128205128,0.0,0.0,,,1
+Q317618,Sam Brownback,U.S. Senate,Department of State,Legislative,Diplomatic,2019,1,1,1.0,0.041666666666666664,0.0,0.0,0.0,0.0,1
+Q317953,Lawrence Summers,Department of the Treasury,White House / Executive Office of the President,Other executive,White House,2010,3,1,0.0,0.09803921568627451,0.0,0.0,0.0,0.0,1
+Q33190271,Mark T. Esper,U.S. Senate,Department of Defense,Legislative,Defense,2019,2,10,0.0,0.09090909090909091,,,0.1111111111111111,0.1388888888888889,1
+Q339046,Mark Kirk,U.S. House of Representatives,U.S. Senate,Legislative,Legislative,2011,3,1,0.5,0.25,,,0.0,0.058823529411764705,0
+Q343740,Gary Roughead,Department of the Navy,Department of Defense,Defense,Defense,2008,1,2,0.0,0.0,,,0.04,0.0,0
+Q356475,Russ Feingold,U.S. Senate,Department of State,Legislative,Diplomatic,2014,6,1,0.0,0.05263157894736842,0.0,0.013157894736842105,0.10126582278481013,0.2661290322580645,1
+Q358443,Jeff Sessions,U.S. Senate,Department of Justice,Legislative,Other executive,2017,3,3,0.0,,0.0,,0.14814814814814814,0.10126582278481013,1
+Q359442,Bernie Sanders,U.S. House of Representatives,U.S. Senate,Legislative,Legislative,2016,1,1,0.0,0.1111111111111111,,,0.0,0.041666666666666664,0
+Q3702047,Denis McDonough,U.S. Senate,White House / Executive Office of the President,Legislative,White House,2011,1,6,0.0,0.021212121212121213,,,0.016129032258064516,0.0,1
+Q381610,Richard Danzig,Department of the Navy,Department of Defense,Defense,Defense,2000,2,1,0.0,0.04950495049504951,0.0,0.0,0.2857142857142857,0.75,0
+Q381670,Chuck Hagel,U.S. Senate,Department of Defense,Legislative,Defense,2012,7,27,0.4074074074074074,0.1830065359477124,0.07407407407407407,0.013071895424836602,0.15671641791044777,0.1724137931034483,1
+Q382314,James Franklin Jeffrey,White House / Executive Office of the President,Department of State,White House,Diplomatic,2009,1,2,0.0,0.012422360248447204,0.0,0.006211180124223602,0.0030959752321981426,0.0,1
+Q4126786,Joseph Votel,U.S. Central Command,Department of the Army,Defense,Defense,2017,3,16,0.0,0.0,0.0,0.0,,0.25,0
+Q41694283,Christopher Campbell,U.S. Senate,Department of the Air Force,Legislative,Defense,2004,1,1,0.0,,,,0.007692307692307693,0.0,1
+Q4391764,Mark Welsh,Department of the Air Force,Department of Defense,Defense,Defense,2016,3,2,0.5,0.029411764705882353,0.5,0.0,0.5,0.5714285714285714,0
+Q448880,Mike Johanns,Department of Agriculture,U.S. Senate,Other executive,Legislative,2013,1,1,0.0,0.0,0.0,0.0,0.0,0.0,1
+Q47216,Condoleezza Rice,White House / Executive Office of the President,Department of State,White House,Diplomatic,2005,39,142,0.6180555555555556,0.5888888888888889,0.20833333333333334,0.17777777777777778,0.41721854304635764,0.3743119266055046,1
+Q4801814,Arturo Valenzuela,White House / Executive Office of the President,Department of State,White House,Diplomatic,2011,1,1,0.0,0.0,,,0.0,0.0,1
+Q50281264,Christopher W. Grady,Department of the Navy,Department of Defense,Defense,Defense,2022,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0
+Q503161,Michael Mullen,Department of the Navy,Department of Defense,Defense,Defense,2009,5,70,0.08450704225352113,0.08888888888888889,0.0,0.0,0.06666666666666667,0.043478260869565216,0
+Q5042478,Carlos Pascual,White House / Executive Office of the President,Department of State,White House,Diplomatic,2011,1,2,0.0,0.012578616352201259,0.0,0.0,0.007751937984496124,0.0,1
+Q5057841,Celeste A. Wallander,Department of Defense,White House / Executive Office of the President,Defense,White House,2013,1,1,0.0,0.02247191011235955,0.0,0.0,0.016,0.006756756756756757,1
+Q50612,Susan Rice,Department of State,White House / Executive Office of the President,Diplomatic,White House,2013,1,15,0.0,0.0,,,0.0,0.0,1
+Q5195882,Curtis Scaparrotti,Department of the Army,Department of Defense,Defense,Defense,2013,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0
+Q5231001,David B. Shear,Department of State,Department of Defense,Diplomatic,Defense,2014,1,4,0.25,0.0,0.0,0.0,0.015625,0.017094017094017096,1
+Q5362573,Elizabeth Cheney,Department of State,Office of the Vice President,Diplomatic,White House,2008,3,3,0.6666666666666666,0.2682926829268293,0.0,0.0,0.07883817427385892,0.17058823529411765,1
+Q5482879,Francis X. Taylor,Department of the Air Force,Department of State,Defense,Diplomatic,2004,2,1,0.0,0.0,,,0.0,0.0,1
+Q5560545,Gil Kerlikowske,Department of State,Office of National Drug Control Policy,Diplomatic,Other executive,2013,1,1,0.0,,,,0.06018518518518518,0.015384615384615385,1
+Q572954,Anthony Zinni,U.S. Marine Corps,Department of Defense,Defense,Defense,2000,2,7,0.375,0.07446808510638298,0.0,0.031914893617021274,,,0
+Q5744191,Herro Mustafa,Office of the Vice President,Department of State,White House,Diplomatic,2022,1,1,0.0,0.1111111111111111,0.0,0.0,0.0,0.0,1
+Q615356,John R. Allen,Department of the Navy,Department of Defense,Defense,Defense,2012,2,1,0.0,0.09259259259259259,0.0,0.0,0.11666666666666667,0.12280701754385964,0
+Q6177419,Jendayi Frazer,White House / Executive Office of the President,Department of State,White House,Diplomatic,2005,1,1,0.0,0.0,0.0,0.0,0.008278145695364239,0.01889763779527559,1
+Q6232322,John F. Kelly,U.S. Marine Corps,White House / Executive Office of the President,Defense,White House,2018,2,1,0.0,0.0,0.0,0.0,,0.0,1
+Q62569386,Scott D. Berrier,Department of the Army,Department of Defense,Defense,Defense,2022,1,2,0.0,0.0,,,,0.08333333333333333,0
+Q6279,Joe Biden,U.S. Senate,Office of the Vice President,Legislative,White House,2009,5,107,0.14953271028037382,0.05263157894736842,0.0,0.0,0.16666666666666666,0.26548672566371684,1
+Q6279,Joe Biden,Office of the Vice President,White House / Executive Office of the President,White House,White House,2021,49,104,0.45794392523364486,0.45454545454545453,0.14018691588785046,0.07575757575757576,0.36363636363636365,0.4583333333333333,0
+Q6282969,"Joseph F. Dunford, Jr.",U.S. Marine Corps,Department of Defense,Defense,Defense,2015,1,21,0.09523809523809523,0.11702127659574468,,,0.0,0.0,0
+Q6294,Hillary Clinton,White House / Executive Office of the President,U.S. Senate,White House,Legislative,2002,29,26,0.5769230769230769,0.1932367149758454,0.07692307692307693,0.01932367149758454,0.43553459119496857,0.40273972602739727,1
+Q6294,Hillary Clinton,U.S. Senate,Department of State,Legislative,Diplomatic,2009,13,214,0.1834862385321101,0.15346534653465346,0.022935779816513763,0.04455445544554455,0.5517241379310345,0.3611111111111111,1
+Q6446882,Kurt M. Campbell,Department of State,White House / Executive Office of the President,Diplomatic,White House,2021,2,2,0.0,0.04395604395604396,0.0,0.02197802197802198,0.02040816326530612,0.03076923076923077,1
+Q6766465,Mark A. Milley,Department of the Army,Department of Defense,Defense,Defense,2020,2,14,0.06666666666666667,0.06976744186046512,0.0,0.0,0.0,0.09375,0
+Q6768160,Mark I. Fox,White House / Executive Office of the President,Department of the Navy,White House,Defense,2011,1,7,0.0,0.0,0.0,0.0,0.007751937984496124,0.03551912568306011,1
+Q6768160,Mark I. Fox,Department of the Navy,U.S. Central Command,Defense,Defense,2014,4,2,0.5,1.0,0.0,0.6666666666666666,0.2,0.2714285714285714,0
+Q6768611,Mark Lippert,White House / Executive Office of the President,Department of Defense,White House,Defense,2013,1,1,0.0,0.0,0.0,0.0,0.05813953488372093,0.014760147601476014,1
+Q6830434,Michael Froman,White House / Executive Office of the President,Office of the U.S. Trade Representative,White House,White House,2015,2,1,0.0,,0.0,,0.02575107296137339,0.045454545454545456,0
+Q7183630,Philip H. Gordon,Department of State,White House / Executive Office of the President,Diplomatic,White House,2014,1,1,0.0,0.0,0.0,0.0,0.005208333333333333,0.030042918454935622,1
+Q723295,Ben Cardin,U.S. House of Representatives,U.S. Senate,Legislative,Legislative,2009,1,1,0.0,0.0,,,0.0,0.0,0
+Q7348126,Robert O. Work,Department of the Navy,Department of Defense,Defense,Defense,2014,1,1,0.0,0.0,0.0,0.0,0.04,0.07792207792207792,0
+Q76,Barack Obama,U.S. Senate,White House / Executive Office of the President,Legislative,White House,2009,2,468,0.027083333333333334,0.02145922746781116,0.014583333333333334,0.008583690987124463,0.21551724137931033,0.18584070796460178,1
+Q7821917,Antony Blinken,U.S. Senate,White House / Executive Office of the President,Legislative,White House,2012,3,2,0.0,0.03333333333333333,0.0,0.006666666666666667,0.12686567164179105,0.24347826086956523,1
+Q7821917,Antony Blinken,White House / Executive Office of the President,Department of State,White House,Diplomatic,2015,2,31,0.0625,0.03787878787878788,0.0,0.015151515151515152,0.012875536480686695,0.008333333333333333,1
+Q8008244,William E. Gortney,Department of the Navy,Department of Defense,Defense,Defense,2012,1,1,0.0,0.05555555555555555,0.0,0.0,0.08333333333333333,0.16666666666666666,0
+Q81254315,Alina Romanowski,Department of Defense,Department of State,Defense,Diplomatic,2009,2,2,0.0,0.011904761904761904,0.0,0.0,0.14285714285714285,0.075,1
+Q85795031,Puneet Talwar,U.S. Senate,White House / Executive Office of the President,Legislative,White House,2013,2,2,0.0,0.011363636363636364,0.0,0.0,0.010416666666666666,0.01680672268907563,1
+Q941013,Lloyd Austin,Department of the Army,U.S. Central Command,Defense,Defense,2013,1,10,0.0,0.14285714285714285,,,0.0,0.2692307692307692,0
+Q941013,Lloyd Austin,U.S. Central Command,Department of Defense,Defense,Defense,2021,7,19,0.3684210526315789,0.1111111111111111,0.05263157894736842,0.05555555555555555,,,0

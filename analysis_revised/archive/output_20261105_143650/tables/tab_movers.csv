@@ -1,0 +1,4 @@
+Comparison,Episodes,Mean (first),Mean (second),Difference,Sign-flip p
+Countries: mover vs. others at new agency,68,0.139,0.094,0.045,0.1078
+Foreign individuals: mover vs. others at new agency,55,0.036,0.025,0.01,0.6522
+Countries: old agency after vs. before the move,69,0.094,0.126,-0.031,0.0172

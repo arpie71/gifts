@@ -5,48 +5,55 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plainnat.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
+Warning--I didn't find a database entry for "barnett2004rules"
+Warning--I didn't find a database entry for "heinzel2022"
+Warning--I didn't find a database entry for "lang2025"
+Warning--I didn't find a database entry for "clark2026bureaucratic"
+Warning--I didn't find a database entry for "weaver2026bringing"
+Warning--I didn't find a database entry for "heinzel2025bureaucratic"
+Warning--I didn't find a database entry for "weaver2016"
+Warning--I didn't find a database entry for "murdoch2019"
 Warning--empty year in legislatoR
 Warning--empty year in historian
-Warning--empty year in usc7342
-You've used 40 entries,
+You've used 39 entries,
             2773 wiz_defined-function locations,
-            830 strings with 10910 characters,
-and the built_in function-call counts, 16551 in all, are:
-= -- 1521
-> -- 753
-< -- 30
-+ -- 262
-- -- 222
-* -- 1270
-:= -- 2534
-add.period$ -- 125
-call.type$ -- 40
-change.case$ -- 188
-chr.to.int$ -- 40
-cite$ -- 83
-duplicate$ -- 783
-empty$ -- 1511
-format.name$ -- 289
-if$ -- 3466
+            834 strings with 10878 characters,
+and the built_in function-call counts, 16258 in all, are:
+= -- 1496
+> -- 743
+< -- 29
++ -- 258
+- -- 219
+* -- 1257
+:= -- 2490
+add.period$ -- 122
+call.type$ -- 39
+change.case$ -- 184
+chr.to.int$ -- 39
+cite$ -- 80
+duplicate$ -- 768
+empty$ -- 1479
+format.name$ -- 285
+if$ -- 3403
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 39
-newline$ -- 213
-num.names$ -- 160
-pop$ -- 385
+newline$ -- 208
+num.names$ -- 156
+pop$ -- 371
 preamble$ -- 1
-purify$ -- 153
+purify$ -- 150
 quote$ -- 0
-skip$ -- 567
+skip$ -- 555
 stack$ -- 0
-substring$ -- 754
-swap$ -- 40
+substring$ -- 752
+swap$ -- 39
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 415
-warning$ -- 3
-while$ -- 174
+type$ -- 404
+warning$ -- 2
+while$ -- 171
 width$ -- 0
-write$ -- 528
-(There were 3 warnings)
+write$ -- 517
+(There were 10 warnings)
